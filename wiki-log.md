@@ -607,3 +607,4 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 - `00-知识地图` — 五、关键人物新增 #6 Patrick Dwyer，总数 52→53
 [2026-05-08] update | 庸俗版神经多样性 — 更正术语起源（Chapman 独创于 Critical Neurodiversity 博客 2015-2023），补充术语起源章节，细化第一波/第二波框架的出处（2025-05-03 博客文章）
 [2026-05-08] ingest | 来源: May - 2025 - Neurodiversity with Nuance.pdf — 新建 `works/May2025.md`（人格特质模型、认知连续性、批判生物多样性与少数群体类比），新建 `authors/Joshua-May.md`，更新 `01-基础/神经多样性范式.md`、`02-批判/去病理化.md`、`02-批判/残障模型.md` 添加 May2025 引用
+[2026-05-08] create | 新建 `02-批判/神经多样性与残障.md` — ND-残障核心张力全面分析：社会模式基石与局限、互动主义中间道路、少数群体 vs 人格特质模型、去病理化三层、政治脱节风险、特质导向操作化、ND 2.0 超越虚假二元；更新 `残障模型`、`残障的社会模式`、`神经多样性范式`、`神经多样性运动` 添加反向链接
