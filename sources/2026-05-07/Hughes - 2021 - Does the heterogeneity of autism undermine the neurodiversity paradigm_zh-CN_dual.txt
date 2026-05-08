@@ -1,0 +1,1884 @@
+
+--- Page 1 ---
+Bioethics. 2021;35:47–60.     |  47
+ wileyonlinelibrary.com/journal/bioe1 |  Introduction
+‘Neurodiversity’ has become a central concept in debates about the 
+rights and interests of autistic people, and the corresponding obliga -
+tions of parents and carers, practitioners, policy makers and re -
+searchers in health and social care, education, psychology and more.
+1 The idea of a neurodiversity ‘perspective’ or ‘paradigm’ has 
+been embraced by many autistic self-advocates and others who con -
+sider themselves to be their allies, and is promoted by self-advocacy organizations. It has, to differing degrees and in different ways, begun to influence more established autism charities and support groups, parents of autistic children, practitioners who work with au -
+tistic people, autism researchers, and politicians. Popular accounts such as Silberman’s NeuroTribes
+2 have brought the idea of neurodi -
+versity to a wider audience and altered public perceptions of autism.
+The idea of neurodiversity has also been a subject of fierce con -
+troversy. Some parents of autistic children and parent-led organiza -
+tions, as well as some autism researchers and some autistic people, have accused neurodiversity advocates of presenting a sanitized 
+ 1Many neurodiversity advocates prefer ‘autistic people’ and cognate terms to ‘people 
+with autism’ for reasons discussed in Section 6 below. 2Silberman, S. (2015). NeuroTribes: The legacy of autism and how to think smarter about 
+people who think differently . London, UK: Allen & Unwin. 
+Received: 30 January 2020  |  Revised: 24 April 2020  |  Accepted: 8 May 2020
+DOI: 10.1111/bioe.12780  
+ORIGINAL ARTICLE
+Does the heterogeneity of autism undermine the 
+neurodiversity paradigm?
+Jonathan A. Hughes
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in 
+any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.© 2020 The Authors. Bioethics  published by John Wiley & Sons LtdSchool of Law, Keele University, Keele, Staffordshire, United Kingdom of Great Britain and Northern Ireland
+Correspondence
+Jonathan A. Hughes, School of Law, Keele 
+University, Keele, Staffordshire ST5 5BG, 
+UK.Email: j.a.hughes@keele.ac.ukAbstract
+The neurodiversity paradigm is presented by its proponents as providing a philosoph -
+ical foundation for the activism of the neurodiversity movement. Its central claims 
+are that autism and other neurodivergent conditions are not disorders because they 
+are not intrinsically harmful, and that they are valuable, natural and/or normal parts of human neurocognitive variation. This paper: (a) identifies the non-disorder claim as 
+the most central of these, based on its prominence in the literature and connections 
+with the practical policy claims that the paradigm is supposed to support; (b) de -
+scribes the heterogeneity of autism at the behavioural and causal levels, and argues 
+that at the behavioural level this encompasses ways of being autistic that are harm -
+ful in ways that cannot be not wholly attributed to discrimination or unjust social 
+arrangements, challenging the claim that autism is not a disorder; (c) considers and 
+rejects responses to this challenge based on separation of high- and low-functioning 
+autism, separation of autism from co-occurring conditions, and viewing autism as part of an individual’s identity. Two of these responses fail for reasons that are them -
+selves connected with the behavioural and/or causal heterogeneity of autism.
+KEYWORDS
+autism, co-occurring conditions, disorder, heterogeneity, identity, neurodiversity
+生命伦理学。2021;35:47–60. |  47
+ wileyonlinelibrary.com/journal/bioe1 | 引言
+‘神经多样性’已成为围绕自闭症人士权利与利益，以及父母、照料
+者、从业者、政策制定者、健康与社会护理、教育、心理学等领域研
+究人员相应义务的辩论核心概念。1 神经多样性的‘视角’或‘范式’
+理念已被许多自闭症自我倡导者及其他自认为其盟友的人所接纳，并
+由自我倡导组织推广。它在不同程度上、以不同方式，开始影响更主流的自闭症慈善机构和支持团体、自闭症儿童的父母、
+与自闭症人士工作的从业者、自闭症研究人员以及政治家。诸如西尔
+伯曼的《神经部落》2 等流行著作已将神经多样性的理念带给更广泛
+的受众，并改变了公众对自闭症的认知。
+神经多样性的理念也一直是激烈争议的主题。一些自闭症儿童的
+家长及家长领导的组织，以及一些自闭症研究者和自闭症人士，指责
+神经多样性倡导者呈现了一种被美化的
+1许多神经多样性倡导者更倾向于使用‘自闭症人士’及相关术语，而非‘患有自闭症的
+人’，具体原因将在下文第6节讨论。2Silberman, S. (2015). 神经部落：自闭症的遗产与如何更明智地看待思维方式不同的人.
+英国伦敦：Allen&Unwin出版社。收稿日期：1月30日2020 | 修订日期：4月24日2020 | 接受日期：2020年5月8日
+DOI:10.1111/bioe.12780
+原创文章
+自闭症的异质性是否削弱了神经多样性范式？
+乔纳森·A·休斯
+本文是基于知识共享署名‑非商业性使用‑禁止演绎许可协议发布的开放获取文章。该协议允许在任何媒介上使用和分发本作品，前提是原作被正确引用，使用方式
+为非商业性，且不得进行任何修改或改编。©2020作者。生命伦理学由JohnWiley&SonsLtd出版基尔大学法学院，基尔，斯塔福德郡，
+大不列颠及北爱尔兰联合王国
+通讯作者
+JonathanA.Hughes，基尔大学法学院，
+基尔，斯塔福德郡ST55BG，
+UK.
+邮箱：j.a.hughes@keele.ac.uk摘要
+神经多样性范式的支持者将其视为神经多样性运动行动主义的哲学基础。其核心主张
+是：自闭症及其他神经分化状态并非障碍，因为它们本质上并无害处；并且它们是宝
+贵、自然和/或正常的人类神经认知变异的一部分。本文：(a)基于其在文献中的突出
+地位及其与范式旨在支持的实际政策主张的关联，将“非障碍”主张确定为其中最核
+心的一点；(b)描述了行为层面和因果层面的自闭症异质性，并论证在行为层面，这
+种异质性包含了那些其危害性无法完全归因于歧视或不公正社会安排的自闭症存在方
+式，从而对“自闭症不是障碍”的主张提出了挑战；(c)考量并驳斥了基于以下思路
+的回应：区分高功能与低功能自闭症、区分自闭症与其共病状态、以及将自闭症视为
+个体身份的一部分。这些回应中有两点之所以失败，其本身也与自闭症在行为和/或因
+果层面的异质性有关。
+关键词
+自闭症、共病、障碍、异质性、身份认同、神经多样性
+
+--- Page 2 ---
+48  |    
+HUGHES
+view of what autism can be like and deflecting attention and re -
+sources away from the struggles of more severely affected individ -
+uals and their families.
+Although ethical and policy issues related to autism have at -
+tracted significant attention from academic bioethicists and philoso-
+phers in recent years, relatively little of this has focused on the idea of neurodiversity itself.
+3 It might be supposed that this relative lack 
+of attention reflects doubts about the value of the concept and its ability to elucidate or ground ethical or political claims. Dismissing the topic on these grounds would, however, be mistaken. At the very least the neurodiversity perspective offers a corrective to the histor -
+ical dominance of medical approaches to autism, opening up other ways of thinking about the interests and rights of autistic people.
+The term ‘neurodiversity’ is used in various ways. It can refer to 
+the basic fact of human neurological variation (in much the same way that ‘biodiversity’ refers to the fact of biological variation within an ecosystem), to a social movement aiming to bring about changes in the way societies view and respond to that variation (the ‘neurodiversity movement’), or to particular ways of thinking about the neurological or cognitive differences of which that di -
+versity consists. The focus of this paper is on the last of these, often referred to as the neurodiversity ‘perspective’ or ‘paradigm’ and understood as a set of claims about autism and other ‘neuro -
+divergent’ conditions, which according to its adherents ‘provides a philosophical foundation for the activism of the Neurodiversity Movement’.
+4 The paper will address one particular challenge to 
+the neurodiversity paradigm that is at the heart of the controversy referred to above.
+That challenge arises from the heterogeneity of the condition (or 
+conditions) to which the neurodiversity paradigm is supposed to apply. Autistic people vary greatly in the difficulties and strengths that the condition presents, a fact that is captured in the (now rather clichéd) saying, ‘if you’ve met one autistic person, you’ve met one autistic person’. This variability is reflected in current diagnostic cri -
+teria, which define autism as a spectrum condition encompassing a range of different presentations formerly classified as distinct condi -
+tions, in the way those criteria have changed over time, and in the plurality of theories and causal hypotheses attempting to explain autistic traits. The heterogeneity of the autism spectrum is widely recognized as posing difficulties for researchers aiming to establish its underlying causes,
+5 but it also presents a challenge for the neuro -
+diversity paradigm. The suggestion that autism is too diverse for the concept of neurodiversity to apply may seem paradoxical, but if we look beyond the terminology and consider the purportedly general propositions about autism that are asserted by at least some formu -
+lations of the neurodiversity paradigm, then we will see that the par -
+adox is only apparent.
+The challenge to the neurodiversity paradigm will be greater in -
+sofar as its claims are taken to apply not only to autism but to other neurodivergent conditions such as attention deficit hyperactivity disorder (ADHD), Tourette’s syndrome and dyslexia. However, in order to keep the arguments manageable, and reflecting the origins and preoccupations of the neurodiversity movement, the arguments of this paper will mainly focus on the application of the neurodiver -
+sity paradigm to autism.
+Section 2 examines the context and content of the neurodiver -
+sity paradigm, identifying—as far as is possible given its contested nature—its central or defining claims. Section 3 describes the het -
+erogeneity of autism and the challenge that this poses to these central claims. Sections 4 to 6 consider and reject three responses to this challenge. The article concludes that the main claims of the neurodiversity paradigm are either not true of all manifestations of autism or lack a clear meaning that is helpful to the aims of the neu -
+rodiversity movement. This does not mean that the concept of neu -
+rodiversity itself should be abandoned, or that many of the kinds of policy typically argued for by the neurodiversity movement should be abandoned. It does suggest that they should not be argued for by appeal to the mistaken claims of the neurodiversity paradigm.
+2 |  What is the neurodiversity paradigm?
+A difficulty for any discussion of the neurodiversity paradigm is that there is no consensus about what exactly it is. It was characterized above as a way of thinking about autism and other neurodivergent conditions that is associated with and informs the activism of the neurodiversity movement. But, as noted by Robert Chapman, whose defence of the paradigm will be considered below, ‘the neurodiver -
+sity movement has no leader and no textbook, the arguments and claims its proponents forward are heterogeneous’.
+6 Chapman’s solu -
+tion is to focus primarily on one account that he judges to be the ‘most nuanced’ in the literature, the account presented in a series of blog posts by the autistic activist and academic Nick Walker. However, while this may be satisfactory for a defence of the para -
+digm (which needs to show only that there is at least one plausible  3For a survey of work on ethical issues relating to autism, see Hens, K., Robeyns, I., & 
+Schaubroeck, K. (2019). The ethics of autism. Philosophy Compass, 14 (1), 1–11.
+ 4Walker, N. (2014). Neurodiversity: Some basic terms & definitions. 
+Neurocosmopolitanism: Nick Walker's notes on neurodiversity, autism, and cognitive liberty . 
+Retrieved from http://neuro  cosmo  polit  anism.com/neuro  diver  sity-some-basic  -terms  
+-defin  ition  s/. While the terms ‘perspective’ and ‘paradigm’ are both used within activist 
+and academic literature, the latter appears to have gained traction in recent activist 
+accounts, and will be used in this paper. This choice of terminology is not meant to imply any view on the aptness of the intended analogy between the neurodiversity paradigm and Kuhn’s idea of a scientific paradigm. On this, see Dwyer, P. (2018). On neurodiversity: Or, how to help people without calling them broken (Part I). Autistic scholar: Thoughts on autism, neurodiversity, and more . Retrieved from http://www.autis 
+ticsc  holar.com/on-neuro  diver  sity/; Walker, N. (2013). Throw away the master’s tools: 
+Liberating ourselves from the pathology paradigm. Neurocosmopolitanism: Nick Walker's 
+notes on neurodiversity, autism, and cognitive liberty . Retrieved from http://neuro  cosmo 
+polit  anism.com/throw  -away-the-maste  rs-tools  -liber  ating  -ourse  lves-from-the-patho  
+logy-parad  igm/ 5Fletcher-Watson, S., & Happé, F. (2019). Autism: A new introduction to psychological 
+theory and current debate . Abingdon, UK: Routledge, pp. 159–160; Waterhouse, L. H. 
+(2013). Rethinking autism: Variation and complexity . London, UK: Academic Press, pp. 3, 
+128–130.
+ 6Chapman, R. (2019). Neurodiversity theory and its discontents: Autism, schizophrenia, 
+and the social model of disability. In Ş. Tekin & R. Bluhm (Eds.), The Bloomsbury companion 
+to philosophy of psychiatry (pp. 371–389). London, UK: Bloomsbury Academic, p. 372.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+48 |
+HUGHES
+描绘了自闭症可能呈现的样子，却转移了人们的注意力和资源，使那
+些受自闭症影响更严重的个体及其家庭所面临的困境得不到关注。
+尽管近年来与自闭症相关的伦理和政策问题已引起学术生物伦理
+学家和哲学家的广泛关注，但其中相对较少的部分聚焦于神经多样性
+这一概念本身。3 人们或许会认为，这种相对缺乏关注的现象反映了
+对该概念价值及其阐明或支撑伦理或政治主张能力的怀疑。然而，基
+于这些理由而忽视该主题将是错误的。至少，神经多样性的视角为历
+史上医学方法在自闭症领域的主导地位提供了一种纠正，开辟了思考
+自闭症人士利益和权利的其他途径。
+“神经多样性”一词有多种用法。它可以指人类神经学变异的基
+本事实（类似于“生物多样性”指代生态系统中生物变异的事实），
+也可以指一场旨在改变社会看待和应对这种变异方式的社会运动（即
+“神经多样性运动”），或者指关于构成这种多样性的神经或认知差
+异的特定思考方式。本文的重点在于最后一种，常被称为神经多样性
+“视角”或“范式”，其被理解为一套关于自闭症及其他“神经分化”
+状况的主张，据其拥护者称，它“为神经多样性运动的行动主义提供
+了哲学基础”。4 本文将探讨针对神经多样性范式的一个特定挑战，
+该挑战正是上述争议的核心。
+这一挑战源于神经多样性范式所适用的病症（或多种病症）的异
+质性。自闭症患者在病情带来的困难与优势方面差异巨大，这一事实
+体现在（如今已颇为陈腐的）说法中：‘若你见过一位自闭症人士，
+那你只见过一位自闭症人士’。这种多样性体现在当前的诊断标准中——
+这些标准将自闭定义为一种谱系病症，涵盖了过去被归类为不同病症
+的一系列不同表现；也体现在这些标准随时间的演变中；还体现在试
+图解释自闭症特征的众多理论和因果假说中。自闭症谱系的异质性被
+广泛认为给旨在探究其根本原因的研究人员带来了困难，5 但它同样对神
+经多样性范式构成了挑战。认为自闭症过于多样以致神经多样性的概
+念无法适用的观点可能看似矛盾，但如果我们超越术语本身，审视神
+经多样性范式的至少某些表述所主张的、关于自闭症的
+purportedly普遍命题，便会发现这种矛盾仅是表象。
+当神经多样性范式的适用范围被认为不仅限于自闭症，还涵盖其
+他神经多样性状况（如注意力缺陷多动障碍（ADHD）、图雷特综合
+征和阅读障碍）时，其面临的挑战将更为严峻。然而，为了使论证易
+于处理，并反映神经多样性运动的起源和关注点，本文的论证将主要
+聚焦于神经多样性范式在自闭症领域的应用。
+第2节审视了神经多样性范式的背景与内容，在其充满争议的性
+质所允许的范围内，尽可能厘清其核心或定义性主张。第3节描述了
+自闭症的异质性，以及这对上述核心主张构成的挑战。第4至6节探讨
+并反驳了应对这一挑战的三种回应。本文的结论是：神经多样性范式
+的主要主张，要么并不适用于所有自闭症表现，要么缺乏对神经多样
+性运动目标有益的清晰含义。这并不意味着应放弃神经多样性这一概
+念本身，或放弃神经多样性运动通常倡导的诸多政策类型。但它确实
+表明，我们不应再依据神经多样性范式的错误主张来为之辩护。
+2 | 什么是神经多样性范式？
+神经多样性范式讨论的一个难点在于，对于它究竟是什么并没有共识。
+上文将其描述为一种思考自闭症及其他神经多样性状况的方式，这种
+方式与神经多样性运动的行动主义相关联并为其提供信息。但是，正
+如罗伯特·查普曼所指出的——他对该范式的辩护将在下文探讨——
+‘神经多样性运动没有领袖，也没有教科书，其支持者提出的论点和
+主张是多样化的’。6 查普曼的解决方案是主要聚焦于他认为文献中
+‘最细致入微’的一种阐述，即自闭症活动家兼学者尼克·沃克在一系
+列博客文章中提出的阐述。然而，尽管这对于范式的辩护（只需要证
+明至少存在一种合理的3关于自闭症相关伦理问题的研究综述，参见Hens,K.,Robeyns,I.,&Schaubroeck,
+K.(2019).Theethicsofautism.Philosophy Compass, 14(1),1–11.4Walker,N.(2014).
+Neurodiversity:Somebasicterms&definitions.Neurocosmopolitanism: Nick 
+Walker's notes on neurodiversity, autism, and cognitive liberty.检索自http://neurocosmo
+politanism.com/neurodiversity‑some‑basic‑terms‑definitions/.尽管“视角”和
+“范式”这两个术语在行动主义和学术文献中均有使用，但后者在近期的行动主义论述中似
+乎更受青睐，本文也将采用此术语。这一术语选择并不意味着对神经多样性范式与库恩的科
+学范式概念之间类比恰当性的任何看法。关于此点，参见Dwyer,P.(2018).On
+neurodiversity:Or,howtohelppeoplewithoutcallingthembroken(PartI).
+Autisticscholar: Thoughts on autism, neurodiversity, and more.检索自http://www.autis
+ticscholar.com/on‑neurodiversity/;Walker,N.(2013).Throwawaythemaster’
+stools:Liberatingourselvesfromthepathologyparadigm.Neurocosmopolitanism: 
+Nick Walker'snotes on neurodiversity, autism, and cognitive liberty.检索自http://neuro
+cosmopolitanism.com/throw‑away‑the‑masters‑tools‑liberating‑ourse
+lves‑from‑the‑pathology‑paradigm/ 5Fletcher-Watson, S., & Happé, F. (2019). Autism: A new introduction to psychological 
+theory and current debate. Abingdon, UK: Routledge, pp. 159–160; Waterhouse, L. H. 
+(2013). Rethinking autism: Variation and complexity. London, UK: Academic Press, pp. 3, 
+128–130.
+ 6Chapman, R. (2019). Neurodiversity theory and its discontents: Autism, schizophrenia, 
+and the social model of disability. In Ş. Tekin & R. Bluhm (Eds.), The Bloomsbury companion 
+to philosophy of psychiatry (pp. 371–389). London, UK: Bloomsbury Academic, p. 372.
+
+--- Page 3 ---
+    |  49
+HUGHES
+interpretation of it), a more critical account will be vulnerable to the 
+charge of setting up a straw man, and therefore requires its identifi -
+cation of the core claims of the paradigm to be rooted in a somewhat broader range of literature. In this section I will consider three claims that occupy an important place in both activist and academic ac -
+counts: that autism is not a disorder, that it is a valuable part of human variation, and that it is ‘natural’ or ‘normal’. Of these I will suggest that the first is most central.
+2.1  | Not a disorder
+The coining of the term ‘neurodiversity’ is usually credited to Judith Singer, an autistic scholar, who in 1999 described ‘a politics of neuro -
+logical diversity, or neurodiversity’, in which ‘[t]he "neurologically dif -
+ferent" represent a new addition to the familiar political categories of class/gender/race and will augment the insights of the social model of disability’.
+7 Singer was giving systematic expression to a view that she 
+saw emerging in online autistic communities, in which electronic text-based communication had enabled autistic people to share experi -
+ences and ideas without the difficulties that many of them experienced with face-to-face communication.
+8 Although the notion of neurodi -
+versity that Singer found in those communities was, as expressed by the founder of the InLv email list in which her research was con -
+ducted, ‘different from the "neurodiversity paradigm" that many con -
+temporary activists subscribe to’,
+9 elements of the latter, including 
+what I shall call the non-disorder claim, can be found in Singer’s ac -
+count. These include resistance to the characterization of autism as primarily a set of ‘deficits’ or ‘impairments’,
+10 insistence that the prob -
+lems faced by autistic people, although related to differences in ‘brain wiring’, are ‘exacerbated by the effects of social invalidation’,
+11 and a 
+set of practical objectives focused on recognition, rights and service provision rather than medical interventions.
+12
+While Singer does not explicitly deny that autism is a disorder, 
+those who do make this claim often do so with reference to analogies with other social movements and identities similar to those that she drew. For example, Walker’s account of the neurodiversity paradigm claims that ‘autistics are a minority group, no more intrinsically "disor -
+dered" than any ethnic minority’.
+13 Jaarsma and Welin argue that, for 
+the same reasons that homosexuality was declassified as a psychiatric disorder, autism (at least in its ‘high-functioning’ forms) ‘should neither be regarded as a disorder or a disability nor as an undesirable condi -
+tion per se’.
+14 Ortega refers to neurodiversity advocates who believe 
+that being autistic is like being gay, black or left-handed, in that ‘none are pathological conditions, only ways of being’.
+15 The reasoning im -
+plied by such analogies is that, as with homosexuality or membership of an ethnic minority, the only harm or disadvantage associated with autism is that which results from discrimination, and since a disorder is harmful by definition, autism cannot be a disorder.
+16
+The non-disorder claim is also reflected at the level of policy and 
+practice. Advocates of the neurodiversity perspective typically fa -
+vour interventions that remove social and environmental obstacles to the flourishing of autistic people, while opposing medical and be -
+havioural interventions that aim to ‘cure’ autism or ‘normalize’ autis -
+tic behaviour, screening to prevent autistic people from coming into existence, and research (e.g. into genetic markers for autism) that could facilitate these ends.
+17 Opposition to such interventions is 
+linked to the idea that interventions aimed at curing or preventing a condition are only appropriate where that condition is a disorder or disease, and are unnecessary for conditions that are not intrinsically harmful. This is also expressed in more rhetorical language, for ex -
+ample ‘regarding autistic individuals as fully persons rather than as broken beings in need of repair’.
+18
+ 7Singer, J. (1999). Why can’t you be normal for once in your life? From a problem with no 
+name to the emergence of a new category of difference. In M. Corker & S. French (Eds.), 
+Disability discourse  (pp. 59–70). Buckingham, UK: Open University Press, p. 64. This 
+article drew on her master’s dissertation, republished as Singer, J. (2017). NeuroDiversity: The birth of an idea . Although Singer may have been the first to write about 
+neurodiversity in an academic context and to express its meaning in this way, the term (along with related terms such as ‘neurotypical’) was already in circulation within the emerging online communities of autistics described in Blume, H. (1998). Neurodiversity. The Atlantic . Retrieved from http://www.theat  lantic.com/magaz  ine/archi  ve/1998/09/
+neuro  diver  sity/30590  9/
+ 
+8Singer (1999) op. cit. note 7, p. 65; Singer (2017), op. cit. note 7, p. 53; Blume, op. cit. 
+note 7; Blume, H. (1997). Autism & the internet or it’s the wiring, stupid. Media in 
+transition, Massachusetts Institute of Technology . Retrieved from http://web.mit.
+edu/m-i-t/artic  les/index_blume.html
+ 9Dekker, M. (2020). From exclusion to acceptance: Independent living on the autistic 
+spectrum. In S. K. Kapp (Ed.), Autistic community and the neurodiversity movement: Stories from the frontline  (pp. 41–49). Palgrave Macmillan, p. 47. https://libra  ry.oapen.org/bitst 
+ream/handl  e/20.500.12657  /23177  /10069  76.pdf
+ 
+10Singer (2017), op. cit. note 7, pp. 31–32.
+ 11Ibid: 60.
+ 12Ibid: 55–57. 13Walker (2013), op. cit. note 4.
+ 14Jaarsma, P., & Welin, S. (2012). Autism as a natural human variation: Reflections on the 
+claims of the neurodiversity movement. Health Care Analysis , 20(1), 20–30, pp. 20, 22. 
+These authors’ defence of a ‘narrow’ neurodiversity that applies only to high functioning 
+autism will be considered below.
+ 15Ortega, F. (2009). The cerebral subject and the challenge of neurodiversity. 
+BioSocieties, 4 (4), 425–445, p. 432.
+ 16See, for example, Jerome Wakefield’s influential account of disorder as harmful 
+dysfunction, recently defended in Wakefield, J. C., & Conrad, J. A. (2019). Does the harm 
+component of the harmful dysfunction analysis need rethinking?: Reply to Powell and Scarffe. Journal of Medical Ethics, 45 (9), 594–596.
+ 
+17Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, 
+or both? Autism and neurodiversity. Developmental Psychology, 49 (1), 59–71, p. 60; 
+Bagatell, N. (2010). From cure to community: Transforming notions of autism. Ethos, 38(1), 33–55, p. 44; Ortega, op. cit. note 15, pp. 426, 432. There are, it should be noted, 
+many purported treatments for autism that are ineffective and/or demonstrably dangerous, and which there is therefore good reason to oppose irrespective of one’s stance on ‘cure’ and ‘normalization’. However, it is not only because of these risks that such treatments are opposed. For example, applied behavioural analysis (a form of intervention that involves rewarding performance of desired behaviours or skills and—sometimes—punishing undesired ones) is attacked not only for its questionable evidential basis and use of punitive ‘aversives’, but for repressing natural modes of expression and focusing too strongly on normalization; see Kapp et al., op. cit. note 17, p. 60; Ortega, op. cit. note 15, p. 429.
+ 
+18Anderson, J. L. (2013). A dash of autism. In J. L. Anderson & S. Cushing (Eds.), The 
+philosophy of autism (pp. 109–142). Plymouth, UK: Rowman & Littlefield, p. 127. Such 
+language can be described as rhetorical because the converse claims are neither generally asserted by opponents of the neurodiversity paradigm nor do they follow from the statement that someone has a disorder or disease. Calling a person ‘broken’ would widely be considered unwarranted even in virtue of a condition acknowledged to be a disease or disorder. This is not to diminish the fact that some scientists and philosophers have discussed autism in ways that does call into question autistics’ personhood, or membership of the moral community; but it is misleading to conflate this with the question of whether autism is a disorder.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 49
+HUGHES
+阐述）来说可能是令人满意的，但一个更具批判性的论述则容易受到
+设立稻草人靶子的指责，因此，它要求其对范式核心主张的认定必须
+植根于更广泛的文献范围。在本节中，我将探讨在行动主义和学术论
+述中都占据重要地位的三个主张：自闭症不是一种障碍，它是人类多
+样性的有价值的一部分，以及它是‘自然的’或‘正常的’。其中，
+我认为第一个主张最为核心。
+2.1 | 并非障碍
+“神经多样性”这一术语的创造通常归功于自闭症学者朱迪思·辛格，
+她在1999年描述了一种“神经多样性政治”，其中“[神]经层面‘与
+众不同’的群体，成为了熟悉的阶级/性别/种族政治类别之外的新成
+员，并将增强残疾社会模式的见解”。7 辛格系统性地表达了一种她
+在线上的自闭症社群中看到的正在兴起的观点，在那里，基于电子文
+本的交流使自闭症人士能够分享经8 验和想法，而无需面对许多人在
+面对面交流中遇到的困难。尽管辛格在这些社群中发现的神经多样性
+概念——正如她进行研究的InLv电子邮件列表创始人所表述的那样——
+‘不同于许多当代活动家所信奉的“神经多样性范式”’，9 但后者
+的要素，包括我称之为“非障碍主张”的观点，在辛格的论述中已可
+见端倪。这些要素包括：抵制将自闭症主要描述为一套“缺陷”或
+“损伤”；10 坚持认为自闭症人士面临的问题虽然与“大脑布线”的
+差异有关，但“因社会性否定而加剧”；11 以及一套侧重于认可、权
+利与服务提供而非医疗干预的实践目标。12
+虽然辛格并未明确否认自闭症是一种障碍，但那些提出此主张的
+人通常借鉴她所援引的其他社会运动和身份认同的类比。例如，沃克对神经多样性范式的阐述声称，‘自闭症者是一个少数群
+体，其内在并不比任何少数族裔更“紊乱”。’13 亚尔斯马和韦林认
+为，基于同性恋被从精神疾病分类中移除的相同理由，自闭症（至少
+在其‘高功能’形式上）‘既不应被视为一种障碍或残疾，也不应被
+视为本质上不良的状况。’14 奥尔特加提及神经多样性倡导者，他们
+认为身为自闭症者如同是同性恋者、黑人或左撇子一样，因为‘这些
+都不是病理状态，只是不同的存在方式。’15 此类类比所隐含的推理
+是：正如同性恋或属于某个少数族裔一样，与自闭症相关的唯一伤害
+或不利都源于歧视，而既然障碍在定义上就是有害的，那么自闭症就
+不能算是一种障碍。16
+关于自闭症并非障碍的主张，也体现在政策与实践层面。神经多
+样性视角的支持者通常倾向于采取那些消除阻碍自闭症人士蓬勃发展
+的社会与环境障碍的干预措施，同时反对旨在‘治愈’自闭症或‘使
+自闭症行为正常化’的医学与行为干预、阻止自闭症人士出生的筛查，
+以及可能促成这些目标的研究（例如针对自闭症遗传标记的研究）。
+17 反对此类干预措施，与以下观点相关：旨在治愈或预防某种状况的
+干预措施，仅在该状况属于障碍或疾病时才是恰当的；而对于本质上
+并无害处的状况，则无此必要。这一点也以更具修辞性的语言表达出
+来，例如‘将自闭症个体视为完整的人，而非需要修复的残缺存在’。
+18
+ 7Singer, J. (1999). Why can’t you be normal for once in your life? From a problem with no 
+name to the emergence of a new category of difference. In M. Corker & S. French (Eds.), 
+Disability discourse (pp. 59–70). Buckingham, UK: Open University Press, p. 64. This 
+article drew on her master’s dissertation, republished as Singer, J. (2017). NeuroDiversity: 
+The birth of an idea. Although Singer may have been the first to write about 
+neurodiversity in an academic context and to express its meaning in this way, the term 
+(along with related terms such as ‘neurotypical’) was already in circulation within the 
+emerging online communities of autistics described in Blume, H. (1998). Neurodiversity. 
+The Atlantic. Retrieved from http://www.theat lantic.com/magaz ine/archi ve/1998/09/
+neuro diver sity/30590 9/
+ 8Singer (1999) op. cit. note 7, p. 65; Singer (2017), op. cit. note 7, p. 53; Blume, op. cit. 
+note 7; Blume, H. (1997). Autism & the internet or it’s the wiring, stupid. Media in 
+transition, Massachusetts Institute of Technology. Retrieved from http://web.mit.
+edu/m-i-t/artic les/index_blume.html
+ 9Dekker, M. (2020). From exclusion to acceptance: Independent living on the autistic 
+spectrum. In S. K. Kapp (Ed.), Autistic community and the neurodiversity movement: Stories 
+from the frontline (pp. 41–49). Palgrave Macmillan, p. 47. https://libra ry.oapen.org/bitst 
+ream/handl e/20.500.12657 /23177 /10069 76.pdf
+10辛格（2017），同前注7，第31–32页。
+11同上：第60页。
+12同上：第55–57页。 13Walker (2013), op. cit. note 4.
+ 14Jaarsma, P., & Welin, S. (2012). Autism as a natural human variation: Reflections on the 
+claims of the neurodiversity movement. Health Care Analysis, 20(1), 20–30, pp. 20, 22. 
+These authors’ defence of a ‘narrow’ neurodiversity that applies only to high functioning 
+autism will be considered below.
+ 15Ortega, F. (2009). The cerebral subject and the challenge of neurodiversity. 
+BioSocieties, 4(4), 425–445, p. 432.
+ 16See, for example, Jerome Wakefield’s influential account of disorder as harmful 
+dysfunction, recently defended in Wakefield, J. C., & Conrad, J. A. (2019). Does the harm 
+component of the harmful dysfunction analysis need rethinking?: Reply to Powell and 
+Scarffe. Journal of Medical Ethics, 45(9), 594–596.
+ 17Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2013). Deficit, difference, 
+or both? Autism and neurodiversity. Developmental Psychology, 49(1), 59–71, p. 60; 
+Bagatell, N. (2010). From cure to community: Transforming notions of autism. Ethos, 
+38(1), 33–55, p. 44; Ortega, op. cit. note 15, pp. 426, 432. There are, it should be noted, 
+many purported treatments for autism that are ineffective and/or demonstrably 
+dangerous, and which there is therefore good reason to oppose irrespective of one’s 
+stance on ‘cure’ and ‘normalization’. However, it is not only because of these risks that 
+such treatments are opposed. For example, applied behavioural analysis (a form of 
+intervention that involves rewarding performance of desired behaviours or skills 
+and—sometimes—punishing undesired ones) is attacked not only for its questionable 
+evidential basis and use of punitive ‘aversives’, but for repressing natural modes of 
+expression and focusing too strongly on normalization; see Kapp et al., op. cit. note 17, p. 
+60; Ortega, op. cit. note 15, p. 429.
+ 18Anderson, J. L. (2013). A dash of autism. In J. L. Anderson & S. Cushing (Eds.), The 
+philosophy of autism (pp. 109–142). Plymouth, UK: Rowman & Littlefield, p. 127. Such 
+language can be described as rhetorical because the converse claims are neither 
+generally asserted by opponents of the neurodiversity paradigm nor do they follow from 
+the statement that someone has a disorder or disease. Calling a person ‘broken’ would 
+widely be considered unwarranted even in virtue of a condition acknowledged to be a 
+disease or disorder. This is not to diminish the fact that some scientists and philosophers 
+have discussed autism in ways that does call into question autistics’ personhood, or 
+道德共同体的成员资格；但将其与自闭症是否为一种障碍的问题混为一谈，则具有
+误导性。
+
+--- Page 4 ---
+50  |    
+HUGHES
+Although these judgements about policy and practice are linked 
+to the non-disorder claim and confirm its importance within the neu -
+rodiversity paradigm, they are best viewed as putative consequences 
+of the paradigm rather than included among its defining features. One reason for this is definitional: neurodiversity advocates such as Walker use the term ‘paradigm’ (drawing, if only loosely, on Kuhn) to refer to:
+a set of fundamental assumptions or principles, a mindset or frame of reference that shapes how one thinks about and talks about a given subject. A para -
+digm shapes the ways in which one interprets infor -
+mation, and determines what sort of questions one asks and how one asks them. A paradigm is a lens through which one views reality.
+19
+The paradigm is thus seen by its advocates as distinct from the 
+wider conglomeration of views found in the neurodiversity movement, including its attitude to practical and policy issues, although providing a foundation for them.
+20 Another reason for putting some distance be -
+tween these views on practice and policy and the neurodiversity para -
+digm itself is that the former do not follow straightforwardly from the latter: questions about the appropriateness of medical or other inter -
+ventions will depend not only on whether the condition they target is a disorder, or even whether it is harmful, but also on considerations ex -
+ternal to the paradigm (and to the scope of this paper), including the effectiveness and risks of available interventions, the autonomous choices of people with the condition, the interests and rights of par -
+ents and prospective parents, societal interests, and the ethical signif -
+icance of the treatment/enhancement distinction.
+The question of whether autism is a disorder should also be dis -
+tinguished from the related question of whether it is a disability. Some authors have conflated these questions or have framed argu -
+ments about neurodiversity in terms of disability in ways that have led to accusations of misrepresenting the neurodiversity move -
+ment.
+21 It would be surprising for a movement that views itself as an 
+extension of the disability rights movement22 to deny that its mem -
+bers are disabled, but analogies drawn between autism and identities such as race, gender and sexuality, and the denial that it is a disorder, may seem to suggest such a view. The solution to this puzzle is that, like most disability rights activists, supporters of the neurodiversity paradigm understand disability in terms of the social model, according to which impairments , understood as biological or 
+psychological characteristics of individuals, only become disabling in a social context of discrimination or failure to accommodate differ -
+ence. As one of the social model’s architects put it: ‘It is not individ -
+ual limitations, of whatever kind, which are the cause of the problem but society’s failure to provide appropriate services and adequately ensure the needs of disabled people are fully taken into account in its social organisation’.
+23 The claim, then, is that autistic traits are not 
+intrinsically  disabling; autism is not a disability in itself, but only in a 
+social context where neurotypical modes of social interaction, com -
+munication and behaviour are valued above others, and where those who do not conform are discriminated against or in other ways so -
+cially disadvantaged.
+Identification of autism as a disability, in these terms, is consis -
+tent with the non-disorder claim, where a disorder is understood as an intrinsically harmful form of atypical functioning. It is worth not -
+ing, however, that the ‘social model’ has been interpreted in various ways. The strongest versions (suggested by the previous quota -
+tions from Walker and Oliver, and by the neurodiversity paradigm’s analogies with race, gender and sexuality) hold that the disadvan -
+tage associated with impairments is wholly  a result of social condi -
+tions, while differing from one another over whether those conditions are primarily a matter of infrastructure and services or of cultural representation. More nuanced accounts (sometimes dis -
+tinguished from the social model as ‘relational’ or ‘interactional’ models) view disability as resulting from the interaction of internal and contextual factors while acknowledging that the effects of the former cannot always be eliminated by changing culture and envi -
+ronment.
+24 Each of these may be true of different traits, and the 
+relative influence of individual traits and social factors may vary from case to case. A relational model, however, could recognize the importance of social factors in determining the impact of autistic traits without denying that they may sometimes be intrinsically disadvantageous.
+2.2 | Social value
+While the non-disorder claim and the social model focus on the im -
+pact of neurodivergence on the individual, a second strand of think -
+ing about neurodiversity focuses on its social value. This is sometimes expressed by comparing the value of neurodiversity for society with that of biodiversity for an ecosystem. As Chapman puts it, ‘just as biodiversity is crucial for the ecosystem to survive and flourish, so  19Walker (2013), op. cit. note 4. See also Chapman, op. cit. note 6, pp. 372–373; Dwyer, 
+P. (2018). On neurodiversity: Or, how to help people without calling them broken (Part 
+II). Autistic scholar: Thoughts on autism, neurodiversity, and more. Retrieved from http://www.autis  ticsc  holar.com/on-neuro  diver  sity-ii/
+ 
+20See the quotation corresponding to footnote 4.
+ 21Those who have framed the neurodiversity paradigm as denying that autism is a 
+disability include Jaarsma & Welin, op. cit. note 14; Baron-Cohen, S. (2002). Is Asperger syndrome necessarily viewed as a disability? Focus on Autism & Other Developmental Disabilities, 17 (3), 186-191. Critics of this framing include Bailin, A. (2019). Clearing up 
+some misconceptions about neurodiversity. Scientific American.  Retrieved from https://
+blogs.scien  tific ameri  can.com/obser  vatio ns/clear  ing-up-some-misco ncept  ions-about  
+-neuro  diver  sity/; Thinking Person’s Guide to Autism (undated, accessed April 2020). 
+Neurodiversity FAQ. Retrieved from http://www.think  ingau  tismg  uide.com/p/so-youre  
+-doing  -story  -about.html
+ 
+22Walker, N. (2016). Autism and the pathology paradigm. Neurocosmopolitanism: Nick 
+Walker's notes on neurodiversity, autism, and cognitive liberty. Retrieved from http://neuro 
+cosmo polit  anism.com/autis  m-and-the-patho logy-parad  igm/; Singer (1999), op. cit. note 
+7, p. 64, as quoted above. 23Oliver, M. (1996). Understanding disability: From theory to practice . New York, NY: St 
+Martin’s Press, p. 32.
+ 24Shakespeare, T. (2014). Disability rights and wrongs revisited . Abingdon, UK: Routledge, 
+pp. 74–76.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+50 |
+HUGHES
+尽管这些关于政策与实践的判断与‘非障碍’主张相关联，并确
+认了其在神经多样性范式中的重要性，但它们最好被视为该范式的推
+定结果，而非其定义特征的一部分。其中一个原因是定义性的：像
+Walker这样的神经多样性倡导者使用‘范式’一词（即使只是松散
+地借鉴库恩的理论）来指代：
+一套基本假设或原则，一种思维模式或参照框架，它
+塑造了人们对特定主题的思考与言说方式。范式影响
+着人们解读信息的方式，并决定了人们提出何种问题
+以及如何提出问题。范式是人们观察现实的一种透镜。
+19
+因此，其倡导者认为，该范式有别于神经多样性运动中更广泛的
+观点集合（包括其对实践与政策问题的态度），尽管它为这些观点提
+供了基础。20 在实践与政策层面的观点与神经多样性范式本身之间保
+持一定距离的另一个原因是，前者并非直接从后者推导而来：关于医
+疗或其他干预措施是否恰当的判断，不仅取决于其所针对的状况是否
+属于障碍、甚至是否具有危害性，还取决于范式之外（也超出本文讨
+论范围）的诸多考量，包括现有干预措施的有效性与风险、患者本人
+的自主选择、父母及准父母的利益与权利、社会利益，以及治疗与增
+强之间的伦理意义区分。
+自闭症是否是一种障碍的问题，也应与它是否是一种残疾的相关
+问题区分开来。一些作者将这些问题混为一谈，或者围绕残疾来构建
+关于神经多样性的论点，这种方式导致其被指责歪曲了神经多样性运
+动。21 对于一个视自身为残疾人权利运动延伸的运动而言，22 若否认
+其成员是残疾的，那将令人惊讶，但将自闭症与种族、性别和性取向等身份进行类比，并否认它是一种障碍，似乎可
+能暗示了这样一种观点。解开这个谜题的关键在于，像大多数残疾人
+权利活动家一样，神经多样性范式的支持者依据社会模式来理解残疾。
+根据该模式，损伤（被理解为个体的生物或心理特征）只有在歧视或
+未能包容差异的社会背景下才会成为残疾。正如该社会模式的一位奠
+基者所言：‘问题的根源并非个体的任何局限，而是社会未能提供适
+当的服务，以及未能确保在其社会组织中充分考虑到残疾人的需求。’
+23 因此，其主张是：自闭症特征并非本质上具有致残性；自闭症本身
+并非一种残疾，只有在一种社会背景下才会成为残疾——即神经典型
+的社会互动、沟通和行为模式被置于其他模式之上，而那些不符合这
+些模式的人会受到歧视或以其他方式处于社会不利地位。
+在这些表述中，将自闭症认定为一种残疾，与非障碍主张是一致
+的，即障碍被理解为一种本质上具有危害的非典型功能形式。然而值
+得注意的是，‘社会模式’有多种不同的解读方式。最强势的版本
+（如沃克和奥利弗之前的引文，以及神经多样性范式与种族、性别和
+性取向的类比所暗示的）认为，与损伤相关的不利处境完全是社会条
+件的结果，同时这些版本彼此之间又对条件主要是基础设施和服务问
+题，还是文化表征问题存在分歧。更为细致的论述（有时与‘社会模
+式’相区分，称为‘关系型’或‘互动型’模式）将残疾视为内在因
+素与情境因素相互作用的结果，同时承认前者的影响并非总能通过改
+变文化和环境来消除。24 这些情况可能分别适用于不同的特质，且个
+体特质与社会因素的相对影响可能因个案而异。然而，关系型模型可
+以承认社会因素在决定自闭症特质影响方面的重要性，同时并不否认
+这些特质有时可能在本质上就是不利的。
+2.2 | 社会价值
+尽管“非障碍”主张和社会模式关注神经多样性对个体的影响，但关
+于神经多样性的第二种思考脉络则聚焦于其社会价值。这有时通过将
+神经多样性对社会的价值与生物多样性对生态系统的价值进行比较来
+表达。正如查普曼所言，“正如生物多样性对生态系统的生存与繁荣
+至关重要， 19Walker (2013), op. cit. note 4. See also Chapman, op. cit. note 6, pp. 372–373; Dwyer, 
+P. (2018). On neurodiversity: Or, how to help people without calling them broken (Part 
+II). Autistic scholar: Thoughts on autism, neurodiversity, and more. Retrieved from http://
+www.autis ticsc holar.com/on-neuro diver sity-ii/
+20请参见脚注4对应的引文。
+ 21Those who have framed the neurodiversity paradigm as denying that autism is a 
+disability include Jaarsma & Welin, op. cit. note 14; Baron-Cohen, S. (2002). Is Asperger 
+syndrome necessarily viewed as a disability? Focus on Autism & Other Developmental 
+Disabilities, 17(3), 186-191. Critics of this framing include Bailin, A. (2019). Clearing up 
+some misconceptions about neurodiversity. Scientific American. Retrieved from https://
+blogs.scientificamerican.com/observations/clearing‑up‑some‑misconceptions‑about
+‑neurodiversity/；《ThinkingPerson’sGuidetoAutism》（无日期，访问于2020年4月）。
+神经多样性常见问题解答。取自http://www.thinkingautismguide.com/p/so‑youre
+‑doing‑story‑about.html
+22Walker,N.(2016).自闭症与病理范式。神经世界主义：尼克·沃克关于神经多样性、自
+闭症与认知自由的笔记。检索自http://neuro
+cosmo polit anism.com/autis m-and-the-patho logy-parad igm/; Singer (1999), op. cit. note 
+7, p. 64, as quoted above.23Oliver,M.(1996).理解残疾：从理论到实践。纽约，纽约州：圣马丁出版社，第32页。
+24Shakespeare,T.(2014).残疾权利与错误再审视。阿宾登，英国：劳特利奇出版社
+,
+第74–76页。
+
+--- Page 5 ---
+    |  51
+HUGHES
+too, according to neurodiversity proponents, is neurological diver -
+sity similarly crucial for humanity’.25 Singer asks:
+Why not propose that just as biodiversity is essential 
+to ecosystem stability, so neurodiversity may be es -
+sential for cultural stability? Why not strategically argue that the nurturing of neurodiversity gives soci -
+ety a repository of types who may come into their own under unforeseeable circumstances…
+26
+Walker similarly writes that ‘[t]o embrace the neurodiversity para -
+digm is…to accept neurodiversity as a natural, healthy, and important form of human biodiversity – a fundamental and vital characteristic of the human species, a crucial source of evolutionary and creative poten -
+tial’.
+27 In these accounts, neurological diversity appears to be valued 
+instrumentally. For Anderson, who writes as follows, the value appears to be intrinsic:
+One should regard autistic neurology as worth valu -
+ing because each neurological structure contributes to the collective variety of human neurological diver -
+sity, in much the same way that each human culture contributes to cultural diversity and each of the hun -
+dreds of human languages makes a valuable contribu -
+tion to human linguistic diversity.
+28
+Other commentators focus on the social value of particular attri -
+butes common among autistic people, including pattern-recognition, attention to detail, memory, focus, and lack of deference to conven -
+tion. Retrospectively ‘diagnosed’ historical figures such as Mozart, Newton, Einstein and Wittgenstein, and contemporaries (whether di -
+agnosed or not) such as Bill Gates, Steve Jobs, Temple Grandin and Greta Thunberg are cited as exemplifying such traits. Baron-Cohen writes that ‘[s]ociety owes a special debt to those [autistics] who have innovated in the fields of technology, music, science, medicine, math -
+ematics, history, philosophy, engineering and other systemizing fields’,
+29 while for Silberman, focusing especially on the role that autis -
+tic people have played in information technology industries, ‘autistic people are fantastically imaginative. They're excellent pattern-recog -
+nizers. If we can harness autistic intelligence, we can make tremen -
+dous advances in our society and the way we view the world.’
+30The latter approach—identifying the value of particular attri -
+butes—avoids the fallacy of inferring from the premise that a degree of diversity within a system is necessary to its survival or flourishing to the conclusion that every element within the system is similarly necessary, or that more diversity is always better.
+31 It also suggests 
+a connection between the social value claim and the non-disorder claim, as the attributes that are identified as valuable to society will in many cases also be good for the individual. These claims remain distinct, however, as there is no necessary alignment between traits beneficial to society and to the individual, and even where they do align, no guarantee that the benefits to the individual will outweigh any personal disadvantage associated with their autism.
+32 Since the 
+neurodiversity movement is primarily concerned with promoting the rights and interests of autistics and members of other neurodiver -
+gent groups, it seems plausible to say that the non-disorder claim is more central to the neurodiversity paradigm than the social value claim, and that the latter functions (as Singer indicates in the previ -
+ously quoted passage) more as a political or strategic argument for accommodation and against prevention.
+2.3 | Natural and normal
+A third claim that commonly features in academic and non-academic accounts of the neurodiversity paradigm is the claim that autism is ‘natural’ or ‘normal’, the terms often being used interchangeably. Walker claims that neurodiversity ‘is a natural and valuable form of human diversity’.
+33 Kapp et al. found that neurodiversity proponents 
+‘essentialize autism as caused by biological factors and celebrate it as a part of natural human variation’.
+34 For Robison, ‘neurodiversity is 
+the idea that neurological differences like autism and ADHD are the result of normal, natural variation in the human genome’.
+35 Jaarsma 
+and Welin identify the view that autism is a ‘natural variation among humans’ as one of two key ‘aspect[s] of the neurodiversity claim’.
+36
+One difficulty in interpreting such claims is that their apparently 
+interchangeable use of ‘natural’ and ‘normal’ conflicts with the ordi -
+nary meanings of these terms, suggesting that they are used for 
+ 25Chapman, op. cit. note 6, p. 374.
+ 26Singer (2017), op. cit. note 7, p. 67.
+ 27Walker, N. (2013). Neuro-what? Neurocosmopolitanism: Nick Walker's notes on 
+neurodiversity, autism, and cognitive liberty. Retrieved from http://neuro  cosmo  polit  anism.
+com/neuro -what/
+ 28Anderson, op. cit. note 18, p. 127.
+ 29Baron-Cohen, S. (2011). Zero degrees of empathy: A new theory of human cruelty . London, 
+UK: Allen Lane, p. 84.
+ 30Silberman quoted in Wadsworth, J. (2014). A different state of mind: embracing autism, 
+Asperger’s and intellectual diversity in Silicon Valley. Metroactive . Retrieved from http://
+www.metro  active.com/featu  res/autis m-asper  ger-intel  lectu  al-diver  sity-silic  on-valley.
+html 31Singer commits this fallacy in a recent blog post, where she writes that her coining of 
+the term ‘neurodiversity’ was inspired by environmentalists who ‘used the word 
+Biodiversity  to argue that the most stable ecosystems are those that are most diverse, 
+from which it follows that all species must be conserved’; see Singer, J. (2019). There’s a lot in a name… Diversity vs divergence. Genius Within.  Retrieved from https://www.geniu 
+swith in.co.uk/blog/there  s-a-lot-in-a-name-diver  sity-vs-diver  gence  /
+ 
+32The potential for traits to be beneficial to society but not the individual is discussed in 
+the context of gene editing in Anomaly, J., Gyngell, C., & Savulescu, J. (2020). Great minds think different: Preserving cognitive diversity in an age of gene editing. Bioethics, 34(1), 81–89. Relatedly, Garland-Thomson draws together arguments for conserving 
+disability because of its potential to shape the way we perceive and think about the world, while recognizing that these are challenged by the suffering upon which some aspects of this epistemic function depends; see Garland-Thomson, R. (2012). The case for conserving disability. Journal of Bioethical Inquiry, 9 (3), 339–355.
+ 
+33Walker (2014), op. cit. note 4.
+ 34Kapp et al., op. cit. note 17, p. 60.
+ 35Robison, J. E. (2013). What is neurodiversity? Psychology Today . Retrieved from http://
+www.psych  ology  today.com/blog/my-life-asper  gers/20131  0/what-is-neuro  diver  sity
+ 36Jaarsma & Welin, op. cit. note 14, p. 21.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 51
+HUGHES
+同样地，根据神经多样性支持者的观点，神经多样性对人类也至关重
+要”。25 辛格问道：
+为何不提出这样的观点：正如生物多样性对生态系统
+稳定至关重要，神经多样性也可能对文化稳定至关重
+要？为何不策略性地论证，培育神经多样性使社会拥
+有一个人才库，其中各类个体可能在无法预见的境况
+下崭露头角⋯⋯26
+沃克同样写道：‘[拥]抱神经多样性范式，就是⋯⋯将神经多样
+性视为一种自然、健康且重要的人类生物多样性形式——它是人类物
+种的一项根本且至关重要的特征，是进化与创造潜力的关键来源’。
+27 在这些论述中，神经多样性似乎被赋予了工具性价值。而对于安德
+森（如下文所述）而言，其价值似乎是内在的：
+我们应当珍视自闭症的神经结构，因为每一种神经结
+构都为人类神经多样性的集体丰富性做出了贡献，这
+正如每一种人类文化都为文化多样性添彩，每一种人
+类语言（数以百计）都为人类语言多样性做出了宝贵
+贡献一样。28
+其他评论者则关注自闭症人群中常见特定属性的社会价值，包括
+模式识别、注重细节、记忆力、专注力以及不拘泥于常规。被追溯性
+“诊断”的历史人物，如莫扎特、牛顿、爱因斯坦和维特根斯坦，以
+及当代人物（无论是否确诊），如比尔·盖茨、史蒂夫·乔布斯、坦普
+尔·葛兰汀和格蕾塔·通贝里，常被引为这些特质的典范。巴伦‑科恩写
+道：‘[社会]对那些在技术、音乐、科学、医学、数学、历史、哲学、
+工程学及其他系统化领域做出创新的[自闭症人士] 负有特殊恩情，’
+29 而对于西尔伯曼而言，他特别关注自闭症人士在信息技术产业中所
+扮演的角色，‘自闭症人士极具想象力。他们是卓越的模式识别者。
+如果我们能善用自闭智力，我们就能在社会进步和世界观方面取得巨
+大进展。’30后一种方法——识别特定属性的价值——避免了这样一种谬误：
+从一个系统内某种程度的多样性对其生存或繁荣是必要的前提，推断
+出该系统中的每个元素都同样必要，或者认为多样性越多总是越好。
+31 它也暗示了社会价值主张与非障碍主张之间的联系，因为被认定为
+对社会有价值的属性，在许多情况下对个体也是有益的。然而，这些
+主张仍然是不同的，因为对社会有益和对个体有益的特质之间并不存
+在必然的一致性；即使在两者一致的情况下，也无法保证对个体的益
+处会超过其自闭症所带来的任何个人不利。32 由于神经多样性运动主
+要关注促进自闭症人士及其他神经多样性群体成员的权利和利益，可
+以说，非障碍主张比社会价值主张更接近神经多样性范式的核心，而
+后者（正如辛格在前文引述段落中所指出的）更多地作为一种政治或
+战略论点，用于支持接纳和反对预防。
+2.3 | 自然与正常
+在关于神经多样性范式的学术与非学术论述中，第三个常见的观点是
+声称自闭症是‘自然的’或‘正常的’，这两个术语常被互换使用。
+沃克声称，神经多样性‘是人类多样性的一种自然且有价值的形式’。
+33 卡普等人发现，神经多样性的支持者‘将自闭症本质化为由生物因
+素引起，并视其为人类自然变异的一部分加以颂扬’。34 对于罗宾逊
+而言，‘神经多样性指的是自闭症和注意力缺陷多动障碍（ADHD）
+等神经差异是人类基因组正常、自然变异的结果这一观点’。35 雅尔
+斯马和韦林则将自闭症是‘人类之间的自然变异’这一观点，确定为
+神经多样性主张的两个关键‘方面[之一] ’。36
+解读此类主张的一个困难在于，它们对‘自然’与‘正常’看似
+可互换的使用，与这两个词的通常含义相冲突，这表明它们的使用是
+出于
+25查普曼，同前注6，第374页。26辛格（2017），同前注7，第67页。27沃克,N.(2013).
+Neuro‑what?神经世界主义：尼克·沃克关于神经多样性、自闭症与认知自由的笔记。引自
+http://neurocosmopolitanism.com/neuro‑what/28安德森，同前注18，第127页。29巴伦‑科
+恩,S.(2011).零度共情：关于人类残忍性的新理论.英国伦敦:艾伦·莱恩出版社,第84页。30西尔
+伯曼引用于沃兹沃思,J.(2014).不同的思维状态：硅谷拥抱自闭症、阿斯伯格综合征与智力多样
+性。Metroactive.引自
+h
+t
+t
+p://
+w
+w
+w.
+metroactive.com/features/autism‑asperger‑intellectual‑diversity‑silicon‑valley.html31辛格在最近的一篇博客文章中犯了这种谬误，她写道，她创造‘神经多样性’一词的灵感
+来自环保主义者，后者‘使用生物多样性一词来论证最稳定的生态系统是那些最多样化的，
+由此推论所有物种都必须得到保护’；参见Singer,J.(2019).There’salotina
+name...Diversityvsdivergence.Genius Within.Retrievedfromhttps://www.geniu
+swithin.co.uk/blog/theres‑a‑lot‑in‑a‑name‑diversity‑vs‑divergence/32关于基因编
+辑的语境中讨论了性状可能对社会有益但对个体无益的潜力，见Anomaly,J.,Gyngell,
+C.,&Savulescu,J.(2020).Greatmindsthinkdifferent:Preservingcognitive
+diversityinanageofgeneediting.Bioethics,34(1),81–89.与此相关，
+Garland‑Thomson综合了保留残疾的论点，因为残疾有潜力塑造我们感知和思考世界的方
+式，同时也承认这些论点因某些认识功能所依赖的痛苦而受到挑战；参见
+Garland‑Thomson,R.(2012).Thecaseforconservingdisability.Journal of Bioethical 
+Inquiry, 9(3),339–355.33Walker(2014),同前注4.34Kapp等人，同前注17，第60页.35
+Robison,J.E.(2013).Whatisneurodiversity?Psychology Today.Retrievedfrom
+http://www.psychologytoday.com/blog/my‑life‑aspergers/20131
+0/what‑is‑neurodiversity36Jaarsma&Welin,同前注14，第21页。
+
+--- Page 6 ---
+52  |    
+HUGHES
+rhetorical effect rather than with any precise meaning. The assertion 
+of naturalness appears to be intended to reinforce ideas about the value (or at least non-harmfulness) of autism, which, as we have seen, form part of the non-disorder and social value claims. However, as Mill famously observed, ‘nature’ is typically taken to refer either to ‘the entire system of things’ including humans and whatever they do, or to ‘things as they would be, apart from human intervention’, and in neither sense can it provide a plausible guide to what is valu -
+able or how humans should act.
+37 In the first sense, the claim that 
+autism is natural would be empty; in the second, it would exclude it having anthropogenic causes such as vaccines, pollution, or bad par -
+enting, but would not entail any judgement about its value or harm -
+fulness, or about what kinds of intervention would be justified. Alternatively, the claim that autism is a natural variation might relate to the idea of natural selection and that autistic traits have been se -
+lected for evolutionary advantage. However, this would entail only that autistic traits were functional during our evolutionary history, and not that they are beneficial either to the individual or society under current conditions.
+Jaarsma and Welin distinguish between ‘statistical’ and ‘evalua -
+tive’ normality, but offer no analysis of the latter to distinguish it from claims about harmfulness or social value. ‘Statistical normality’ refers to the frequency with which a property or characteristic oc -
+curs.
+38 On this interpretation, to say that autism is a normal variation 
+is to say that it is a common condition. Since the prevalence of au -
+tism is not a matter on which neurodiversity advocates and their op -
+ponents systematically disagree, any dispute about its statistical normality must be a disagreement about how high this figure must be to count as ‘normal’. But why should neurodiversity advocates care about what seems to be a purely semantic issue? One reason might be that the concept of disorder implies a deviation from the norm, so to assert that autism is normal is to deny that it is a disor -
+der.
+39 However, since some conditions that are generally considered 
+to be disorders (arthritis, for example) are more common, and there -
+fore more normal in the statistical sense, than autism, we must con -
+clude either that being statistically abnormal is not necessary for a characteristic to count as a disorder, or that autism is sufficiently uncommon to meet this condition. Moreover, any such frequency threshold for what can count as a disorder would seem arbitrary and disconnected from the substantive reasons that neurodiversity ad -
+vocates have for wanting to deny that autism is a disorder, which, as we have seen, are to do with questions of harmfulness and the ap -
+propriateness of intervention, not with frequency.
+There is, in addition, a tension between insistence on regard -
+ing autism as ‘normal’, in the statistical sense, and the central aim of the neurodiversity paradigm, which is to offer a way of conceptualizing and responding to states that do  differ from the 
+norm; states that are, in the terminology associated with the par -
+adigm, neurodivergent . To deny that autistic people can meaning -
+fully be described as statistically non-typical would be to obscure this focus.
+It would appear from the discussion in this section that the most 
+central component of the neurodiversity paradigm is the claim that autism (along with other neurodivergent conditions) is not a disorder. This claim is explicit in influential presentations of the paradigm, and it connects with rhetorical expressions commonly used by neurodi -
+versity advocates, their endorsement of the social model of disabil -
+ity, and their opposition to curative and preventive interventions. The non-disorder claim is best understood as denying that autism and similar conditions are intrinsically harmful or disadvantageous. The following section will examine the challenge to this claim aris -
+ing from the heterogeneity of autism. Claims about the positive social value of such conditions provide additional support for the political goals of the neurodiversity movement, potentially offering instrumental reasons for society to accommodate rather than seek to eliminate autistic traits. However, given that the neurodiversity movement is about advocacy for the rights and interests of autistics, these are better seen as supplementary political arguments rather than core elements of the paradigm. Finally, arguments from nat -
+uralness or normality are as problematic here as in other areas of ethics and are most plausibly viewed as rhetorical expressions of the aforementioned claims.
+3 |  The challenge of autism heterogeneity
+The heterogeneity of autism, understood as the wide and complex variation in its behavioural manifestations, has been increasingly recognized as a challenge to the scientific study of autism.
+40 This 
+section examines ways in which that heterogeneity also chal -
+lenges the neurodiversity paradigm as expounded in the previous section. The argument that the neurodiversity paradigm cannot satisfactorily deal with the full range of ways in which autism manifests is not new, and has been debated within activist and academic literature. The discussion here will attempt to clarify that argument and to lay the foundations for assessment of some responses to it.
+A discussion of the heterogeneity of autism needs to start from 
+some account of what autism is. Views about the essential nature of autism are controversial and have changed over time, but the near -
+est thing we have to a standard working definition is the diagnostic criteria contained in the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders (DSM-5). This, along with its World Health Organization counterpart, the International Classification of Diseases , provides the framework within 
+which clinicians diagnose autism. It also reflects a wide range of cur -
+rent scientific and clinical thinking, and maintains a broad continuity 
+ 37Mill, J. S. (1874). Three essays on religion . New York, NY: Henry Holt & Company, p. 64.
+ 38Jaarsma & Welin, op. cit. note 14, p. 24.
+ 39A defence of this requirement (albeit in relation to disability rather than disorder), as 
+well as a recognition that its application can be ‘messy’ in the context of changing human 
+capacities, is given in Glover. J. (2006). Choosing children: Genes, disability, and design . 
+Oxford, UK: Clarendon Press, pp. 10–13. For an opposing view see Savulescu, J., & Kahane, G. (2011). Disability: A welfarist approach. Clinical Ethics, 6 (1), 45–51.
+ 40See footnote 5.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+52 |
+HUGHES
+修辞效果，而非任何精确的含义。对自然性的断言似乎旨在强化关于
+自闭症价值（或至少无害性）的观念，正如我们所见，这构成了非障
+碍论与社会价值主张的一部分。然而，正如密尔著名地指出的，‘自
+然’通常被理解为要么指‘包括人类及其一切行为在内的整个事物系
+统’，要么指‘脱离人类干预的事物本然状态’。在这两种意义上，
+它都无法为‘何为有价值’或‘人类应如何行动’提供合理的指引。
+37 在第一种意义上，声称自闭症是自然的将是空洞的；在第二种意义
+上，它将排除自闭症具有人为原因（如疫苗、污染或不良教养）的可
+能性，但这并不蕴含关于其价值、危害性的判断，也不蕴含关于何种
+干预是合理的判断。或者，声称自闭症是一种自然变异，可能与自然
+选择的概念以及自闭症特质曾被选择以获取进化优势的观点相关。然
+而，这仅意味着自闭症特质在我们的进化史中曾具有功能性，并不表
+明它们在当前条件下对个人或社会有益。
+Jaarsma和Welin区分了‘统计性’常态与‘评价性’常态，
+但并未对后者进行分析以将其与关于危害性或社会价值的论断区分开
+来。‘统计性常态’指的是某一属性或特征出现的频率。38 按照这种
+解释，说自闭症是一种正常的变异，就等于说它是一种常见的状况。
+由于自闭症的患病率并非神经多样性倡导者与其反对者之间存在系统
+性分歧的问题，任何关于其统计常态性的争议，必然是对于该数字需
+要多高才能算作‘正常’的分歧。但神经多样性倡导者为何要关心这
+个看似纯语义的问题呢？一个原因可能是，障碍的概念意味着对常态
+的偏离，因此断言自闭症是正常的，就等于否认它是一种障碍。39 然
+而，由于一些通常被认为是障碍的状况（例如关节炎）比自闭症更常
+见，因此在统计意义上也更‘正常’，我们必须得出结论：要么统计
+上的异常并非一个特征被视为障碍的必要条件，要么自闭症已经罕见
+到足以满足这一条件。此外，任何关于什么能算作障碍的频率阈值似
+乎都是武断的，并且与神经多样性倡导者希望否认自闭症是障碍的实
+质性理由脱节——正如我们所见，这些理由涉及危害性问题以及干预
+的适当性，而非频率问题。
+此外，在坚持将自闭症视为统计学意义上的‘正常’与神经多样
+性范式的核心目标之间，存在着一种张力，该范式旨在提供一种概念化并回应那些确实不同于常态的状态的方式；这些状态，用与该
+范式相关的术语来说，是神经多样性的。若否认自闭症人士可以被有
+意义地描述为统计学上的非典型，将会模糊这一焦点。
+从本节的讨论来看，神经多样性范式的核心主张似乎是：自闭症
+（以及其他神经分化状态）并非一种障碍。这一主张在关于该范式有
+影响力的论述中得到了明确阐述，并且与神经多样性倡导者常用的修
+辞表达、他们对残疾社会模式的认同，以及他们对治愈性和预防性干
+预措施的反对紧密相连。非障碍主张最好被理解为否认自闭症及类似
+状况本身是有害或不利的。下一节将探讨因自闭症的异质性而对该主
+张提出的挑战。关于此类状况具有积极社会价值的说法，为神经多样
+性运动的政治目标提供了额外支持，可能为社会提供工具性理由以接
+纳而非消除自闭特质。然而，鉴于神经多样性运动旨在为自闭症人士
+的权利和利益发声，这些说法最好被视为补充性的政治论点，而非该
+范式的核心要素。最后，基于自然性或正常性的论证在此处与其他伦
+理领域一样存在问题，最合理的看法是将其视为前述主张的修辞表达。
+3 | 自闭症异质性的挑战
+自闭症的异质性，即其行为表现的广泛而复杂的差异，已日益被视为
+自闭症科学研究的一项挑战。40 本节将探讨这种异质性如何也对前一
+节阐述的神经多样性范式构成挑战。认为神经多样性范式无法令人满
+意地应对自闭症表现的全部范围的观点并非新论，在行动主义与学术
+文献中已有辩论。此处的讨论旨在澄清该论点，并为评估相关回应奠
+定基础。
+关于自闭症异质性的讨论，需要从对自闭症本质的某种界定开始。
+关于自闭症核心本质的观点一直存在争议，且随时间推移而演变，但我
+们最接近标准工作定义的是美国精神病学协会《精神障碍诊断与统计手
+册》（DSM‑5）中包含的诊断标准。该手册及其世界卫生组织的对应文
+件——《国际疾病分类》——共同构成了临床医生诊断自闭症的工作框
+架。它同时也反映了当前广泛的科学和临床思考，并保持了与历史上
+37Mill,J.S.(1874).宗教三论.NewYork,NY:HenryHolt&Company,p.64.
+38Jaarsma&Welin，同前注14，第24页。
+39关于这一要求（尽管是针对残疾而非障碍）的辩护，以及
+对其在人类能力变化背景下应用可能‘混乱’的认识，
+在Glover.J.(2006)的著作中有所阐述。《选择孩子：基因、残疾与设计》。
+牛津，英国：克拉伦登出版社，第10–13页。相反观点参见Savulescu,J.,&
+Kahane,G.(2011)。残疾：一种福利主义方法。《临床伦理学》，第6卷（第1期），第45–51页。40参见脚注5。
+
+--- Page 7 ---
+    |  53
+HUGHES
+with influential accounts of autism going back to the original descrip -
+tions by Kanner and Asperger. Thus, even if we eventually conclude 
+that some other factors are more basic to autism than the diagnostic criteria picked out by the DSM, we should expect those factors to be linked to the current criteria and to pick out many of the same indi -
+viduals as autistic.
+41
+It might be objected that defining autism in terms of the DSM 
+begs the question against the neurodiversity paradigm, since the DSM is rooted in a medical approach to the conditions it defines and has as its purpose the definition of these conditions as mental disor -
+ders. However, it is possible to draw on the DSM’s account of the traits that characterize autism as a way of provisionally fixing the scope of the condition while remaining agnostic about whether it constitutes a disorder in the sense denied by the neurodiversity par -
+adigm. A pragmatic distinction of this kind presumably lay behind the decision of the Autistic Self-advocacy Network, an organization that supports the neurodiversity paradigm, to become involved in the ne -
+gotiation process leading to the formulation of the DSM-5 criteria.
+42
+The DSM-5 diagnostic criteria accommodate a wide range of 
+ways of being autistic. Individuals diagnosed with autism spectrum disorder (ASD) must satisfy two top-level criteria: ‘[p]ersistent defi -
+cits in social communication and social interaction across multiple contexts’ and ‘[r]estricted, repetitive patterns of behaviour, inter -
+ests, or activities’ (RRBs).
+43 Each of these criteria can be satisfied in 
+different ways: the first by deficits in social and emotional reciproc -
+ity, nonverbal communication behaviour, and ability to maintain and understand relationships; the second by stereotyped or repetitive motor movements, insistence on sameness and inflexible adherence to routines or ritualized patterns of behaviour, restricted interests of abnormal intensity, and hyper- or hypo-reactivity to sensory inputs and or unusual interest in sensory aspects of the environment. While the manifestations of the first (social communication) criterion might all be related in some way to a person’s ability to read and respond to others’ states of mind, there is a big difference between, for exam -
+ple, an ‘absence of interest in peers’ and problems of reciprocity and communication leading to difficulty in maintaining desired relation -
+ships, or between having few words of intelligible speech and artic -
+ulating one’s thoughts fluently but struggling to interpret figurative language or negotiate the to-and-fro of conversation. The second (RRB) criterion can be satisfied by (among other things) the repeti -
+tive motor movements (e.g. flapping, spinning or jumping) often re-ferred to as ‘stimming’ and said by many autistics to be a way of regulating sensory overload or emotions, or by the intense ‘special interests’ that can appear as intellectual strengths for many autistics; such traits need not coincide and appear to be qualitatively quite different.
+44
+The breadth of these diagnostic criteria can also be viewed in 
+historical context. In the 1940s, Asperger, in Germany, and Kanner, in the USA, both used the term ‘autistic’ to describe children exhibit -
+ing abnormalities in social interaction and repetitive behaviours.
+45 
+Kanner’s account provided the foundation for subsequent research leading up to the inclusion of autism the third edition of the DSM in 1980.
+46 Asperger’s work, on the other hand, remained largely un -
+known in the English-speaking world until discussed by Wing in 1981.
+47 His account differed from Kanner’s in placing more emphasis 
+on the strengths of the children he described, and less on linguistic impairment, and therefore came to be associated with a ‘high func -
+tioning’ form of autism.
+48 Thus, the introduction of ‘Asperger’s 
+Disorder’ in DSM-IV (1994), as a diagnosis related to Autistic Disorder but applicable to individuals with average or higher intelli -
+gence and no language delay represented a broadening of the overall range of recognized autistic conditions. The merging of these diag -
+nostic categories into the single diagnosis of ASD in DSM-5 main -
+tained that breadth while recognizing that the distinction between them lacked explanatory significance and was not consistently ap -
+plied by diagnosticians.
+49 In DSM-5, differences in presentation are 
+to be marked not by different diagnostic labels, but by specification of the level of severity (‘requiring support’, ‘requiring substantial support’ or ‘requiring very substantial support’) for each of the two headline criteria, and the presence or absence (and if present, the nature) of intellectual impairment and language impairment.
+50 
+Specification of intellectual impairment should take account of the often-uneven intellectual profile of a child or adult with ASD and include separate estimates of verbal and nonverbal skills, while 
+ 41This is not to endorse what Waterhouse (op. cit. note 5, p. 388) calls an ‘originalist’ 
+account of autism (i.e. one that ‘returns to Kanner’s 1943 definition of autism as the 
+original and correct basis for diagnosis’) but merely to insist that in order for meaningful communication to take place there must be some continuity between successive definitions.
+ 
+42Kapp, S. K., & Ne’eman, A. (2020). Lobbying autism’s diagnostic revision in the DSM-5. 
+In S. K. Kapp (Ed.), Autistic community and the neurodiversity movement: Stories from the 
+frontline  (pp. 167–194). Palgrave Macmillan.
+ 43American Psychiatric Association. (2013). Diagnostic and statistical manual of mental 
+disorders: DSM-5 . Washington, D.C.: American Psychiatric Association, p. 50. 44See Fletcher-Watson & Happé, op. cit. note 5, p. 33; Waterhouse, op. cit. note 5, pp. 
+6–8.
+ 45Asperger, H. (1991). ‘Autistic psychopathy’ in childhood. In U. Frith (Ed.), Autism and 
+Asperger syndrome  (pp. 37–92). UK: Cambridge University Press; Kanner, L. (1943). 
+Autistic disturbances of affective contact. Nervous Child, 2 , 217–250.
+ 46On the relation between Kanner’s work and the development of the DSM diagnostic 
+criteria see Sanders, J. L. (2009). Qualitative or quantitative differences between 
+Asperger’s disorder and autism? Historical considerations. Journal of Autism and Developmental Disorders, 39 (11), 1560–1567, pp. 1560–1561.
+ 
+47Wing, L. (1981). Asperger’s syndrome: A clinical account. Psychological Medicine, 11 (1), 
+115–129.
+ 48Unlike Kanner, Asperger (op. cit. note 45, pp. 69–70) describes no cases in which 
+language is absent. He notes that the language of his subjects has an ‘unnatural’ feel and 
+is deficient in the expression of affect through volume, tone and flow. He appears to attribute this to underlying difficulties of social interaction rather than viewing it as a separate problem of communication. See also Sanders, op. cit. note 46.
+ 
+49Fletcher-Watson & Happé, op. cit. note 5, p. 32; Sanders, op. cit. note 46. This also 
+reflected much earlier findings by Wing (who coined the term ‘autistic spectrum’) and 
+Gould, that among children displaying the main features of autism, many did not fully match the descriptions given by either Kanner or Asperger, and no clear boundaries could be drawn to separate different subgroups; see Feinstein, A. (2010). A history of autism: Conversations with the pioneers . Chichester, UK: Wiley-Blackwell, p. 175; Wing, L. 
+(1993). The definition and prevalence of autism: A review. European Child and Adolescent Psychiatry, 2(1), 61–74; Wing, L., & Gould, J. (1979). Severe impairments of social interaction and associated abnormalities in children: Epidemiology and classification. Journal of Autism and Developmental Disorders, 9 (1), 11–29.
+ 
+50American Psychiatric Association, op. cit. note 43, pp. 51–52.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 53
+HUGHES
+自坎纳和阿斯伯格最初描述以来、具有影响力的自闭症论述的广泛延
+续性。因此，即使我们最终得出结论，认为某些其他因素比DSM选定
+的诊断标准更接近自闭症的本质，我们也应预期这些因素会与现行标
+准相关联，并且会将许多相同的个体识别为自闭症谱系人士。41
+或许有人会反对说，依据《精神疾病诊断与统计手册》（DSM）
+来定义自闭症，从一开始就与神经多样性范式的立场相悖，因为
+DSM根植于一种医学化的路径来界定其所述状况，且其目的正是将这
+些状况定义为精神障碍。然而，我们仍可以借鉴DSM对自闭症特征描
+述的框架，以此暂时性地划定这一状况的范围，同时对其是否构成神
+经多样性范式所否认的那种“障碍”保持不可知论。这种实用主义的
+区分，很可能正是支持神经多样性范式的组织——自闭症自我倡导网
+络——决定参与DSM‑5标准制定谈判过程背后的考量。42
+DSM‑5的诊断标准涵盖了广泛的自闭症存在方式。被诊断为自闭
+症谱系障碍（ASD）的个体必须满足两大核心标准："[p]在多种情境
+下持续存在的社会沟通和社会互动缺陷"，以及"[r]受限的、重复的行
+为模式、兴趣或活动"（RRBs）。43 每一项标准都可以通过不同的方
+式体现：前者可通过社交与情感互动缺陷、非语言沟通行为缺陷、以
+及维持和理解关系的能力缺陷来满足；后者则可通过刻板或重复的肢
+体动作、对同一性的固执坚持、对惯例或仪式化行为模式的僵化遵守、
+异常强烈的受限兴趣、以及对感官输入的反应过度或反应不足、和/
+或对环境感官方面的异常兴趣来满足。虽然第一项（社会沟通）标准
+的各种表现可能都与个体解读及回应他人心理状态的能力相关，但例
+如"对同伴缺乏兴趣"与因互动和沟通问题导致难以维持期望关系之间，
+或仅有少量可理解言语与能流畅表达思想却难以理解比喻性语言或应
+对对话中的一来一往之间，仍存在巨大差异。第二项（RRB）标准可
+通过（除其他外）重复性肢体动作（如拍手、旋转或跳跃）来满足——
+这些动作常被称为"自我刺激"，且被许多自闭症者描述为调节感官过
+载或情绪的方式；或可通过强烈的"特殊兴趣"来满足——这种兴趣对许多自闭症者而言可表现为智力优势；这
+些特质未必同时出现，且似乎在性质上截然不同。44
+这些诊断标准的广泛性亦可以从历史背景中审视。在1940年代，
+德国的阿斯伯格（Asperger）和美国的坎纳（Kanner）均使用‘自
+闭的’一词来描述在社会互动和重复行为方面表现出异常的儿童。45
+坎纳的描述为后续研究奠定了基础，最终促使自闭症被纳入1980年的
+DSM第三版。46 而阿斯伯格的研究，在温（Wing）于1981年讨论之
+前，在英语世界基本不为人知。47 他的描述与坎纳的不同之处在于，
+更强调他所描述儿童的优点，而非语言障碍，因此后来与一种‘高功
+能’形式的自闭症相关联。48 因此，DSM‑IV（1994年）引入‘阿斯
+伯格障碍’，作为一种与自闭症障碍相关但适用于智力平均水平或更
+高且无语言延迟个体的诊断，这代表了公认自闭症状况整体范围的拓
+宽。将这些诊断类别合并为DSM‑5中单一的‘自闭症谱系障碍’诊断，
+在保持这种广度的同时，也承认了它们之间的区分缺乏解释意义，且
+诊断人员并未一致应用。49 在DSM‑5中，表现差异不再通过不同的诊
+断标签来标记，而是通过对两个核心诊断标准分别指定严重程度（
+‘需要支持’、‘需要大量支持’或‘需要非常大量的支持’），以
+及说明是否存在（若存在，其性质）智力障碍和语言障碍。50智力障
+碍的说明应考虑自闭症谱系障碍儿童或成人常有的不平衡智力特征，
+并分别评估言语和非言语技能；同时，
+41这并非要赞同沃特豪斯（出处同注释5，第388页）所称的
+关于自闭症的‘原教旨主义’论述（即那种‘回归到坎纳1943年对自闭症的定义，并将其
+视为诊断的原始且正确基础’的观点），而仅仅是要坚持：为了进行有意义的交流，连续
+的定义之间必须保持某种延续性。
+42Kapp,S.K.,&Ne’eman,A.(2020).在DSM‑5中为自闭症诊断修订进行游说。
+载于S.K.Kapp(编),Autisticcommunityandtheneurodiversitymovement:Storiesfromthe
+frontline (pp. 167–194). Palgrave Macmillan.
+ 43American Psychiatric Association. (2013). Diagnostic and statistical manual of mental 
+disorders: DSM-5. Washington, D.C.: American Psychiatric Association, p. 50.44参见Fletcher‑Watson&Happé，同前注5，第33页；Waterhouse，同前注5，第
+6–8页。45Asperger,H.(1991).‘Autisticpsychopathy’inchildhood.载于U.
+Frith(编),Autism andAsperger syndrome(第37–92页).UK:CambridgeUniversity
+Press;Kanner,L.(1943).Autisticdisturbancesofaffectivecontact.Nervous Child, 
+2,217–250.46关于Kanner的研究与DSM诊断标准发展之间的关系，参见Sanders,J.
+L.(2009).QualitativeorquantitativedifferencesbetweenAsperger’sdisorder
+andautism?Historicalconsiderations.Journal of Autism andDevelopmental Disorders, 
+39(11),1560–1567,第1560–1561页。47Wing,L.(1981).Asperger’ssyndrome:A
+clinicalaccount.Psychological Medicine, 11(1),115–129.48与Kanner不同，Asperger
+（同前注45，第69–70页）没有描述任何语言完全缺失的案例。他指出其研究对象的语言
+带有‘不自然’感，且在通过音量、语调和流畅度表达情感方面存在缺陷。他似乎将此归因
+于社会互动的潜在困难，而非视其为独立的沟通问题。另见Sanders，同前注46。49
+Fletcher‑Watson&Happé，同前注5，第32页；Sanders，同前注46。这也反映了更
+早由Wing（她创造了‘自闭症谱系’一词）和Gould的发现，即在表现出自闭症主要特
+征的儿童中，许多并不完全符合Kanner或Asperger的描述，且无法划定清晰的界限来区
+分不同的亚组；参见Feinstein,A.(2010).A history ofautism: Conversations with the 
+pioneers.Chichester,UK:Wiley‑Blackwell,第175页；Wing,L.(1993).The
+definitionandprevalenceofautism:Areview.European Child and 
+AdolescentPsychiatry, 2(1),61–74;Wing,L.,&Gould,J.(1979).Severeimpairments
+ofsocialinteractionandassociatedabnormalitiesinchildren:Epidemiologyand
+classification.Journal of Autism and Developmental Disorders, 9(1),11–29.
+ 50American Psychiatric Association, op. cit. note 43, pp. 51–52.
+
+--- Page 8 ---
+54  |    
+HUGHES
+specification of language impairment should distinguish between re-
+ceptive and expressive language skills.
+It can be seen from the last two paragraphs that the DSM-5 crite -
+ria allow for a wide range of quantitatively and qualitatively different ways of being autistic. They suggest, despite the name given to the diagnostic category, that autism is not so much a ‘spectrum’ (with its connotation of a linear variation) as a multi-dimensional ‘landscape’,
+51 
+‘space’,52 or ‘constellation’.53 The challenge this poses for the neuro -
+diversity paradigm is that within this space there are people whose very significant challenges appear not to be wholly social, and to be appropriately described as disorders. As Chapman puts it, these ‘more so-called severe conditions’ are presented as ‘obviously patho -
+logical’ and therefore as evidence that the neurodiversity paradigm is flawed.
+54 This is not only of theoretical interest, since a misclassifica -
+tion of such conditions may lead to inadequate support or treatment. Some parents of autistic children complain that ‘[n]eurodiversity ad -
+vocates ignore the harsh realities of severe autism, and want to forget about my sons and others like them’.
+55 Neurodiversity advocates may 
+truthfully respond that they campaign for better support for all autis -
+tics, not only the more able, but here we must attend to the distinc -
+tion between the neurodiversity movement and the neurodiversity paradigm. Even if activists within the movement campaign for all au -
+tistics, it may be that views to which many of them subscribe—that autism is not a disorder and that the associated disadvantage is so -
+cially caused and is best addressed by social rather than medical means—are unhelpful to some of the most profoundly affected.
+The key question for assessing the neurodiversity paradigm, 
+given the analysis in the previous section, is whether denial of the intrinsic harmfulness of autism is plausible across this varied land -
+scape.
+56 Some differences in a person’s manner of communication 
+and social interaction need not be disabling at all in the absence of discriminatory attitudes (for example, the assumption that unusual patterns of speech indicate low intelligence or that lack of eye contact indicates lack of interest). This also applies to repetitive physical behaviours that may cease to be disconcerting to others if correctly understood as functional responses to anxiety or sen -
+sory difficulties. Narrowly focused interests may be harmless or even beneficial, depending on the nature of the interests and the degree of narrowness. However, other characteristics, such as in -
+ability to tolerate the sensory stimulation produced by common environments, more substantial social and communication diffi -
+culties (which can make it difficult to maintain desired relation -
+ships), and a tendency to panic or become distressed about minor changes to routine, may require, in addition to an absence of overt discrimination, positive interventions such as the provision of quiet spaces, designated ‘autism friendly’ times during which shops or other services reduce lighting and sound levels, assistive communication technology, or support workers, in order to be rendered non- (or minimally-) disabling.
+Advocates of the neurodiversity paradigm are often among the 
+strongest supporters of such measures, but the fact that positive in -
+terventions are needed suggests that the traits that render them nec -
+essary may be intrinsically disadvantageous. A counterargument to this is that the absence of such measures is itself unjustly discrimina -
+tory, and that it is this, rather than the presence of autistic traits, that is responsible for the disadvantage. Everyone has certain infrastruc -
+ture and resource needs without which they would be disadvantaged, and, it may be argued, autistics are disadvantaged because society unjustly fails to provide for the particular needs of this minority.
+This argument turns the claim that autistic traits are not intrinsi -
+cally disadvantageous into the moral claim that they would not be disadvantageous in a just society. However, even a just society has to make hard choices and cannot fully meet the needs of all groups, firstly because scarcity of resources forces societies to prioritize be -
+tween competing needs, and secondly because modifications of the social and physical environment designed to accommodate people with one type of impairment are sometimes detrimental to those with other types.
+57 Thus, the failure to provide for particular needs 
+is not necessarily unjust, and even if all autistic traits could be indi -
+vidually rendered harmless by modifications of public infrastructure or provision of resources to individuals, there is no reason to take the simultaneous provision of all such measures as the baseline for as -
+sessing their intrinsic harmfulness. Additionally, some characteris -
+tics, including more severe manifestations of communication and sensory difficulties and issues with impulse and attention control, may remain significantly disabling even when all possible forms of support have been provided, and to a degree that outweighs any counterbalancing advantages.
+I have so far considered the heterogeneity of autism in terms of 
+the range of behavioural traits that make up the autistic ‘landscape’ and indicated how this challenges the claim that autism is not in -
+trinsically harmful and therefore not a disorder. However, it can also  51Glover, J. (2014). Alien landscapes? Interpreting disordered minds . Cambridge, MA: The 
+Belknap Press, p. 131.
+ 52Hacking, I. (2006). What is Tom saying to Maureen? London Review of Books, 28 (9). 
+Retrieved from https://www.lrb.co.uk/the-paper  /v28/n09/ian-hacki  ng/what-is-tom-
+sayin g-to-maureen
+ 53Hearst, C. (2015). Does language affect our attitudes to autism? Autism Matters . 
+Retrieved from http://www.autis  mmatt  ers.org.uk/1/post/2015/01/does-langu  age-affec  
+t-our-attit  udes-to-autism.html
+ 54Chapman, op. cit. note 6, p. 379.
+ 55Quoted in Costandi, M. (2019). Against neurodiversity. Aeon.  Retrieved from https://
+aeon.co/essay  s/why-the-neuro  diver  sity-movem  ent-has-becom  e-harmful
+ 56One issue raised by this question is that the constituents of the good life, and therefore 
+what counts as a benefit or harm, may differ between autistic and neurotypical people 
+(as well as between people more generally); for example, people may have different levels of motivation towards friendship (or certain aspects thereof) and therefore be differently affected by its presence or absence. This is discussed as a problem for the construction of a philosophical theory of well-being applicable to autistic people in Rodogno, R., Krause-Jensen, K., & Ashcroft, R. E. (2016). ‘Autism and the good life’: A new approach to the study of well-being. Journal of Medical Ethics, 42 (6), 401–408. 
+However, the kinds of harms referred to in the argument below do not depend on any general theory of well-being but relate directly to autistic people’s experiences. As such, this is consistent with Rodogno et al.’s view that an account of autistic well-being must begin by attending to and interpreting autistic people’s experiences, for example by noting activities that produce security, engagement and flow, on the one hand, and anxiety, depression and irritability, on the other.
+ 57Shakespeare, op. cit. note 23, pp. 37–38; Kahane, G., & Savulescu, J. (2009). The 
+welfarist account of disability. In K. Brownlee & A. S. Cureton (Eds.), Disability and disadvantage  (pp. 14–53). UK: Oxford University Press, pp. 40–42.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+54|
+HUGHES
+语言障碍的说明则应区分接受性和表达性语言技能。
+从最后两段可以看出，DSM‑5标准允许了在数量和质量上都存在
+广泛差异的孤独症表现方式。尽管诊断类别被命名为“谱系”，但这
+些标准暗示，孤独症与其说是一个“谱系”（带有线性变化的含义），
+不如说是一个多维的“景观”51、“空间”52 或“星座”53 。这对神
+经多样性范式提出的挑战在于，在这个空间内，存在一些人，他们面
+临的非常显著的挑战似乎不完全属于社会性范畴，并且被恰当地描述
+为障碍。正如查普曼所言，这些“所谓的更严重状况”被呈现为“明
+显是病理性的”，因此被视为神经多样性范式存在缺陷的证据54 。这
+不仅具有理论意义，因为对此类状况的错误分类可能导致支持或治疗
+不足。一些孤独症儿童的父母抱怨说，“[神]经多样性倡导者忽视了
+严重孤独症的严酷现实，并想忘记我的儿子们以及像他们一样的人”
+55 。神经多样性倡导者可以如实回应，他们为所有孤独症人士争取更
+好的支持，而不仅仅是能力较高者，但在此我们必须注意区分神经多
+样性运动和神经多样性范式。即使运动中的活动家为所有孤独症人士
+奔走呼吁，他们所秉持的许多观点——即孤独症不是一种障碍，相关
+的劣势是社会造成的，最好通过社会而非医学手段来解决——可能对
+受影响最深重的一些人并无助益。
+鉴于上一节的分析，评估神经多样性范式的关键问题在于，否认
+自闭症具有内在危害性是否在这一多样化背景下是可信的。56 在不存
+在歧视性态度的情况下（例如，认为不寻常的说话模式意味着低智商，
+或认为缺乏眼神接触就表示缺乏兴趣），一个人沟通和社交互动方式的某些差异可能
+完全不会造成障碍。这同样适用于重复的身体行为，如果这些行为被
+正确理解为对焦虑或感官困难的功能性反应，他人可能就不再会感到
+不安。狭隘的兴趣可能无害甚至有益，这取决于兴趣的性质和狭隘的
+程度。然而，其他特征，例如无法忍受常见环境产生的感官刺激、更
+严重的社交与沟通困难（这可能使人难以维持想要的关系），以及对
+日常惯例的微小改变容易恐慌或感到痛苦，除了需要消除公开歧视外，
+可能还需要积极的干预措施，例如提供安静空间、指定‘自闭症友好’
+时段（在此期间商店或其他服务场所降低灯光和声音水平）、辅助沟
+通技术或支持人员，才能使其不构成（或最小化）障碍。
+神经多样性范式的倡导者往往是此类措施最坚定的支持者，但积
+极的干预措施确有必要，这一事实表明，使得这些措施成为必要的特
+质，其本身可能就是不利的。对此的反驳是，缺乏此类措施本身就是
+不公正的歧视，并且造成不利处境的是这种歧视，而非自闭症特质的
+存在。每个人都有某些基础设施和资源需求，若得不到满足便会处于
+劣势，而可以论证的是，自闭症者之所以处于劣势，是因为社会不公
+正地未能满足这一少数群体的特定需求。
+这一论点将“自闭症特质并非天生不利”的主张，转变为了“在
+一个公正的社会中，它们不会是不利的”这一道德主张。然而，即使
+是一个公正的社会，也必须做出艰难的选择，无法完全满足所有群体
+的需求，这首先是因为资源稀缺迫使社会必须在相互竞争的需求之间
+确定优先次序，其次是因为，为适应某一类障碍人士而对社会和物理
+环境进行的改造，有时会对其他类型障碍人士有害。57 因此，未能满
+足特定需求并不必然是不公正的；而且，即使所有自闭症特质都能通
+过对公共基础设施的改造或向个人提供资源而各自变得无害，我们也
+没有理由将同时提供所有这些措施作为评估其内在危害性的基准。此
+外，某些特征，包括更严重的沟通与感官困难表现，以及冲动和注意
+力控制问题，即使在提供了所有可能形式的支持后，仍可能具有显著
+的致残性，其程度足以压倒任何补偿性的优势。
+迄今为止，我已从构成自闭症‘地貌’的行为特征范围角度探讨
+了自闭症的异质性，并指出了这如何挑战了‘自闭症本质上无害、因
+此并非一种障碍’的论断。然而，它也可以51格洛弗，J.（2014）。异域风景？解读错乱的心灵。剑桥，马萨诸塞州：贝尔纳普出版社，
+第131页。52哈金，I.（2006）。汤姆在对莫琳说什么？伦敦书评，28(9)。检索自
+https://www.lrb.co.uk/the‑paper/v28/n09/ian‑hacking/what‑is‑tom‑sayin
+g‑to‑maureen53赫斯特，C.（2015）。语言是否影响我们对自闭症的态度？自闭症至关重
+要。检索自http://www.autismmatters.org.uk/1/post/2015/01/does‑language‑affec
+t‑our‑attitudes‑to‑autism.html54查普曼，出处同前注6，第379页。55转引自科斯坦迪，
+M.（2019）。反对神经多样性。Aeon.检索自https://aeon.co/essays/why‑the‑neuro
+diversity‑movement‑has‑become‑harmful56这个问题引发的一个议题是，美好生活的
+构成要素，以及因此什么算作利益或伤害，可能在自闭症人士与神经典型人士之间存在差异
+（更广泛地说，在人与人之间也存在差异）；例如，人们对于友谊（或其某些方面）的动机
+水平可能不同，因此受其存在与否的影响也不同。这一点在罗多尼奥，R.，克劳斯‑延森，
+K.，与阿什克罗夫特，R.E.（2016）的《‘自闭症与美好生活’：研究福祉的一种新方法》
+中被讨论为构建适用于自闭症人士的哲学福祉理论的一个问题，载于《医学伦理学杂志》，
+42(6)，401–408。然而，下文论证中所指的那类伤害并不依赖于任何普遍的福祉理论，而是
+直接与自闭症人士的体验相关。因此，这与罗多尼奥等人的观点一致，即对自闭症福祉的论
+述必须始于关注并解读自闭症人士的体验，例如，通过留意一方面能带来安全感、参与感和
+心流体验的活动，另一方面则会引起焦虑、抑郁和易怒的活动。
+57莎士比亚，同前注23，第37–38页；卡哈内，G.，与萨武列斯库，J.（2009）。
+《残疾的福利主义解释》。载于K.布朗利与A.S.库雷顿（编），残疾与劣势（第14–
+53页）。英国：牛津大学出版社，第40–42页。
+
+--- Page 9 ---
+    |  55
+HUGHES
+refer to variation in the underlying mechanisms or causes that give 
+rise to these traits. Heterogeneity at this level is also relevant to the claims of the neurodiversity paradigm in ways that will become ap -
+parent in the following sections.
+The framing of autism as a unitary diagnosis despite its heteroge -
+neity is based on the assumption that there is some underlying real -
+ity common to these different manifestations.
+58 This assumption 
+underpins the expectation that scientific study of autism as a dis -
+crete phenomenon (for example, conducting studies of participants with an autism diagnosis) will uncover causes and treatments. However, this search has so far proved elusive.
+At the psychological level, various explanations of autistic be -
+haviours have been proposed, including impairments in theory of mind (ability to accurately attribute mental states to others, some -
+times linked to the capacity to empathize, although the latter can have different meanings), in central coherence (ability to perceive complex things as wholes rather than collections of parts, and to grasp the significance of context rather than remaining fixated on detail), and in executive function (ability to regulate attention and behaviour, switch between tasks and inhibit impulses).
+59 Other the -
+ories that are favoured by some neurodiversity advocates for their apparently more favourable assessment of autistic capabilities in -
+clude the ‘intense world’ theory, according to which autistics have heightened perception, attention and memory, which can lead them to withdraw from the sources of painful sensory and cognitive over -
+load,
+60 and ‘monotropism’, which postulates a tight focus of atten -
+tion on a small number of highly-aroused interests, resulting in difficulty with tasks that require broadly distributed attention.
+61 
+Other recent theories include ‘enhanced perceptual functioning’, which shares the weak central coherence model’s assertion that au -
+tistics have a bias towards ‘local’ perception but without taking this to be based on a deficit at the ‘global’ level,
+62 and ‘HIPPEA’ (High, 
+Inflexible Precision of Prediction Errors in Autism), which postulates that in comparing predictions with experience autistics fail to dis -
+count irrelevant discrepancies or to take sufficient account of con -
+text, leading them to update their mental models too frequently and to adopt models that are over-specified and not generalizable.
+63
+There is, however, no consensus in favour of any one of these 
+accounts. None of them readily accounts for all the behaviours that are taken to be characteristic of autism, and there is increasing rec -
+ognition that there may not be a single explanation. It seems likely that an adequate explanation of autism will need to refer to several of these (and/or other) mechanisms, and that the significance of each will vary from case to case.
+Biologically, there is likewise no single clear underpinning for autism. 
+At the neurological level, differences in brain size (overall and in partic -
+ular regions) and differences in structural and functional connectivity have been found between autistic and neurotypical populations. However, there are also wide differences within the autistic population, and, given brain plasticity, it is not clear which differences are causes and which are effects of autism.
+64 Moreover, there is evidence that dif -
+ferent neurological features are associated with different autistic traits.
+65 It is also well established that autism has a strong genetic com -
+ponent, but studies indicate that many different genes are involved and that there is relatively little overlap between the genes responsible for the different elements of the autistic phenotype, suggesting that that the individuals labelled autistic may simply be those in whom the traits that we associate with autism happen to coincide.
+66
+The lack of success in finding either a causal mechanism at any of 
+these levels or effective treatments has led some researchers to question the utility of a single diagnosis. Fletcher-Watson and Happé note that ‘many people now talk of "the autisms" to reflect the belief that different individuals have different biological paths to autism’.
+67 
+Happé and Ronald suggest ‘that research has been hampered by the assumption that the different symptoms that define autism proceed from the same cause’ and propose that autism ‘consists of a collec -
+tion of fractionable characteristics’ that co-occur at above-chance frequency but can also be found in isolation and may sometimes be better studied as such.
+68 Waterhouse goes further, arguing that not 
+only do the characteristics that define autism lack a common cause; they share causal underpinnings with many other characteristics and conditions, including those that are commonly described as ‘co-oc -
+curring’ with autism, ‘including but not limited to intellectual disabil -
+ity, attention deficit/hyperactivity disorder symptoms, perceptual problems, motor disorders, epilepsy, and language development problems’.
+69 Autism, she argues, should therefore be thought of as 
+neither a single disorder nor a distinct set of disorders, but rather as a set of ‘symptoms’ associated with many different conditions.
+These critical assessments may undermine the view of autism as a 
+disorder (singular and separable from other conditions), but leave un -
+touched the idea that the conditions that give rise to autistic symp -
+toms are disorders or that autistic traits are sometimes intrinsically harmful. This is reflected in Waterhouse’s conclusion, that ‘disbanding the concept of autism as a unitary disorder’ should involve ‘acceptance 
+ 58Hens, K. (2019). The many meanings of autism: Conceptual and ethical reflections. 
+Developmental Medicine and Child Neurology, 61 , 1025–1029, p. 1025.
+ 59Fletcher-Watson & Happé, op. cit. note 5, chapters 6 & 8.
+ 60Markram, K., & Markram, H. (2010). The intense world theory – A unifying theory of 
+the neurobiology of autism. Frontiers in Human Neuroscience, 4 (224), 1–29; Markram, H., 
+Rinaldi, T., & Markram, K. (2007). The intense world syndrome – An alternative 
+hypothesis for autism. Frontiers in Neuroscience, 1 (1), 77–96.
+ 61Murray, D., Lesser, M., & Lawson, W. (2005). Attention, monotropism and the 
+diagnostic criteria for autism. Autism, 9 (2), 139–156.
+ 62Mottron, L., Dawson, M., Soulières, I., Hubert, B., & Burack, J. (2006). Enhanced 
+perceptual functioning in autism: An update, and eight principles of autistic perception. Journal of Autism and Developmental Disorders, 36 (1), 27–43.
+ 
+63Van de Cruys, S., Van der Hallen, R., & Wagemans, J. (2017). Disentangling signal and 
+noise in autism spectrum disorder. Brain and Cognition, 112, 78–83. 64Fletcher-Watson & Happé, op. cit. note 5, pp. 54–57.
+ 65Happé, F., Ronald, A., & Plomin, R. (2006). Time to give up on a single explanation for 
+autism. Nature Neuroscience, 9 (10), 1218–1220, p. 1219.
+ 66Waterhouse, op. cit. note 5, pp. 9–10.
+ 67Fletcher-Watson & Happé, op. cit. note 5, p. 52.
+ 68Happé, F., & Ronald, A. (2008). The ‘fractionable autism triad’: A review of evidence 
+from behavioural, genetic, cognitive and neural research. Neuropsychology Review, 18 (4), 
+287–304, pp. 287, 300. Studies have disagreed about whether there is in fact a correlation between the different autistic characteristics; see Waterhouse, op. cit. note 5, p. 269.
+ 
+69Waterhouse, op. cit. note 5, pp. xi, 206, 270, 433.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 55
+HUGHES
+指向导致这些特征产生的潜在机制或原因的变异。这一层面的异质性
+也与神经多样性范式的论断相关，其关联性将在后续章节中变得清晰。
+尽管自闭症具有异质性，但仍将其框定为单一诊断，这是基于一
+种假设，即这些不同的表现形式背后存在某种共同的潜在现实。58 这
+一假设支撑着一种期望，即对自闭症作为一种离散现象进行科学研究
+（例如，对患有自闭症诊断的参与者进行研究）将能揭示其原因和治
+疗方法。然而，迄今为止，这项探索仍难以实现。
+在心理学层面，人们提出了各种关于自闭症行为的解释，包括心
+理理论受损（准确地将心理状态归因于他人的能力，有时与共情能力
+相关，尽管后者可能有不同的含义）、中心统合受损（将复杂事物感
+知为整体而非部分集合的能力，以及把握情境意义而非执着于细节的
+能力）以及执行功能受损（调节注意力和行为、在任务间切换以及抑
+制冲动的能力）。59 其他一些理论受到部分神经多样性倡导者的青睐，
+因为它们似乎对自闭症能力给出了更积极的评估，其中包括‘强烈世
+界’理论。该理论认为，自闭症患者具有增强的感知、注意力和记忆
+力，这可能导致他们从痛苦的感官和认知超负荷来源中退缩。60 以及
+‘单相聚焦’理论，该理论假设注意力高度集中于少数几个高度唤醒
+的兴趣点上，从而导致在需要广泛分配注意力的任务上存在困难。61
+其他近期的理论包括‘增强的知觉功能’，它与弱中心统合模型都断
+言自闭症患者偏向于‘局部’感知，但并未将此视为‘全局’层面上
+的缺陷。62 以及‘HIPPEA’（自闭症中预测错误的高、僵化精确度）
+理论，该理论假设在比较预测与经验时，自闭症患者未能忽略无关的
+差异或充分考虑情境，导致他们过于频繁地更新其心理模型，并采用
+过度具体化且不可推广的模型。63
+然而，对于这些解释中的任何一种，都尚未形成共识。它们都无
+法轻易解释所有被视为自闭症特征的行为，并且人们越来越认识到，
+可能并不存在单一的解释。看起来很可能对自闭症的充分解释可能需要涉及这几种（和/或其他）机制中的多
+个方面，并且每种机制的重要性会因个案而异。
+从生物学角度看，同样不存在一个单一、明确的孤独症基础。在
+神经层面，研究发现孤独症群体与神经典型群体之间在大脑尺寸（整
+体及特定区域）以及结构和功能连接性上存在差异。然而，孤独症群
+体内部也存在广泛的差异，并且考虑到大脑的可塑性，尚不清楚哪些
+差异是孤独症的原因，哪些是其结果。64 此外，有证据表明，不同的
+神经特征与不同的孤独症特质相关。65 同样公认的是，孤独症具有很
+强的遗传成分，但研究表明许多不同的基因参与其中，且导致孤独症
+表型不同要素的基因之间重叠相对较少，这表明被标记为孤独症的个
+体，可能仅仅是那些我们与孤独症相关联的特质恰好重合的人。66
+由于在这些层面均未能找到确切的因果机制或有效的治疗方法，
+一些研究者开始质疑单一诊断的效用。Fletcher‑Watson和
+Happé指出，‘现在许多人谈论“多种孤独症”以反映一种信念，
+即不同的个体通过不同的生物学路径发展出孤独症’。67Happé和
+Ronald认为，‘研究一直受到一种假设的阻碍，即定义孤独症的不
+同症状源于同一原因’，并提议孤独症‘由一系列可分离的特征组成’，
+这些特征以高于偶然的频率共现，但也可以独立存在，有时可能更适
+合作为独立特征进行研究。68 Waterhouse走得更远，她认为，不仅
+定义孤独症的特征缺乏共同原因；它们还与许多其他特征和状况共享
+因果基础，包括那些通常被描述为与孤独症‘共病’的状况，‘包括
+但不限于智力残疾、注意力缺陷/多动障碍症状、感知问题、运动障
+碍、癫痫和语言发展问题’。69 她主张，因此不应将孤独症视为单一
+的障碍或一组独特的障碍，而应视为与许多不同状况相关的一组‘症
+状’。
+这些批判性评估可能会削弱将自闭症视为一种障碍（单一且可与
+其他状况分离）的观点，但并未触及以下观点：导致自闭症状的诸种
+状况是障碍，或者说自闭特质有时本质上是有害的。这反映在水豪斯
+的结论中，即“解散自闭症作为单一障碍的概念”应包含“接受
+58Hens,K.(2019).自闭症的多种含义：概念与伦理反思。Developmental Medicine and 
+Child Neurology, 61,1025–1029,p.1025.59Fletcher‑Watson&Happé,同前注5，第6、
+8章。60Markram,K.,&Markram,H.(2010).强烈世界理论——自闭症神经生物学的统
+一理论。Frontiers in Human Neuroscience, 4(224),1–29;Markram,H.,Rinaldi,T.,&
+Markram,K.(2007).强烈世界综合征——自闭症的另一种假说。Frontiers in 
+Neuroscience, 1(1),77–96.61Murray,D.,Lesser,M.,&Lawson,W.(2005).注意力、单
+相趋注性与自闭症诊断标准。Autism, 9(2),139–156.62Mottron,L.,Dawson,M.,
+Soulières,I.,Hubert,B.,&Burack,J.(2006).自闭症中的增强知觉功能：更新与自闭
+症知觉八原则。Journal of Autism and Developmental Disorders, 36(1),27–43.63Vande
+Cruys,S.,VanderHallen,R.,&Wagemans,J.(2017).解构自闭症谱系障碍中的信号
+与噪声。Brain and Cognition, 112,78–83. 64Fletcher‑Watson&Happé，同前注5，第54–57页。65Happé,F.,Ronald,A.,&
+Plomin,R.(2006).Timetogiveuponasingleexplanationforautism.Nature 
+Neuroscience, 9(10),1218–1220，第1219页。66Waterhouse，同前注5，第9–10页。67
+Fletcher‑Watson&Happé，同前注5，第52页。68Happé,F.,&Ronald,A.(2008).
+The‘fractionableautismtriad’:Areviewofevidencefrombehavioural,
+genetic,cognitiveandneuralresearch.Neuropsychology Review, 18(4),287–304，第
+287、300页。关于不同自闭症特征之间是否存在相关性，研究结论不一；参见
+Waterhouse，同前注5，第269页。69Waterhouse，同前注5，第xi、206、270、433页。
+
+--- Page 10 ---
+56  |    
+HUGHES
+of the totality of an individual’s symptoms as part of the disorder of 
+that individual’.70 I will argue below that this aspect of autism hetero -
+geneity—the diversity of causal pathways leading to autism and lack of clear boundaries between autism and other conditions—makes it harder to defend the non-disorder claim, as some want to do, by ap -
+pealing to a more narrowly defined notion of autism.
+4 |  Response 1: ‘Narrow’ neurodiversity
+The problem for the neurodiversity paradigm highlighted in the previous section is that the non-disorder claim, and more specifically the claim that autism is not intrinsically harmful, cannot be generalized across the autistic landscape. Autism takes a wide range of differing forms, includ -
+ing some that are reasonably described as mere difference and others where, as Frith puts it, it would seem perverse to deny their debilitating nature.
+71 This is a practical as well as a theoretical problem, since a con -
+ception of neurodiversity that denies real disabilities or characterizes them as merely social is likely to deprive some people of the support and resources that they need. This concern is central to Jaarsma and Welin’s engagement with the neurodiversity paradigm, but rather than viewing it as a reason to reject the paradigm altogether, they defend what they call a ‘narrow’ conception of neurodiversity, one that applies only to those with ‘high-functioning’ autism, and maintains, in contrast, that ‘people with low-functioning autism are extremely vulnerable and their condition justifies the qualification "disability".'
+72
+At first sight this may appear to be an attractive solution that rec -
+ognizes and responds to the heterogeneity within autism. However, the distinction upon which it depends is controversial and problem -
+atic. Jaarsma and Welin write:
+We will in many places distinguish between ‘high-func -
+tioning autists’ and ‘low-functioning autists’. There seems to be a partial consensus on this distinction: if autists have an IQ in the normal range (or above), they usually are said to have high-functioning autism (HFA).
+73
+But this distinction is strongly opposed by many advocates of the 
+neurodiversity perspective, and rendered problematic by some of the considerations discussed above.
+74Autistic self-advocates have opposed the distinction between 
+high-functioning and low-functioning autism for at least three rea -
+sons: (a) it downplays the difficulties faced by and support needs of those who are labelled high-functioning; (b) it underplays the abili -
+ties and potential of those labelled low-functioning and so leads to assumptions of incompetence and failure to provide appropriate support; and (c) it is used to undermine identification across the spectrum and the ability of those labelled high-functioning to en -
+gage in advocacy on behalf of those who are less able to speak for themselves. Detailed examination of these claims is a topic for an -
+other paper, but the following observations provide some support for this critical stance.
+The first and second points are a mirror image of Jaarsma and 
+Welin’s reasons for adopting the narrow conception of neurodiver -
+sity: Jaarsma and Welin argue that, applied across the spectrum, a disorder model of autism will underestimate the abilities of the high-functioning and a neurodiversity perspective will underesti -
+mate the support needs of the low-functioning, while the self-advo -
+cates’ critique claims that relying on the high/low-functioning distinction is liable to underestimate the support needs of those la -
+belled high-functioning and the abilities of those labelled low-func -
+tioning. This may especially affect those who are close, on one side or the other, to what is inevitably an arbitrarily-drawn boundary, but it also reflects the fact that complex and varying combinations of abili -
+ties and needs are found across the spectrum; thus, a crude division into high- and low-functioning categories may be just as misleading as an assumption of uniformity, especially when made on the basis of a variable such as IQ, which has been found to be an ‘imprecise proxy’ for the functional abilities of people diagnosed with autism.
+75
+This is an aspect of the same complexity that led the authors of 
+DSM-5 to conclude that Autism Spectrum Disorder should replace the separate (but not consistently distinguishable) diagnoses of Asperger’s Disorder and Autistic Disorder. DSM-5 does provide for identification of different levels of severity, but in a more nuanced way than the binary division endorsed by Jaarsma and Welin.
+76 
+Although DSM-5 indicates that a diagnosis of ASD should specify the presence or absence of intellectual impairment (and language impairment), it calls for a descriptive account of any such impair -
+ment, taking account of the often uneven profiles of individuals with ASD, rather than a single numerical score. More importantly, it does not derive the level of ‘severity’ directly from these impairments, but defines it in terms of the level of support needed by an individual, assessed separately in relation to each of the main diagnostic crite -
+ria. Even this, however, is an oversimplification, given the very differ -
+ent traits covered by each of the main criteria, as discussed in the previous section.
+ 70Ibid: 270.
+ 71Frith, U. (2008). Autism: A very short introduction . UK: Oxford University Press, p. 38.
+ 72Jaarsma & Welin, op. cit. note 14, p. 28.
+ 73Ibid: 21.
+ 74It is worth noting, however, that some of the early advocates of neurodiversity similarly 
+limited it to less ‘severe’ cases. Singer (2017, op. cit. note 7, p. 15) has noted that her 
+initial focus was only on Asperger’s and that she views neurodiversity as an alliance of different ‘neurotribes’ characterized by ‘simple’ neurological variations, a term often used to indicate those with less severe impairments. Jaarsma and Welin’s wider aim of opposing the merging of Asperger’s Disorder into Autism Spectrum Disorder was also shared by many self-styled ‘Aspie’ activists concerned about the stigma associated with the latter diagnosis. The fact that most neurodiversity activists now oppose the division of the autistic spectrum on the basis of severity or levels of functioning suggests that despite its medical orientation, the DSM retains a strong influence on the way that neurodiversity activists view the boundaries of their ‘identity’. 75Alvares, G. A., Bebbington, K., Cleary, D., Evans, K., Glasson, E. J., Maybery, M. T., … 
+Whitehouse, A. J. (2019). The misnomer of ‘high functioning autism’: Intelligence is an imprecise predictor of functional abilities at diagnosis. Autism, 24 (1), 221–232, p. 227. See 
+also Lim, C. (2015). Accommodating autistics and treating autism: Can we have both? Bioethics, 29 (8), 564–572.
+ 
+76This is partly due to lobbying from the pro-neurodiversity Autistic Self-advocacy 
+Network; see Kapp & Ne’eman, op. cit. note 42.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+56 |
+HUGHES
+个体全部症状作为该个体障碍的一部分”。70 我将在下文中论证，自
+闭症异质性的这一方面——即导致自闭症的因果途径多种多样，且自
+闭症与其他状况之间缺乏明确界限——使得一些人想通过诉诸一个更
+狭义定义的自闭症概念来为非障碍主张辩护，变得更加困难。
+4 | 回应一：‘狭隘’的神经多样性
+上一节强调的神经多样性范式所面临的问题是，其关于“非障碍”的
+主张，更具体地说，关于自闭症本质上无害的主张，无法在整个自闭
+症谱系中普遍化。自闭症的表现形式多种多样，其中一些可以合理地
+描述为仅仅是差异，而另一些则如弗里斯所言，若否认其使人衰弱的
+天性则显得悖谬。71 这既是一个实践问题，也是一个理论问题，因为
+一种否认真实残疾或将其仅仅归因于社会因素的神经多样性观念，可
+能会剥夺一些人所需的支持与资源。这一关切是贾尔斯马与韦林参与
+神经多样性范式讨论的核心，但他们并未将其视为完全拒绝该范式的
+理由，而是捍卫一种他们所谓的‘狭隘’神经多样性观念。这种观念
+仅适用于那些‘高功能’自闭症者，并与之相对地主张，‘低功能自
+闭症者极度脆弱，其状况有理由被定性为“残疾”。’72
+乍看之下，这似乎是一个颇具吸引力的解决方案，它承认并回应
+了自闭症内部的异质性。然而，它所依赖的这种区分本身却存在争议
+且问题重重。Jaarsma和Welin写道：
+我们将在多处区分‘高功能自闭症患者’与‘低功能
+自闭症患者’。关于这种区分似乎存在部分共识：如
+果自闭症患者的智商处于正常范围（或以上），他们
+通常被称为患有高功能自闭症（HFA）。73
+然而，这种区分受到许多神经多样性视角倡导者的强烈反对，并
+且因上文讨论的一些考量而显得问题重重。74自闭症自我倡导者反对将自闭症区分为高功能和低功能，至少基
+于以下三个原因：(a)它淡化了被标记为高功能者所面临的困难和支
+持需求；(b)它低估了被标记为低功能者的能力和潜力，从而导致对
+其无能的假设，并未能提供适当的支持；以及(c)它被用来削弱整个
+谱系的身份认同，以及被标记为高功能者代表那些较难为自己发声的
+群体进行倡导的能力。对这些主张的详细探讨是另一篇论文的主题，
+但以下观察为这一批判立场提供了一些支持。
+第一点和第二点恰恰与Jaarsma和Welin采用狭义神经多样性
+概念的理由形成镜像：Jaarsma和Welin认为，若将障碍模型应用
+于整个谱系，则会低估高功能患者的能力，而神经多样性视角则会低
+估低功能患者的支持需求；与此同时，自我倡导者的批评则声称，依
+赖高/低功能区分很可能低估了那些被标记为高功能患者的支持需求，
+以及那些被标记为低功能患者的能力。这对于那些恰好处于这条（不
+可避免地）武断划定的边界线两侧附近的人影响可能尤其大，但这也
+反映了一个事实，即在整个谱系中，能力与需求以复杂且多变的组合
+形式存在；因此，粗略地划分为高功能和低功能类别，可能与假设其
+具有同质性一样具有误导性，尤其是当这种划分基于智商等变量时——
+研究发现，对于被诊断为自闭症人士的功能性能力而言，智商是一个
+‘不精确的替代指标’。75
+正是出于这种同样的复杂性考量，使得《精神疾病诊断与统计手
+册》第五版（DSM‑5）的作者们得出结论，认为应该用“自闭症谱系
+障碍”取代先前独立存在（但并非总能明确区分）的“阿斯伯格障碍”
+和“自闭症障碍”诊断。DSM‑5确实允许对不同严重程度进行识别，
+但其方式比Jaarsma和Welin所支持的二元划分更为细致。76尽管
+DSM‑5指出，对ASD的诊断应明确是否存在智力障碍（及语言障碍），
+但它要求对这些障碍进行描述性说明，并考虑到ASD个体能力剖面常
+不均衡的特点，而非仅提供一个单一的数字评分。更重要的是，它并
+非直接从这些障碍中推导出“严重程度”等级，而是根据个体所需支
+持的水平来定义，并针对每项主要诊断标准分别进行评估。然而，即
+便这样，考虑到如前一节所讨论的、每项主要标准所涵盖的特质差异
+极大，这种划分仍是一种过度简化。
+70同上：第270页。
+71Frith,U.(2008).自闭症：简明导论.英国：牛津大学出版社，第38页。
+72Jaarsma&Welin，同前注14，第28页。
+73同上：第21页。
+74然而值得注意的是，一些神经多样性早期的倡导者同样将其限定在较不‘严重’的案例中。
+Singer(2017,同前注7,第15页)曾指出，她最初的关注点仅在于阿斯伯格综合征，并且她将神经
+多样性视为由不同‘神经部落’组成的联盟，这些部落以‘单纯’的神经学变异为特征——该术
+语常用来指代那些功能受损较轻的个体。Jaarsma和Welin反对将阿斯伯格障碍并入自闭症谱系
+障碍的更广泛目标，也得到了许多自称为‘Aspie’（阿斯伯格人士）活动家的认同，他们担心
+后一种诊断带来的污名。尽管具有医学导向，但《精神疾病诊断与统计手册》（DSM）对神经多
+样性活动家如何看待其‘身份’边界的方式仍保持着强大影响，这一点可以从目前大多数神经多
+样性活动家反对基于严重程度或功能水平来划分自闭症谱系的事实中看出。75Alvares,G.A.,Bebbington,K.,Cleary,D.,Evans,K.,Glasson,E.J.,Maybery,M.
+T.,...Whitehouse,A.J.(2019).“高功能自闭症”的误称：智力在诊断时是功能能力的粗
+略预测指标。《自闭症》，第24卷(1),221–232,第227页。另见Lim,C.(2015).接纳自闭
+症人士与治疗自闭症：我们能两者兼得吗？《生命伦理学》，第29卷(8),564–572。76这部
+分是由于支持神经多样性的自闭症自我倡导网络的游说；参见Kapp&Ne’eman，同前注
+42。
+
+--- Page 11 ---
+    |  57
+HUGHES
+The third criticism of the distinction between high- and 
+low-functioning autism is more political. Some autistic self-advo -
+cates view this distinction as delegitimizing their efforts to advo -
+cate on behalf of those autistics who are less able to speak for 
+themselves.77 In particular, they are critical of parents of ‘severely’ 
+autistic children who deny that they have anything to learn from the experiences of autistic self-advocates on the grounds that adults who can describe and analyse their experiences and offer advice on the treatment of autistic children must be functioning at a level that makes their experience irrelevant to ‘low-functioning’ autistic children.
+It would be mistaken, given the acknowledged differences be -
+tween autistic individuals and the importance of the personal knowl -
+edge that parents usually have of their own children, to assume that such experience will always be relevant or that parents should always defer to the advice of autistic adults. Nevertheless, the testimony of adult autistics is an important resource that can help parents, prac -
+titioners and researchers to understand the needs and capabilities of those who are (at least currently) less able to express their own needs. To dismiss it on the assumption of a fundamental difference between high-functioning and low-functioning autistics would be to ignore both the developmental aspect of autism (many adult autis -
+tics who are able to reflect upon and describe their childhood ex -
+periences would themselves have been considered low-functioning at the time) and the diverse combinations of abilities and difficul -
+ties that affect autistic people and which mean that the apparently high-functioning may share many experiences with those whose dif -
+ficulties are more visible.
+These points show that, contrary to Jaarsma and Welin, there is 
+not a consensus on the distinction between high- and low-function -
+ing autism. Their attempt to resolve the ‘paradox’ of neurodiversity by limiting the scope of the neurodiversity perspective to high-func -
+tioning autistics ignores the complex, multi-dimensional nature of autism, and is liable to result in harms on both sides of the divide that mirror the harms that it is intended to avoid. Their stated motivation is to protect ‘high-functioning’ autistics from the stigma associated with disability or disorder, but the solution they propose is contrary to the preferences of many who are labelled as such, and, in addition, an approach that tries to distance more able autistics from those who are less able is likely to make the label of autism more  stigmatiz -
+ing for those in the latter category.
+Given that the difficulties with Jaarsma and Welin’s strategy 
+arise partly from the use of a crude measure such as IQ to partition a complex array of differing abilities, it might be tempting to dispense with such indicators and simply define high- and low-functioning autism according to whether, overall, the benefits of an individual’s autistic characteristics outweigh the harms or vice versa. However, such a definition would turn Jaarsma and Welin’s narrow neurodiver -
+sity into a tautology claiming that autism is a disorder only in those cases where it is harmful. In practical terms this approach would not add anything of substance to a case-by-case assessment of individ -
+uals’ abilities and needs—except perhaps to increase the stigma of those labelled ‘low-functioning’.
+5 |  Response 2: Co-existing conditions
+A second strategy for defending the neurodiversity paradigm against the problem of autism heterogeneity is to argue that the most harm -
+ful aspects of autism, those that appear to be suitable candidates for medical treatment and to warrant characterizing autism as a disor -
+der, are not actually part of autism but are co-occurring conditions.
+78 
+In this vein, Chapman writes that:
+the neurodiversity paradigm does not, after all, dis -
+miss or overlook the suffering autistic people typi -
+cally face. At least on Walker’s account, the paradigm explicitly allows for, say epilepsy, or seizures, to be cured. Since these kinds of things are not, after all, part of the autism (i.e., they are different conditions that exist in the same person)…
+79
+Neurodiversity blogger Maxfield Sparrow makes a similar point, 
+citing ‘anxiety, stomach problems, sleep issues, etc.‘as co-occurring conditions that are ‘separate from autism itself’.
+80
+At a practical level, attributing the harmful phenomena experi -
+enced by autistics to different conditions allows advocates of the neurodiversity paradigm to approve treating them medically. It also means that such phenomena will not count as counterexamples to the core claim of the neurodiversity paradigm that autism lacks the intrinsically harmful character necessary to qualify as a disorder.
+This argument appears to have some plausibility in relation to 
+Chapman’s example, epilepsy, a condition with distinct symptoms that exists independently of autism even though it occurs more fre -
+quently in autistics.
+81 Chapman focuses on epilepsy, along with intel -
+lectual disability and self-injurious behaviours, in response to a version of the heterogeneity objection put forward by Manuel Casanova, which questions the relevance of the neurodiversity movement to autistics ‘riddled with seizures, self-injurious behav -
+iors, or tremendously diminished cognitive processing’.
+82 However, 
+Casanova also lists a wider range of harmful phenomena, including mood disorders, impaired attention, and sensory abnormalities. It is 
+ 77For example, see the blog We are like your child . http://weare  likey  ourch ild.blogs  pot.
+co.uk/ 78The term ‘comorbidity’ is sometimes used in this context, but is generally avoided by 
+those making the argument described here because of its implication that the conditions 
+it describes are diseases or disorders.
+ 79Chapman, op. cit. note 6, p. 380.
+ 80Sparrow, M. (2018). Are co-occurring conditions part of autism? Thinking person's guide 
+to autism. Retrieved from http://www.think  ingau  tismg  uide.com/2018/08/are-co-occur 
+ring-condi  tions  -part-of.html
+ 81Waterhouse, op. cit. note 5, p. 207.
+ 82Casanova, M. (2013). The neurodiversity argument: Good intentions resting on a shaky 
+scientific foundation. Cortical Chauvinism.  Retrieved from http://corti calch auvin  ism.
+com/2013/06/11/the-neuro  diver  sity-argum  ent-good-inten  tions  -resti  ng-on-a-shaky  
+-scien  tific -found  ation  /
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 57
+HUGHES
+对高功能与低功能自闭症之分的第三点批评更具政治性。一些自
+闭症自我倡导者认为，这种区分会削弱他们为那些无法充分为自己发
+声的自闭症人士进行倡导的努力的合法性。77 他们尤其批评那些“重
+度”自闭症儿童的父母，这些父母以“能够描述和分析自身经历、并
+就自闭症儿童治疗提供建议的成年人，其功能水平必然使其经验与
+‘低功能’自闭症儿童无关”为由，拒绝从自闭症自我倡导者的经验
+中学习。
+鉴于自闭症个体之间存在公认的差异，且父母通常对自己的孩子
+拥有深入的了解，若认为此类经验总是相关，或父母应总是遵从成年
+自闭症人士的建议，那将是错误的。然而，成年自闭症人士的证言是
+一种重要的资源，可以帮助父母、从业者和研究者理解那些（至少目
+前）较难表达自身需求者的需求与能力。如果基于高功能与低功能自
+闭症人士存在根本差异的假设而忽视这些证言，就会忽略自闭症的发
+展性特征（许多能够反思和描述童年经历的成年自闭症人士，在当年
+可能也会被视为低功能），以及影响自闭症人士的多样化的能力与困
+难组合——这意味着那些看似高功能的人，可能与困难更为明显者有
+着许多共同的经历。
+这些观点表明，与Jaarsma和Welin的看法相反，对于高功能与
+低功能自闭症的区分并未形成共识。他们试图通过将神经多样性视角
+的范围限定在高功能自闭症患者身上来解决神经多样性的‘悖论’，
+这种做法忽略了自闭症复杂、多维度的本质，并很可能在划分线的两
+边都造成伤害，而这些伤害恰恰与他们试图避免的危害如出一辙。他
+们声称的动机是保护‘高功能’自闭症患者免受与残疾或障碍相关的
+污名，但他们提出的解决方案却与许多被贴上此标签者的意愿相悖。
+此外，一种试图让能力更强的自闭症患者与能力较弱者保持距离的做
+法，很可能使自闭症标签对于后者而言更具污名化。
+鉴于Jaarsma和Welin策略的困难部分源于使用智商这类粗略指
+标来划分复杂多样的能力差异，人们可能会倾向于摒弃此类指标，而
+简单地根据个体的自闭症特征总体上是利大于弊还是弊大于利来定义
+高功能和低功能自闭症。然而，这样的定义会将Jaarsma和Welin狭
+隘的神经多样性观点变成一个同义反复，声称自闭症仅在有害的情况
+下才是一种障碍。在实际操作中，这种方法不会为个体能力和需求的个案评估增添任何实质性内容——或许除了增加
+那些被贴上‘低功能’标签者所承受的污名之外。
+5 | 共存情况2：并存病症
+为神经多样性范式辩护以应对自闭症异质性问题的第二种策略是主张：
+自闭症中最有害的方面——那些似乎适合接受医学治疗、并有理由将
+自闭症定性为障碍的方面——实际上并非自闭症的一部分，而是共存
+的病症。78沿着这一思路，查普曼写道：
+毕竟，神经多样性范式并未忽视或漠视自闭症患者通
+常面临的痛苦。至少在沃克的观点中，该范式明确允
+许治疗诸如癫痫或发作性疾病。毕竟，这类问题并不
+属于自闭症的一部分（即它们是存在于同一个人身上
+的不同病症）⋯⋯79
+神经多样性博主马克斯菲尔德·斯帕罗提出了类似观点，他列举
+了‘焦虑、肠胃问题、睡眠障碍等’作为‘与自闭症本身分离’的共
+存病症。80
+在实际层面上，将自闭症患者所经历的有害现象归因于不同的状
+况，使得神经多样性范式的支持者能够认可对其进行医学治疗。这也
+意味着，这些现象将不会被视作对神经多样性范式核心主张的反例——
+该主张认为自闭症缺乏构成障碍所需的、内在有害的特性。
+就查普曼所举的癫痫例子而言，这一论点似乎有一定的合理性。
+癫痫是一种具有独特症状的病症，即使它在自闭症患者中更常见，也
+独立于自闭症而存在。81 查普曼聚焦于癫痫，以及智力障碍和自伤行
+为，以回应曼努埃尔·卡萨诺瓦提出的异质性异议的一个版本。该异议
+质疑神经多样性运动对那些‘饱受癫痫发作、自伤行为或认知处理能
+力极度减退’困扰的自闭症患者的相关性。82 然而，卡萨诺瓦还列举
+了更广泛的有害现象，包括情绪障碍、注意力受损和感觉异常。
+77例如，可参阅博客我们就像你的孩子。http://wearelikeyourchild.blogspot.
+co.uk/78在此语境下有时会使用‘共病’这一术语，但本文所描述的论证者通常避免使用它，因为
+它暗示所描述的状况是疾病或障碍。79Chapman,op.cit.note6,p.380.80Sparrow,M.
+(2018).共存的状况是自闭症的一部分吗？Thinking person's guideto autism.取自
+http://www.thinkingautismguide.com/2018/08/are‑co‑occurring‑conditions‑
+part‑of.html81Waterhouse,op.cit.note5,p.207.82Casanova,M.(2013).神经多样性
+论证：基于不稳固科学基础的良好意图。Cortical Chauvinism.取自http://corticalch
+auvinism.com/2013/06/11/the‑neurodiversity‑argument‑good‑intentions‑resti
+ng‑on‑a‑shaky‑scientific‑foundation/
+
+--- Page 12 ---
+58  |    
+HUGHES
+not clear that all of these, still less other ways in which autism can be 
+harmful, can be so easily set aside.
+For example, while impaired attention is often associated with 
+attention deficit hyperactivity disorder (ADHD), difficulties with the allocation of attention and other cognitive resources can also be a feature of autism when other diagnostic criteria of ADHD are absent. Attention-related difficulties are associated with executive dysfunc -
+tion and monotropism, two of the psychological mechanisms postu -
+lated as causes of autistic behaviours. Similarly, low mood (including anxiety, which is frequently characterized by neurodiversity advocates as a co-occurring condition for which medical intervention may be appropriate) and self-harm may result from diagnosable conditions separate from a person’s autism but may also be directly related to frustrations and distress arising from core autistic traits including social and communication difficulties as described in the previous section, and the effects of narrow attention and sensory overload.
+There is also a more general problem for the strategy of assigning 
+intrinsically harmful phenomena to co-occurring conditions arising from the heterogeneity of autism at the causal level. This strategy will only be sound if its proponent can give a clear account of what is part of autism and what is a co-occurring condition. Consider the following imaginary dialogue:
+‘Autism isn’t intrinsically harmful.’
+‘But X is a feature of autism that can be intrinsically 
+harmful.’
+‘X can’t really be a part of autism because it’s intrin -
+sically harmful.’
+This is an example of the No True Scotsman fallacy, in which a 
+counterexample to a general claim is excluded by an arbitrary narrow -
+ing of the term to which the general claim applies, turning the initial 
+generalization into a tautology.
+83 To retain the substance of the initial 
+generalization, we would need a substantive reason for excluding the counterexample that does not presuppose the truth of the claim that the counterexample is challenging. As we saw in the previous section, however, the heterogeneity of autism at the causal as well as the be -
+havioural level casts doubt upon the possibility of drawing non-arbi -
+trary boundaries between autism and other psychological conditions.
+As Happé and Ronald argue, the suggestion that different be -
+havioural features have different causes supports the ‘fractionation’ hypothesis, whereby what we call autism is actually the co-occur -
+rence of separate behavioural features each with their own causal mechanisms. Waterhouse notes that ‘the expression of autism nearly always occurs with one or more additional non-diagnostic symp -
+toms’.
+84 If these observations are correct, then the decision as to 
+which of a range of characteristics are and are not included in autism is essentially arbitrary. It may be based on above-chance co-occur -
+rence (unless this just reflects the fact that our existing definitions lead us to look for the cases where the different characteristics co -
+incide), but since the argument here is about characteristics that do tend to co-occur with those that are accepted as being autistic traits, this would not provide an objective reason for excluding harmful ones from autism itself.
+6 |  Response 3: Autism as identity
+It is often claimed by advocates of the neurodiversity paradigm that autism is a part of an autistic person’s identity. Chapman, for exam -
+ple, writes of autism and other neurodivergent types as ‘intimately related to the formation and constitution of the self’.
+85 This idea is 
+also apparent in the reasons given by neurodiversity advocates for preferring ‘identity-first’ (‘autistic person’ or ‘autistic’) rather than ‘person-first’ language: autism, it is said, is part of the person, like sex or sexuality, not, like a disorder, a separable (and possibly regretta -
+ble) fact about them, so we should no more talk of a ‘person with autism’ than a ‘person with femaleness’ or a ‘person with homosexu -
+ality’.
+86 The idea of autism as part of an individual’s identity suggests 
+another way of defending the assertion that autism is not intrinsi -
+cally harmful.
+The earliest and best-known articulation of this argument comes 
+from Sinclair’s article, originally published in 1993:
+Autism isn’t something a person has, or a ‘shell’ that a person is trapped inside. There’s no normal child hid -
+den behind the autism. Autism is a way of being. It is pervasive; it colors every experience, every sensa -
+tion, perception, thought, emotion, and encounter, every aspect of existence. It is not possible to sepa -
+rate the autism from the person—and if it were possi -
+ble, the person you’d have left would not be the same person you started with.
+87
+Sinclair’s argument is aimed at convincing parents who might be 
+inclined to wish that their child did not have autism that this really amounts to wishing that their child did not exist and that they had a different, non-autistic child instead. Its relevance to the non-disorder 
+ 83For example: ‘No Scotsman wears pants under his kilt.’ ‘But MacDonald does.’ ‘Well, if 
+he does then he isn’t a true Scotsman.’
+ 84Waterhouse, op. cit. note 5, p. xi. 85Chapman, op. cit. note 6, p. 375.
+ 86For example: Sequenzia, A. (2013). I am autistic. Autistic women & nonbinary network.  
+Retrieved from http://autis  mwome  nsnet  work.org/i-am-autis  tic/; Sinclair, J. (2013). Why 
+I dislike 'person first' language. Autonomy, the Critical Journal of Interdisciplinary Autism 
+Studies, 1 (2); Zoe. (2012). Disability first: Autism is not an accessory. Illusion of 
+competence.  Retrieved from http://illus  ionof  compe  tence.blogs  pot.co.uk/2012/08/disab 
+ility -first  -autis  m-is-not-acces  sory.html; Brown, L. (2011). Person-first language: Why it 
+matters (the significance of semantics). Thinking person's guide to autism.  Retrieved from 
+http://www.think  ingau  tismg  uide.com/2011/11/perso  n-first  -langu  age-why-it-matte  
+rs.html. It should be noted, however, that not all autistic people share either this 
+linguistic preference or the view that autism is part of their identity; see e.g. Williams, D. (2013). Autism, identity first language, and identity. Polly's pages.  Retrieved from http://
+blog.donna  willi ams.net/2013/12/30/autis  m-ident  ity-first  -langu  age-and-ident  ity/
+ 
+87Sinclair, op. cit. note 86, p. 1.
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+58 |
+HUGHES
+尚不清楚所有这些现象，更不用说自闭症可能造成危害的其他方式，
+是否都能如此轻易地被搁置一旁。
+例如，虽然注意力受损常与注意力缺陷多动障碍（ADHD）相关，
+但注意力分配及其他认知资源方面的困难也可能是自闭症的一个特征，
+而此时ADHD的其他诊断标准并不存在。与注意力相关的困难与执行
+功能障碍和单通道思维有关，这两种心理机制被假定为自闭症行为的
+原因。同样，情绪低落（包括焦虑——神经多样性倡导者常将其描述
+为一种共病，可能适合进行医学干预）和自伤行为可能源于与个体自
+闭症无关的可诊断疾病，但也可能直接源于核心自闭症特征引发的挫
+折和痛苦，包括前一节所述的社会交往与沟通困难，以及注意力狭窄
+和感官超载的影响。
+对于将本质上有害的现象归因于共病这一策略，还存在一个更普
+遍的问题，即自闭症在因果层面的异质性。只有当支持者能够清晰阐
+明哪些属于自闭症的一部分、哪些属于共病时，这一策略才站得住脚。
+请考虑以下虚构对话：
+‘自闭症本身并非有害。’
+‘但X是自闭症的一个特征，其本身可能是有害的。’
+‘X不可能是自闭症的一部分，因为它本身是有害的。’
+这是“非真苏格兰人”谬误的一个例子：通过任意缩小通用术语
+的适用范围来排除对某个普遍主张的反例，从而使最初的一般性陈述
+变成同义反复。83 若要保留最初概括的实质内容，我们需要一个实质
+性的理由来排除该反例，且该理由不能预先假设被挑战的主张为真。
+然而，正如我们在上一节所见，自闭症在因果层面和行为层面的异质
+性，让人怀疑能否在自闭症与其他心理状况之间划出非任意的界限。
+正如哈佩和罗纳德所主张的，认为不同行为特征具有不同原因的
+观点支持了‘分解’假说，即我们所谓的自闭症实际上是多个独立行
+为特征的共存，每种特征都有其自身的因果机制。沃特豪斯指出，
+‘自闭症的表现几乎总是伴随着一种或多种额外的非诊断性症状’。
+84 如果这些观察是正确的，那么决定将一系列特征中的哪些纳入或排
+除出自闭症范畴本质上是武断的。它可能基于高于偶然的共存现象（除非这仅仅反映
+了我们现有的定义引导我们去寻找不同特征重合的案例），但由于此
+处的论证是关于那些确实倾向于与被接受为自闭症特征的特征共存的
+特征，这并不能提供一个客观理由，将有害特征排除在自闭症本身之
+外。
+6 | 回应三：作为身份认同的自闭症
+神经多样性范式的倡导者常常声称，自闭症是自闭者身份认同的一部
+分。例如，查普曼将自闭症及其他神经分类型描述为‘与自我的形成
+和构成密切相关’。85 这种观念在神经多样性倡导者偏好‘身份优先’
+（‘自闭者’或‘自闭的’）而非‘人本优先’语言的理由中也显而
+易见：据说，自闭症如同性别或性取向一样，是人的一部分；而不像
+一种障碍那样，是一个可分离的（且可能令人遗憾的）关于他们的事
+实。因此，我们不应说‘患有自闭症的人’，就像不应说‘患有女性
+特质的人’或‘患有同性恋的人’一样。86 将自闭症视为个体身份的
+一部分这一观点，为‘自闭症本质上并非有害’这一论断提供了另一
+种辩护方式。
+这一论点最早且最著名的阐述来自辛克莱的文章，最初发表于
+1993年：
+自闭症不是一个人所拥有的某种东西，也不是将人困
+住的‘外壳’。并不存在一个隐藏在自闭症背后的
+‘正常孩子’。自闭症是一种存在方式。它是弥漫性
+的；它浸染着每一次体验、每一种感‑
+知、知觉、思想、情感与际遇，浸染着存在的每一个
+方面。将自闭症与这个人分离开来是不可能的——即便
+可能，你所剩下的那个人，也早已不是最初的那个人
+了。87
+辛克莱的论点旨在说服那些可能倾向于希望自己的孩子没有自闭
+症的父母，让他们明白这实际上等同于希望自己的孩子不存在，并希
+望自己拥有一个不同的、非自闭症的孩子。其与非障碍主张的相关性
+在于
+83例如：‘没有苏格兰人会在短裙下穿裤子。’‘但麦克唐纳就穿。’‘好吧，如果他穿，
+那他就不是真正的苏格兰人。’84Waterhouse,同前注5,p.xi.85Chapman,同前注6,p.375.
+86例如：Sequenzia,A.(2013).Iamautistic.自闭症女性与非二元网络。检索自
+http://autismwomensnetwork.org/i‑am‑autistic/;Sinclair,J.(2013).WhyI
+dislike'personfirst'language.自主性：跨学科自闭症研究批判期刊,1(2);Zoe.(2012).
+Disabilityfirst:Autismisnotanaccessory.能力幻觉。检索自http://illusionof
+competence.blogspot.co.uk/2012/08/disability‑first‑autism‑is‑not‑acces
+sory.html;Brown,L.(2011).Person‑firstlanguage:Whyitmatters(the
+significanceofsemantics).智者的自闭症指南。检索自http://www.thinkingau
+tismguide.com/2011/11/person‑first‑language‑why‑it‑matters.html.然而应当指出，
+并非所有自闭症人士都认同这种语言偏好或认为自闭症是他们身份的一部分；参见例如
+Williams,D.(2013).Autism,identityfirstlanguage,andidentity.波莉的页面。检索
+自http://blog.donnawilliams.net/2013/12/30/autism‑identity‑first‑langu
+age‑and‑identity/87Sinclair,同前注86,p.1.
+
+--- Page 13 ---
+    |  59
+HUGHES
+claim lies in its suggestion that a person cannot be harmed by their 
+autism because there is no comparator state in which they are bet -
+ter-off. This suggestion can be interpreted in stronger or weaker forms, depending on how ‘identity’ is understood.
+In the stronger version, which appears to be Sinclair’s view, au -
+tism is a component of a person’s numerical identity such that with -
+out the autism that person would literally not exist. But why should we think this? Sinclair’s reason seems to be the pervasiveness of the way that autism affects the individual’s experience. This assumes a psychological account of personal identity, according to which a loss of psychological continuity of sufficient magnitude can result in the existence of a different person in the same body. Thus, Sinclair thinks that that a person who ceased to be autistic would cease to exist and be replaced by a different person.
+However, two facts undermine this argument. First, the most 
+plausible psychological accounts of personal identity hold that it can be maintained by overlapping chains of psychological links, even if no direct connections exist. Thus, while Sinclair’s argument might hold in the (highly implausible) case of an intervention that resulted in the sudden disappearance of a person’s autistic traits, it would not hold for a more gradual, step-by-step change. Second, following Locke, psychological accounts of identity usually focus on continu -
+ity of memory (including continuity maintained through a series of overlapping memories) rather than other psychological attributes. Thus, provided a person retained sufficient memory of their earlier state (or could be linked to the earlier state via a chain of overlapping memories), their behavioural dispositions or quality of experience could change radically, and even suddenly, without them becoming a different person.
+A weaker version of the argument connecting autistic identity 
+with an absence of harm rests not on the idea that one would literally be a different person in the absence of one’s autism, but on the idea of identity as comprising the aspects of oneself that one considers most important, that pick out the kind of person one wants to be, that are linked to a sense of personal integrity or narrative, or that link one to others to whom one feels connected as part of a com -
+munity. The claim here would be that if being autistic contributes to one’s identity in one of this cluster of senses, then it provides something of value that will outweigh any difficulties and distress that might be attached to it.
+This may be true for some autistic people, but it cannot be gener -
+alized. Some autistics publicly oppose the neurodiversity movement because they do not identify with their autism in this way, and would want to be ‘cured’ if that were possible. It could be that such people are failing to see the value that could be obtained from embracing their autism as an identity, or it could be that not all personalities are compatible with such identification. Either way, this identification is not something that could be imposed. Moreover, even for someone who does identify with their autism and lives a more fulfilling life as a result, this does not entail that they are better off than they would be if they were not autistic. This might depend on the coun -
+terfactual under consideration; for example, ceasing to be autistic as a result of treatments in adulthood after growing up autistic and identifying as such through one’s formative years could be very dif -
+ferent from imagining how one might have been had an early inter -
+vention changed the course of one’s development. And just as the discontented autistic might be mistaken about the possibilities open to them if they embraced their autism, so the person who identifies with their autism could, like anyone contemplating a transformative change, be mistaken about the kind of life that effective treatment of their autism, were it possible, could result in. The point here is that there is no necessity that embracing one’s autistic traits as part of one’s identity in this weaker sense will outweigh or cancel any disadvantage attached to those traits, and so neither the stronger nor the weaker versions of the identity argument show that autism cannot be harmful.
+7 |  Conclusion
+The neurodiversity ‘paradigm’ or ‘perspective’ is characterized by its advocates as comprising certain basic claims about the nature of autism and other neurodivergent conditions that shape the way we view them and provide a ‘philosophical basis’ for the activism of the neurodiversity movement. I have argued that the heterogeneity of autism not only challenges these claims directly but also undermines arguments that are often used to respond to this challenge. The main focus of this paper has been on the claim that autism is not a disorder but merely a difference, which itself rests on the claim that it is not, in itself, harmful or disabling. This is the most central of the claims comprising the paradigm in terms of its prominence in the literature and its connections with the practical policy claims that the para -
+digm is supposed to support.
+The claim that autism is not a disorder is based on the propo -
+sition that autistic traits are not harmful to those that have them except insofar as they are subject to discriminatory treatment (for example in the form of discriminatory attitudes or material condi -
+tions that unjustly favour the neurotypical majority). However, it is increasingly recognized in the scientific literature and reflected in current diagnostic criteria that autism comprises a complex array of traits that can manifest in very different ways. Some ways of being autistic are benign (or would be in a society that was more accommo -
+dating of neurological difference) but others are disadvantageous to those that have them in ways that are not only a matter of discrim -
+ination or injustice. This makes the unrestricted claim that autism is not a disorder both theoretically unwarranted and potentially dam -
+aging to those whose needs for support go beyond the removal of discrimination.
+Responses to this objection often restrict the scope of the 
+non-disorder claim in one of two ways. One approach, favoured by Jaarsma and Welin (but opposed by many neurodiversity advocates), restricts the claim to ‘high-functioning’ or ‘mild’ autism, allowing that ‘low-functioning’ or ‘severe’ autism may properly be considered a disorder. However, the complex heterogeneity of autistic traits makes any simple division into high- and low-functioning subgroups on the basis of measures such as IQ untenable and potentially more 
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+| 59
+HUGHES
+它暗示一个人不会因其自闭症而受到伤害，因为不存在一个他们境况
+更好的对照状态。这一暗示可根据对‘身份’的不同理解，被解读为
+更强或更弱的形式。
+在更强硬的版本中——这似乎是辛克莱的观点——自闭症是一个
+人数字身份的一个组成部分，以至于没有自闭症，那个人就根本不会
+存在。但我们为什么要这么想呢？辛克莱的理由似乎是自闭症影响个
+体体验的普遍性。这假定了个人身份的一种心理学解释，根据这种解
+释，足够程度的心理连续性丧失可能导致同一个身体内存在一个不同
+的人。因此，辛克莱认为，一个不再自闭的人将不复存在，并被一个
+不同的人所取代。
+然而，有两个事实削弱了这一论点。首先，关于个人身份最合理
+的心理学解释认为，它可以通过重叠的心理联系链来维持，即使不存
+在直接联系。因此，虽然辛克莱的论点在（极不可能发生的）一种干
+预导致一个人的自闭特征突然消失的情况下可能成立，但它对于一个
+更渐进、逐步的变化则不成立。其次，遵循洛克的观点，关于身份的
+心理学解释通常侧重于记忆的连续性（包括通过一系列重叠记忆维持
+的连续性），而非其他心理属性。因此，只要一个人保留了对先前状
+态的足够记忆（或能通过一系列重叠的记忆链与先前状态联系起来），
+他们的行为倾向或体验质量就可能发生根本性的、甚至是突然的改变，
+而不会变成另一个人。
+将自闭症身份与无伤害性联系起来的论证，其一个较弱版本并非
+基于‘若无自闭症则个人将截然不同’这一观点，而是基于一种身份
+认同观念：身份由个人认为最重要的方面构成，这些方面界定了个人
+希望成为的类型，与个人完整性或叙事感相连，或将个人与所归属的
+社群中的其他成员联系起来。此处的论点是，若自闭症身份以这类意
+义中的任何一种方式为个人身份作出贡献，那么它就提供了某种具有
+价值的东西，足以抵消可能伴随而来的任何困难与痛苦。
+这对一些自闭症人士来说可能是事实，但这不能一概而论。一些
+自闭症人士公开反对神经多样性运动，因为他们并不以这种方式认同
+自己的自闭症，并且如果可能的话，他们希望被‘治愈’。这可能是
+因为这些人未能看到将自闭症作为一种身份认同所能带来的价值，也
+可能是因为并非所有人的个性都适合这样的认同。无论如何，这种认
+同是无法强加的。此外，即使对于认同自己的自闭症并因此过上更充
+实生活的人来说，这也不意味着他们比如果自己不是自闭症者时过得
+更好。这可能取决于所考虑的反事实情境；例如，在自闭症中成长并在性格形成期以此身份认同多年后，因治疗而不再自闭，这与想象早
+期干预改变了自身发展轨迹的情况可能大不相同。正如不满的自闭症
+人士可能错误地判断了如果他们接纳自闭症后所拥有的可能性一样，
+认同自己自闭症身份的人，就像任何考虑重大转变的人一样，也可能
+错误地判断了如果有效治疗自闭症（假设可能的话）会带来怎样的生
+活。这里的关键在于，并不必然地，在这种较弱的意义上将自闭症特
+征作为身份认同的一部分，就会压倒或抵消这些特征带来的任何不利
+之处。因此，无论是强版本还是弱版本的身份认同论证，都未能证明
+自闭症不可能是有害的。
+7 | 结论
+神经多样性‘范式’或‘视角’被其倡导者描述为包含关于自闭症及
+其他神经分化状况本质的一些基本主张，这些主张塑造了我们看待它
+们的方式，并为神经多样性运动的行动主义提供了‘哲学基础’。本
+文论证，自闭症的异质性不仅直接挑战了这些主张，也削弱了常用于
+回应此挑战的论据。本文主要聚焦于‘自闭症并非障碍而仅是一种差
+异’这一主张，该主张本身又依赖于‘自闭症本身并无害或致残性’
+的论断。就其在文献中的突出地位及其与范式本应支持的实际政策主
+张的关联而言，这是构成该范式的诸多主张中最核心的一条。
+认为自闭症不是一种障碍的主张，其基础在于这样一种论点：自
+闭症特质对拥有者并无害处，除非他们遭受歧视性对待（例如，以歧
+视性态度或物质条件的形式，不公正地偏袒神经典型多数群体）。然
+而，科学文献日益认识到，并且现行诊断标准也反映出，自闭症包含
+一系列复杂的特质，这些特质可能以截然不同的方式表现出来。某些
+自闭症的存在方式是良性的（或者在一个更能容纳神经多样性差异的
+社会中会是良性的），但另一些方式则对拥有者不利，这种不利不仅
+仅源于歧视或不公。这使得那种无限制地宣称自闭症不是一种障碍的
+说法，不仅在理论上站不住脚，而且可能对那些需求超越消除歧视、
+需要更多支持的人造成潜在伤害。
+针对这一反对意见的回应通常通过以下两种方式之一来限制‘非
+障碍’主张的适用范围。一种方法，受到Jaarsma和Welin的青睐
+（但遭到许多神经多样性倡导者的反对），将主张限制在‘高功能’
+或‘轻度’自闭症上，承认‘低功能’或‘重度’自闭症可能被合理
+地视为一种障碍。然而，自闭症特质的复杂异质性使得任何基于智商
+等指标简单划分高、低功能亚组的做法都站不住脚，并且可能比这种
+划分原本旨在解决的、将自闭症普遍标签化为障碍的做法更具
+
+--- Page 14 ---
+60  |    
+HUGHES
+stigmatizing than the general labelling of autism as a disorder that 
+the division is intended to address. The other approach, favoured by Chapman, defends the application of the non-disorder claim to au -
+tism as a whole by reclassifying intrinsically harmful traits as co-oc -
+curring conditions, separate from autism. However, this requires a non-arbitrary and non-circular way of drawing the boundary be -
+tween autism and other conditions, when as Waterhouse and others have shown, there is a great deal of overlap of both the manifest ‘symptoms’ and the underlying causes. I also considered whether the common view of autistic traits as part of an autistic person’s iden -
+tity can counter the objection to the non-disorder claim, concluding that a strong interpretation of this identity claim is implausible while a weaker version fails to establish that autism is never intrinsically harmful.
+The argument made in this paper is not that autism is always a 
+disorder but that it sometimes is, or at least that it sometimes has the intrinsically harmful character that is necessary for a condition to count as a disorder. Rather than denying this or attempting to di -
+vide autism into benign and harmful variants, the interests of autistic people may be better served by recognizing that advantages and dis -
+advantages can exist across the autistic landscape and that the mag -
+nitude of the latter (and therefore the net effect of a person’s autism) may depend on both intrinsic and/or social factors. A weaker form of neurodiversity perspective could be defended not as a general claim about the relative importance of these factors, but as a com -
+mitment to giving each its due, and to recognizing and promoting the strengths that autistic people often possess.
+These arguments do not diminish the value of the concept of 
+neurodiversity as an evaluatively neutral way of referring to the fact of human neurocognitive variation within and beyond autism. Nor do they undermine the value of a neurodiversity movement that aims at promoting the rights and welfare of people whose place within this landscape causes them to be disadvantaged. The main goals of the neurodiversity movement—equal rights, respect, resources for support and accommodation of autistic differences, educational and employment opportunities, removal of stigma, and a greater role for autistic voices in decisions that affect them individually and collec -
+tively—do not depend on denying that autism can be intrinsically harmful, and are not advanced by exaggerated or false claims to this effect. To suggest that the non-disorder claim is necessary to justify these goals would be to justify stigmatization and unequal treatment of people with conditions, for example many physical illnesses, that are uncontroversially disorders.Rejection of the strong neurodiversity claim does undermine a 
+(perhaps hypothetical) argument that medical interventions for au -
+tism (as opposed to co-occurring conditions) should never be offered, simply because there is no disorder to treat. However, this would be a weak argument anyway, given the weight that is normally given to autonomy in treatment decisions and that we know there are some autistics who would choose medical treatment of their autistic traits were it available. To counter this, it is not enough to assert that those individuals are mistaken; rather, it would need a substantive argu -
+ment that offering such treatment would cause harms to others suf -
+ficient to justify curtailing the individual’s autonomy.
+ACKNOWLEDGMENTS
+I am grateful to Eve Garrard for extensive discussion of the topics cov -
+ered in this paper and for comments on drafts, to Monique Jonas for comments on an earlier version, and for the constructive suggestions of two anonymous referees. A precursor of this paper was presented at the 29th European Conference on Philosophy of Medicine and Healthcare in Ghent in August 2015 and benefitted from comments by Kristien Hens and Pier Jaarsma. [Correction added on 03 July 2020, after first online publication: the acknowledgments section has been added.]
+CONFLICT OF INTEREST
+The author declares no conflict of interest.
+ORCID
+Jonathan A. Hughes  
+ https:/ /orcid.org/0000-0002-7219-3249  
+AUTHOR BIOGRAPHY
+Jonathan A. Hughes  is Senior Lecturer in Ethics in the School 
+of Law at Keele University, UK. His training is in philosophy and political theory. His research in the field of bioethics has focused on conscientious objection, resource allocation, research ethics, risk and precaution. He has also written on criminal justice ethics and environmental politics.
+How to cite this article: Hughes JA. Does the heterogeneity of autism undermine the neurodiversity paradigm?. Bioethics . 
+2021;35:47–60. https://doi.org/10.1111/bioe.12780
+ 14678519, 2021, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/bioe.12780, Wiley Online Library on [04/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+60 |
+HUGHES
+污名化。另一种方法，受到Chapman的推崇，通过将本质上具有伤
+害性的特质重新归类为与自闭症分离的共病状况，来为整个自闭症谱
+系适用‘非障碍’主张进行辩护。然而，这需要一种非任意且非循环
+的方式来划清自闭症与其他状况之间的界限，而正如Waterhouse等
+人所揭示的，无论是外在‘症状’还是内在成因都存在大量重叠。我
+也考虑了将自闭症特质视为自闭症者身份一部分的普遍观点能否反驳
+对‘非障碍’主张的异议，结论是：对这一身份主张的强解释是站不
+住脚的，而较弱的版本则无法确立自闭症从本质上永不具有伤害性。
+本文提出的论点并非认为自闭症总是一种障碍，而是认为它有时
+是，或者至少它有时具有一种内在的有害特征，而这种特征是一种状
+况被认定为障碍所必需的。与其否认这一点，或试图将自闭症划分为
+良性与有害的变体，或许通过认识到优势与劣势可以共存于整个自闭
+症谱系中，且后者的严重程度（因而一个人自闭症的净效应）可能同
+时取决于内在和/或社会因素，能更好地服务于自闭症人群的利益。
+一种较弱形式的神经多样性观点可以得到辩护，并非作为关于这些因
+素相对重要性的一般性主张，而是作为一种承诺，即给予每个因素应
+有的考量，并认可和促进自闭症人群常具备的优势。
+这些论点并未贬低神经多样性概念的价值——它作为一种评价中
+立的方式，指涉着人类神经认知在自闭症内外存在差异这一事实。它
+们也未削弱神经多样性运动的价值，该运动旨在促进那些因身处此差
+异图景中而处于不利地位者的权利与福祉。神经多样性运动的主要目
+标——平等权利、尊重、支持与适应自闭症差异的资源、教育与就业
+机会、消除污名，以及让自闭症者在影响其个体与集体的决策中拥有
+更大发言权——并不依赖于否认自闭症可能具有内在伤害性，也无需
+通过夸大或虚假的断言来推进。若认为必须借助“非障碍”主张才能
+为这些目标辩护，那无异于为污名化和不平等对待那些患有（例如许
+多身体疾病这类）毫无争议的障碍病症的人提供理由。对强神经多样性主张的驳斥确实削弱了一种（或许是假设性的）
+论点，即针对自闭症本身（而非共病）的医学干预绝不应提供，仅仅
+因为“没有需要治疗的障碍”。然而，鉴于治疗决策中通常对自主权
+的重视，且我们已知部分自闭症者若有机会会选择对其自闭症特质进
+行医学治疗，这种论点本身就很薄弱。要反驳这一点，仅断言那些个
+体是错误的并不足够；相反，需要提供一个实质性的论证，说明提供
+此类治疗会对他人造成足够严重的伤害，以致有理由限制个体的自主
+权。
+致谢
+我衷心感谢EveGarrard就本文所涉主题进行了广泛讨论并对草稿提
+出了意见，感谢MoniqueJonas对早期版本提出的意见，并感谢两位
+匿名审稿人提出的建设性建议。本文的前身曾于2015年8月在根特举
+行的第29届欧洲医学与医疗保健哲学会议上发表，并受益于
+KristienHens和PierJaarsma的评论。[更正于2020年7月3日添加，
+首次在线发布后：致谢部分已添加。]
+利益冲突
+作者声明无利益冲突。
+ORCID
+JonathanA.Hugheshttps://orcid.org/0000‑0002‑7219‑3249
+作者简介
+Jonathan A. Hughes是英国基尔大学法学院伦理学高级讲师。他
+的学术背景是哲学与政治理论。他在生命伦理学领域的研究主要
+集中于良心拒绝、资源分配、研究伦理、风险与预防原则。此外，
+他也撰写了关于刑事司法伦理与环境政治方面的文章。
+如何引用本文：HughesJA.自闭症的异质性是否会削弱神
+经多样性范式？Bioethics.2021;35:47–60. 
+https://doi.org/10.1111/bioe.12780

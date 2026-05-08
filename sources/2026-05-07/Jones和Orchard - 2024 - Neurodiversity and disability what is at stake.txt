@@ -1,0 +1,1539 @@
+
+--- Page 1 ---
+456   
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808
+Neurodiversity and disability: what is at stake?
+Eleanor K Jones     , Vivienne OrchardOriginal research
+To cite: Jones EK, 
+Orchard V . Med Humanit 2024;50:456–465.Languages, Cultures and Linguistics, University of Southampton, Southampton, UK
+Correspondence to
+Dr Eleanor K Jones;  
+ e. k. jones@  soton.  ac. uk
+Accepted 28 January 2024Published Online First 15 February 2024
+© Author(s) (or their employer(s)) 2024. No commercial re-
+ use. See rights 
+and permissions. Published by BMJ.
+ABSTRACT
+Neurodiversity has come hugely to the fore in recent years in a variety of contexts, and is now subject to academic debate, activist discussion, and increasingly embedded in a range of institutional and corporate settings in the Global North, from workplaces to early years education, from psychotherapy to mainstream political discourses. The term has gained traction in Medical Humanities, as well as debate within bioethics, philosophy of psychology, and of law. Institutionally, it is now relied on in therapeutic practice, autism service provision, as well as in higher education, in particular. In this conceptual article we examine what is at stake in these usages and the implications in need of scrutiny. We resituate neurodiversity in relation to questions of disability by examining the deployment of neurology as the basis for identity, rights and benefits. The emergence of the term and the understandings to which it gives rise, we argue, leave out urgent questions of what is at stake for disabled people in a political climate of increasing harshness and ableism.
+This article is an attempt to resituate disability in 
+relation to neurodiversity. At the time of writing, as we move towards the end of the thirteenth year of Conservative rule in the UK, the situation for disabled people has rarely seemed bleaker. In the past week alone, two pieces of news have broken—quietly—that bring this situation into stark relief. The first is the emergence of plans to further cut spending on benefits for disabled people who cannot work. On the basis that home working, following the COVID-
+ 19 pandemic, is now 
+commonplace, ministers are planning to enact these cuts 
+by removing bladder and bowel incontinence, 
+impaired mobility and ‘inability to cope with social interaction’ as grounds for inability to work (Pring 2023 ). For anyone familiar with disability politics 
+in the UK, it will not need stating that access to the paltry benefits supposedly available to disabled people is already subject to processes so cruel and so degrading that they have resulted in deaths (Mills and Pring 2024). The second piece of news revealed Department for Education plans to cut local council spending on already chronically underfunded ‘special educational needs and disabilities’ provision for children by 20% (Jayanetti 2023). Meanwhile, as his party continues this long-
+ standing campaign 
+of degradation against disabled people, Conserva-
+tive MP Robert Buckland has launched a campaign aimed at ‘closing the employment gap for autistic people and those with other neurodivergent needs’. The campaign supports businesses to ‘improve the life chances of neurodivergent employees’ (Buckland 2023) in order that they might ‘reap the benefits of a neurodiverse workforce’ (Savage 
+2023 ). A charity, Neurodiversity in Business, is on 
+board as a partner.
+That neurodiversity has become firmly embedded 
+in the mainstream, and that it has become increas-ingly separated from disability, is nowhere more clearly illustrated. Neurodiversity, neurodivergence and related concepts can no longer be referred to as simply descriptions, identities or even as a move-ment. Their take-
+ up across a range of key insti-
+tutions, including but not limited to businesses, charities, clinical and educational practitioners, schools and universities, trade unions and, most recently, politicians, puts this beyond dispute. Neurodiversity is increasingly taken as a given, needing no explanation. Perhaps more significantly, it is also treated as essentially progressive, held aloft by both private and public institutions as proof of their putative commitment to equality and inclusion. This elevation of neurodiversity against a backdrop of deepening structural violence against disabled people calls for closer scrutiny of the relationship between the two. Yet while neurodiversity has been subject to critique from a range of disciplines—including bioethics, philosophy of psychology, legal philosophy, education and the history of science—these critiques have tended to skirt around any commitment to disability as a political entity and experience. As a result, a concrete sense of what is at stake for disabled people in these debates is frequently lacking. Our article seeks to correct this tendency by foregrounding disability in its consid-eration of neurodiversity’s foundations, omissions and exclusions. Expanding in part on Ari Ne’eman and Elizabeth Pellicano’s 2022 mapping of poten-tial risks stemming from the concept’s current political mobilisations, we suggest that neurodi-versity functions to distance its proponents from disability through a dual process of dehistoricisa-tion and insistence on neuro  as neutral or progres -
+sive. Debates on the various political implications of the suffix, then—neurodiversity versus neurodi-vergence, for example—miss that any potential for genuine social change is already forestalled by the meanings implicated in neuro. We begin by laying out the nature of current debates around the term, identifying areas frequently excluded from discus-sion, and consider what exactly is at stake in these omissions. We then look back to one of the form-ative texts of neurodiversity—Judy Singer’s 1999 chapter—to discuss the origins of its oversights, before reflecting on proponents' use of historical narrative and what it engenders.
+Our analysis focuses specifically on published 
+scholarship and institutional practice. We have intentionally chosen not to include social media discourse, despite its close association with Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+456
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808
+神经多样性与残障：关键何在？
+EleanorKJones,VivienneOrchard原创研究
+引用：JonesEK,
+OrchardV.医学人文
+2024;50:456–465.南安普顿大学语言、文化与
+语言学系，南安普顿，英国
+通讯作者
+EleanorKJones博士；
+e.k.
+jones@南安
+普顿.ac.uk
+2024年1月28日接收，
+2024年2月15日首次在线发
+布
+©作者（或其雇主）
+2024。禁止商业性再利用。
+有关权利和许可，请参阅
+相关规定。由BMJ出版。
+摘要
+近年来，神经多样性在多种语境中变得极为突出，
+现已进入学术辩论、行动主义讨论的范畴，并日
+益广泛地嵌入全球北方的一系列机构和公司环境
+中——从工作场所到早期教育，从心理治疗到主
+流政治话语。这一术语在医学人文领域已获得广
+泛关注，并在生物伦理学、心理学哲学和法学领
+域引发了讨论。在制度层面，它尤其被应用于治
+疗实践、孤独谱系服务供给以及高等教育中。在
+这篇概念性文章中，我们审视了这些用法背后的
+利害关系以及需要仔细审查的潜在影响。我们通
+过检视神经学作为身份、权利和福利基础的应用，
+将神经多样性重新置于残障问题的语境中。该术
+语的出现及其引发的理解
+,
+我们认为，在一个日益严酷和健全主义的政治气候
+中，这遗漏了关乎残障人士利害关系的紧迫问题。
+本文旨在尝试重新定位残障与神经多样性之间的
+关系。在撰写本文时，随着英国保守党执政进入
+第十三个年头，残障群体的处境似乎从未如此黯
+淡。就在过去一周，两条消息悄然传出，使这一
+状况显得尤为严峻。首先是政府计划进一步削减
+针对无法工作的残障人士的福利支出。基于新冠
+疫情后居家办公已变得普遍，部长们计划通过取
+消将膀胱和肠道失禁、行动能力受损以及“无法
+应对社交互动”作为无法工作的理由来实施这些
+削减（Pring2023）。对于熟悉英国残障政治的
+人来说，无需多言，本已微薄且据称可供残障人
+士申请的福利，其申请过程已如此残酷和屈辱，
+甚至导致了死亡（MillsandPring2024）。第
+二条消息揭示了教育部计划将地方议会本已长期
+资金不足的儿童“特殊教育需求与残障”服务支
+出削减20%（Jayanetti2023）。与此同时，尽管
+其政党持续对残障群体进行这场由来已久的贬损
+运动，保守党议员罗伯特·巴克兰却发起了一项旨
+在“缩小孤独谱系群体及其他神经殊异需求人士
+的就业差距”的运动。该运动支持企业“改善神
+经殊异雇员的生活机会”（Buckland2023），
+以便他们能够“收获神经多元劳动力的益处’（Savage2023）。一家慈
+善机构，商业中的神经多样性，已作为合作伙伴加入。
+神经多样性已牢固地嵌入主流，并且日益与
+残障分离，这一点在此得到了最清晰的体现。神
+经多样性、神经殊异性及相关概念已不能再被简
+单地称为描述、身份，甚至是一场运动。它们被
+一系列关键机构采纳——包括但不限于企业、慈善
+机构、临床和教育从业者、学校和大学、工会，
+以及最近的政客——使这一点毋庸置疑。神经多样
+性越来越被视为理所当然，无需解释。或许更重
+要的是，它也被视为本质上是进步的，被私人和
+公共机构高举，作为其对平等与包容假想承诺的
+证明。在针对残障人士的结构性暴力日益加深的
+背景下，神经多样性的这种提升，要求我们更仔
+细地审视两者之间的关系。然而，尽管神经多样
+性已受到来自一系列学科的批判——包括生物伦理
+学、心理学哲学、法哲学、教育和科学史——但这
+些批判往往回避将残障作为一个政治实体和体验
+来承诺。因此，在这些辩论中，残障人士的利害
+关系究竟是什么，常常缺乏具体的认知。我们的
+文章试图纠正这种倾向，在其对神经多样性的基
+础、遗漏和排除的考量中，将残障置于前台。部
+分扩展了AriNe’eman和ElizabethPellicano
+于2022年对源自该概念当前政治动员的潜在风险
+的描绘，我们认为神经多样性通过一种去历史化
+和坚持将神经视为中立或进步的双重过程，使其
+支持者与残障保持距离。那么，关于该后缀（例
+如，神经多样性与神经殊异性）各种政治含义的
+辩论——都忽略了任何真正社会变革的潜力，早已
+被蕴含在神经中的意义所阻碍。我们首先阐述当
+前围绕该术语的辩论性质，指出讨论中经常被排
+除的领域，并思考这些遗漏究竟关乎什么利害。
+然后，我们回顾神经多样性的一篇形成性文本——
+JudySinger1999年的章节——讨论其疏忽的起源，
+接着反思支持者对历史叙事的运用及其所产生的
+影响。
+我们的分析特别聚焦于已发表的学术研究和
+机构实践。尽管社交媒体话语与之紧密相关，但
+我们有意选择不将其纳入，
+--- Page 2 ---
+ 457
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+neurodiversity, for two reasons. First, we are primarily inter -
+ested here in the way that neurodiversity-  as- concept circulates 
+through and around institutions, a dynamic that relies on the 
+legitimation offered by publication and other processes of 
+formalised visibility. Second, as we hope becomes clear in the later parts of our article, the very idea of an essentially inclusive online ‘neurodiversity community’ is flawed such that treating it as a reliable proxy for any particular group would be misleading. Throughout the article, we follow Price (2011, 9) in using the deliberately non-
+ specific term ‘mental disability’ to describe the 
+disablement of individuals and groups on the basis of patholo-gised differences and states culturally assumed—but, crucially, not necessarily proven—to reside or originate in the brain or mind. Ultimately, we seek to understand the tensions between neurodiversity’s increased visibility (Crawshaw 2023) and the ongoing harms of structural ableism.
+The origins of neurodiversity as concept are generally traced 
+to online autistic spaces in the mid-
+ 1990s, and its take-  up in 
+academia to the work of Singer from 1998 onwards. Some 
+accounts trace the concept, if not the term, back to Jim Sinclair’s (1993)  essay ‘Don’t mourn for us’ (Pripas-
+ Kapit 2020 ), but given 
+that Sinclair’s text makes no mention of neurology or the brain, it seems more accurate to locate this early text within the field of autistic self-
+ advocacy , which has often overlapped—or been 
+conflated—with neurodiversity but is ultimately distinct in terms of locations and aims. Following Singer’s popularisation of the term, neurodiversity became subject to debate and critique in the overlapping arenas of academia and online activism, and rapidly entered the mainstream from there. Within scholarship, theori-sations and defences of the concept have tended to foreground narratives of lived experience and personal identity, with limited consideration of concrete structural concerns or pre-
+ 1990s 
+historical context. Meanwhile, where the term is questioned or 
+challenged, it is generally from a dispassionate or even abstract standpoint that often gestures towards structural oppression in non-
+ specific terms but is scarcely concerned with individuals or 
+groups on the ground. Thus, any dialogue between these two formations is on these terms—either hyperspecific or decontex-tualised—and questions of concrete structural impact or political implication fall by the wayside.
+The introduction to Steven Kapp’s 2020 edited volume, 
+presented as ‘the first historical overview of the autistic commu-nity and the neurodiversity movement’ (2) and bringing together early and more recent neurodiversity proponents, provides an instructive entry point into the field’s current principles, and the various convergent and divergent lines of thought that characterise discourse on the subject. Kapp acknowledges that neurodiversity, which he sees primarily as a ‘movement’ that covers those with ‘neurocognitive differences’ (2020, 2), is itself diverse, and that individual scholars and activists have their own interpretations of the concept, but identifies as basic shared prin-ciples the ‘primacy of biology’ (3) and the espousal of ‘brain-
+ 
+based explanations’, rather than psychological ones, for autism (6). He is also 
+convinced of neurodiversity’s absolute inclusivity, 
+noting that it ‘accepts and fights for the full developmental spec-trum of autistic people’ (2020, 5), but questions whether mental illness falls adequately into ‘neurology’ to be included (4). That neurodiversity, at least in principle, is fundamentally inclusive is reflected across scholarship endorsing it, including by Walker (2014), Graby (2015), Woods et
+ al. (2018) , Dyck and Russell 
+(2020), Chapman (2020a, b), Bertilsdotter Rosqvist, Chown, 
+and Stenning (2020), Raymaker (2020) , Stenning and Bertils-
+dotter Rosqvist (2021) and Beck (2023). Graby, for example, 
+states that ‘AD(H)D, dyslexia, dyspraxia’ and learning disability were ‘acknowledged as being part of neurodiversity from the start’ (2015, 233) . Bertilsdotter Rosqvist, Chown and Stenning 
+recognise that neurodiversity as field of study has lacked certain perspectives—limited in their account to the exclusion of non-
+ 
+autistic ‘neurodivergences’—but see neurodiversity as concept as 
+having the potential to ‘redefine what it means to be human’, enabling us to ‘unlear[n] the cognitive normative gaze, as a way of cognitive decolonialisation’ .
+Likewise, while there is variation among scholars as to their 
+intellectual comfort with biology and neuroscience as under -
+pinning knowledge systems, the ‘primacy of biology’ identified by Kapp is evident even where it is critiqued. Damian Milton, in a published debate with Sami Timimi (2016), states that he sees autism as socially constructed rather than biological, but then returns to ‘diverse neurology’ as organising principle. He affirms that ‘embodied differences between people in terms of ‘disposition’’ that have ‘a biological aspect’ are responsible for ‘neurodivergence’, and that ‘diversity in neurological develop-ment will impact on perceptions and experiences of the social lifeworld’. Similarly, Stenning and Bertilsdotter-
+ Rosqvist note 
+that clinical disciplines have ‘failed to reveal any useful knowl-edge in the past 80 years of research’ , and yet are convinced that ‘these brains – labelled as impaired and autistic, ADHD, dyslexic or Tourette’s by psychologists […] conform to categories that reflect the underlying structure of reality as “natural kinds” that will eventually be confirmed by neuroscientists’ (1532) and that ‘who or what counts as neurodivergent will depend on under -
+lying neurology and physiology’ (1535). Chapman sees attempts to biologise autism as ‘committed to neuro-
+ centric essentialism’ 
+(2020b, 802), but continues to refer to ‘neurocognitive norms’, ‘neurotypes’ (2020a) and other terms whose coherence relies on neurology.
+To these two shared lines of thought identified by Kapp—
+that neurodiversity is, at its heart, inclusive and that neuro-logical explanations for mental disability are central to its legitimacy—we would add the principle of depathologisation. While Kapp himself refers to this aspect only in passing, in the same volume Russell highlights its pivotal role within neuro-diversity scholarship (2020, 298–99). Indeed, Walker notes that ‘the neurodiversity paradigm rejects the pathologizing’ of ‘innate or largely innate neurodivergence, like autism’, but not conditions like epilepsy that ‘could be removed from an individual without erasing fundamental aspects of the indi-vidual’s selfhood’ (2014). She sees anyone who ‘consider[s] autism to be a medical pathology or 'disorder'’ as ‘at odds with the neurodiversity movement’ (2014). Generally speaking, pathologisation is conflated within neurodiversity scholarship with medicalisation and thus with the eliminationism under -
+pinning curative approaches to, most prominently, autism. This is evident throughout Chown’s contribution to Bertils-dotter Rosqvist, Chown, and Stenning (2020, 27-
+ 38), which 
+sees the construction of autism as pathology as synonymous with eugenic research into its eradication; similarly, Woods et 
+al discuss the ‘deficit-
+ laden, pathologising autism discourses 
+favoured by the medical community’ (2018, 974). The pathol-ogisation of ‘neurodivergence’ is sometimes drawn into analogy with queerness and transness as examples of ‘psychia-try’s policing of mainstream societal norms’ (Beck 2023, 5; see also Dyck and Russell 2020, 177–79; Chown 2020, 30 Milton 
+and Timimi 2016). Walker, for example, notes that ‘patholo-gizing frameworks have been used time and again to lend an aura of scientific legitimacy to all manner of other bigotry’, comparing ‘the framing of autism and other minority neurolog-ical configurations as disorders or medical conditions’ both to Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+ 457
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+这主要出于两个原因。首先，我们在此主要关注的是神经多样
+性作为一种概念如何在机构内外流通，这一动态依赖于出版和
+其他形式化可见性过程所提供的合法性。其次，正如我们希望
+在本文后续部分阐明的，那种认为存在一个本质上具有包容性
+的在线‘神经多样性社区’的观点是有缺陷的，将其视为任何
+特定群体的可靠代表将是误导性的。在整篇文章中，我们遵循
+Price（2011,9）的做法，使用故意非特指的术语‘精神残障’
+来描述个体和群体因被病理化的差异和状态而遭受的残障——这
+些状态在文化上被假定（但关键的是，未必被证实）存在于或
+起源于大脑或心智。最终，我们旨在理解神经多样性日益增长
+的可见性（Crawshaw2023）与结构性残障歧视持续造成的伤
+害之间的张力。
+神经多样性作为概念的起源通常可追溯至20世纪90年代中
+期在线孤独谱系空间，而其被学术界接纳则始于Singer自1
+998年以来的工作。一些记述将该概念（即使不是该术语本身）
+追溯至JimSinclair（1993）的文章《不要为我们哀悼》（
+Pripas‑Kapit2020），但鉴于Sinclair的文本并未提及神经学
+或大脑，将这一早期文本定位在孤独谱系自我倡导领域似乎更
+为准确。该领域常与神经多样性重叠——或被混为一谈——但就
+其定位和目标而言，最终是有所区别的。随着Singer对该术语
+的推广，神经多样性在学术界和在线行动主义这两个重叠的领
+域中成为辩论和批评的对象，并迅速由此进入主流视野。在学
+术研究中，对该概念的理论化和辩护往往侧重于生活经历和个
+人身份的叙述，而对具体结构性关切或1990年代之前的历史背
+景考量有限。与此同时，当该术语受到质疑或挑战时，通常是
+从一种冷静甚至抽象的立场出发，这种立场常常以非具体的方
+式指向结构性压迫，却很少关注现实中的个人或群体。因此，
+这两种形态之间的任何对话都是基于这些条件进行的——要么过
+于具体，要么脱离背景——而关于具体结构性影响或政治意涵的
+问题则被搁置一旁。
+StevenKapp2020年所编文集的引言，作为“对孤独谱系
+群体及神经多样性运动的首个历史概述”（2），汇集了早期和
+近期的神经多样性倡导者，为理解该领域当前的原则以及围绕
+此主题论述中各种趋同与分歧的思想脉络，提供了一个富有启
+发性的切入点。Kapp承认，他主要将其视为涵盖具有“神经认
+知差异”个体的“运动”（2020,2）的神经多样性本身是多元
+的，且不同学者和活动家对此概念各有解读，但他认为其基本
+共同原则包括“生物学的首要性”（3）以及对孤独谱系采用
+“基于大脑的解释”而非心理学解释（6）。他还坚信神经多样
+性的绝对包容性，指出它“接受并为孤独谱系群体的完整发展
+谱系而奋斗”（2020,5），但也质疑精神疾病是否充分属于
+“神经学”范畴而被纳入（4）。神经多样性至少在原则上是根
+本包容的，这一点在支持它的学术研究中得到普遍反映，包括
+Walker（2014）、Graby（2015）、Woods等人（2018）、
+Dyck与Russell（2020）、Chapman（2020a,b）、
+BertilsdotterRosqvist、Chown与Stenning（2020）、
+Raymaker（2020）、Stenning与BertilsdotterRosqvist
+（2021）以及Beck（2023）的著作。例如，Graby指出，“注
+意缺陷多动障碍、阅读障碍、运动协调障碍”及学习障碍“从一开始就被承认是神经多样性的一部分”（2015,233）。
+BertilsdotterRosqvist、Chown与Stenning认识到，作为研
+究领域的神经多样性一直缺乏某些视角——按他们的说法，这主
+要体现在排除了非孤独谱系的‘神经殊异’——但认为神经多样
+性作为一个概念，具有‘重新定义何以为人’的潜力，使我们
+能够‘忘却[认知规范的凝视，作为一种认知去殖民化的方式’。
+同样地，尽管学者们对于将生物学和神经科学作为支撑知
+识体系在智力上的接受程度存在差异，但Kapp所指出的‘生物
+学首要性’即使在被批判之处也显而易见。DamianMilton在
+与SamiTimimi（2016年）的一场公开辩论中表示，他认为孤
+独谱系是社会建构的而非生物性的，但随后又回归到以‘多样
+神经学’作为组织原则。他断言，‘人们在‘性情’方面具有
+‘生物学层面’的具体差异’是‘神经殊异性’的成因，并且
+‘神经发育的多样性将影响对社会生活世界的感知和体验’。
+类似地，Stenning和Bertilsdotter‑Rosqvist指出，临床学科
+‘在过去80年的研究中未能揭示任何有用的知识’，但依然坚
+信‘这些被心理学家标记为受损和孤独谱系、注意缺陷多动障
+碍、阅读障碍或图雷特综合征的大脑[...] 符合反映现实底层结
+构的类别，即作为‘自然种类’最终将被神经科学家所证实’
+（1532页），并且‘谁或什么算作神经殊异将取决于底层的神
+经学和生理学’（1535页）。Chapman将生物化孤独谱系的
+尝试视为‘致力于神经中心本质主义’（2020b,802页），但
+仍继续使用‘神经认知规范’、‘神经类型’（2020a）以及其
+他其连贯性依赖于神经学的术语。
+除了Kapp指出的这两条共同思路——即神经多样性的核心
+是包容性，以及对精神残障的神经学解释是其合法性的关键——
+我们还要加上去病理化原则。虽然Kapp本人对此只是一笔带过，
+但在同一卷中，Russell强调了它在神经多样性研究中的关键作
+用（2020,298–99）。确实，Walker指出‘神经多样性范式拒
+绝将‘先天或主要先天的神经殊异性，如孤独谱系’病理化’，
+但并非像癫痫那样‘可以从个体身上移除而不抹去个体自我的
+根本方面’的状况（2014）。她认为任何‘将孤独谱系视为医
+学病理或‘障碍’’的人，都‘与神经多样性运动相悖’（
+2014）。一般而言，在神经多样性研究中，病理化与医学化混
+为一谈，进而与支撑（最突出的是针对孤独谱系的）治愈方法
+的消除主义联系在一起。这一点在Chown为Bertilsdotter
+Rosqvist、Chown和Stenning（2020,27‑38）撰写的章节中
+显而易见，该文将孤独谱系构建为病理等同于旨在根除它的优
+生学研究；同样，Woods等人讨论了‘医学界青睐的、充满缺
+陷、病理化的孤独谱系话语’（2018,974）。‘神经殊异性’
+的病理化有时被拿来与酷儿性和跨性别性类比，作为‘精神病
+学对主流社会规范进行管制’的例子（Beck2023,5；另见
+DyckandRussell2020,177–79；Chown2020,30；
+MiltonandTimimi2016）。例如，Walker指出‘病理化框
+架曾一次又一次被用来为各种其他偏见披上科学合法性的外衣’，
+将‘把孤独谱系及其他少数神经构型框定为障碍或医学状况’
+的做法，既比作
+--- Page 3 ---
+458 
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+the classification of homosexuality as a mental disorder and to 
+the white supremacist ‘drapetomania’ construct (2016).
+Where there is disagreement or critical reflection within 
+neurodiversity scholarship, it tends to fall on issues of language use—‘neurodivergent’ versus ‘neurodiverse’ versus ‘neurodiver -
+sity’, or paradigm versus movement (Beck 2023 ; Bertilsdotter 
+Rosqvist, Chown, and Stenning 2020; Walker 2014); discipline 
+formation and ownership (McWade, Milton, and Beresford 2015; Woods et
+ al. 2018); and what ‘counts’ as neurodivergence 
+as opposed to, for example, mental illness, and whether mental illness should be included in neurodiversity’s remit (Chapman 2019; Kapp 2020; McWade, Milton, and Beresford 2015; Graby 
+2015 ). There is occasionally some reflection on the lack of effort 
+of proponents to include learning disability (Chapman 2019 ; 
+Kapp 2020 ; Russell 2020), but rarely is this considered cause for 
+interrogating neurodiversity’s foundations or political potency. When external criticism is engaged with, it is generally of the transparently ableist sort endorsing a deficit model of (almost exclusively) autism, undermining autistic agency, or seeking to hierarchise autistic people with specious ‘functioning’ labels (such as Casanova 2015 ; Frith 2008; Jaarsma and Welin 2012 ). 
+Sometimes these and similar criticisms are taken as a given to the point that specific examples are not cited (see, eg, Beck 2023; 
+Chapman 2019; Kapp 2020; Russell 2020).
+External criticism of neurodiversity scholarship that meets it 
+on its own terms, meanwhile, tends to demonstrate a preoccu-pation with either ‘proof’ of neurodiversity per se, its internal coherence as an ontological position, or the hypothetical dangers of overdiagnosis and pathologisation, to the detriment of any sustained or specific structural or political critique. Timimi’s side of the published debate with Milton referenced above is illustra-tive in this regard. A child psychiatrist who is heavily critical of psychiatry, Timimi questions how autism can be anything other than a ‘pseudo-
+ scientific construct’ when there is no biological 
+marker for it, insisting that ‘the idea of dividing humanity into 'neurotypical' and 'neurodiverse' and that such a categorical division is possible is different to medical diagnostic discourse only in its value judgements about such categorical divisions’ (2016). In response to Milton’s characterisation of autism as an ‘embodied experience’, he asks how we ‘figure who can or can't relate to the embodied experience’ in the absence of a biomarker, and later derides neurodiversity as ‘some home spun philosophy untethered from any factual/empirical evidence to 'prove' its existence’. While he makes gestures towards structural concerns, these are largely hypothetical: referring to autism as the ‘desirable’ alternative to learning disability, he warns that ‘its 'desirable' status may change […]. If it gets conflated with 'dangerousness' beware’ (2016). (Milton rightly counters here that such conflation ‘happened long ago’.) Timimi identifies one concrete danger: that children diagnosed with autism might obtain access to a service that other children could benefit from but are denied due to lack of diagnosis, and conversely that a child diagnosed with autism might be denied access to a service they could benefit from due to the said service’s inability to ‘deal with’ autism (2016). While this specific criticism alludes to a key absence within neurodiversity scholarship—the considera-tion of disabled children, and the structural violence committed against them—it is not developed or contextualised in these terms. The root of this ‘danger’, as Milton partially notes, is the dearth of meaningful services available at all, rather than any particular diagnostic practice (2016). Similarly, in a 2019 intervention consisting of reports by proponents and critics of neurodiversity on the experience of being trained in a new ‘tool’ used to diagnose autism in children, Timimi refers to the tool as ‘a diagnostic trap’ whose commercial proprietors ‘shamelessly promote and sell […] around the world subjecting ever more children and adults to its perverse normalization/pathologisation agenda’ (Timimi et
+ al. 2019, 6). Yet the harms 
+caused by the tool’s supposed overdiagnosis are neither iden-tified nor analysed. Indeed, all five contributors to the discus-sion—both critics and proponents of neurodiversity—agree that the tool poses a ‘danger’ of overdiagnosis and pathologisation. The precise harms this will entail for the children subjected to the tool’s use, however, go unexamined, forestalling any deep engagement with wider power structures. Neither is there any reflection on what depathologisation would mean for the provi-sion of services, exemptions and adjustments that hinge entirely on autism as pathology. What, then, does ‘pathologisation’ mean and do, such that both proponents and critics of neurodiversity not only take its negativity as given but are also able to leverage it in undermining each other’s arguments?
+This tendency towards abstraction at the expense of political 
+specificity is a common thread running through academic critique of neurodiversity. Jonathan Hughes (2020), for example (see also Nelson 2021), challenges the ‘claims’ of neurodiversity as 
+concept on the basis of autism’s ‘heterogeneity’ . His argument is that these claims ‘are unhelpful to some of the most profoundly affected [by autism]’ (Hughes 2020, 54), and that neurodiversity as basis for identity is damaging because ‘some autistics publicly oppose the neurodiversity movement because they do not iden-tify with their autism in this way, and would want to be 'cured' if that were possible’ (59)—an uncited statement. Hughes identi-fies what he perceives as various logical incoherencies in neurodi-versity scholarship: for example, that neurodiversity denies that autism is intrinsically harmful while endorsing accommodations that ameliorate its ‘symptoms’ (2020, 54), that it posits autism as fundamental to identity whereas psychological and philosoph-ical accounts of identity suggest it can radically change (59), or that it hinges on the assumed social value of diversity where no evidence of such exists (51). But even if we were to assume the validity of these arguments, there is no sense of what is truly at stake here. What specific potentialities are being invoked? If, as Hughes claims, the ‘key question for assessing the neurodiversity paradigm […] is whether denial of the intrinsic harmfulness of autism is plausible’ (2020, 54), how does either answer serve us? His later affirmation that ‘even a just society has to make hard choices and cannot fully meet the needs of all groups’ and that therefore ‘the failure to provide for particular needs is not necessarily unjust’ (2020, 54) suggests no political concern for those he arbitrarily deems to be ‘the most profoundly affected’ in any case.
+Francisco Ortega’s critiques of neurodiversity on the basis 
+of its relationship with a broader societal shift towards neuro-centrism (2009; 2013; Vidal and Ortega 2017, among others) 
+come closest to drawing out its political ramifications. However, even these analyses largely remain at the philosophical level, divorced from on-
+ the- ground realities. Ortega’s early critique 
+of the concept (2009, first published in Portuguese in 2008), for example, examines Singer’s embrace of ‘neurological self-
+ 
+awareness’ (1999, 65) and neurodiversity’s invocation of ‘an 
+atypical neurological 'wiring'’ as part of ‘the diffusion of neuro-scientific claims beyond the laboratory and their penetration in different domains of life in contemporary biomedicalized soci-eties’ (2009, 426). This ‘cerebralization of autism’ (2009, 427) allows autistic people to reject psychology—Ortega goes into little further detail but is presumably alluding here to the dehu-manising psychological and psychoanalytical explanations and interventions inflicted on people diagnosed with autism through Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+458 
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+将同性恋归类为精神障碍，也比作白人至上主义者的‘
+drapetomania’概念（2016）。
+在神经多样性研究内部，若存在分歧或批判性反思，其焦点往
+往落在语言使用问题上——例如‘神经殊异’与‘神经多元’与
+‘神经多样性’之争，或范式与运动之辨（Beck2023;
+BertilsdotterRosqvist,Chown,andStenning2020;
+Walker2014）；学科建构与归属权（McWade,Milton,and
+Beresford2015;Woods等.2018）；以及如何界定‘神经殊异性’
+以区别于例如精神疾病，并探讨精神疾病是否应纳入神经多样性的
+范畴（Chapman2019;Kapp2020;McWade,Milton,and
+Beresford2015;Graby2015）。间或也有关于倡导者未能充分纳
+入学习障碍群体的反思（Chapman2019;Kapp2020;Russell
+2020），但鲜少有人将此视为质疑神经多样性理论基础或政治效力
+的理由。当应对外部批评时，这些批评通常属于明显带有残障歧视
+的类型，它们支持（几乎仅限于）孤独谱系的缺陷模型，削弱孤独
+谱系主体性，或试图用似是而非的‘功能’标签对孤独谱系群体进
+行等级划分（例如Casanova2015;Frith2008;Jaarsmaand
+Welin2012）。有时，这些及类似批评被视为理所当然，以至于
+无需引用具体例证（参见，例如Beck2023;Chapman2019;
+Kapp2020;Russell2020）。
+与此同时，外部对神经多样性研究在其自身框架内的批评，
+往往表现出对以下方面的执着：要么是神经多样性本身的‘证
+据’，要么是其作为本体论立场的内部一致性，要么是过度诊
+断和病理化的假设性危险，而这损害了任何持续或具体的结构
+性或政治性批判。上文提及的Timimi与Milton已发表辩论中
+Timimi的观点在这方面颇具说明性。作为一名对精神病学持强
+烈批判态度的儿童精神科医生，Timimi质疑，在缺乏生物标志
+物的情况下，孤独谱系除了是一种‘伪科学建构’还能是什么？
+他坚称‘将人类划分为‘神经典型’和‘神经多元’的想法，
+以及认为这种绝对的划分是可能的，这仅仅在对此类绝对划分
+的价值判断上与医学诊断话语有所不同’（2016）。针对
+Milton将孤独谱系描述为一种‘具身体验’，他问道，在没有
+生物标志物的情况下，我们如何‘判断谁能或谁不能与这种具
+身体验产生共鸣’？随后他嘲讽神经多样性是‘某种脱离任何
+事实/实证证据来‘证明’其存在的民间哲学’。尽管他做了一
+些指向结构性关切的姿态，但这些大多是假设性的：他将孤独
+谱系称为相较于学习障碍的‘理想’替代选择，并警告说‘其
+‘理想’地位可能会改变[...]。如果它与‘危险性’混为一谈，
+那就需要当心了’（2016）。（Milton在此正确地反驳道，这
+种混淆‘早已发生’。）Timimi指出了一个具体危险：被诊断
+为孤独谱系的儿童可能会获得某项服务，而其他儿童本可从中
+受益，却因缺乏诊断而被剥夺；反之，被诊断为孤独谱系的儿
+童可能因所述服务无法‘应对’孤独谱系而被剥夺其本可受益
+的服务（2016）。尽管这一具体批评暗示了神经多样性研究中
+的一个关键缺失——对残障儿童的考量，以及针对他们的结构性
+暴力——但并未以此为基础展开论述或将其语境化。正如
+Milton部分指出的，这种‘危险’的根源在于普遍缺乏有意义
+的服务，而非任何特定的诊断实践（2016）。类似地，在
+2019年一篇由神经多样性的支持者和批评者共同撰写的干预性
+报告中，内容是关于接受一种用于诊断儿童孤独谱系的新‘工
+具’培训的体验，Timimi提及该工具是一种‘诊断陷阱’，其商业所有者‘无耻地在全球推
+广和销售[...] ，使越来越多的儿童和成人屈从于其反常的规范
+化/病理化议程’（Timimi等人.2019,6）。然而，该工具所
+谓的过度诊断所造成的危害既未被明确指出，也未被分析。事
+实上，参与讨论的所有五位贡献者——包括神经多样性的批评
+者和支持者——都同意该工具存在过度诊断和病理化的‘危险’。
+然而，这对于接受该工具使用的儿童将造成的具体危害，却未
+经审视，从而阻碍了对更广泛权力结构的深入探讨。同样，也
+没有任何关于去病理化将对完全依赖于将孤独谱系视为病理的
+服务、豁免和调整意味着什么的反思。那么，‘病理化’究竟
+意味着什么，又起到了什么作用，以至于神经多样性的支持者
+和批评者不仅将其负面性视为理所当然，还能利用它来削弱对
+方的论点？
+这种倾向于抽象化而牺牲政治具体性的趋势，是贯穿学术
+界对神经多样性批评的一条共同线索。例如，Jonathan
+Hughes(2020)（另见Nelson2021）基于孤独谱系的‘异质性’，
+对神经多样性作为一个概念的‘主张’提出了挑战。他的论点
+是，这些主张‘对一些受孤独谱系影响最深的人[来说并无帮助]’
+（Hughes2020,54），并且神经多样性作为身份认同的基础
+是有害的，因为‘一些孤独谱系人士公开反对神经多样性运动，
+因为他们并不以这种方式认同自己的孤独谱系，并且如果可能
+的话，他们希望被‘治愈’’（59）——这是一个未引证的陈
+述。Hughes指出了他认为的神经多样性学术研究中各种逻辑上
+的不一致之处：例如，神经多样性否认孤独谱系本质上有害，
+却又认可那些改善其‘症状’的便利措施（2020,54）；它假
+设孤独谱系是身份认同的基础，而心理学和哲学关于身份认同
+的论述却表明身份可以发生根本性的改变（59）；或者，它依
+赖于多样性被假定的社会价值，而并无证据表明这种价值存在
+（51）。但即使我们假设这些论点有效，这里也看不出真正岌
+岌可危的是什么。究竟援引了哪些具体的可能性？如果如
+Hughes所言，‘评估神经多样性范式的关键问题[⋯⋯] 在于否
+认孤独谱系本质有害是否站得住脚’（2020,54），那么任何
+一种答案又能为我们带来什么？他后来断言‘即使是一个公正
+的社会也不得不做出艰难的选择，无法完全满足所有群体的需
+求’，因此‘未能满足特定需求未必是不公正的’（2020,54），
+这表明他无论如何都对他武断认定的‘受影响最深的人’缺乏
+政治关怀。
+FranciscoOrtega基于神经多样性与更广泛社会转向神经
+中心主义之间的关系（2009；2013；Vidal和Ortega2017等），
+对其提出的批评最接近于揭示其政治影响。然而，即使这些分
+析也大多停留在哲学层面，脱离了现实基础。例如，Ortega对
+该概念的早期批评（2009，首次以葡萄牙语发表于2008年）
+审视了Singer对‘神经自我意识’（1999,65）的拥抱，以及
+神经多样性对‘一种非典型的神经‘接线’’的援引，认为这
+是‘神经科学主张在实验室之外的扩散及其在当代生物医学化
+社会中渗透到生活不同领域’的一部分（2009,426）。这种
+‘孤独谱系的大脑化’（2009,427）使得孤独谱系群体能够拒
+绝心理学——Ortega没有进一步详述，但此处可能暗指在二十
+世纪早中期，强加给被诊断为孤独谱系人士的非人化的心理学
+和精神分析解释及干预。
+--- Page 4 ---
+ 459
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+the early mid-  twentieth century—but, more significantly , also 
+posits autism as residing in the body, rather than the mind (434). 
+For Ortega, this has a tacitly exculpatory effect, since whereas the mind is culturally perceived as a domain that can and should be individually controlled, ‘the body is always morally inno-cent’ (2009, 434). The insistence on autism as neither mental nor generally physical, but specifically neurological furthermore allows advocates to invoke ‘the prestige of the neurosciences’ as a legitimating force (2009, 435). Ortega concludes that if ‘seeing oneself as a cerebral subject bolsters one’s sense of identity and helps erase the social stigma often associated with mental pathology, it may, on the other hand, somewhat solip-sistically narrow the notion of what it is to be a person’ (2009, 441). Along similar lines, Katherine Runswick-
+ Cole’s critique of 
+neurodiversity warns that proponents’ production of a binary division between ‘neurodivergent’ and ‘neurotypical’, and their reification of this as a basis for political identity, may ‘fail to pay attention to the other forms of marginalisation that underpin exclusionary and oppressive practices, including heterosexism/sexism, racism, poverty and imperialism’ (2014, 1126). Ortega’s insinuation that neurodiversity relies on a latent disowning of madness, and the assertion that it benefits, however indirectly, from the ‘hard science’ veneer of a neuroscientific authority foundationally hostile to mentally disabled people, are signifi-cant (see also McWade, Milton, and Beresford 2015). The lack of dialogue in either direction between neurodiversity scholarship and work critical of neurocentrism is unfortunate for this reason. Perhaps due to Ortega’s limited engagement with disability studies, though, his attempts to bridge this gap leave us once again with little sense of the stakes. At points he underestimates structural concerns, overlooking that autistic self-
+ advocacy is not 
+primarily concerned with others' surface prejudices, but rather 
+with the very real disablement engendered by ceding advocacy to non-
+ autistics. At others, he falls into the pattern identified by M. 
+Remi Yergeau of seeing autistic people as either—or both—‘too autistic’ or ‘not autistic enough’ to make accurate claims as to our identities (2018, 33).
+With the ‘debate’ on neurodiversity limited to these partial 
+encounters, several vital interrelated areas are left unexamined. These absences coalesce, for the most part, around disability and disablement as both political experiences and structural impo-sitions. In one of the few examples of neurodiversity scholar -
+ship that reflects in depth on the political risks of the concept’s rapid mainstreaming in the USA, Ne'eman and Pellicano note that neurodiversity is becoming detached from its relationship with disability politics, with ‘neurodivergent’ used in a quasi-
+ 
+euphemistic sense to replace ‘disabled’ (2022, 152). They warn 
+that ‘this disconnect from the larger disability context in which neurodiversity was born is a grave error’, questioning ‘the wisdom of terms like 'neurominority,' which introduce new and somewhat exceptionalist language to describe concepts with long histories in broader disability activism’ (2022, 152). We would suggest that this supplanting effect and appeal to excep-tionalism are already dominant—and are very rarely taken up as part of a critique of neurodiversity’s political ramifications—but also that the seeds of this distancing gesture were present within neurodiversity from its earliest days, thanks in large part to its embrace of neurological schemas. There are echoes here of Bill Hughes’s distinction between disability activism centred on the social model and what he terms ‘biosocial groups’ or ‘biological citizens’: groups that coalesce around a particular diagnosis and attribute social exclusion to ‘the tyranny of biological norms’ rather than ‘a disablist social structure’ (2009, 680). Neuro-diversity has usurped mental disability not purely as term but also as politic, meaning that understandings of the political-
+ 
+economic location of disability developed through sustained 
+disability activism and scholarship, exemplified by the work of Russell (1990s, anthologised 2019), Malhotra (2017), Soldatic 
+(2018)  and Adler-
+ Bolton and Vierkant (2022) are lost. As a 
+result, scholarship from both proponents and critics of neurodi-versity frequently limits itself to considering disability, and disa-bility studies, only insofar as the basic tenets of the social model usefully serve their arguments either way. Mutually constitutive with this neglect is a lack of engagement with the long-
+ term 
+histories of mental disability so essential to contextualising 
+present issues and debates, or with the institutional ecosystem that violently perpetuates mentally disabled people’s political-
+ 
+economic degradation. As we explain below , we would go so far 
+as to suggest that neurodiversity has an actively dehistoricising effect on discourses of mental disability, and in particular that it sanitises the recent history of autism such that vital knowledge about it is obscured. A significant aspect of this knowledge is around the role of children, the institutional violence and sanc-tioned killing meted out on them in the name of research or ther -
+apeutic intervention, and the pervasive presence of ideas gleaned from these processes in contemporary clinical and educational settings. This sanitising effect has made neurodiversity all too amenable to co-
+ opting by individuals and institutions who 
+appear to see no tension between their enthusiastic appropria-tion of neurodiversity and their discursive or material debase-ment of disabled people. The paucity of attempts by either critics or proponents of neurodiversity to gather or reckon with these missing pieces has obfuscated what is truly at stake in discourses of mental disability, and in so doing has undermined proponents’ characterisation of neurodiversity as a political movement.
+What is at stake? The examples we give over the next two 
+paragraphs are only a small illustrative selection from a handful of Global North contexts. ‘Euthanasia’, ‘assisted suicide’ and/or ‘medical aid in dying’ on the basis of mental disability are now legal in an increasing number of countries including Belgium and Switzerland (De Hert et
+ al. 2022), the Netherlands (Tuffrey-  
+Wijne et al. 2023), Spain (Ramos-  Pozón et al. 2023) and are 
+included in a proposed expansion of existing euthanasia laws in Canada (Grant 2023). This extends, at least in principle, to children over 12 in the case of the Netherlands, with paediatric experts endorsing lowering this limit (de Keijzer et
+ al. 2023). In 
+Tuffrey-  Wijne et al’s examination of physicians’ reports for 39 
+Dutch cases of euthanasia on the basis of autism and/or learning disability, they found that a vast majority cited social factors, such as isolation or unemployment, as key to their patient’s deci-sion. Among these factors were failures of state support: one case described a patient having been moved between care facili -
+ties 15 times. In a final act of degradation, one physician noted of their patient that ‘people found her repulsive and nobody wanted to be near her’ (Tuffrey-
+ Wijne et al. 2023, 4). Verhof -
+stadt, Thienpont and Peters note in an examination of testimo-nials from Belgian psychiatric patients requesting euthanasia that poverty, iatrogenic trauma, being made to feel like a ‘guinea pig’ by physicians, and being involuntarily discharged from treat-ment featured in numerous cases (2018, 240–41). That death is considered an acceptable solution to the systematic abandon-ment, rejection and exploitation of mentally disabled people is explicit in these contexts, but is implied in many others. During the COVID-
+ 19 pandemic in the UK, learning disabled and/or 
+autistic people were variously issued with Do Not Resuscitate 
+orders (BBC 2020; Tapper 2021), coerced into agreeing to 
+Advanced Care Directives and barred from hospital care (Care Quality Commission 2021), and denied access to testing (Albert Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+ 459
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+但更重要的是，它也假定孤独谱系存在于身体而非心灵之中
+（434）。对Ortega而言，这具有一种默示的开脱效应，因为
+心灵在文化上被视为一个可以且应该由个人控制的领域，而
+‘身体在道德上总是无辜的’（2009,434）。坚持认为孤独谱
+系既非精神也非一般生理问题，而是特定的神经问题，进一步
+允许倡导者援引‘神经科学的声望’作为一种合法化力量（
+2009,435）。Ortega总结道，如果‘将自己视为大脑主体能
+增强身份认同感，并有助于消除常与精神病理学相关的社会污
+名，那么另一方面，它也可能在某种程度上唯我论地缩小了作
+为人的概念’（2009,441）。类似地，Katherine
+Runswick‑Cole对神经多样性的批评警告说，支持者创造的
+‘神经殊异’与‘神经典型’之间的二元划分，以及将其具体
+化为政治身份的基础，可能‘未能关注构成排斥性和压迫性实
+践基础的其他边缘化形式，包括异性恋主义/性别歧视、种族主
+义、贫困和帝国主义’（2014,1126）。Ortega暗示神经多样
+性依赖于对疯狂的潜在否认，并断言它间接受益于神经科学权
+威的‘硬科学’外表——而该权威从根本上对精神残障人士怀有
+敌意——这些观点都很重要（另见McWade、Milton和
+Beresford2015）。神经多样性研究与批判神经中心主义的工
+作之间缺乏双向对话，因此令人遗憾。然而，或许由于
+Ortega对残障研究的涉猎有限，他弥合这一鸿沟的尝试再次让
+我们对其中利害关系知之甚少。有时他低估了结构性关切，忽
+略了孤独谱系的自我倡导主要关注的并非他人表面的偏见，而
+是将倡导权让渡给非孤独谱系人士所产生的非常真实的残障化。
+在其他时候，他陷入了M.RemiYergeau所识别的模式，即
+认为孤独谱系群体要么——或同时——‘太孤独谱系’或‘不够
+孤独谱系’，从而无法对我们的身份做出准确的声明（2018,
+33）。
+由于关于神经多样性的‘辩论’仅限于这些片面的接触，
+几个至关重要的相互关联领域未被审视。这些缺失在很大程度
+上围绕着残障与致残，它们既是政治体验，也是结构性强制。
+在为数不多的深入反思该概念在美国迅速主流化所带来政治风
+险的神经多样性学术研究中，Ne'eman和Pellicano指出，神
+经多样性正与其同残障政治的关系脱钩，‘神经殊异’被用作
+一种近乎委婉的表述来取代‘残障’（2022,152）。他们警告，
+‘这种与神经多样性诞生时所处的更广泛残障语境的脱节是一
+个严重错误’，并质疑‘诸如‘神经少数’这类术语的明智性，
+它们引入了新的、某种程度上带有例外论色彩的语言来描述在
+更广泛的残障行动主义中拥有悠久历史的概念’（2022,152）。
+我们认为，这种替代效应和对例外论的诉求已然占据主导——并
+且极少被作为对神经多样性政治影响批判的一部分来探讨——但
+同时也认为，这种疏离姿态的种子自神经多样性诞生之初就已
+存在，这在很大程度上归因于其对神经学图式的接纳。这里回
+响着BillHughes对以社会模式为中心的残障行动主义与他所称
+的‘生物社会群体’或‘生物公民’之间的区分：后者围绕特
+定诊断聚集，并将社会排斥归咎于‘生物规范的暴政’而非
+‘残障歧视社会结构’（2009,680）。神经多样性已经取代了
+精神残障，不仅作为一个术语，也作为一种政治，这意味着通过持续的残障行动主义和学术研
+究（以Russell（1990年代，2019年文集）、Malhotra（
+2017）、Soldatic（2018）以及Adler‑Bolton和Vierkant（
+2022）的工作为例）发展起来的关于残障政治经济定位的理解
+正在丧失。因此，无论是神经多样性的支持者还是批评者的学
+术研究，都常常将自身局限于仅在关于社会模式的基本信条有
+益于其论点的范围内探讨残障与残障研究。与这种忽视互为因
+果的，是对精神残障长期历史的缺乏关注——这对于理解当前议
+题和辩论至关重要——以及对暴力延续精神残障人士政治经济贬
+损的制度生态系统的忽视。正如我们下文将解释的，我们甚至
+认为神经多样性对精神残障话语具有一种积极的去历史化效应，
+尤其是它净化了孤独谱系的近代史，使得关于它的关键知识被
+遮蔽。这部分知识的一个重要方面涉及儿童的角色、以研究或
+治疗干预之名施加于他们的制度性暴力和合法杀戮，以及从这
+些过程中汲取的观念在当代临床和教育环境中的普遍存在。这
+种净化效应使得神经多样性极易被那些似乎看不到其热切挪用
+神经多样性与其在话语或物质上贬损残障人士之间存在张力的
+个人和机构所收编。无论是神经多样性的批评者还是支持者，
+都鲜少尝试收集或审视这些缺失的部分，这模糊了精神残障话
+语中真正攸关之事，并因此削弱了支持者将神经多样性描述为
+一场政治运动的立论。
+什么是关键所在？我们在接下来两段中给出的例子，仅仅
+是从少数全球北方语境中选取的一小部分例证。基于精神残障
+的“安乐死”、“协助自杀”和/或“临终医疗援助”目前在越
+来越多的国家已合法化，包括比利时和瑞士（DeHert等人.
+2022）、荷兰（Tuffrey‑Wijne等人.2023）、西班牙（
+Ramos‑Pozón等人.2023），并且被纳入加拿大现有安乐死法
+律的拟议扩展范围（Grant2023）。至少在原则上，这适用于
+荷兰12岁以上的儿童，儿科专家支持降低此年龄限制（de
+Keijzer等人.2023）。在Tuffrey‑Wijne等人对39例荷兰基于
+孤独谱系和/或学习障碍的安乐死医师报告进行的审查中，他们
+发现绝大多数报告将社会因素，如孤立或失业，列为其患者决
+策的关键。这些因素中包括国家支持的缺失：一个案例描述了
+一位患者被在不同护理机构间转移了15次。在一种终极的贬低
+行为中，一位医师指出其患者“人们觉得她令人厌恶，没有人
+愿意靠近她”（Tuffrey‑Wijne等人.2023,4）。
+Verhofstadt、Thienpont和Peters在审查比利时请求安乐死
+的精神病患者的证词时指出，贫困、医源性创伤、被医师当作
+“实验品”的感觉，以及被非自愿地终止治疗，在许多案例中
+都有体现（2018,240–41）。在这些语境中，死亡被视为对精
+神残障人士系统性遗弃、排斥和剥削的可接受解决方案，这一
+点是明确的，但在许多其他语境中也隐含此意。在英国
+COVID‑19大流行期间，学习障碍和/或孤独谱系群体被不同程
+度地签发了不予复苏指令（BBC2020;Tapper2021），被胁
+迫同意预先护理指示并被禁止获得医院护理（护理质量委员会
+2021），并被拒绝接受检测（Albert
+--- Page 5 ---
+460 
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+2020 ); the death rate for people with learning disabilities during 
+the first wave of the virus was up to six times higher than that 
+of the general population, according to Public Health England’s own report (2020). Similar circumstances were documented in the USA (Baker 2020). Staying in the USA, the death penalty has been ruled unconstitutional for intellectually disabled people since the Supreme Court decision on Atkins v. Virginia  in 2002; 
+as of 2020, the Death Penalty Information Centre (DPIC) had found 144 cases of people originally sentenced to death and then removed from death row on these grounds. Nearly 70% of these people were black. A further 10% were non-
+ black people 
+of colour. The DPIC notes that ‘some states have attempted to evade enforcing Atkins  by adopting stringent definitions of 
+intellectual disability that are scientifically unsupported or by imposing procedural requirements or burdens of proof that are impossible to satisfy’ (2020). Mentally disabled people in general, but particularly racialised learning disabled people, are dramatically over-
+ represented in adult and child prison popula-
+tions in both the USA and the UK. In both countries, children are subject to ‘restraint’—adult violence—and seclusion in both mainstream and specialist schools; in the USA in particular, they are additionally subject to physical or psychological aversives in the name of Applied Behavioural Analysis (ABA), still considered best practice by the American Academy of Paediatrics (Hyman, Levy, and Myers 2020).
+The instances we referenced in the opening paragraph of this 
+article are only the most recent developments in the destruction or privatisation of public services for mental disability in the UK. Cuts to public spending under the New Labour regime in the mid-
+ late 2000s, intensified by the coalition and then Conserva-
+tive governments after 2010, have razed this already weak and inadequate provision to the ground. People in need of inhome care are forced to either pay a private service or forgo the most basic support and social interaction (Pring 2022). National Health Service (NHS) waiting lists for assessment for autism, attention deficit hyperactivity disorder (ADHD) and dysp -
+raxia—often the only way to access even the most meagre rights and support in welfare, education and work for children and adults—are months or years long; private assessment is prohib-itively expensive and lacks the institutional clout of the NHS equivalent. It is not possible to access dyslexia assessment via the NHS. Access to the poverty-
+ level financial support theoretically 
+offered to disabled people who cannot work is subject to their successful completion of multiple rounds of paperwork, attend-ance of online and inperson meetings and workshops, and the punitive and degrading Work Capability Assessment, after which they still live under perpetual risk of having benefits withdrawn or reduced—a system that has resulted in further disablement as well as deaths (Mills and Pring 2024). There is currently no sign that a change of ruling party at the next election will resolve this, with the Labour Party refusing to commit to reversing austerity or even halting further cuts to welfare. People at risk of suicide or catastrophic self-
+ harm are routinely discharged against their 
+will from NHS mental health services (Watts 2019), or outright criminalised for soliciting crisis services ‘too often’ (StopSIM 2021 ); meanwhile, people who are both autistic and mentally 
+ill find themselves shuttled between autism or learning disability services, for which they are deemed too mad, and mental health services, for which they are deemed too autistic.
+The stakes, as Yergeau states, are nothing less than ‘bodily 
+annihilation’ (2018, 149). The question to ask of neurodiver -
+sity proponents, then, is not whether the concept meets an academic standard of logical consistency, nor whether its exist-ence can be empirically proven by piling additional money into neuroscientific research, nor whether it is ‘representative’ of people deemed by whoever is writing to be autistic enough to count. Neither is it generative to question whether the increased visibility of certain mental disabilities granted by neurodiversity will result in a level of ‘overdiagnosis’ whose harms are never fully explained, when diagnostic processes are inaccessible to a large majority in the first place. Rather, the question is: what does, or can, neurodiversity do for the people whose position at the intersection of mental disability and poverty or race puts them furthest from institutional power and closest to structural violence? That proponents characterise neurodiversity as a polit-ical movement implies that it agitates for a group whose needs are not being met, whose personhood is not being acknowl -
+edged. What needs are these, if not those arising from the situa-tions described above? Whose personhood is in question, if not that of the people at the sharpest end of structural ableism?
+In considering these questions, it is instructive to return to 
+the text deemed by most accounts to have taken a concept hith-erto confined to niche online spaces—neurological diversity—and introduced it to wider audiences, particularly academic ones, as neurodiversity. Singer’s (1999) influential 1999 chapter describes in detail a painful childhood haunted by a ‘problem with no name’ (60) that affected her mother, herself and, later, her daughter. Her belief that her daughter had ‘an organic, not a psychological, difference’ (1999, 61) led her to extensive research, and eventually to both the social model of disability and the work of autistic writers Temple Grandin and Donna Williams (62). She was struck by the revelation that people ‘didn't necessarily have to have learning disabilities or lack emotional awareness to be autistic’ (1999, 62). She felt she ‘knew at last who [her] people were’ (1999, 62). Later in the article, she describes the diagnosis ultimately attributed to herself and her daughter—Asperger’s syndrome (AS)—as distinct from the ‘images of rocking, emotionally cut-
+ off, intellectually impaired 
+children’ and ‘‘Rainman’-like savants’ generally associated with autism (1999, 63). This allowed her to begin articulating ‘a poli-tics of neurological diversity, or neurodiversity’ based on nature rather than nurture and neurology rather than psychology, a shift in thinking she credits to Lorna Wing (Singer 1999, 64). She describes how the circulation of this information through ‘AS’ online spaces led ‘people with 'marginal' neurological differ -
+ences’ to ‘clamour at the gates’ of GP surgeries in pursuit of diag-nosis (1999, 65). Specific online spaces are referred to as ‘our own country’, and the (at that point relatively new) rise of ‘cyber culture’ as carrying the promise of ‘a new ecological niche for people 'on the spectrum', allowing them/us to flourish and come out with pride’ (1999, 65–66). Singer sees the internet as ‘able to supply whatever communicative capacities high-
+ functioning 
+autistics lack’ (1999, 67).
+Several significant points become clear here. The first is that 
+Singer’s conceptualisation of neurodiversity was, foundationally, a disavowal of learning disability—the ‘rocking, emotionally cut-
+ 
+off, intellectually impaired children’ (1999, 63) from whom she 
+is careful to distance herself and her daughter. Neurodiversity, in her terms, is expressly and unambiguously for autistics without learning disability, to whom she refers as ‘high-
+ functioning’ or 
+having AS. Rarel y is this considered in any depth in accounts of 
+neurodiversity’s a priori inclusiveness. The second is that Singer 
+conceived of neurodiversity as irreducibly located in the phys -
+ical brain: neurological, not psychological; nature, not nurture. Singer thus adduces and endorses the work of Lorna Wing for having, in her view, provided a scientific basis for moving away from psychological understandings. The historical context that would call such endorsements into question is omitted entirely. Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+460 
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+2020）；根据英格兰公共卫生署自己的报告（2020），在第一
+波病毒期间，学习障碍者的死亡率高达普通人群的六倍。美国
+也记录了类似情况（Baker2020）。再看美国，自最高法院
+2002年对Atkins v. Virginia案作出裁决以来，对智力障碍者判处
+死刑已被裁定违宪；截至2020年，死刑信息中心（DPIC）已发
+现144例最初被判死刑，后因此理由被移出死囚区的人员。其中
+近70%是黑人。另有10%是非黑人有色人种。DPIC指出，“一
+些州试图通过采用科学上不支持的对智力障碍的严格定义，或
+通过设定不可能满足的程序要求或举证责任，来规避执行
+Atkins案裁决”（2020）。精神残障人士总体而言，尤其是种
+族化的学习障碍者，在美国和英国的成年及儿童监狱人口中所
+占比例极高。在这两个国家，儿童在主流学校和特殊学校中都
+遭受“约束”——即成人暴力——和隔离；特别是在美国，他们
+还被以应用行为分析（ABA）的名义施加身体或心理厌恶刺激，
+而ABA仍被美国儿科学会视为最佳实践（Hyman,Levy,and
+Myers2020）。
+我们在本文开篇段落提及的案例，仅是英国精神残障公共
+服务体系遭到破坏或私有化的最新发展。2000年代中后期新工
+党执政期间的公共支出削减，以及2010年后联合政府及保守党
+政府的加剧紧缩，已将本就薄弱且不足的公共服务彻底摧毁。
+需要居家护理的人被迫要么支付私人服务费用，要么放弃最基
+本的支持与社会互动（Pring2022）。国家医疗服务体系（
+NHS）为孤独谱系、注意缺陷多动障碍（ADHD）及运动障碍——
+这通常是儿童和成人在福利、教育和工作领域获取哪怕最微薄
+权利与支持的唯一途径——提供评估的等待名单长达数月甚至数
+年；私人评估费用高昂得令人望而却步，且缺乏NHS同等评估
+的机构权威性。通过NHS获取阅读障碍评估是不可能的。理论
+上提供给无法工作的残障人士的贫困线级别的经济支持，其获
+取条件是他们必须成功完成多轮文书工作、参加线上及线下的
+会议与研讨会，并通过惩罚性且带有羞辱性的工作能力评估，
+即便如此，他们仍生活在福利被撤销或削减的永久风险之下——
+这一体系已导致进一步的残障化乃至死亡（MillsandPring
+2024）。目前没有任何迹象表明，下次大选的执政党更迭会解
+决这一问题，因为工党拒绝承诺扭转紧缩政策，甚至不愿停止
+进一步的福利削减。有自杀或灾难性自残风险的人，经常被违
+背其意愿地从NHS精神卫生服务中强制出院（Watts2019），
+或因“过于频繁”地寻求危机服务而被直接刑事化（StopSI
+M2021）；与此同时，那些同时患有孤独谱系与精神疾病的人
+发现，自己在孤独谱系或学习障碍服务（他们被认为“太疯癫”
+而不适合）和精神卫生服务（他们被认为“太孤独谱系”而不
+适合）之间被来回推诿。
+正如Yergeau所言，其利害攸关之处不亚于‘身体的湮灭’
+（2018,149）。因此，向神经多样性支持者提出的问题，不应
+是这一概念是否符合学术逻辑一致性的标准，也不应是其存在
+能否通过向神经科学研究投入更多资金而得到实证证明，更不应是它是否‘代表’了那些被撰写者认为足够孤独谱系而
+算数的人群。同样，质疑神经多样性Grant给某些精神残障的
+可见度提升是否会导致某种‘过度诊断’——而其危害从未被充
+分阐明——也是徒劳的，毕竟诊断过程对绝大多数人而言本就难
+以企及。真正的问题是：神经多样性为那些身处精神残障与贫
+困或种族交叉点、离制度性权力最远、离结构性暴力最近的人
+们，做了或能做什么？支持者将神经多样性定性为一场政治运
+动，这暗示着它为一个需求未得到满足、人格未获承认的群体
+而抗争。如果不是源于上述情境，那这些需求是什么？如果不
+是那些处于结构性残障歧视最尖锐一端的人们，那谁的人格又
+成了疑问？
+在思考这些问题时，回顾一篇被普遍认为将一个此前局限
+于小众网络空间的概念——神经多样性——引入更广泛受众，尤
+其是学术界，并将其命名为神经多样性的文本，是具有启发性
+的。Singer（1999）那篇有影响力的1999年章节详细描述了一
+个被‘无名问题’（60）所困扰的痛苦童年，这个问题影响了
+她母亲、她自己以及后来的女儿。她坚信女儿存在‘一种器质
+性的，而非心理性的差异’（1999,61），这促使她进行了广泛
+的研究，并最终接触到了残障社会模式以及孤独谱系作家
+TempleGrandin和DonnaWilliams的作品（62）。她震惊
+地发现，人们‘并不一定需要伴有学习障碍或缺乏情感认知才
+能是孤独谱系’（1999,62）。她感到自己‘终于知道了[她] 
+的同类是谁’（1999,62）。在文章后面部分，她将最终归于
+她自己和女儿的诊断——阿斯伯格综合征（AS）——描述为与
+通常与孤独谱系相关的‘那些摇摆身体、情感封闭、智力受损
+的儿童’形象和‘《雨人》式的学者症候群’截然不同（
+1999,63）。这使她得以开始阐述一种基于先天而非后天、神
+经学而非心理学的‘神经多样性政治’，她将这一思维转变归
+功于LornaWing（Singer1999,64）。她描述了这一信息如
+何在‘AS’网络空间中传播，导致‘具有‘边缘性’神经差异
+的人们’‘在全科医生诊所门前群情激奋’，以求获得诊断
+（1999,65）。特定的网络空间被称为‘我们自己的国度’，
+而（当时相对新兴的）‘网络文化’的兴起则承载着‘为‘谱
+系上’的人们提供一个全新的生态位，允许他们/我们蓬勃发展
+并自豪地展现自我’的承诺（1999,65–66）。Singer认为互联
+网‘能够提供高功能孤独谱系所缺乏的任何交流能力’（
+1999,67）。
+此处有几个重要观点变得清晰起来。首先，Singer对神经
+多样性的概念化，从根本上说，是对学习障碍的否认——她小心
+地将自己和女儿与那些‘摇晃、情感封闭、智力受损的儿童’
+（1999,63）区分开来。按她的说法，神经多样性明确且毫不
+含糊地适用于没有学习障碍的孤独谱系者，她称他们为‘高功
+能’或患有阿斯伯格综合征。在关于神经多样性a priori包容性
+的论述中，这一点很少被深入探讨。其次，Singer认为神经多
+样性不可还原地定位于物理大脑：是神经层面的，而非心理层
+面的；是天性，而非后天培养。因此，Singer援引并认可
+LornaWing的工作，认为其提供了一个科学基础，以摆脱心
+理层面的理解。那些可能质疑此类认可的历史背景则被完全省
+略了。
+--- Page 6 ---
+ 461
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+Thanks to these first two points—the disavowal of learning disa-
+bility on one hand, and the attribution of autism to the always-  
+innocent body ( Ortega 2009, 434) in a gesture of distancing from 
+madness on the other—diagnosis becomes a risk-  free, essential 
+good. Finally, it is clear that Singer saw neurodiversity as near-  
+synonymous with a narrowly defined, mostly online autistic 
+‘culture’ and ‘community’, both of which are underpinned by claims to sociality, although in a form still marginal in the late 1990s. Significantly, to judge by Singer’s account—and those of her contemporaries, such as Dekker (2020)—this community 
+was also composed entirely of adults. With the exception of her own childhood and own daughter, children are present in Singer’s conceptualisation of neurodiversity only as the abject, degraded and disabled other.
+While theorisations of neurodiversity have, in some ways, 
+evolved over the intervening 25 years, and while Singer’s rejection of learning disability from her conceptualisation of neurodiversity is now subject to critique in some examples of neurodiversity scholarship (such as Stenning and Bertilsdotter Rosqvist 2021, 1533), our summary of more recent debate around the concept suggests that the key tenets laid out by Singer have proved persistent despite claims to the contrary. Outside of the social and philosophical disciplines in which neurodiversity is most extensively theorised, Singer’s 1999 text remains heavily and uncritically cited, and continues to underpin accounts of the concept in clinical and educational research (such as Dwyer 2022 ). It is common, as we outlined above, to read that neuro-
+diversity is capacious and inclusive, including in its remit of ‘divergence’ conditions like ADHD, dyslexia, dyspraxia, and in some accounts learning disability, dementia and certain mental illnesses like schizophrenia and obsessive-
+ compulsive disorder . 
+Yet whenever a ‘case study’ or illustrative example is required—by either proponents or critics—it is, almost without exception, autism, and specifically autism as experienced by individual adults, notwithstanding some authors' references to their own childhoods (eg, Milton’s side of Milton and Timimi 2016). Like -
+wise, while some neurodiversity proponents make mention of ‘neuroessentialism’, this never appears to extend to any in-
+ depth 
+exploration of the potential dangers of embracing the physical brain as source and site of mental disability
+.
+Finally, it is evident, though tacitly so, that the ‘community’, 
+‘culture’ and ‘flourishing’ to which neurodiversity stakes a claim still extend only to those most able to actively participate in particular forms of sociality and social discourse, a group that largely overlaps with those least proximate to structural harms: in short, the ‘able-
+ disabled’ (Mitchell and Snyder 2015, 12). This 
+designation emerges from David Mitchell and Sharon Snyder’s account of the relationship between disability and ‘neoliberal inclusionism’: that is, the social recognition of a select few indi-viduals from marginalised groups as a means of forestalling any meaningful social change, to the detriment of the group as a whole. Mitchell and Snyder are building here on Jasbir Puar’s ‘homonationalism’, a key element of which is the propensity of fundamentally queerphobic societies to grant conditional toler -
+ance to those queers who adhere to normative models of kinship (Puar 2007, 21–22), which ‘enacts specific forms of disciplining and control, erecting celebratory queer liberal subjects folded into life (queerness as subject) against the sexually pathological and deviant populations targeted for death (queerness as popu-lation)’ (24). For Puar, the insistence on queer identity as always-
+ 
+already transgressive allows transgression itself to become 
+‘a regulatory queer ideal that demarcates the ideal queer’ by reifying ‘a normative notion of deviance, always defined in rela-tion to normativity’ (2007, 22–23). Mitchell and Snyder see similar dynamics at play for ‘those disabled people who […] gain entrance into late capitalist cultures’ by means of ‘administrative 'creaming' or hyper-
+ prostheticization’ (2015, 12), which they see 
+as part of an ‘ablenationalist’ schema. Both Puar (2007, 10) and Mitchell and Snyder (2015, 15–16) are careful to make clear that this selective tolerance is essentially precarious, and does not by itself entail freedom from quotidian forms of discrimination or ostracisation. Likewise, we do not mean to suggest that those indi-viduals who stand to benefit from the valorisation bestowed by the mainstreaming of neurodiversity are somehow exempt from ableist harm. What does merit deeper interrogation, however, is why and how neurodiversity is able to meld relatively seamlessly into existing institutional discourses of social value, elevating a select few mentally disabled subjects while the degradation of 
+the mentally disabled population only deepens. Neurodiversity is limited to functioning in this way, we suggest, precisely due to its reliance on neurology as organising principle. Neuro, and 
+its latent embeddedness in the innocent body, implies a sense of involuntarity that rehabilitates certain individuals—folding them into life, to paraphrase Puar, by demarcating ‘a normative notion of deviance’ (2007, 23–24)—while reinforcing the disposability of mental disability as a whole.
+As Yergeau makes clear, this ascription of involuntarity—‘that 
+autistic people are lacking in all things selfhood’—has subtended the history of autism from its early days, making possible the profound violence enacted on autistics throughout the twentieth century and into the twenty-
+ first (2018, 8–10). It is by means 
+of involuntarity, they affirm, that ‘autistics are absented from the larger project of being human’ (2018, 15), with involuntary logics feeding into ‘overmedication, eugenic futures, institution-alization’ (9), and used to rationalise the absolute divestment of agency of autistic children represented by ABA and similar ther -
+apeutic pathways, which ‘[refashion] autistic childhood into a full-
+ time job’ (99). While Yergeau does use neuro  terms, particu-
+larly ‘neuroqueer’, and never fully deconstructs the prefix in their work, what is distinct about their analysis is that they see absolutely no change for autistics in the supplanting of psy read-ings of autism with neuro ones. Indeed, their meticulous histor -
+icisation of autism in the USA makes abundantly clear that for autistic and other mentally disabled people these two knowledge systems are inextricable from one another (2018, 105), and that autism research in general is foundationally hostile to us. It is significant that Yergeau arrives at this juncture by means of thor -
+ough historicisation, something the large majority of neurodiver -
+sity proponents gloss over. When it is not omitted entirely, the historical narrative presented in such scholarship (Singer 1999, 64; Orsini and Davidson 2013, 2; Chapman 2020b, 799; Fein 
+2020, 13–14; Dyck and Russell 2020, 171–72; , 1326–27), and 
+unquestioned or even reproduced in critical responses (Jaarsma and Welin 2012, 22; Fitzgerald 2017, 4–5; Hughes 2020, 53) is 
+a sanitised version of the genealogy of autism whose repeated circulation serves to obscure the dangers of framing mental disa-bility in terms of ‘atypical wiring’ or ‘brain-
+ based difference’ for 
+all but a select few .
+In this selective version, the history of autism begins in the 
+1940s, when Leo Kanner ‘discovers’ it. Hans Asperger is occa-sionally mentioned as making a parallel ‘discovery’, though rarely features as anything other than a child psychiatrist or paediatrician. Initially it is understood as a psychological condi-tion owing, most notoriously, to a lack of maternal warmth (the ‘refrigerator mother’ per Kanner and then Bruno Bettelheim). The psychogenic explanation is then supplanted in the mid-
+ 
+to- late twentieth century by a biomedical model. Where this is 
+linked to specific professional figures, it is usually Lorna Wing in Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+ 461
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+由于前两点——一方面否认学习障碍，另一方面将孤独谱系归因
+于永远无辜的身体（Ortega2009,434），以此姿态疏离疯狂——
+诊断变成了一种无风险、本质性的好事。最后，很明显，
+Singer将神经多样性视为几乎等同于一个狭义定义的、主要在
+线的孤独谱系‘文化’和‘社区’，这两者都基于对社会性的
+主张，尽管在20世纪90年代末其形式仍处于边缘。重要的是，
+根据Singer的描述以及她同时代人的描述（如Dekker,
+2020）来看，这个社区也完全由成年人组成。除了她自己的童
+年和她自己的女儿，儿童在Singer的神经多样性概念化中，仅
+作为卑贱、堕落和残障的他者而存在。
+尽管神经多样性的理论化在过去25年间在某些方面有所演
+变，并且尽管Singer在其神经多样性概念化中拒绝纳入学习障
+碍的做法，如今在一些神经多样性研究（如Stenningand
+BertilsdotterRosqvist2021,1533）中已受到批评，但我们对
+围绕该概念近期辩论的总结表明，Singer提出的关键原则尽管
+存在相反的主张，却已被证明具有持久性。在神经多样性理论
+化最为深入的社会和哲学学科之外，Singer199年的文本仍被
+大量且不加批判地引用，并继续为临床和教育研究（如
+Dwyer2022）中的概念阐述提供基础。正如我们上文概述的那
+样，人们普遍读到神经多样性是宽泛且包容的，其范畴包括诸
+如注意缺陷多动障碍、阅读障碍、运动协调障碍等‘偏离’状
+况，在某些论述中还包括学习障碍、痴呆以及某些精神疾病，
+如精神分裂症和强迫症。然而，每当需要一个‘案例研究’或
+说明性例子时——无论是支持者还是批评者——几乎毫无例外地，
+都是孤独谱系，并且具体是由成年个体所经历的孤独谱系，尽
+管一些作者会提及自己的童年（例如，Milton在Miltonand
+Timimi2016中的论述）。同样，尽管一些神经多样性的支持
+者提及了‘神经本质主义’，但这似乎从未延伸到对将物理大
+脑作为精神残障的源头和场所这一做法潜在危险性的任何深入
+探讨。
+最后，尽管是默示的，但显而易见的是，神经多样性所主张的
+‘社群’、‘文化’和‘繁荣’，仍然只延伸至那些最能积极参与
+特定形式的社会性及社会话语的群体，这个群体在很大程度上与那
+些最远离结构性伤害的人群重合：简而言之，即‘健全的残障者’
+（Mitchell与Snyder2015,12）。这个称谓源于David
+Mitchell和SharonSnyder对残障与‘新自由主义包容’之间关
+系的论述：即，社会对来自边缘化群体的少数精选个体的认可，作
+为一种手段来阻止任何有意义的社会变革，从而损害整个群体的利
+益。Mitchell与Snyder在此借鉴了JasbirPuar的‘同性恋民族
+主义’，其关键要素是根本上仇视酷儿的社会倾向于给予那些遵循
+规范性亲属关系模式的酷儿有条件的容忍（Puar2007,21–22），
+这种容忍‘实施特定形式的规训与控制，树立起被纳入生命的、值
+得庆贺的自由主义酷儿主体（作为主体的酷儿性），以对抗那些被
+锁定为死亡目标的性病理化与越轨人群（作为人口的酷儿性）’
+（24）。对普阿而言，坚持将酷儿身份视为总是已然越轨的，使得
+越轨本身通过具体化‘一种相对于规范性而言总是被定义的、规范
+性的越轨观念’，而成为‘一种规管性的酷儿理想，它划定了理想
+酷儿的界限’（2007,22–23）。Mitchell与Snyder认为类似的动态也作用于‘那些通过‘行政‘撇脂’或超‑假体化’
+（2015,12）而[...] 得以进入晚期资本主义文化的残障人士’，
+他们视此为一种‘健全民族主义’图式的一部分。无论是普阿
+（2007,10）还是Mitchell与Snyder（2015,15–16）都谨慎
+地明确指出，这种选择性容忍本质上是岌岌可危的，其本身并
+不意味能免于日常形式的歧视或排斥。同样，我们并非暗示那
+些可能从神经多样性主流化所赋予的重视中受益的个体，就能
+以某种方式免于残障歧视的伤害。然而，真正值得深入探究的
+是，神经多样性为何以及如何能够相对无缝地融入现有的关于
+社会价值的制度性话语中，抬升少数精选的精神残障主体，而
+精神残障人群的处境恶化却只会加深。我们认为，神经多样性
+之所以仅限于以此方式运作，恰恰源于其对神经学作为组织原
+则的依赖。神经及其在无辜身体中的潜在嵌入性，暗示了一种
+非自愿性，这种非自愿性使某些个体得以恢复——借用普阿的话
+说，通过划定‘一种规范性的越轨观念’（2007,23–24）将他
+们纳入生命——同时却强化了精神残障作为一个整体的可弃置性。
+正如Yergeau所阐明的那样，这种对非自主性的归因——
+‘认为孤独谱系群体在所有关乎自我的事物上都有所欠缺’——
+自孤独谱系早期历史起就一直支撑着其发展脉络，使得整个二
+十世纪乃至二十一世纪施加于孤独谱系者身上的深刻暴力成为
+可能（2018,8–10）。他们断言，正是通过非自主性，‘孤独
+谱系者被排除在成为人类这一更宏大的计划之外’（2018,15），
+非自主性的逻辑助长了‘过度用药、优生学未来、机构化’
+（9），并被用来合理化以ABA及类似治疗路径为代表的、对孤
+独谱系儿童能动性的彻底剥夺，这些路径‘[将] 孤独谱系的童
+年重塑为一份全职工作’（99）。尽管Yergeau确实使用了神
+经术语，特别是‘神经酷儿’，且在其工作中从未完全解构该
+前缀，但他们分析的独特之处在于，他们认为用神经解读取代
+心理解读，对孤独谱系者而言绝对没有任何改变。事实上，他
+们对美国孤独谱系历史的细致梳理清楚地表明，对于孤独谱系
+及其他精神残障人士而言，这两种知识体系密不可分（2018,
+105），而且总体而言，孤独谱系研究从根本上对我们充满敌意。
+重要的是，Yergeau通过彻底的历史化研究得出了这一结论，
+而这是绝大多数神经多样性支持者所忽视的。当历史叙述没有
+被完全省略时，此类学术著作（Singer1999,64;2013,2;
+2020,799;OrsiniandDavidson;Chapmanb;Fein2020,
+13–14;DyckandRussell2020,171–72;,1326–27）中所呈现
+的、并在批评性回应中被不加质疑甚至复现（Jaarsmaand
+Welin2012,22;Fitzgerald2017,4–5;Hughes2020,53）的
+历史叙述，是一种经过净化的孤独谱系谱系版本，其反复流传
+的作用是掩盖将精神残障框定为‘非典型接线’或‘基于大脑
+的差异’对除少数特例之外的所有人带来的危险。
+在这个有选择性的版本中，孤独谱系的历史始于20世纪40
+年代，当时LeoKanner‘发现’了它。HansAsperger偶尔
+被提及做出了平行的‘发现’，但除了作为儿童精神科医生或
+儿科医生外，他很少以其他身份出现。最初，它被理解为一种
+心理状况，最臭名昭著的原因是缺乏母爱的温暖（即Kanner以
+及后来的BrunoBettelheim提出的‘冰箱母亲’理论）。这种
+心因性解释随后在20世纪中后期被生物医学模型所取代。当这
+种模型与特定的专业人物联系起来时，通常指的是
+--- Page 7 ---
+462 
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+the UK and, less commonly, Bernard Rimland in the USA. Wing is 
+generally credited, too, with the discovery and mainstreaming of Asperger’s ‘forgotten’ work in the early 1980s, which suggested (so the narrative goes) that some children otherwise diagnos-able with autism did not appear to lack intelligence or linguistic proficiency and may in fact have extraordinary abilities.
+There are several conspicuous absences and partial truths in 
+this narrative. To give an overly brief and certainly incomplete account of these: the pre-
+ 1940s histories of ‘mental disorder’—
+that is, Kanner’s and Asperger’s own intellectual precedents and the social contexts that gave rise to them—are entirely absent. This means that the near-
+ synon ymity of ‘mental disorder’ as 
+a medical designation with increased knowledge of biological heredity, racialised fears of (white) ‘degeneration’, and ulti-mately eugenics goes unexamined. Indeed, the person respon-sible for the very term ‘autism’, Swiss psychiatrist Eugen Bleuler, is rarely mentioned; his status as a committed eugenicist never is. Perhaps owing to this earlier omission, very few sources examine the histories and contexts of Kanner and Asperger themselves, despite the comprehensive archival work under -
+taken by historians such as Edith Sheffer and Herwig Czech to bring the trajectory of Asperger in particular to light. Czech’s (2018)  and Sheffer’s (2018) exhaustive accounts make clear 
+that Asperger was at best a dedicated eugenicist, antisemite and supporter of Nazism generally in all but name, and at worst an enthusiastic catalyst for the murder of disabled children at the Spiegelgrund facility that ran alongside (but was not part of, see Czech 2019, 3884) Aktion T4. He differed from some other Nazi clinicians at the time only because he considered a negligible number of the children who entered his clinic to have some limited social ‘use’. All others were to be exterminated in service of the nation’s genetic health (Czech 2018, 17). As De 
+Hooge (2019) describes, Czech’s work was ‘received as revela-tory’—as was Sheffer’s—due to its contrast with the narrative enabled by figures like Wing that posited Asperger as an oppo -
+nent of Nazism and saviour of disabled children from murder. Yet, as De Hooge (2019) affirms, Asperger’s status was already known, or at least rumoured, in disabled communities for years prior. It is clear that the confirmed—if not entirely new—bodies of knowledge offered by Czech and Sheffer should necessitate re-
+ examination not only, or even principally, of Asperger himself 
+but more importantly of the genealogies of mental disability that flow from his influence. And yet even the basic questions that might arise from these ‘revelations’ are absent from neurodi-versity scholarship. What are the implications, for example, of Wing’s (1981) stripping of historical context and terminology from Asperger’s work when she published the 1981 paper that brought it into the Anglophone mainstream and ultimately gave rise to the ‘Asperger’s syndrome’ designation to describe autism without learning disability (Sheffer 2018, 241–42)? Even absent this context, what does it say about the field of autism research in the late twentieth century that a distinction originally used by Asperger to separate ‘educable’ from ‘worthless’ children (Sheffer 2018, 107)—a distinction steeped in eliminationist ableism—was readily taken up by researchers to the point that it found a home in the medical mainstream? What does it mean for neurodiversity that its early proponents, not least Singer, found that same distinction so empowering? And finally, how does the mainstreaming of neurodiversity-
+ as- valuable reproduce 
+this distinction?
+In short, neurodiversity’s insistence on autism and other 
+mental disability as an essential, immutable part of one’s brain falls short of fully considering the dangers of the biological essen-tialism it implies because it does not reckon with this genealogy, among others. While, as alluded to above, more recent accounts occasionally disclaim Singer’s attachment to ‘Asperger’s’ as a diagnosis distinct from autism (such as Stenning and Bertils-dotter Rosqvist 2021, 1533), and while neurodiversity propo -
+nents like Ari Ne'eman were active in its removal from the DSM, there is no consideration of neurodiversity’s more submerged inheritances from the history of autism and what they mean for who the concept elevates and who it allows to be degraded. These partial and sanitised histories are not merely descriptive or scene-
+ setting. As Nikolas Rose and Joelle M Abi-  Rached state 
+of the ‘truth-  claim ing disciplines’, in their case neuroscience, the 
+repeated circulation of mini-  histories ‘is performative’, legiti-
+mating the discipline in question by ‘viewing the past from the perspective of its own regime of truth’ (2013, 29–30). Citing George Canguilhem’s formulation of ‘recurrent history’, Rose and Abi-
+ Rached note that such narratives use ‘the past to help 
+demarcate a contemporary regime of truth, to police the present, and to try to shape the future’ (2013, 29–30). Salient again is 
+Hughes’s ‘biological citizen’ designation, which he sees as char -
+acterised in part by a lack of ‘substantive emotional connection to a collective past and collective historical memory’ (2009, 686). There is a risk, here, then, of deploying history as simply a prelude to the present. A fuller attempt to historicise would help to prevent the emergence of mythologies around neuro-diversity that reinforce its neglect of those closest to structural harm, such as Mark Haydon-
+ Laurelut’s assertion that ‘bodies 
+now labelled as autistic were perhaps closer to the norms of the late nineteenth and early to mid-
+ twentieth century ’ (2016, 
+222), an idea cited and reproduced by Chapman, who adds that ‘modernist ideals tended to celebrate autistic traits such as being single-
+ minded, rational, and independent’ (2020b, 812). It is, 
+of course, beyond question that disability is not a fixed entity: that the same person might be subject to disablement in some periods and geographies and not in others. But the suggestion that people now considered autistic would have been consid-ered ‘normal’, or even ‘celebrated’, in the late nineteenth and early twentieth centuries—the heyday of eugenics and its mani-fold regimes of violence—is only plausible if we limit ‘autism’ to traits that are neither universal among autistic people nor exclu-sive to us, and that in many cases are limited to those furthest from structural harm, including ‘rationality’ and ‘independence’. Neurodiversity’s dehistoricisation here is mutually constitutive with its ‘creaming’ effect (Mitchell and Snyder 2015, 12).
+By repeating this sanitised version of history, and by accepting 
+or even embracing autism as neurological without consid-ering the historical processes responsible for its designation as such, neurodiversity has made itself particularly amenable to co-
+ opting. W e opened this article with a particularly flagrant 
+example, but there are many more instances of incorporation and mobilisation by disciplines, organisations and institutions hostile to mentally disabled people as a whole. As Yergeau puts it, these are the fields that ‘behol[d] the mentally disabled as though they are ants writhing beneath a magnifying glass’ (2018, 207), seeing no more future for us than the psychoana-lysts neurodiversity rallied against. Indeed, some of the institu-tions that have incorporated neurodiversity into their practice originated with those same psychoanalysts; a particularly acute illustration can be found in the Anna Freud Centre’s embrace of the concept in child psychotherapy and publication of a guide to it (Murphy 2023). Another especially concerning example is that of Simon Baron-
+ Cohen, possibly the world’s most influ-
+ential living autism researcher and responsible for decades of stigmatising and eliminationist theories about autistic and other mentally disabled people: theory of mind and ‘mindblindness’, Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+462 
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+英国的LornaWing，以及较少提及的美国的Bernard
+Rimland。Wing通常还被认为在20世纪80年代初发现并推广
+了Asperger‘被遗忘’的工作，该工作表明（按照叙述的说法）
+一些原本可被诊断为孤独谱系的儿童似乎并不缺乏智力或语言
+能力，实际上可能拥有非凡的才能。
+这一叙事中存在几处明显的遗漏和部分真相。对此做一个
+过于简短且必然不完整的说明：关于“精神障碍”在1940年代
+之前的历史——即Kanner和Asperger自身的思想前身及其产生
+的社会背景——完全缺席。这意味着，“精神障碍”作为一个医
+学标签，几乎等同于对生物遗传性认识的加深、对（白人）
+“退化”的种族化恐惧，并最终指向优生学，而这一切都未经
+审视。事实上，创造出“孤独症”这一术语的瑞士精神病学家
+EugenBleuler很少被提及；他作为一个坚定的优生主义者的
+身份则从未被提及。或许由于早期的这一疏漏，尽管有Edith
+Sheffer和HerwigCzech等历史学家进行了全面的档案工作，
+尤其是揭示了Asperger的人生轨迹，但很少有资料考察
+Kanner和Asperger自身的历史和背景。Czech（2018）和
+Sheffer（2018）详尽的记述清楚地表明，Asperger充其量是
+一个不折不扣的优生主义者、反犹主义者，并且是纳粹主义的
+全面支持者，最坏的情况下，他是导致残障儿童在
+Spiegelgrund机构（该机构与T4行动并行运作，但不属于其一
+部分，参见Czech2019,3884）被谋杀的狂热催化剂。他与其
+他一些纳粹临床医生的不同之处仅在于，他认为进入其诊所的
+儿童中有极少数具有有限的社会“用途”。所有其他儿童则为
+了国家的基因健康而被消灭（Czech2018,17）。正如De
+Hooge（2019）所描述，Czech的工作“被当作启示性的发现
+来接受”——Sheffer的工作也是如此——因为它与由Wing等人
+所推动的叙事形成对比，后者将Asperger描绘成纳粹主义的反
+对者和从谋杀中拯救残障儿童的救星。然而，正如DeHooge
+（2019）所确认，Asperger的身份多年来在残障社群中早已为
+人所知，或至少是传闻。显然，Czech和Sheffer所提供的这些
+经过确认的——即便并非全新的——知识体系，不仅应该要求对
+Asperger本人进行重新审视（甚至这不是最主要的），更重要
+的是，应该重新审视源自其影响的精神残障谱系。然而，即使
+是这些“启示”可能引发的基本问题，在神经多样性学术研究
+中也缺席了。例如，Wing（1981）在发表那篇将Asperger的
+工作引入英语主流并最终催生出用于描述无学习障碍的孤独谱
+系的“阿斯伯格综合征”标签的论文时，剥离了其历史背景和
+术语，这其中的含义是什么（Sheffer2018,241–42）？即使抛
+开这个背景，一个最初由Asperger用来区分“可教育”与“无
+价值”儿童（Sheffer2018,107）的区分——一个浸透着灭绝
+主义健全主义的区分——被二十世纪末的孤独谱系研究领域欣然
+采纳，甚至成为医学主流的一部分，这说明了该领域的什么问
+题？对于神经多样性而言，其早期支持者，尤其是Singer，发
+现同样的区分如此具有赋能力量，这意味着什么？最后，神经
+多样性本身作为一种有价值的理念被主流化的过程，是如何重
+现这种区分的？
+简而言之，神经多样性坚持将孤独谱系和其他精神残障视为一
+个人大脑中本质且不可改变的部分，但由于其未能与这种谱系学进
+行清算，因而未能充分考虑其所暗示的生物本质主义的危险性。此外。虽然如上所述，近来的论述偶尔会否认Singer将‘
+Asperger’视为一种区别于孤独谱系的诊断标签（例如
+Stenning和BertilsdotterRosqvist2021,1533），并且尽管
+神经多样性的支持者如AriNe'eman曾积极推动将其从DSM中
+移除，但人们并未考虑神经多样性从孤独谱系历史中继承的、
+更为深层的遗产，以及这些遗产对于该概念抬升了谁、又允许
+谁被贬低意味着什么。这些片面且被净化的历史不仅仅是描述
+性或背景铺垫。正如NikolasRose和JoelleMAbi‑Rached在
+论及‘宣称真理的学科’（就他们而言是神经科学）时所指出
+的，微型历史的反复传播‘具有表演性’，通过‘从其自身真
+理政权的视角看待过去’来使相关学科合法化（2013,29–30）。
+引用GeorgeCanguilhem的‘循环历史’概念，Rose和
+Abi‑Rached指出，此类叙事利用‘过去来帮助划定当代的真理
+政权，监管当下，并试图塑造未来’（2013,29–30）。休斯的
+‘生物公民’概念再次凸显，他认为其特征部分在于缺乏‘与
+集体过去和集体历史记忆的实质性情感连接’（2009,686）。
+因此，这里存在一种风险，即仅仅将历史用作当下的前奏。更
+全面地尝试历史化将有助于防止围绕神经多样性出现神话，这
+些神话会强化其对最接近结构性伤害者的忽视，例如Mark
+Haydon‑Laurelut断言‘如今被标记为孤独谱系的身体，或许
+更接近十九世纪末至二十世纪中叶的规范’（2016,222），这
+一观点被Chapman引用并复述，他补充道‘现代主义理想倾向
+于颂扬孤独谱系特质，如专注、理性和独立’（2020b,812）。
+当然，残障并非固定实体这一点毋庸置疑：同一个人可能在某
+些时期和地域遭受残障化，而在其他时期和地域则不会。但是，
+认为如今被视为孤独谱系的人在十九世纪末和二十世纪初——优
+生学及其多种暴力政权的鼎盛时期——会被视为‘正常’甚至被
+‘颂扬’的说法，只有在我们将‘孤独谱系’局限于那些既非
+所有孤独谱系群体普遍拥有、也非我们所独有，并且在许多情
+况下仅限于那些离结构性伤害最远者的特质（包括‘理性’和
+‘独立’）时，才显得合理。神经多样性在此的去历史化，与
+其‘撇脂’效应（Mitchell与Snyder2015,12）是相互构成的。
+通过重复这种经过净化的历史版本，并通过接受甚至拥抱
+孤独谱系作为神经学概念，而不考虑将其如此定性的历史过程，
+神经多样性已使其自身特别容易被收编。我们以一起尤为明目
+张胆的案例开启了本文，但还有更多被学科、组织和机构吸纳
+与动员的实例，而这些实体整体上对精神残障人士充满敌意。
+正如Yergeau所言，这些领域“把精神残障人士视为在放大镜
+下扭动的蚂蚁”（2018,207），他们认为我们的未来并不比神
+经多样性所反对的精神分析师们所设想的更多。事实上，一些
+已将神经多样性纳入其实践的机构，恰恰起源于那些同样的精
+神分析师；一个特别尖锐的例子可见于AnnaFreud中心在儿童
+心理治疗中对这一概念的拥抱，以及相关指南的出版（
+Murphy2023）。另一个尤其令人担忧的例子是Simon
+Baron‑Cohen，他可能是当今世界上最具影响力的孤独谱系研
+究者，并为数十年来关于孤独谱系及其他精神残障人士的污名
+化和灭绝主义理论负责：心智理论和‘心智盲’，
+--- Page 8 ---
+ 463
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+autism and ‘personality disorders’ as inhuman lack of empathy, 
+and ‘extreme male brain’ to name the most well known (Yergeau 2018, 47–48, 68–72). In 2021, in his capacity as leader of the Autism Research Centre based at the University of Cambridge, Baron-
+ Cohen was awarded several millions of pounds in funding 
+for the now-  paused Spectrum 10K project, which sought to 
+isolate ‘genetic risks’ for autism by amassing the genetic material 
+of 10  000 autistic people. Yet he was endorsing neurodiversity 
+as concept as early as 2017 , and is now cited as an authority 
+on it in papers describing, for example, the application of the neurodiversity paradigm to children’s services (Dunn, Gowda, and Horsfall Turner 2024). This is not to say that proponents of neurodiversity are responsible for these appropriations; nor is it to deny that individuals may be working towards meaningful change from within otherwise hostile organisations. But the ease with which the concept has been incorporated, embraced and even lauded by institutions and individuals responsible for some of the most profound material and rhetorical violence against mentally disabled people should be cause for reflection. This is particularly salient when we consider neurodiversity propo -
+nents’ tendency, whether explicit or latent, to frame autistic people (in particular) as in possession of unique or enhanced skills or abilities. To elevate some of us in this way is to buy into a hierarchy of social value that only deepens the immiseration of those unable to ‘produce’, and further entrenches the allocation of time and money towards their eradication.
+Any such rethinking necessitates a return to disability, not 
+necessarily and certainly not exclusively in linguistic terms, but rather in genealogical, historical, intellectual and political-
+ 
+economic ones. It demands critical scrutiny of the histories and texts not only of neurodiversity 
+itself, but also of mental disa-
+bility, a much longer genealogy inextricable from the histories of race, colonialism and white supremacy, homophobia and transphobia, nationalism and class. It also requires dialogue with the extensive body of scholarship that has been scrutinising neuroscience and warning against the neurologisation of iden-tity, education and institutions for almost as long as neurodiver -
+sity has existed, but that (with the partial exception of Ortega) conspicuously neglects disability. Of particular interest here are Loraine Corrie’s early exploration of how ‘coupling neurosci-ence with early childhood may be a dangerous liaison that could lead to an erosion of social justice for some groups of children’ (2000, 34), Jan De Vos’s (2015) assertion that the increased prominence of neuro-
+ terms in schools functions to ‘interpellat[e] 
+us into the scientific vantage point’ from childhood (288), and 
+Zsuzsa Millei and Mikko Joronen’s examination of ‘neugenics’ in Australian social policy and its production of ‘surplus life’ (2016, 397). So too is Rose and Abi-
+ Rached’s extensive account 
+of the ways utterly spurious pop-  neuroscience ideas about the 
+brain have become culturally naturalised to the point they are 
+no longer questioned (2013) . Finally, a rethinking of these ideas 
+calls for a deeper consideration of the role of misogyny in our conceptualisations of mental disability, and a greater sense of caution towards the possibility of reproducing gender essen-tialism through, for example, our discussions of the ostensible differences between autistic men and women (Russell 2021 , 
+78–79; Pearson and Rose 2021).
+At this point in time, neurodiversity’s star is indisputably 
+on the rise; the degradation of mental disability, meanwhile, continues apace. Our article has sought to understand this dynamic through an examination of neurodiversity’s founda-tions, principles, self-
+ image and omissions, particularly those left 
+untouched by key critiques levelled at the concept. While neuro-diversity is in some ways heterogeneous as a field of study, a belief in the concept’s foundational inclusiveness unifies propo -
+nents. So too does the principle of neurologisation, even where 
+this is outwardly disclaimed. While theorisations of neurodiver -
+sity have foregrounded the primacy of individual experience, critiques have centred on decontextualised questions of logical coherency, plausibility and occasionally hypothetical risks that are rarely grounded in concrete circumstances. Absent from these discussions are disability and disablement as political-
+ 
+economic entities, meaning that the stakes for those closest to 
+structural harm are lost. A re-  examination of the text that first 
+brought neurodiversity to wider audiences (Singer 1999) shows that this sidelining of disability was present from its inception, and that the concept originally sought only to demarcate and elevate a select few: the ‘able-
+ disabled’, in Mitchell and Snyder’s 
+(2015, 12) terms. This dynamic is perpetuated by proponents' lack of reckoning with the genealogy of mental disability and repeated circulation of sanitised or partial historical accounts. These omissions have made neurodiversity particularly suscep-tible to co-
+ opting by institutions whose fundamental ableism 
+and proximity to structural power deepen the marginalisation of disability already latent within neurodiversity itself. At a time when the stakes for mentally disabled people are so high, critical reflection on these omissions, exclusions and vulnerabilities has rarely been so crucial.
+Contributors  Both authors made equal contributions to the conception,  planning 
+and writing of this article. EKJ is the guarantor.
+Funding  The authors have not declared a specific grant for this research from any 
+funding agency in the public, commercial or not-  for- profit sectors .
+Competing interests  None declared.
+Patient and public involvement  Patients and/or the public were not involved in 
+the design, or conduct, or reporting, or dissemination plans of this research.Patient consent for publication
+ Not applicable .
+Ethics approval  Not applicable .
+Provenance and peer review  Not commissioned;  externally peer reviewed.
+Data availability statement  No data are av ailable. N/A.
+ORCID iD
+Eleanor K Jones http://orcid.org/0009-0009-2120-1083
+BIBLIOGRAPHY
+Adler-  Bolton,  B., and A. Vierkant. 2022. Health Communism: A Surplus Manifesto. London: 
+Verso.
+Albert, A. 2020. “Coronavirus Tests Denied to People with Learning Disabilities despite 
+175% Rise in Their Deaths.” Carehome. Available from: https://www.carehome.co.uk/  
+news/article .cfm/id/1625875/Coronavirus-testing. Accessed 14 May 2020.
+Anderson-  Chav arria, M. 2022. “The Autism Predicament: Models of Autism and Their 
+Impact on Autistic Identity.” Disability & Society 37 (8): 1321–41. 
+Baker, M. 2020. “Whose Life Is Worth Saving? In Washington State, People with 
+Disabilities Are Afraid They Won’t Make the Cut.” New York Times. Available from: 
+https://www.nytimes.com/2020/03/23/us/coronavirus-washington-triage-disabled-  
+handicapped.html
+Baron-  Cohen,  S. 2017. “Editorial Perspective: Neurodiversity - a Revolutionary Concept 
+for Autism and Psychiatry.” Journal of Child Psychology and Psychiatry, and Allied Disciplines 58 (6): 744–47. 
+BBC. 2020. “Coronavirus: Autistic Support Group ’told It Needed DNR Orders.” 
+BBC News. Available from: https://www.bbc.co.uk/news/uk-england-somerset-
+ 
+52217868
+Beck,  T. J. 2023 “Neurodivergent Culture and Embodied Knowledge beyond Neoliberal 
+Identity Politics.” Culture & Psychology. 
+Buckland, R. 2023. “Closing the Employment Gap for Autistic People and Those with Other 
+Neurodivergent Needs.” Conservatives. Available from: https://www.robertbuckland.  
+co.uk/campaigns/closing-employment-gap-autistic-people-and-those-other-  
+neurodivergent-needs
+Care Quality Commission.  2021. Protect, Respect, Connect – Decisions about Living and 
+Dying Well during COVID-  19. https://www.cqc.org.uk/publications/themed-work/  
+protect-respect-connect-decisions-about-living-dying-well-during-covid-19.Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+ 463
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+孤独谱系和‘人格障碍’被视为缺乏同理心这一非人性的表现，
+以及‘极端男性大脑’——仅举最广为人知的几个（Yergeau
+2018,47–48,68–72）。2021年，作为剑桥大学孤独谱系研究
+中心负责人的Baron‑Cohen，为现已暂停的Spectrum10K项
+目获得了数百万英镑的资金，该项目旨在通过收集10000名孤独
+谱系群体的基因材料来分离孤独谱系的‘遗传风险’。然而，
+他早在2017年就已开始认可神经多样性这一概念，如今在描述
+例如将神经多样性范式应用于儿童服务的论文中，他被引述为
+该领域的权威（Dunn,Gowda,andHorsfallTurner2024）。
+这并不是说神经多样性的支持者应对这些挪用负责；也不是要
+否认个人可能在充满敌意的组织内部致力于有意义的变革。但
+这一概念如此轻易地被那些对精神残障人士施加了最深重物质
+与言辞暴力的机构和个人所吸纳、拥抱甚至赞扬，这应当引起
+反思。当我们考虑到神经多样性支持者（无论是明确还是潜在
+的）倾向于将孤独谱系群体（尤其）描绘为拥有独特或增强技
+能或能力时，这一点尤为突出。以这种方式抬高我们中的一部
+分人，实际上是认同一种社会价值等级，这种等级只会加深那
+些无法‘生产’的人的贫困，并进一步固化将时间和资金用于
+根除他们的分配模式。
+任何这样的重新思考都必然要回归到残障，这不一定且肯
+定不局限于语言学层面，而是谱系学、历史学、思想史和政治
+经济学的层面。它要求对神经多样性本身，以及精神残障的历
+史和文本进行批判性审视——精神残障与种族、殖民主义、白人
+至上主义、恐同、跨性别恐惧、民族主义和阶级的历史密不可
+分，其谱系要长得多。这也需要与大量学术研究进行对话，这
+些研究几乎在神经多样性概念存在之初，就开始审视神经科学
+并警告身份、教育和机构的神经化，但（除了Ortega的部分例
+外）明显忽视了残障。此处特别值得关注的是：Loraine
+Corrie早期探讨了‘将神经科学与早期儿童研究结合可能是一
+种危险的联姻，可能导致某些儿童群体的社会正义受到侵蚀’
+（2000，34）；JanDeVos（2015）断言神经前缀术语在学校
+中的日益突出，其功能是从童年起就将我们‘召唤[至] 科学制
+高点’（288）；以及ZsuzsaMillei和MikkoJoronen对澳大
+利亚社会政策中‘神经优生学’及其产生的‘剩余生命’的考
+察（2016，397）。同样重要的还有Rose和Abi‑Rached对关
+于大脑的完全虚假的流行神经科学观念如何被文化自然化到不
+再受质疑的广泛论述（2013）。最后，对这些观念的重新思考，
+要求更深入地考虑厌女在我们对精神残障概念化过程中的作用，
+并对可能通过（例如）我们关于孤独谱系男性与女性之间表面
+差异的讨论而复制性别本质主义，保持更大的警惕（Russell
+2021，78‑79；Pearson和Rose）。
+当下，神经多样性的声望无疑在上升；与此同时，精神残
+障的贬低仍在持续。本文旨在通过审视神经多样性的基础、原
+则、自我形象及其疏漏，特别是那些针对该概念的关键批评未
+曾触及的方面，来理解这一动态。尽管神经多样性作为一个研
+究领域在某些方面是异质的，但对该概念基础包容性的信念统一了其支持者。神经化的原则亦
+是如此，即便这在表面上被否认。尽管对神经多样性的理论化
+突出了个体经验的首要性，但批评则集中于去语境化的逻辑一
+致性、合理性以及偶尔出现的、很少基于具体情况的假设性风
+险问题。这些讨论中缺失的是作为政治经济实体的残障与致残
+过程，这意味着那些最接近结构性伤害的人所面临的风险被忽
+视了。重新审视最初将神经多样性带给更广泛受众的文本（
+Singer1999）表明，这种对残障的边缘化自其诞生之初就已存
+在，并且该概念最初仅试图界定并提升少数被选中者：用
+Mitchell与Snyder（2015,12）的话说，即‘健全的残障者’。
+这一动态因支持者未能正视精神残障的谱系，以及反复传播经
+过净化或片面的历史叙述而得以延续。这些疏漏使得神经多样
+性特别容易被那些根本性健全主义且接近结构性权力的机构所
+收编，这些机构加深了本就潜藏于神经多样性内部的残障边缘
+化。在精神残障人士面临的风险如此之高的当下，对这些疏漏、
+排斥和脆弱性的批判性反思，其重要性前所未有。
+贡献者两位作者对本文章的构思、规划和撰写做出了同等贡献。EKJ为担保
+人。
+资助作者未声明为本研究从公共、商业或非营利部门的任何资助机构获得特
+定Grant。
+利益竞争无声明。
+患者和公众参与患者和/或公众未参与本研究的设计、实施、报告或传播计划。
+患者发表同意不适用。
+伦理批准不适用。
+出处与同行评审非约稿；经外部同行评审。
+数据可用性声明无可用数据。不适用。
+ORCIDiD
+Eleanor K Jones http://orcid.org/0009-0009-2120-1083
+BIBLIOGRAPHY
+Adler- Bolton, B., and A. Vierkant. 2022. Health Communism: A Surplus Manifesto. London: 
+Verso.
+Albert, A. 2020. “Coronavirus Tests Denied to People with Learning Disabilities despite 
+175% Rise in Their Deaths.” Carehome. Available from: https://www.carehome.co.uk/ 
+news/article.cfm/id/1625875/Coronavirus-testing. Accessed 14 May 2020.
+Anderson- Chavarria, M. 2022. “The Autism Predicament: Models of Autism and Their 
+Impact on Autistic Identity.” Disability & Society 37 (8): 1321–41. 
+Baker, M. 2020. “Whose Life Is Worth Saving? In Washington State, People with 
+Disabilities Are Afraid They Won’t Make the Cut.” New York Times. Available from: 
+https://www.nytimes.com/2020/03/23/us/coronavirus-washington-triage-disabled- 
+handicapped.html
+Baron- Cohen, S. 2017. “Editorial Perspective: Neurodiversity - a Revolutionary Concept 
+for Autism and Psychiatry.” Journal of Child Psychology and Psychiatry, and Allied 
+Disciplines 58 (6): 744–47. 
+BBC. 2020. “Coronavirus: Autistic Support Group ’told It Needed DNR Orders.” 
+BBC News. Available from: https://www.bbc.co.uk/news/uk-england-somerset- 
+52217868
+Beck, T. J. 2023 “Neurodivergent Culture and Embodied Knowledge beyond Neoliberal 
+Identity Politics.” Culture & Psychology. 
+Buckland, R. 2023. “Closing the Employment Gap for Autistic People and Those with Other 
+Neurodivergent Needs.” Conservatives. Available from: https://www.robertbuckland. 
+co.uk/campaigns/closing-employment-gap-autistic-people-and-those-other- 
+neurodivergent-needs
+Care Quality Commission. 2021. Protect, Respect, Connect – Decisions about Living and 
+Dying Well during COVID- 19. https://www.cqc.org.uk/publications/themed-work/ 
+protect-respect-connect-decisions-about-living-dying-well-during-covid-19.
+--- Page 9 ---
+464 
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+Casanova, M. 2015. “The Neurodiversity Movement: Lack of Trust.” Cortical Chauvinism. 
+Available from: https://corticalchauvinism.com/2015/01/05/the-neurodiversity-  
+movement-lack-of-trust
+Chapman,  R. 2020b. “The Reality of Autism: On the Metaphysics of Disorder and 
+Diversity.” Philosophical Psychology 33 (6): 799–819. 
+Chapman, R. 2020a. “Neurodiversity, Disability, Wellbeing.” In Neurodiversity Studies: A 
+New Critical Paradigm, edited by Hanna Bertilsdotter Rosqvist, Nick Chown, and Anna 
+Stenning, 57–72. Abingdon: Routledge. 
+Chapman, R. 2019. “Neurodiversity Theory and Its Discontents: Autism, Schizophrenia, 
+and the Social Model of Disability.” In The Bloomsbury Companion to Philosophy of Psychiatry, edited by Serife Tekin and Robyn Bluhm, 371–89. London: Bloomsbury. 
+Chown, N. 2020. “Language Games Used to Construct Autism as Pathology.” In 
+Neurodiversity Studies: A New Critical Paradigm, edited by Hanna Bertilsdotter Rosqvist, Nick Chown, and Anna Stenning, 27–38. Abingdon: Routledge. 
+Corrie, L. 2000. “Neuroscience and Early Childhood? A Dangerous Liaison.” AJEC 25 (2): 
+34–40. 
+Crawshaw, D. 2023. “Should We Continue to Tell Autistic People That Their Brains Are 
+Different?” Psychological Reports advance online publication. Available from: https://
+ 
+doi.org/10.1177/0033294123117439
+Czech, H. 2018. “Hans Asperger, National Socialism, and ’Race Hygiene’ in Nazi-  Era 
+Vienna.” Molecular Autism 9: 29. 
+Czech, H. 2019. “Response to ’Non-  Complicit:  Revisiting Hans Asperger’s Career in Nazi-  
+Era Vienna.’” Journal of Autism and Developmental Disorders 49 (9): 3883–87. 
+De Hert, M., S. Loos, S. Sterckx, E. Thys, and K. Van Assche. 2022. “Improving Control over 
+Euthanasia of Persons with Psychiatric Illness: Lessons from the First Belgian Criminal Court Case Concerning Euthanasia.” Frontiers in Psychiatry 13: 933748. 
+De Hooge, A. N. 2019. “Binary Boys: Autism, Aspie Supremacy and Post/Humanist 
+Normativity.” Disability Studies Quarterly 39 (1): 1. 
+De Keijzer, S. C., G. Widdershoven, A. A. E. Verhagen, and H. R. Pasman. 2023. “The Age 
+Limit for Euthanasia Requests in the Netherlands: A Delphi Study among Paediatric Experts.” Journal of Medical Ethics 49 (7): 458–64. 
+De Vos, J. 2015. “Deneurologizing Education? From Psychologisation to Neurologisation 
+and Back.” Studies in Philosophy and Education 34 (3): 279–95. 
+Dekker, M. 2020. “From Exclusion to Acceptance: Independent Living on the Autistic 
+Spectrum.” In Autistic Community and the Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 41–49. London: Palgrave. 
+Dunn, Z. D., A. Gowda, and I. C. Horsfall Turner. 2024. “The Viability of a Proposed 
+Psychoeducational Neurodiversity Approach in Children Services: The PANDA (the Portsmouth Alliance’s Neuro-
+ Diversity Approach). ” Clinical Child Psychology and 
+Psychiatry 29 (1): 198–212. 
+Dwyer, P . 2022. “The Neurodiversity Approach(Es): What Are They and What Do They Mean 
+for Researchers?” Human Development 66: 73–92. 
+Dyck, E., and G. Russell. 2020. “Challenging Psychiatric Classification: Healthy Autistic 
+Diversity and the Neurodiversity Movement.” In Healthy Minds in the Twentieth Century: In and Beyond the Asylum, edited by Steven Taylor and Alice Brumby, 167–87. London: Palgrave. 
+Fein, E. 2020. Living on the Spectrum: Autism and Youth in Community. New York: New 
+York University Press. 
+Fitzgerald, D. 2017. Tracing Autism: Uncertainty, Ambiguity, and the Affective Labor of 
+Neuroscience. Seattle: University of Washington Press.
+Frith, U. 2008. Autism: A Very Short Introduction. Oxford: Oxford University Press. Graby, S. 2015. “Neurodiversity: Bridging the Gap between the Disabled People’s 
+Movement and the Mental Health System Survivors’ Movement?” In Madness, Distress and the Politics of Disablement, edited by Helen Spandler, Jill Anderson, and Bob Sapey, 231–43. Bristol: Policy Press. 
+Grant, I. 2023. “Legislated Ableism: Bill C-
+ 7 and the Rapid Expansion of MAiD in Canada. ” 
+McGill Journal of Law and Health. Available from: https://papers.ssrn.com/sol3/papers.  
+cfm?abstr act_id=4544454
+Haydon-  Laurelut,  M. 2016. “Critical Systemic Therapy: Autism Stories and Disabled People 
+with Learning Difficulties.” In Re-  Thinking Autism: Diagnosis, Identity and Equality, 
+edited by Sami Timimi, 221–38. London: Jessica Kingsley Publishers.
+Hughes, B. 2009. “Disability Activisms: Social Model Stalwarts and Biological Citizens.” 
+Disability & Society 24 (6): 677–88. 
+Hughes, J. A. 2020. “Does the Heterogeneity of Autism Undermine the Neurodiversity 
+Paradigm?” Bioethics 35 (1): 47–60. 
+Hyman, S. L., S. E. Levy, S. M. Myers, and Council on Children with Disabilities, Section 
+on Developmental and Behavioral Pediatrics. 2020. “Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.” Pediatrics 145 (1): e20193447. 
+Jaarsma, P ., and S. Welin. 2012. “Autism as a Natural Human Variation: Reflections on the 
+Claims of the Neurodiversity Movement.” Health Care Analysis 20 (1): 20–30. 
+Jayanetti, C. 2023. “Revealed: Covert Deal to Cut Help for Pupils in England with Special 
+Needs.” The Guardian
+Kapp, S., ed. 2020. Autistic Community and the Neurodiversity Movement: Stories from the 
+Frontline. London: Palgrave. 
+Malhotra, R. 2017. Disability Politics in a Global Economy: Essays in Honour of Marta 
+Russell. Abingdon: Routledge. McWade, B., D. Milton, and P . Beresford. 2015. “Mad Studies and Neurodiversity: A 
+Dialogue.” Disability & Society 30 (2): 305–9. 
+Millei, Z., and M. Joronen. 2016. “ The (Bio)Politicization of Neuroscience in Australian 
+Early Years Policies: Fostering Brain-
+ Resources As Human Capital .” Journal of 
+Education Policy 31 (4): 389–404. 
+Mills, C., and J. Pring. 2024. “Weaponising Time in the War on Welfare: Slow Violence 
+and Deaths of Disabled People within the UK’s Social Security System.” Critical social policy advanced online publication, Critical Social Policy 44 (1): 129–49. 
+Milton, D., and S. Timimi. 2016. “Debate 1: Does Autism Have an Essential Nature?” 
+Exploring Diagnosis.” Available from: http://blogs.exeter.ac.uk/exploringdiagnosis/
+ 
+debates/debate-1
+Mitchell , D., and S. Snyder. 2015. The Biopolitics of Disability: Neoliberalism, 
+Ablenationalism, and Peripheral Embodiment. Ann Arbor, MI: University of Michigan Press. 
+Murphy, K. 2023. A Guide to Neurodiversity in the Early Years. London: Anna Freud Centre.Ne’eman, A., and E. Pellicano. 2022. “Neurodiversity as Politics.” Human Development 66 
+(2): 149–57. 
+Nelson, R. H. 2021. “A Critique of the Neurodiversity View.” Journal of Applied Philosophy 
+38 (2): 335–47. 
+Orsini, M., and J. Davidson. 2013. “Critical Autism Studies: Notes on an Emerging Field.” 
+In Worlds of Autism: Across the Spectrum of Neurological Difference, edited by Joyce Davidson and Michael Orsini, 1–28. Minneapolis: University of Minnesota Press. 
+Ortega, F . 2009. “The Cerebral Subject and the Challenge of Neurodiversity.” BioSocieties 
+4 (4): 425–45. 
+Ortega, F . 2013. “Cerebralizing Autism within the Neurodiversity Movement.” In Worlds of 
+Autism: Across the Spectrum of Neurological Difference, edited by Joyce Davidson and Michael Orsini, 73–95. Minneapolis: University of Minnesota Press. 
+Pearson, A., and K. Rose. 2021. “A Conceptual Analysis of Autistic Masking: Understanding 
+the Narrative of Stigma and the Illusion of Choice.” Autism in Adulthood 3 (1): 52–60. 
+Price, M. 2011. Mad at School: Rhetorics of Mental Disability and Academic Life. Ann 
+Arbor, MI: University of Michigan Press. 
+Pring, J. 2022. “Tens of Thousands Driven into Debt by Care Charges, New Figures Show.” 
+Disability News Service. Available from: https://www.disabilitynewsservice.com/tens-
+ 
+of-thousands-driven-into-debt-by-care-charges-new-figures-show
+Pring,  J. 2023. “Fitness for Work’ Test Changes Are ’Horrendously Dangerous’, Activists 
+Warn.” Disability News Service. Available from: https://www.disabilitynewsservice.  
+com/fitness-for -work-test-changes-are-horrendously-dangerous-activists-warn
+Pripas-  Kapit,  S. 2020. “Historicizing Jim Sinclair’s ’Don’t Mourn for Us’: A Cultural and 
+Intellectual History of Neurodiversity’s First Manifesto.” In Autistic Community and the Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 23–39. London: Palgrave. 
+Puar, J. K. 2007. Terrorist Assemblages: Homonationalism in Queer Times. Durham, NC: 
+Duke University Press. 
+Ramos-
+ Pozón, S., N. Terribas-  Sala, A. Falcó-Pegueroles, and B. Román-  Maestre . 2023. 
+“Persons with Mental Disorders and Assisted Dying Practices in Spain: An Overview.” Int J Law Psychiatry 87. 
+Raymaker, D. M. 2020. “Shifting the System: AASPIRE and the Loom of Science and 
+Activism.” In Autistic Community and the Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 133–35. London: Palgrave. 
+Rose, N., and J. M. Abi-
+ Rached.  2013. Neuro: The New Brain Sciences and the 
+Management of the Mind. Princeton: Princeton University Press. 
+Rosqvist, H. B., N. Chown, and A. Stenning, eds. 2020. Neurodiversity Studies: A New 
+Critical Paradigm. Abingdon: Routledge. 
+Runswick-  Cole, K. 2014. “’Us’ and ’Them’: The Limits and Possibilities of a ’Politics of 
+Neurodiversity’ in Neoliberal Times.” Disability & Society 29 (7): 1117–29. 
+Russell, G. 2021. The Rise of Autism: Risk and Resistance in the Age of Diagnosis. London: 
+Routledge. 
+Russell, G. 2020. “Critiques of the Neurodiversity Movement.” In Autistic Community 
+and the Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 287–303. London: Palgrave. 
+Russell, M. 2019. Edited by Keith Rosenthal. Capitalism and Disability: Selected Writings by 
+Marta Russell. Chicago: Haymarket Books.
+Savage, M. 2023. “’Employers Should See Autism as Asset’: Review Seeks to Break Barriers 
+at Work.” The Guardian. Available from: https://www.theguardian.com/society/2023/
+ 
+apr/02/employers-should-see-autism-as-asset-review-seeks-to-break-barriers-at-work
+Sheffer , E. 2018. Asperger’s Children: The Origins of Autism in Nazi Vienna. London: W. W. 
+Norton.
+Sinclair, J. 1993. “Don’t Mourn for Us.” Our Voice 1, no 3. Available from: https://  
+arghighland.co .uk/autistic-rights
+Singer, J. 1999. “Why Can’t You Be Normal for Once in Your Life?’ From a ’Problem with 
+No Name’ to the Emergence of a New Category of Difference.” In Disability Discourse, edited by Marian Corker and Sally French, 59–67. New York: McGraw Hill Education.
+Soldatic, K. 2018. Disability and Neoliberal State Formations. Abingdon: Routledge. Stenning, A., and H. Bertilsdotter-
+ Rosqvist.  2021. “Neurodiversity Studies: Mapping out 
+Possibilities of a New Critical Paradigm.” Disability & Society 36 (9): 1532–37. 
+StopSIM. 2021. “Mental Illness Is Not a Crime.” Available from: https://stopsim.co.ukTapper, J. 2021. “Fury at ’Do Not Resuscitate’ Notices given to Covid Patients with 
+Learning Disabilities.” The Observer. Available from: https://www.theguardian.com/
+ Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+464
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+Casanova, M. 2015. “The Neurodiversity Movement: Lack of Trust.” Cortical Chauvinism. 
+Available from: https://corticalchauvinism.com/2015/01/05/the-neurodiversity- 
+movement-lack-of-trust
+Chapman, R. 2020b. “The Reality of Autism: On the Metaphysics of Disorder and 
+Diversity.” Philosophical Psychology 33 (6): 799–819. 
+Chapman, R. 2020a. “Neurodiversity, Disability, Wellbeing.” In Neurodiversity Studies: A 
+New Critical Paradigm, edited by Hanna Bertilsdotter Rosqvist, Nick Chown, and Anna 
+Stenning, 57–72. Abingdon: Routledge. 
+Chapman, R. 2019. “Neurodiversity Theory and Its Discontents: Autism, Schizophrenia, 
+and the Social Model of Disability.” In The Bloomsbury Companion to Philosophy 
+of Psychiatry, edited by Serife Tekin and Robyn Bluhm, 371–89. London: 
+Bloomsbury. 
+Chown, N. 2020. “Language Games Used to Construct Autism as Pathology.” In 
+Neurodiversity Studies: A New Critical Paradigm, edited by Hanna Bertilsdotter 
+Rosqvist, Nick Chown, and Anna Stenning, 27–38. Abingdon: Routledge. 
+Corrie, L. 2000. “Neuroscience and Early Childhood? A Dangerous Liaison.” AJEC 25 (2): 
+34–40. 
+Crawshaw, D. 2023. “Should We Continue to Tell Autistic People That Their Brains Are 
+Different?” Psychological Reports advance online publication. Available from: https:// 
+doi.org/10.1177/0033294123117439
+Czech, H. 2018. “Hans Asperger, National Socialism, and ’Race Hygiene’ in Nazi- Era 
+Vienna.” Molecular Autism 9: 29. 
+Czech, H. 2019. “Response to ’Non- Complicit: Revisiting Hans Asperger’s Career in Nazi- 
+Era Vienna.’” Journal of Autism and Developmental Disorders 49 (9): 3883–87. 
+De Hert, M., S. Loos, S. Sterckx, E. Thys, and K. Van Assche. 2022. “Improving Control over 
+Euthanasia of Persons with Psychiatric Illness: Lessons from the First Belgian Criminal 
+Court Case Concerning Euthanasia.” Frontiers in Psychiatry 13: 933748. 
+De Hooge, A. N. 2019. “Binary Boys: Autism, Aspie Supremacy and Post/Humanist 
+Normativity.” Disability Studies Quarterly 39 (1): 1. 
+De Keijzer, S. C., G. Widdershoven, A. A. E. Verhagen, and H. R. Pasman. 2023. “The Age 
+Limit for Euthanasia Requests in the Netherlands: A Delphi Study among Paediatric 
+Experts.” Journal of Medical Ethics 49 (7): 458–64. 
+De Vos, J. 2015. “Deneurologizing Education? From Psychologisation to Neurologisation 
+and Back.” Studies in Philosophy and Education 34 (3): 279–95. 
+Dekker, M. 2020. “From Exclusion to Acceptance: Independent Living on the Autistic 
+Spectrum.” In Autistic Community and the Neurodiversity Movement: Stories from the 
+Frontline, edited by Steven Kapp, 41–49. London: Palgrave. 
+Dunn, Z. D., A. Gowda, and I. C. Horsfall Turner. 2024. “The Viability of a Proposed 
+Psychoeducational Neurodiversity Approach in Children Services: The PANDA (the 
+Portsmouth Alliance’s Neuro- Diversity Approach).” Clinical Child Psychology and 
+Psychiatry 29 (1): 198–212. 
+Dwyer, P. 2022. “The Neurodiversity Approach(Es): What Are They and What Do They Mean 
+for Researchers?” Human Development 66: 73–92. 
+Dyck, E., and G. Russell. 2020. “Challenging Psychiatric Classification: Healthy Autistic 
+Diversity and the Neurodiversity Movement.” In Healthy Minds in the Twentieth 
+Century: In and Beyond the Asylum, edited by Steven Taylor and Alice Brumby, 
+167–87. London: Palgrave. 
+Fein, E. 2020. Living on the Spectrum: Autism and Youth in Community. New York: New 
+York University Press. 
+Fitzgerald, D. 2017. Tracing Autism: Uncertainty, Ambiguity, and the Affective Labor of 
+Neuroscience. Seattle: University of Washington Press.
+Frith, U. 2008. Autism: A Very Short Introduction. Oxford: Oxford University Press. 
+Graby, S. 2015. “Neurodiversity: Bridging the Gap between the Disabled People’s 
+Movement and the Mental Health System Survivors’ Movement?” In Madness, 
+Distress and the Politics of Disablement, edited by Helen Spandler, Jill Anderson, and 
+Bob Sapey, 231–43. Bristol: Policy Press. 
+Grant, I. 2023. “Legislated Ableism: Bill C- 7 and the Rapid Expansion of MAiD in Canada.” 
+McGill Journal of Law and Health. Available from: https://papers.ssrn.com/sol3/papers. 
+cfm?abstract_id=4544454
+Haydon- Laurelut, M. 2016. “Critical Systemic Therapy: Autism Stories and Disabled People 
+with Learning Difficulties.” In Re- Thinking Autism: Diagnosis, Identity and Equality, 
+edited by Sami Timimi, 221–38. London: Jessica Kingsley Publishers.
+Hughes, B. 2009. “Disability Activisms: Social Model Stalwarts and Biological Citizens.” 
+Disability & Society 24 (6): 677–88. 
+Hughes, J. A. 2020. “Does the Heterogeneity of Autism Undermine the Neurodiversity 
+Paradigm?” Bioethics 35 (1): 47–60. 
+Hyman, S. L., S. E. Levy, S. M. Myers, and Council on Children with Disabilities, Section 
+on Developmental and Behavioral Pediatrics. 2020. “Identification, Evaluation, 
+and Management of Children With Autism Spectrum Disorder.” Pediatrics 145 (1): 
+e20193447. 
+Jaarsma, P., and S. Welin. 2012. “Autism as a Natural Human Variation: Reflections on the 
+Claims of the Neurodiversity Movement.” Health Care Analysis 20 (1): 20–30. 
+Jayanetti, C. 2023. “Revealed: Covert Deal to Cut Help for Pupils in England with Special 
+Needs.” The Guardian
+Kapp, S., ed. 2020. Autistic Community and the Neurodiversity Movement: Stories from the 
+Frontline. London: Palgrave. 
+Malhotra, R. 2017. Disability Politics in a Global Economy: Essays in Honour of Marta 
+Russell. Abingdon: Routledge. McWade, B., D. Milton, and P. Beresford. 2015. “Mad Studies and Neurodiversity: A 
+Dialogue.” Disability & Society 30 (2): 305–9. 
+Millei, Z., and M. Joronen. 2016. “ The (Bio)Politicization of Neuroscience in Australian 
+Early Years Policies: Fostering Brain- Resources As Human Capital .” Journal of 
+Education Policy 31 (4): 389–404. 
+Mills, C., and J. Pring. 2024. “Weaponising Time in the War on Welfare: Slow Violence 
+and Deaths of Disabled People within the UK’s Social Security System.” Critical social 
+policy advanced online publication, Critical Social Policy 44 (1): 129–49. 
+Milton, D., and S. Timimi. 2016. “Debate 1: Does Autism Have an Essential Nature?” 
+Exploring Diagnosis.” Available from: http://blogs.exeter.ac.uk/exploringdiagnosis/ 
+debates/debate-1
+Mitchell, D., and S. Snyder. 2015. The Biopolitics of Disability: Neoliberalism, 
+Ablenationalism, and Peripheral Embodiment. Ann Arbor, MI: University of Michigan 
+Press. 
+Murphy, K. 2023. A Guide to Neurodiversity in the Early Years. London: Anna Freud Centre.
+Ne’eman, A., and E. Pellicano. 2022. “Neurodiversity as Politics.” Human Development 66 
+(2): 149–57. 
+Nelson, R. H. 2021. “A Critique of the Neurodiversity View.” Journal of Applied Philosophy 
+38 (2): 335–47. 
+Orsini, M., and J. Davidson. 2013. “Critical Autism Studies: Notes on an Emerging Field.” 
+In Worlds of Autism: Across the Spectrum of Neurological Difference, edited by Joyce 
+Davidson and Michael Orsini, 1–28. Minneapolis: University of Minnesota Press. 
+Ortega, F. 2009. “The Cerebral Subject and the Challenge of Neurodiversity.” BioSocieties 
+4 (4): 425–45. 
+Ortega, F. 2013. “Cerebralizing Autism within the Neurodiversity Movement.” In Worlds of 
+Autism: Across the Spectrum of Neurological Difference, edited by Joyce Davidson and 
+Michael Orsini, 73–95. Minneapolis: University of Minnesota Press. 
+Pearson, A., and K. Rose. 2021. “A Conceptual Analysis of Autistic Masking: Understanding 
+the Narrative of Stigma and the Illusion of Choice.” Autism in Adulthood 3 (1): 52–60. 
+Price, M. 2011. Mad at School: Rhetorics of Mental Disability and Academic Life. Ann 
+Arbor, MI: University of Michigan Press. 
+Pring, J. 2022. “Tens of Thousands Driven into Debt by Care Charges, New Figures Show.” 
+Disability News Service. Available from: https://www.disabilitynewsservice.com/tens- 
+of-thousands-driven-into-debt-by-care-charges-new-figures-show
+Pring, J. 2023. “Fitness for Work’ Test Changes Are ’Horrendously Dangerous’, Activists 
+Warn.” Disability News Service. Available from: https://www.disabilitynewsservice. 
+com/fitness-for-work-test-changes-are-horrendously-dangerous-activists-warn
+Pripas- Kapit, S. 2020. “Historicizing Jim Sinclair’s ’Don’t Mourn for Us’: A Cultural and 
+Intellectual History of Neurodiversity’s First Manifesto.” In Autistic Community and the 
+Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 23–39. 
+London: Palgrave. 
+Puar, J. K. 2007. Terrorist Assemblages: Homonationalism in Queer Times. Durham, NC: 
+Duke University Press. 
+Ramos- Pozón, S., N. Terribas- Sala, A. Falcó-Pegueroles, and B. Román- Maestre. 2023. 
+“Persons with Mental Disorders and Assisted Dying Practices in Spain: An Overview.” 
+Int J Law Psychiatry 87. 
+Raymaker, D. M. 2020. “Shifting the System: AASPIRE and the Loom of Science and 
+Activism.” In Autistic Community and the Neurodiversity Movement: Stories from the 
+Frontline, edited by Steven Kapp, 133–35. London: Palgrave. 
+Rose, N., and J. M. Abi- Rached. 2013. Neuro: The New Brain Sciences and the 
+Management of the Mind. Princeton: Princeton University Press. 
+Rosqvist, H. B., N. Chown, and A. Stenning, eds. 2020. Neurodiversity Studies: A New 
+Critical Paradigm. Abingdon: Routledge. 
+Runswick- Cole, K. 2014. “’Us’ and ’Them’: The Limits and Possibilities of a ’Politics of 
+Neurodiversity’ in Neoliberal Times.” Disability & Society 29 (7): 1117–29. 
+Russell, G. 2021. The Rise of Autism: Risk and Resistance in the Age of Diagnosis. London: 
+Routledge. 
+Russell, G. 2020. “Critiques of the Neurodiversity Movement.” In Autistic Community 
+and the Neurodiversity Movement: Stories from the Frontline, edited by Steven Kapp, 
+287–303. London: Palgrave. 
+Russell, M. 2019. Edited by Keith Rosenthal. Capitalism and Disability: Selected Writings by 
+Marta Russell. Chicago: Haymarket Books.
+Savage, M. 2023. “’Employers Should See Autism as Asset’: Review Seeks to Break Barriers 
+at Work.” The Guardian. Available from: https://www.theguardian.com/society/2023/ 
+apr/02/employers-should-see-autism-as-asset-review-seeks-to-break-barriers-at-work
+Sheffer, E. 2018. Asperger’s Children: The Origins of Autism in Nazi Vienna. London: W. W. 
+Norton.
+Sinclair, J. 1993. “Don’t Mourn for Us.” Our Voice 1, no 3. Available from: https:// 
+arghighland.co.uk/autistic-rights
+Singer, J. 1999. “Why Can’t You Be Normal for Once in Your Life?’ From a ’Problem with 
+No Name’ to the Emergence of a New Category of Difference.” In Disability Discourse, 
+edited by Marian Corker and Sally French, 59–67. New York: McGraw Hill Education.
+Soldatic, K. 2018. Disability and Neoliberal State Formations. Abingdon: Routledge. 
+Stenning, A., and H. Bertilsdotter- Rosqvist. 2021. “Neurodiversity Studies: Mapping out 
+Possibilities of a New Critical Paradigm.” Disability & Society 36 (9): 1532–37. 
+StopSIM. 2021. “Mental Illness Is Not a Crime.” Available from: https://stopsim.co.uk
+Tapper, J. 2021. “Fury at ’Do Not Resuscitate’ Notices given to Covid Patients with 
+Learning Disabilities.” The Observer. Available from: https://www.theguardian.com/ 
+--- Page 10 ---
+ 465
+Jones EK, Orchard V . Med Humanit 2024;50:456–465. doi:10.1136/medhum-2023-012808Original research
+world/2021/feb/13/new-do-not-resuscitate-orders-imposed-on-covid-19-patients-  
+with-learning-difficulties
+Timimi, S., D. Milton, V . Bovell, S. Kapp, and G. Russell. 2019. “Deconstructing Diagnosis: 
+Four Commentaries on a Diagnostic Tool to Assess Individuals for Autism Spectrum 
+Disorders.” Autonomy (Birmingham, England) 1 (6): AR26.
+Tuffrey-  Wijne , I., L. Curfs, S. Hollins, and I. Finlay. 2023. “Euthanasia and Physician-  
+Assisted Suicide in P eople with Intellectual Disabilities and/or Autism Spectrum 
+Disorders: Investigation of 39 Dutch Case Reports (2012-  2021). ” BJPsych Open 9 (3): 
+e87. 
+Verhofstadt, M., L. Thienpont, and G.-J. Y . Peters. 2018. “When Unbearable Suffering 
+Incites Psychiatric Patients to Request Euthanasia: Qualitative Study.” Br J Psychiatry 211 (4): 238–45.
+Vidal, F ., and F . Ortega. 2017. Being Brains: Making the Cerebral Subject. New York: 
+Fordham University Press. Walker, N. 2014. “Neurodiversity: Some Basic Terms and Definitions.” Neuroqueer. 
+Available from: https://neuroqueer.com/neurodiversity-terms-and-definitions
+Walker, N. 2016. “Autism and the Pathology Paradigm.” Neuroqueer. Available from: 
+https://neuroqueer.com/autism-and-the-pathology-paradigm
+Watts, J. 2019. “Mental Health Services in Crisis Are Abandoning Patients to 
+Meet Targets.” The Guardian. Available from: https://www.theguardian.com/
+ 
+commentisfree/2019/may/14/mental-health-services-crisis-patients-vulner able-off-  
+rolled
+Wing,  L. 1981. “Asperger’s Syndrome: A Clinical Account.” Psychological Medicine 11 (1): 
+115–29. 
+Woods, R., D. Milton, L. Arnold, and S. Graby. 2018. “Redefining Critical Autism Studies: A 
+More Inclusive Interpretation.” Disability & Society 33 (6): 974–79. 
+Yergeau, M. R. 2018. Authoring Autism: On Rhetoric and Neurological Queerness. Durham, 
+NC: Duke University Press. Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. .by guest on January 6, 2026 http://mh.bmj.com/ Downloaded from 15 February 2024. 10.1136/medhum-2023-012808 on Med Humanities: first published as 
+ 465
+JonesEK,OrchardV.医学人文2024;50:456–465.doi:10.1136/medhum‑2023‑012808原创研究
+world/2021/feb/13/new-do-not-resuscitate-orders-imposed-on-covid-19-patients- 
+with-learning-difficulties
+Timimi, S., D. Milton, V. Bovell, S. Kapp, and G. Russell. 2019. “Deconstructing Diagnosis: 
+Four Commentaries on a Diagnostic Tool to Assess Individuals for Autism Spectrum 
+Disorders.” Autonomy (Birmingham, England) 1 (6): AR26.
+Tuffrey- Wijne, I., L. Curfs, S. Hollins, and I. Finlay. 2023. “Euthanasia and Physician- 
+Assisted Suicide in People with Intellectual Disabilities and/or Autism Spectrum 
+Disorders: Investigation of 39 Dutch Case Reports (2012- 2021).” BJPsych Open 9 (3): 
+e87. 
+Verhofstadt, M., L. Thienpont, and G.-J. Y. Peters. 2018. “When Unbearable Suffering 
+Incites Psychiatric Patients to Request Euthanasia: Qualitative Study.” Br J Psychiatry 
+211 (4): 238–45.
+Vidal, F., and F. Ortega. 2017. Being Brains: Making the Cerebral Subject. New York: 
+Fordham University Press. Walker, N. 2014. “Neurodiversity: Some Basic Terms and Definitions.” Neuroqueer. 
+Available from: https://neuroqueer.com/neurodiversity-terms-and-definitions
+Walker, N. 2016. “Autism and the Pathology Paradigm.” Neuroqueer. Available from: 
+https://neuroqueer.com/autism-and-the-pathology-paradigm
+Watts, J. 2019. “Mental Health Services in Crisis Are Abandoning Patients to 
+Meet Targets.” The Guardian. Available from: https://www.theguardian.com/ 
+commentisfree/2019/may/14/mental-health-services-crisis-patients-vulnerable-off- 
+rolled
+Wing, L. 1981. “Asperger’s Syndrome: A Clinical Account.” Psychological Medicine 11 (1): 
+115–29. 
+Woods, R., D. Milton, L. Arnold, and S. Graby. 2018. “Redefining Critical Autism Studies: A 
+More Inclusive Interpretation.” Disability & Society 33 (6): 974–79. 
+Yergeau, M. R. 2018. Authoring Autism: On Rhetoric and Neurological Queerness. Durham, 
+NC: Duke University Press. 

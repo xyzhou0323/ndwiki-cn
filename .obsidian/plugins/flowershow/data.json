@@ -1,0 +1,9 @@
+{
+  "flowershowToken": "fs_pat_XIrd5BNPjFFvCKqm1Xx8JWMc3393Mqw-q3xHPe0XsZE",
+  "siteName": "ndwiki-cn",
+  "rootDir": "wiki",
+  "excludePatterns": [
+    "\\.excalidraw(\\.(md|excalidraw))?$"
+  ],
+  "lastSeenVersion": ""
+}

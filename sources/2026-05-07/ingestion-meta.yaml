@@ -1,0 +1,165 @@
+# 由于来源为二进制格式（PDF/EPUB），无法在文件内添加 frontmatter
+# 此处记录摄取元数据
+
+sources:
+  - file: "Dwyer - 2022 - 神经多样性方法群 - 脑脑空间.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/神经多样性范式.md
+      - wiki/works/Dwyer-2022-神经多样性方法.md
+
+  - file: "正常帝国-Empire of Normality (Robert Chapman).epub"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/神经多样性范式.md
+      - wiki/concepts/病理学范式.md
+      - wiki/concepts/神经规范性.md
+      - wiki/authors/Robert-Chapman.md
+      - wiki/works/正常帝国-Empire-of-Normality.md
+
+  - file: "神经多样性-Neurodiversity A Very Short Introduction (Robert Chapman, Sue Fletcher-Watson)机翻DeepSeek.epub"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/神经多样性范式.md
+      - wiki/concepts/神经多样性运动史.md
+      - wiki/concepts/神经典型.md
+      - wiki/authors/Robert-Chapman.md
+      - wiki/authors/Sue-Fletcher-Watson.md
+      - wiki/works/神经多样性简论-Neurodiversity-VSI.md
+
+  - file: "后自由主义时代神经多样性政治.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/后自由主义时代的神经多样性政治.md
+
+  - file: "Botha-et-al-2024-神经多样性集体起源.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Botha-et-al-2024-神经多样性的集体起源.md
+      - wiki/concepts/神经多样性运动史.md
+
+  - file: "神经多样性的诞生-社群历史.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Botha-et-al-2024-神经多样性的集体起源.md
+
+  - file: "Walker-2014-神经多样性基本术语与定义.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Walker-2014-神经多样性术语定义.md
+
+  - file: "Mandy-2025-如今孤独谱系究竟是什么.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Mandy-2025-如今孤独谱系究竟是什么.md
+
+  - file: "Hughes - 2021 - Does the heterogeneity of autism undermine the neurodiversity paradigm_zh-CN_dual.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Hughes-2021-自闭症异质性与神经多样性范式.md
+
+  - file: "Jones和Orchard - 2024 - Neurodiversity and disability what is at stake.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Jones-Orchard-2024-神经多样性与残障.md
+
+  - file: "Ne'eman和Pellicano - 2022 - Neurodiversity as Politics.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Neeman-Pellicano-2022-神经多样性作为政治.md
+
+  - file: "双向同理心.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/双向同理心问题.md
+
+  - file: "阿斯至上主义AspieSupremacy.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/阿斯至上主义.md
+
+  - file: "神经多样性与智力障碍.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/神经多样性与学习障碍.md
+
+  - file: "Milton 等 - 2022 - The 'double empathy problem' Ten years on.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Milton-2022-双向同理心问题十年回顾.md
+      - wiki/concepts/双向同理心问题.md
+
+  - file: "Double empathy problem_dual_Kimi+DeepSeek.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Milton-2012-双向同理心问题.md
+      - wiki/04-实践/双向同理心问题.md
+    note: Milton 2012 "On the Ontological Status of Autism: the 'double empathy problem'" Disability & Society 中英双语版，DEP 概念首次学术发表的原初论文，区别于已摄入的 双向同理心.pdf（DEP 概念说明博文）
+
+  - file: "XyZ丨神经多样性"去病理化"的三类立场.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/去病理化三类立场.md
+
+  - file: "Neurodiversity lite is still evolving.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/庸俗版神经多样性.md
+    note: Chapman Substack 文章——庸俗版神经多样性第一波与第二波的演化分析
+
+  - file: "Yes, it really is possible for everyone to be neurodivergent.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/concepts/神经殊异.md
+    note: Chapman Substack 双语文章——回应"if everyone is ND, nobody is"反冲，论证神经殊异概念上不存在人数上限
+
+  - file: "Botha - 2021 - Academic, Activist, or Advocate Angry, Entangled, and Emerging A Critical Reflection on Autism Kno_zh-CN_dual.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Botha-2021-学术行动者还是倡导者.md
+      - wiki/concepts/神经多样性与民主研究.md
+
+  - file: "《神经部落》-Neurotribes The Legacy of Autism and the Future of Neurodiversity (Steve Silberman).epub"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/NeuroTribes-神经部落.md
+      - wiki/authors/Steve-Silberman.md
+    note: 中英双语版，Silberman 2015 里程碑著作，书中的概念起源叙事已被 Botha 等 2024 修正
+
+  - file: "NeuroDiversity The Birth of an Idea (Judy Singer).pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Singer-2017-神经多样性的诞生.md
+      - wiki/authors/Judy-Singer.md
+    note: 中英双语 PDF，Singer 2017 自出版著作，主张术语创造者身份，已受 Botha 等 2024 学术修正
+
+  - file: "神经酷儿异端-Neuroqueer Heresies (Nick Walker).epub"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Walker-2021-神经酷儿异端.md
+      - wiki/authors/Nick-Walker.md
+    note: 中英双语 EPUB，Walker 2021 文集，含 neuroqueer 概念首次阐述和2014年术语定义
+
+  - file: "Autistic Community and the Neurodiversity Movement机翻双语.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Kapp-2020-孤独谱系社群与神经多样性运动.md
+      - wiki/authors/Steven-Kapp.md
+      - wiki/authors/Jim-Sinclair.md
+    note: 中英双语 PDF，Kapp 主编 2020 Palgrave Macmillan 编辑文集，首部运动内部第一手历史，21位关键人物亲述，DOI: 10.1007/978-981-13-8437-0
+
+  - file: "Dwyer 等 - 2025 - Community views of neurodiversity, models of disability and autism intervention Mixed methods revea.pdf"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Dwyer-2025-社区看法.md
+      - wiki/02-批判/残障的社会模式.md
+      - wiki/02-批判/去病理化.md
+      - wiki/02-批判/庸俗版神经多样性.md
+    note: 504 人混合方法实证研究，AIAS-G 量表验证，强/弱社会模式支持者实践态度统计不可区分，非孤独谱系 NDM 支持者关注偏差，DOI: 10.1177/13623613241273029
+
+  - file: "不要为我们悲哀 --- Don't Mourn For Us.md"
+    ingested: 2026-05-07
+    wiki_pages:
+      - wiki/works/Sinclair-1993-不要为我们哀悼.md
+      - wiki/authors/Jim-Sinclair.md
+    note: Sinclair 1993 年 ANI 通讯 Our Voice 发表的神经多样性运动第一份宣言中英双语全文，原文来自 autreat.com/dont_mourn.html

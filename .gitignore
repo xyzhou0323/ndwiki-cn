@@ -1,0 +1,16 @@
+# Local machine-specific settings (paths, personal permissions)
+.claude/settings.local.json
+
+# Frequently-changing state files
+.llm-wiki/sync-state.json
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# Python virtual environment
+.llm-wiki/venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

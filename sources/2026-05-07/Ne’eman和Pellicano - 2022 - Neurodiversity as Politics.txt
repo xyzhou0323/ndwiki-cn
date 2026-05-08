@@ -1,0 +1,1617 @@
+
+--- Page 1 ---
+Commentary
+Human Development 2022;66:149–157
+Neurodiversity as Politics
+Ari Ne’eman  a, b, c    Elizabeth Pellicano  d, e
+aPhD Program in Health Policy, Harvard Graduate School of Arts and Sciences, Cambridge, MA, USA;  
+bHarvard Law School Project on Disability, Harvard University, Cambridge, MA, USA; cLurie Institute for  
+Disability Policy, Brandeis University, Waltham, MA, USA; dMacquarie School of Education, Macquarie  
+University, Sydney, NSW, Australia; eDepartment of Clinical, Educational and Health Psychology, University  
+College London, London, UKReceived: March 15, 2022
+Accepted: March 18, 2022
+Published online: March 25, 2022 
+Correspondence to: 
+Ari Ne’eman, aneeman  @  g.harvard.edu© 2022 S. Karger AG, Basel Karger@karger.com
+www.karger.com/hdeDOI: 10.1159/000524277
+Keywords
+Advocacy · Autism · Disability · Movement · Neurodiversity
+The debate around neurodiversity is itself diverse. As 
+Dwyer (2022) puts it in his own contribution to this spe -
+cial issue of Human Development, there are multiple “neu -
+rodiversity approaches” deployed differently by different 
+actors to different ends, even within the movement. This 
+diversity presents some opportunities, allowing different 
+groups to adapt the idea for their own purposes. Nonethe -
+less, it can also lead to confusion, co-optation, acrimony, 
+and other unintended consequences.
+As such, in our commentary, we seek to situate the pa-
+pers within the broader debate around neurodiversity, 
+with the aim of highlighting key areas in which different 
+voices within the neurodiversity movement hold diver-
+gent viewpoints. We also offer our own views as to how 
+to resolve these conflicts, although our intent is to en-
+courage debate and deliberate decision-making between 
+these different “neurodiversity approaches” (the recogni-
+tion of which represents a major contribution by Dwyer), 
+not to insist that the movement’s future can only have one 
+path. In highlighting these fissures, we hope to set the 
+stage for a more robust dialogue on the future of neuro-
+diversity in activism, academia, and beyond.Origins
+The neurodiversity movement first emerged in the 
+1990s as a response to the excesses of traditional autism 
+advocacy. Though the term would come later, the move-
+ment’s origins date back to Sinclair’s (1993) seminal 1993 
+essay “Don’t Mourn for Us,” encouraging parents to shift 
+their approach to their child’s autism away from cure and 
+towards acceptance. Sinclair contended that parent-led 
+autism groups encouraged “mourning for what never 
+was” rather than “exploration of what is.” In so doing, 
+Sinclair set the stage for a radical challenge to conven-
+tional autism discourse. “Don’t Mourn for Us” did not 
+just represent a break from the dominant parent-centric 
+autism narratives – it also broke from the limited role 
+available to autistic persons in public discussion.
+As Pripas-Kapit (2020) notes in one of the few aca-
+demic explorations of neurodiversity’s founding text, 
+Sinclair’s immediate predecessors took a very different 
+approach, typically limiting themselves to first-person 
+narrative rather than ethical or political critique. Autistic 
+authors and public speakers like Temple Grandin spoke 
+predominantly to non-autistic audiences, parents, and 
+https://orcid.org/0000-0001-7687-1265, https://orcid.org/0000-0002-
+7246-8003Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+评论
+Human Development 2022;66:149–157
+神经多样性作为政治
+Ari Ne’eman  a,b,c    Elizabeth Pellicano  d,e
+a哈佛文理研究生院健康政策博士项目，美国马萨诸塞州剑桥；b哈佛法学院残障项目，哈佛大学，美
+国马萨诸塞州剑桥；cLurie残障政策研究所，布兰代斯大学，美国马萨诸塞州沃尔瑟姆；d麦考瑞教
+育学院，麦考瑞大学，澳大利亚新南威尔士州悉尼；e临床、教育与健康心理学系，伦敦大学学院，
+英国伦敦收稿日期：2022年3月15日接受日期：
+2022年3月18日在线发表日期：
+2022年3月25日
+通讯作者：AriNe’eman,
+aneeman @  g.harvard.edu©2022S.KargerAG,巴塞尔 Karger@karger.com
+www.karger.com/hdeDOI:10.1159/000524277
+关键词
+Advocacy · Autism · Disability · Movement · Neurodiversity
+围绕神经多样性的讨论本身就具有多样性。正如
+Dwyer（2022）在他为这期《人类发展》特刊撰写的
+文章中所言，即便在该运动内部，也存在多种由不同
+行动者为实现不同目的而采取的不同“神经多样性路
+径”。这种多样性带来了一些机遇，使得不同群体能
+够根据自身需求调整这一理念。然而，它也可能导致
+困惑、概念被挪用、激烈争执以及其他非预期的后果。
+因此，在我们的评论中，我们试图将这些论文
+置于围绕神经多样性的更广泛辩论中，旨在突显神
+经多样性运动内部不同声音持有分歧观点的关键领
+域。我们也提出了自己关于如何解决这些冲突的看
+法，尽管我们的意图是鼓励这些不同的“神经多样
+性路径”（承认这些路径是Dwyer的一项主要贡献）
+之间进行辩论和审慎决策，而非坚持认为该运动的
+未来只能有一条道路。通过突显这些分歧，我们希
+望能为在行动主义、学术界及其他领域就神经多样
+性的未来展开更坚实的对话奠定基础。起源
+神经多样性运动最初兴起于20世纪90年代，是对传
+统孤独谱系倡导中过激行为的回应。尽管这个术语出现较
+晚，但该运动的起源可追溯至Sinclair（1993）1993年的
+开创性文章《不要为我们哀悼》，该文鼓励父母将对孩子
+孤独谱系的态度从寻求治愈转向接纳。Sinclair认为，家
+长主导的孤独谱系团体鼓励的是“为从未存在的事物哀悼”，
+而非“探索当下的现实”。通过此举，Sinclair为挑战传
+统的孤独谱系话语奠定了激进的基础。《不要为我们哀悼》
+不仅代表了对当时占主导地位的、以家长为中心的孤独谱
+系叙事的突破——它也打破了孤独谱系群体在公共讨论中
+所能扮演的有限角色。
+正如Pripas‑Kapit（2020）在对神经多样性奠基
+文本为数不多的学术探讨中指出的那样，Sinclair的
+直接先驱们采取了截然不同的方法，通常局限于第一
+人称叙述，而非伦理或政治批判。像Temple
+Grandin这样的孤独谱系作者和公众演讲者，主要面
+向非孤独谱系听众、父母以及
+https://orcid.org/0000‑0001‑7687‑1265,https://orcid.org/0000‑0002‑
+7246‑8003
+--- Page 2 ---
+Ne’eman/Pellicano Human Development 2022;66:149–157150
+DOI: 10.1159/000524277professionals. Though Sinclair engaged in some similar 
+public speaking, “Don’t Mourn for Us” also represented 
+something new: a rebuke of parent autism spaces from an 
+autistic adult, speaking on behalf of a broader commu-
+nity. When Sinclair wrote that xe invited parents “to look 
+at our autism, and look at your grief, from our perspec-
+tive,” it was the articulation of a larger critique, emerging 
+out of an incipient autistic adult community distinct from 
+the more established and powerful autism parent one. As 
+other autistic persons responded to the essay and flocked 
+to autistic cultural spaces, this community grew and 
+evolved.
+The early autistic community came together very in-
+formally. Gatherings took place predominantly on the 
+sidelines of parent conferences and in online listservs, 
+both places where autistic adults had begun to seek out 
+others like them (Dekker, 1999; Sinclair, 2005, 2010). Au-
+tism was still perceived as a condition that impacted chil-
+dren – little thought went into the possibility that autistic 
+persons eventually grew up. Autism and agency were seen 
+as so incompatible with each other that, in the introduc-
+tion to Grandin’s 1986 biography Emergence: Labeled Au-
+tistic, prominent autism researcher Bernie Rimland de-
+scribed Grandin as “a recovered autistic individual” 
+(Grandin & Scariano, 1986).
+The founding of Autism Network International (ANI), 
+the first autistic-run organization, offered an infrastruc-
+ture for autistic culture. Under Sinclair’s leadership, ANI 
+would organize Autreat, an annual conference run by and 
+for autistic adults, for many years (see also its later UK 
+counterpart, Autscape; Buckle, 2020). For autistic attend-
+ees, Autreat was often the first exposure to “autistic space” 
+– an environment in which autistic persons were the 
+norm. Not only did Autreat spawn many innovations in 
+accessibility for autistic people, including its Color Com-
+munications Badge system, it also encouraged autistic 
+persons who attended to feel comfortable behaving and 
+interacting in the manner most natural to them. As one 
+autistic attendee put it, “I feel as if I’m home, among my 
+own people, for the first time. I never knew what this was 
+until now” (Sinclair, 2005). The sudden (and temporary) 
+experience of connection prompted many autistic attend-
+ees to compare life in the predominantly non-autistic 
+world to that of a diaspora community (Sinclair, 2005, 
+2010). Non-autistic attendees often found their brief ex-
+perience in majority-autistic space impactful too. As Sin-
+clair (2005) put it: “One NT [neurotypical] attendee de-
+scribed feeling unsure of how to behave and how to relate 
+to people, confused about how to interpret other people’s 
+behavior, and anxious that he might offend people with-out realizing it….” In other words, he was able to experi-
+ence at Autreat some of the same social confusion and 
+discomfort that autistic people frequently experience in 
+NT society. (Freedom from Pressures section) 
+Such experiences prompted empathy, encouraging 
+non-autistic persons to look at autistic culture and ways 
+of interaction as more legitimate than they might other-
+wise have considered them.
+Though the conference never had more than one hun-
+dred attendees in any given year, many who came to it 
+would go on to play leading roles as the movement grew. 
+One of us (A.N.) was inspired to co-found the Autistic 
+Self Advocacy Network (ASAN), now the USA’s leading 
+autistic-run advocacy group, from such experiences. 
+Many other longstanding autistic community leaders had 
+Autreat’s immersive communal autistic experience as 
+their starting point. Over time, ANI and Autreat would 
+serve as a seed for a growing and powerful social move-
+ment, as autistic people expressed growing frustration 
+with the cure- and tragedy-oriented narratives promoted 
+by groups like Autism Speaks and others (Heilker & Yer-
+geau, 2011; Kras, 2010). What began on the fringe would 
+soon be pushed into the mainstream, led by a growing 
+cohort of autistic-run advocacy groups working to ad-
+vance neurodiversity at the local, national, and interna-
+tional level.
+This history is important to bear in mind as neurodi -
+versity attracts growing interest. Today, the term neuro -
+diversity yields thousands of results on Google Scholar. A 
+growing number of universities boast neurodiversity ini -
+tiatives, typically focused on some combination of re -
+search into neurological disability and supporting greater 
+access to higher education. Major international corpora -
+tions like Ernst & Young and Microsoft boast “neurodi -
+versity hiring programs” that recruit autistic jobseekers as 
+well as others with neurological disabilities (Ernst & 
+Young, n.d.; Microsoft, n.d.). In December 2020, the US 
+federal government welcomed the first participants in the 
+Neurodiverse Federal Workforce pilot program (Thomas, 
+2021). Neurodiversity is still far from dominant, even in 
+the context of autism (Leadbitter et al., 2021; Pellicano & 
+den Houting, 2022), but it has firmly entered the cultural 
+mainstream, with the concept referred to frequently by 
+parents and professionals alongside the autistic persons 
+who first initiated it. Furthermore, autistic people them -
+selves have built infrastructure in the form of advocacy 
+groups, cultural convenings, and even businesses oriented 
+around the movement’s ideas and larger philosophy.
+This growth is in many ways beneficial, but it also pres-
+ents challenges. Neurodiversity emerged in a relatively Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+Ne’eman/Pellicano 《人类发展》2022；66：149–157150
+DOI：10.1159/000524277专家们。尽管Sinclair也进行过一些类似的公开演讲，但
+《不要为我们哀悼》也代表了一些新的东西：这是一位成
+年孤独谱系个体代表更广泛的群体，对孤独谱系儿童家长
+空间的驳斥。当Sinclair写道，xe邀请家长们“从我们的
+视角来看待我们的孤独谱系，以及你们的悲痛”时，这阐
+明了一种更广泛的批判，它源于一个新兴的、与更为成熟
+且强大的孤独谱系儿童家长群体截然不同的成年孤独谱系
+个体社群。随着其他孤独谱系群体对这篇文章做出回应并
+涌入孤独谱系文化空间，这个社群不断发展演变。
+早期的孤独谱系社群是以非常非正式的方式聚集起来
+的。聚会主要发生在家长会议的边缘地带以及在线邮件列
+表中，在这两个地方，成年孤独谱系个体已经开始寻找同
+类（Dekker,1999;Sinclair,2005,2010）。当时，孤独
+谱系仍被视为一种主要影响儿童的状况——人们很少考虑
+孤独谱系群体最终会长大的可能性。孤独谱系与能动性被
+视为如此互不相容，以至于在Grandin1986年传记《浮现：
+被标记为孤独谱系》的引言中，著名的孤独谱系研究者
+BernieRimland将Grandin描述为“一位已康复的孤独
+谱系个体”（Grandin&Scariano,1986）。
+孤独谱系国际网络（ANI）作为首个由孤独谱系群体
+自身运营的组织，其创立为孤独谱系文化提供了基础设施。
+在Sinclair的领导下，ANI多年来一直组织着Autreat——
+一个由成年孤独谱系个体举办、并为成年孤独谱系个体服
+务的年度会议（另见其后来的英国对应活动Autscape；
+Buckle，2020年）。对于与会的孤独谱系群体而言，
+Autreat通常是他们首次接触“孤独谱系空间”——一个以
+孤独谱系群体为常态的环境。Autreat不仅催生了许多针
+对孤独谱系群体的无障碍创新，包括其彩色沟通徽章系统，
+还鼓励参会的孤独谱系群体以对他们而言最自然的方式舒
+适地行为和互动。正如一位孤独谱系与会者所说：“我感
+觉好像回到了家，第一次和我自己人在一起。直到现在我
+才知道这是什么感觉”（Sinclair，2005年）。这种突然
+（且暂时）的连接体验促使许多孤独谱系与会者将生活在
+以非孤独谱系为主的世界比作散居社群的生活（Sinclair，
+2005年，2010年）。非孤独谱系的与会者也常常发现他们
+在以孤独谱系群体为主的空间中的短暂经历同样影响深远。
+正如Sinclair（2005年）所言：“一位神经典型[神经典型
+] 与会者描述说，他感到不确定该如何行为和与人相处，
+对如何解读他人的行为感到困惑，并担心自己可能在无意
+识中冒犯他人——没有意识到....”换句话说，他在Autreat得以体验
+到一些孤独谱系群体在神经典型社会中经常经历的
+社会性困惑与不适。（《远离压力》章节）
+这样的经历促生了共情，鼓励非孤独谱系人士以
+比他们原本可能认为的更合理的方式来看待孤独谱系
+文化及其互动方式。
+尽管该会议在任一年份的参会人数从未超过一百人，
+但随着运动的发展，许多与会者后来都成为了领军人物。
+我们中的一位（A.N.）正是受此经历启发，共同创立了孤
+独谱系自我倡导网络（ASAN），该组织现已成为美国领
+先的由孤独谱系群体主导的倡导团体。许多其他资深的孤
+独谱系社群领袖，其起点便是Autreat所提供的沉浸式共
+同体孤独谱系体验。随着时间的推移，ANI和Autreat成
+为了一场不断壮大且具有影响力的社会运动的种子，因为
+孤独谱系群体对诸如AutismSpeaks等组织所宣扬的以
+“治愈”和悲剧为核心的叙事表达了日益增长的不满（
+Heilker&Yergeau,2011;Kras,2010）。这股始于边缘
+的力量，在一批日益壮大的、由孤独谱系群体主导的倡导
+团体的领导下，致力于在地方、国家和国际层面推进神经
+多样性，很快便被推入了主流。
+这段历史在神经多样性日益受到关注之际，值得铭
+记。如今，在GoogleScholar上搜索“神经多样性”
+一词，会得到数千条结果。越来越多的大学吹捧其神经
+多样性倡议，这些倡议通常侧重于神经系统障碍研究和
+支持更多人接受高等教育的某种结合。像安永和微软这
+样的国际大型企业，也吹嘘其“神经多元招聘计划”，
+招募孤独谱系求职者以及其他有神经障碍的人士（
+Ernst&Young,n.d.;Microsoft,n.d.）。2020年
+12月，美国联邦政府迎来了神经多元联邦劳动力试点项
+目的第一批参与者（Thomas,2021）。神经多样性远
+未占据主导地位，即使在孤独谱系的语境中也是如此
+（Leadbitter等人，2021；Pellicano&den
+Houting，2022），但它已稳固地进入了文化主流，
+这一概念不仅被最初发起它的孤独谱系群体频繁提及，
+也常被家长和专业人士引用。此外，孤独谱系群体自身
+已围绕该运动的理念和更宏大的哲学，建立了包括倡导
+团体、文化聚会乃至企业在内的基础设施。
+这种增长在许多方面是有益的，但也带来了挑战。神
+经多样性起源于一个相对
+--- Page 3 ---
+Neurodiversity as Politics151
+Human Development 2022;66:149–157
+DOI: 10.1159/000524277tight-knit community without an extensive written re-
+cord or much engagement with academia. As we see it, 
+over time, as the specific terminology of the original com-
+munity has been incorporated into the work of those with 
+more social, cultural, and economic capital (both inside 
+and outside the autistic community), the movement’s ter-
+minology has been deployed to new purposes.
+Often, terms that meant one thing to the activists that 
+spawned them have been used very differently by aca-
+demics and business leaders. Ambiguity about the “true” 
+meaning of neurodiversity has at times meant that differ-
+ent voices within the movement have sought to confi-
+dently present their own views as the only authentic rep-
+resentation. This ambiguity can also prompt newcomers 
+to adopt and even insist upon positions that would have 
+been alien to or extreme to those who cultivated neurodi-
+versity’s roots (e.g., rejection of autism as a disability or 
+an espousal of unspecified autistic superpowers; see den 
+Houting, 2019). Uncertainty over what the movement 
+stands for has at times prompted observers to attack neu-
+rodiversity proponents for views they by and large do not 
+hold. Much of the present-day debate over neurodiver-
+sity is akin to a game of telephone, with many attacking 
+or praising ideas or usages that are very different from 
+what their interlocuters intend. Inevitable as this may be, 
+discussions of neurodiversity would benefit from aware-
+ness of these tensions and the challenges they present.
+Neurodiversity as a Descriptive Term or Ideology?
+One of the more basic questions that emerges in con-
+sidering neurodiversity is one of terminology: is neurodi-
+versity the name of a social movement, a simple biological 
+reality (reflecting the existence of multiple kinds of 
+brains), or both? As Chapman (2020) notes, some have 
+defined the movement exclusively in political terms while 
+others have sought to frame neurodiversity as a descrip-
+tive fact. Walker (2014) argues that neurodiversity refers 
+to “the diversity of human minds, the infinite variation in 
+neurocognitive functioning within our species… Neuro-
+diversity is a biological fact. It’s not a perspective, an ap-
+proach, a belief, a political position, or a paradigm.” 
+Walker goes on to argue that the political implications of 
+neurodiversity should be referred to as the “neurodiver-
+sity paradigm,” distinguishing the normative implica-
+tions from the biological fact.
+Though framed as the authoritative pronouncement 
+of the movement, this perspective is far from the only 
+point of view in autistic activist circles. Many autistic ac-tivists have framed neurodiversity as an explicitly politi-
+cal position in both communications to the broader com-
+munity and the academic literature, referring to neurodi-
+versity as “acceptance for neurological differences and 
+disabilities” (Durbin-Westby, 2012) or explicitly framing 
+it as an “alternative perspective… in contrast to the deficit 
+model” (Robertson, 2010) rather than a simple biological 
+reality. This tension is present even within this issue – for 
+example, contrast Zajic and Brown’s (2022) reference to 
+“neurodiversity proponents” and “neurodiversity advo-
+cates” (consistent with the use of the term to describe an 
+ideology) with Radulski’s (2022) reference to neurodiver-
+sity as a “field” (consistent with the descriptive tradition 
+of the term). In contrast to Walker, we believe that the use 
+of the word neurodiversity, without further qualifiers, has 
+a long history of being used in autistic activist communi-
+ties to describe biology and ideology, with some believing 
+the term refers only to one of these options and others 
+applying it to both. Recognizing that others may adopt 
+different conventions, in this article we use the term ex-
+clusively to describe the ideology for reasons we now ar-
+ticulate.
+In principle, the distinction is mere semantics. But in 
+practice, the existence of neurodiversity as a purely de-
+scriptive concept removes from the term its most impor-
+tant implications. For better or worse, if neurodiversity 
+refers simply to the fact of neurological variation, there is 
+no inherent reason for the term not to be used in associa-
+tion with efforts to cure or prevent autism or other similar 
+neurological disabilities. Similarly, this descriptive neu-
+rodiversity is perfectly consistent with advertising analo-
+gizing autism or other similar conditions as akin to death 
+or kidnapping, precisely the type of messaging the move-
+ment sought to combat in its early years (Heilker & Yer-
+geau, 2011; Kras, 2010; Rottier & Gernsbacher, 2020). If 
+the term neurodiversity has no normative implications, 
+there is no basis to object to the way it is deployed in such 
+contexts.
+Efforts to draw a finely grained distinction between 
+“neurodiversity” and the “neurodiversity paradigm” are 
+also likely too subtle for most activist and advocacy con-
+texts, particularly given the imperative for autistic and 
+other disabled activists to keep their language accessible 
+to a broad audience, including persons with cognitive im-
+pairments and without access to higher education. If the 
+“center of gravity” for the neurodiversity movement is to 
+stay in the realm of activism rather than in academia, 
+these issues must be considered.
+These questions also raise another important concern: 
+the appropriateness of the increasingly common use of Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+神经多样性作为政治议题151
+《人类发展》2022;66:149–157DOI:
+10.1159/000524277紧密的社群，当时缺乏详尽的书面记录，也较少与
+学术界互动。在我们看来，随着时间的推移，原社
+群特有的术语已被那些拥有更多社会、文化和经济
+资本的人（无论其身处孤独谱系社群内外）纳入其
+工作中，这场运动的术语已被用于新的目的。
+通常，那些对催生它们的活动家而言具有特定含义
+的术语，被学术界和商界领袖以截然不同的方式使用。
+关于神经多样性“真实”含义的模糊性，有时意味着运
+动内部的不同声音都试图自信地将其个人观点呈现为唯
+一真实的代表。这种模糊性也可能促使新来者采纳、甚
+至坚持那些对于培育神经多样性根基的人们而言是陌生
+或极端的立场（例如，拒绝将孤独谱系视为一种残疾，
+或拥护未加说明的孤独谱系超能力；参见den
+Houting，2019）。对于该运动所代表理念的不确定性，
+有时会促使观察者攻击神经多样性的支持者，指责他们
+持有其大体上并不认同的观点。当下许多关于神经多样
+性的辩论，类似于一场传话游戏，许多人攻击或赞扬的
+观点或用法，与其对话者本意相去甚远。尽管这可能不
+可避免，但对神经多样性的讨论若能意识到这些张力及
+其带来的挑战，将大有裨益。
+神经多样性是描述性术语还是意识形态？
+在思考神经多样性时，一个更基本的问题涉及术语：
+神经多样性是一个社会运动的名称，是一种简单的生物
+现实（反映了多种大脑类型的存在），还是两者兼而有
+之？正如Chapman（2020）所指出的，有些人完全从
+政治角度定义这一运动，而另一些人则试图将神经多样
+性框定为一种描述性事实。Walker（2014）认为，神
+经多样性指的是“人类思维的多样性，即我们物种内部
+神经认知功能的无限变异⋯⋯神经多样性是一个生物学
+事实。它不是一种观点、一种方法、一种信念、一种政
+治立场或一种范式。”Walker进一步主张，神经多样
+性的政治含义应被称为“神经多样性范式”，从而将规
+范性含义与生物学事实区分开来。
+尽管这一观点被塑造成该运动的权威宣言，但在孤独
+谱系活动家圈子里，它远非唯一的观点。许多孤独谱系活‑动家将神经多样性明确界定为一种政治立场，无论是在
+与更广泛社区的沟通中，还是在学术文献里，都将神经
+多样性称为“对神经学差异和残疾的接纳”（
+Durbin‑Westby,2012），或明确将其描述为“一种
+替代视角⋯⋯与缺陷模型相对”（Robertson,2010），
+而非简单的生物学现实。这种张力在本期内容中亦有体
+现——例如，对比Zajic和Brown（2022）提及的“神
+经多样性支持者”和“神经多样性倡导者”（与将该术
+语用于描述一种意识形态的用法一致）与Radulski
+（2022）将神经多样性称为一个“领域”的提法（与
+该术语的描述性传统一致）。与Walker的观点不同，
+我们认为，“神经多样性”一词不加限定地使用，在孤
+独谱系活动家社区中有着悠久的历史，既用来描述生物
+学事实，也用来描述意识形态；有些人认为该术语仅指
+其中一种含义，而另一些人则将其应用于两者。我们认
+识到他人可能采用不同的惯例，在本文中，出于我们将
+要阐述的原因，我们使用该术语专指这种意识形态。
+原则上，这种区分仅仅是语义上的。但在实践中，
+将神经多样性作为一个纯粹描述性概念的存在，却剥离
+了这个术语最重要的内涵。无论如何，如果神经多样性
+仅仅指神经学上存在差异这一事实，那么该术语就没有
+内在理由不能与旨在治愈或预防孤独谱系或其他类似神
+经障碍的努力相关联。同样，这种描述性的神经多样性
+与那些将孤独谱系或其他类似状况类比为死亡或绑架的
+广告宣传完全相容，而这正是该运动早期试图对抗的信
+息类型（Heilker&Yergeau,2011;Kras,2010;
+Rottier&Gernsbacher,2020）。如果神经多样性这
+一术语没有规范性内涵，就没有理由反对它在这些语境
+中的使用方式。
+试图在“神经多样性”与“神经多样性范式”
+之间做出精细区分的努力，对于大多数行动主义和
+倡导语境而言也可能过于微妙，特别是考虑到孤独
+谱系人士及其他残障活动者必须确保其语言能为广
+大受众所理解，包括有认知障碍和未接受高等教育
+的人群。如果神经多样性运动的“重心”要保持在
+行动主义领域而非学术界，就必须考虑这些问题。
+这些问题也引出了另一个重要的关切点：越来越普
+遍地使用
+--- Page 4 ---
+Ne’eman/Pellicano Human Development 2022;66:149–157152
+DOI: 10.1159/000524277terms like “neurodivergent” or “neurodiverse,” both of 
+which are often used to describe those for whom the con-
+cept of neurodiversity applies, though proponents of the 
+former argue the latter is grammatically nonsensical. 
+These terms emerged in large part out of a desire to clar-
+ify that the term neurodiversity in either its descriptive or 
+ideological terms applies outside of autism (Asasumasu, 
+2016; Chapman, 2021). But their usage presents a new 
+problem: neurodiversity activists have long emphasized 
+the connection between their movement and the broader 
+disability community, explicitly rejecting claims that the 
+movement “views autism as a difference but not a disabil-
+ity” (Bailin, 2019; den Houting, 2019; Ne’eman & Bas-
+com, 2020). We agree with this interpretation of the 
+movement’s political commitments.
+However, the usage of neurodiversity as a descriptive 
+term seems to imply a fear of the term disability. Why not 
+simply refer to this population as the neurologically or 
+(where appropriate) developmentally disabled? What 
+purpose does the additional descriptive term have, if au-
+tistic people and other “neurodivergent” persons are def-
+initionally disabled as well? Returning to the idea that a 
+movement that centers activists (rather than solely aca-
+demics) and that seeks to include persons with cognitive 
+disabilities must be attentive to the most likely possible 
+interpretation of its terminology, we wonder if the grow-
+ing usage of terms like “neurodivergent” has confused 
+matters.
+After all, the commonsense interpretation of the cre-
+ation of a special word to refer to neurological disability 
+is that those who engage in such an act of creation find 
+the latter term unacceptable in some way. While the ac-
+cusation that neurodiversity proponents do not see au-
+tism as a disability is often made in bad faith, the increas-
+ing prominence of the descriptive use of the term neuro-
+diversity makes this a more understandable error. It may 
+even represent an accurate description of what motivates 
+some persons to adopt the language of neurodiversity, 
+even if this view is not prominent among movement lead-
+ers or organizations.
+Sinclair and other early autistic activists were heavily 
+influenced by other parts of the disability community. 
+Autistic culture borrowed significantly from Deaf culture 
+– for example, attendees at Autreat substituted tradition-
+al applause for “flapplause,” the rapid flapping of one’s 
+hands instead of clapping them together. This has much 
+in common with “deaf applause,” which typically involves 
+hand waving (Solvang & Haualand, 2014). Similarly, 
+much of the ideology and terminology of the neurodiver-
+sity movement borrows from the independent living movement and the developmental disability self-advoca-
+cy movement, both of which emphasize the same themes 
+of self-help and willingness to push back against profes-
+sional and family member domination in the political 
+sphere.
+This disconnect from the larger disability context in 
+which neurodiversity was born is a grave error. Neurodi-
+versity proponents would do well to avoid “reinventing 
+the wheel” in a way that might imply a rejection of the 
+broader disability rights movement. As we shall shortly 
+discuss, there are areas in which neurodiversity ideals add 
+concepts that build upon and are (at the moment) distinct 
+from broader disability rights ideologies. However, when 
+describing concepts for which terminology exists in the 
+larger disability realm, it may make more sense to rely on 
+them.
+For example, Radulski’s (2022) contribution offers an 
+important exploration of neurodiversity activism against 
+the demand that autistic people mask autistic traits, syn-
+thesizing the literature on the harmful impacts of “cam-
+ouflaging” in autism with important concepts from liter-
+ary, feminist, and disability theory. In so doing, Radulski 
+makes use of terms like “neuroarchy” and “neurominor-
+ity” to describe the experiences autistic people face living 
+as social minorities in a majority-neurotypical world. 
+While we agree that Radulski’s invoking of the concept of 
+“neurotypical privilege” represents an important applica-
+tion of the idea of privilege to the world of autism, we 
+wonder about the wisdom of terms like “neurominority,” 
+which introduce new and somewhat exceptionalist lan-
+guage to describe concepts with long histories in broader 
+disability activism. Where an idea is unique to the neuro-
+diversity context, it may require new terminology. But 
+where it does not, neurodiversity activists may benefit 
+from looking for more accessible language that connects 
+to the movements’ roots in the larger world of disability.
+Defining the Boundaries of the Movement
+Alongside the question of what the word neurodiver-
+sity means is the even more crucial question of who it ap-
+plies to. Though neurodiversity has its origins in the 
+world of autism, it has important implications outside of 
+it as well (Bertilsdotter Rosqvist et al., 2020; Gillespie-
+Lynch et al., 2020). As Botha and Gillespie-Lynch (2022) 
+note, in various contexts, conditions like ADHD, dyslex-
+ia, bipolar disorder, schizophrenia, intellectual disability, 
+and many others have been asserted to fall under the neu-
+rodiversity umbrella. At times these claims have been Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+Ne’eman/Pellicano 《人类发展》2022；66：149–157152
+DOI：10.1159/000524277诸如“神经殊异”或“神经多元”这类术语是否恰当，这
+两个术语常被用来描述神经多样性概念所适用的人群，尽
+管前者的支持者认为后者在语法上毫无意义。这些术语的
+出现，很大程度上源于一种澄清的愿望：即神经多样性这
+一术语，无论是其描述性还是意识形态层面的含义，都适
+用于孤独谱系之外的情形（Asasumasu,2016;
+Chapman,2021）。但它们的用法带来了一个新问题：神
+经多样性活动家长期以来一直强调他们的运动与更广泛的
+残障社群之间的联系，并明确拒绝那种认为该运动“将孤
+独谱系视为一种差异而非残障”的说法（Bailin,2019;
+denHouting,2019;Ne’eman&Bascom,2020）。我
+们赞同对这场运动政治承诺的这种解读。
+然而，将神经多样性用作描述性术语，似乎暗
+示了对‘残障’一词的恐惧。为什么不直接称这一
+群体为神经系统障碍者，或（在适当情况下）发展
+性残障者呢？既然自闭症人士和其他‘神经殊异’
+者在定义上也属于残障群体，那么增加一个描述性
+术语有何目的？回到这样一个观点：一个以活动家
+（而非仅学者）为核心、并力求包容认知残障人士
+的运动，必须关注其术语最可能被如何解读。我们
+不禁怀疑，‘神经殊异’等术语日益广泛的使用是
+否反而混淆了问题。
+毕竟，从常识角度解读，专门创造一个词来指
+代神经系统障碍，意味着创造者认为后一个术语在
+某种程度上不可接受。尽管指责神经多样性支持者
+不将自闭症视为残障的说法常出于恶意，但‘神经
+多样性’一词在描述性使用上日益突出，使得这种
+误解更易理解。它甚至可能准确地描述了促使某些
+人采用神经多样性语言的部分动机，即便这种观点
+在运动领袖或组织中并不占主导地位。
+Sinclair和其他早期孤独谱系活动者深受残障社
+群其他部分的影响。孤独谱系文化大量借鉴了聋人
+文化——例如，Autreat的参与者用传统的鼓掌方式
+被“拍翅鼓掌”所取代，即快速挥动手掌而非双手
+拍击。这与“聋人鼓掌”有很多共同之处，后者通
+常涉及挥手动作（Solvang&Haualand,2014）。
+同样，神经多样性运动的许多意识形态和术语也借
+鉴了独立生活运动以及发展性障碍自我倡导运动，两者都强调自
+助和愿意在政治领域抵制专业人士及家庭成员支配
+的相同主题。
+这种与孕育神经多样性的更广泛残障背景的脱节，
+是一个严重的错误。神经多样性的支持者最好避免‘重
+新发明轮子’，以免其方式可能暗示对更广泛的残障权
+利运动的排斥。正如我们即将讨论的，在某些领域，神
+经多样性的理念确实增加了一些概念，这些概念建立在
+更广泛的残障权利意识形态之上，并且（目前）与之不
+同。然而，在描述那些在更广泛的残障领域中已有术语
+的概念时，依赖这些现有术语可能更为明智。
+例如，Radulski（2022）的贡献对神经多样性行
+动主义进行了一次重要的探讨，旨在反对要求孤独谱系
+群体掩饰其孤独谱系特征，将关于‘伪装’在孤独谱系
+中有害影响的文献，与文学、女权主义和残障理论中的
+重要概念相结合。在此过程中，Radulski使用了诸如
+‘神经支配’和‘神经少数群体’等术语来描述孤独谱
+系群体在一个神经典型占多数的世界中作为社会少数群
+体所面临的经历。虽然我们同意Radulski引入‘神经
+典型特权’的概念是将特权观念应用于孤独谱系世界的
+重要应用，但我们质疑诸如‘神经少数群体’这类术语
+的明智性，它们引入了新的、某种程度上带有例外论色
+彩的语言来描述在更广泛的残障行动主义中已有悠久历
+史的概念。当一个理念是神经多样性语境所独有的时，
+它可能需要新的术语。但在并非如此的情况下，神经多
+样性活动家或许可以从寻找更易理解的语言中受益，这
+种语言应能连接到运动在更广阔残障世界中的根源。
+界定运动的边界
+关于“神经多样性”一词含义的讨论，伴随着一个更为关
+键的问题：它适用于哪些人。尽管神经多样性起源于孤独谱系
+领域，但它在其他方面也具有重要影响（Bertilsdotter
+Rosqvist等人，2020；Gillespie‑Lynch等人，2020）。正
+如Botha和Gillespie‑Lynch（2022）所指出的，在不同语境
+下，诸如注意缺陷多动障碍、阅读障碍、双相情感障碍、精神
+分裂症、智力障碍等许多其他状况，都被主张应纳入神经多样
+性的范畴。有时这些主张是由
+--- Page 5 ---
+Neurodiversity as Politics153
+Human Development 2022;66:149–157
+DOI: 10.1159/000524277made by persons with those conditions, at times by other 
+neurodiversity activists seeking to frame the movement 
+as maximally inclusive.
+Insofar as neurodiversity has exclusively descriptive 
+implications, scope is not a difficult question. But if the 
+word neurodiversity has any ideological implications 
+whatsoever, this becomes a very challenging area for de-
+bate, dependent entirely on what the scope of the neuro-
+diversity ideology may be.
+Some have framed neurodiversity’s ideological com-
+mitments as simply the application of the disability rights 
+movement in the realm of mental disability. Under this 
+definition, neurodiversity’s normative implications are 
+the same as those of the broader disability rights move-
+ment and thus relate in large part to questions of acces-
+sibility and equality of opportunity. From this standpoint, 
+taking the broadest possible definition of neurodiversity’s 
+“scope” is not only appropriate – it is a moral necessity. 
+After all, all persons with disabilities deserve the protec-
+tions of non-discrimination and reasonable accommoda-
+tion, among others, guaranteed by many national disabil-
+ity rights laws and the United Nations Convention on the 
+Rights of Persons with Disabilities.
+However, others have framed the neurodiversity 
+movement as referring specifically to the rejection of the 
+demand for typical appearance, cognition, or behavior – 
+that is, the movement’s rejection of the goals of preven-
+tion and cure. While still rooted in disability rights, this 
+definition of neurodiversity layers on top of it, represent-
+ing a supplementary ideology with a new additional con-
+tribution. Under this definition, defining the boundaries 
+of the neurodiversity movement becomes much trickier. 
+While there are many diagnoses in which persons with 
+the relevant disabilities reject the goal of suppression of 
+symptoms, this is not universally the case. For example, 
+while autistic repetitive behaviors are generally a source 
+of pleasure or self-regulation, in the context of obsessive-
+compulsive disorder they are more frequently a source of 
+distress (Jiujias et al., 2017; King, 2019; Ne’eman et al., 
+2020). Insofar as inclusion within the scope of neurodi-
+versity activism implies a rejection of efforts to target, for 
+intervention, traits associated with a given disability, 
+some degree of selectivity is more appropriate.
+While both ways of defining neurodiversity as an ide-
+ology are defensible, the latter is the more compelling. By 
+making neurodiversity simply the application of disabil-
+ity rights in the realm of mental disability, activists gain a 
+pithy slogan but lose the ability to refer specifically to the 
+movement’s most important innovation: rejection of the 
+idea that research and service provision should target pre-vention, cure, or recovery towards normalcy. While this 
+idea has some traction in other disability contexts, it is 
+generally not as broadly applied – for example, while 
+many physical disability activists argue against selective 
+abortion and pre-implantation genetic diagnosis to re-
+move persons with their disabilities from the gene pool 
+(e.g., Asch & Barlevy, 2012), this critique usually does not 
+extend to interventions aimed at already existing persons. 
+It may be that a common “theory of everything” may be 
+developed that allows the neurodiversity’s rejection of 
+cure to be integrated seamlessly into all mental and non-
+mental disabilities (we discuss one possibility below), but 
+until such an idea is articulated and accepted, we believe 
+it important to retain language to explain neurodiversi-
+ty’s unique contribution. Thus, defining neurodiversity 
+through this second, more narrow approach is more ap-
+pealing (for now).
+Implicitly adopting this definition, Dwyer (2022) dis-
+cusses several important considerations for how to define 
+“the scope of neurodiversity approaches.” He notes and 
+rejects arguments for defining neurodiversity to include 
+those conditions that emerge “naturally,” that are associ-
+ated with contributions to society, that are congenital (as 
+opposed to acquired), and that prompt self-identification 
+with the movement’s rejection of cure. This last comes 
+closest to an acceptable criterion, but Dwyer justifiably 
+rejects it for failing to account for circumstances like an-
+orexia, where persons with a diagnosis may dangerously 
+seek to reject efforts to ameliorate symptoms. We agree 
+with this and add a further critique of relying solely on 
+individual self-identification: the need for policymakers 
+and researchers to have guidance from a community at 
+large. While service-delivery may be approached on a 
+largely individualized basis, the allocation of research 
+funding and many other areas of public policy often re-
+quire engaging with groups as broader communities, de-
+spite their considerable heterogeneity.
+Another more radical critique of the broadest possible 
+application of neurodiversity may be found in the exis-
+tence of other challenges to traditional psychiatric prac-
+tice. For example, the mental health consumer/psychiat-
+ric survivor movement has long emphasized the value of 
+“recovery” from mental illness diagnoses as a form of re-
+sistance to psychiatrists who reject the possibility of it. Far 
+from representing a simple clinical goal, recovery in this 
+context has radical implications, often used as the basis to 
+push back against involuntary treatment, institutional-
+ization, and the long-term denial of legal capacity (Mor-
+rison, 2013). In contrast, in the autism context “recovery” 
+is a term used by parents and providers seeking to force Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+神经多样性作为政治议题153
+《人类发展》2022;66:149–157DOI:
+10.1159/000524277患有这些状况的人士提出的，有时则是由其他神经多样性
+活动家提出的，他们试图将这场运动构建为尽可能包容的。
+只要神经多样性仅具有描述性含义，其范围就不是
+一个难题。但如果‘神经多样性’这个词具有任何意识
+形态层面的含义，这就成为一个极具挑战性的辩论领域，
+完全取决于神经多样性意识形态的范围可能是什么。
+一些人将神经多样性的意识形态承诺简单地框
+定为残障权利运动在精神残障领域的应用。根据这
+一定义，神经多样性的规范性含义与更广泛的残障
+权利运动相同，因此在很大程度上涉及无障碍环境
+和机会平等的问题。从这个角度看，对神经多样性
+的‘范围’采取尽可能宽泛的定义不仅是恰当的——
+更是一种道德必需。毕竟，所有残障人士都应享有
+非歧视和合理便利等保障，这些权利已得到许多国
+家残障权利法律以及联合国《残疾人权利公约》的
+保证。
+然而，也有人将神经多样性运动具体定义为对
+要求具备典型外貌、认知或行为的拒绝——即该运动
+对预防和治愈目标的拒绝。虽然这一定义仍植根于
+残障权利，但它在基础上增加了一层含义，代表了
+一种具有新附加贡献的补充性意识形态。根据这一
+定义，界定神经多样性运动的边界变得棘手得多。
+虽然存在许多诊断，其中相关残障人士拒绝以抑制
+症状为目标，但这并非普遍情况。例如，虽然孤独
+谱系的重复行为通常是愉悦或自我调节的来源，但
+在强迫症的背景下，它们更常是痛苦的来源（
+Jiujias等，2017；King，2019；Ne’eman等，
+2020）。只要纳入神经多样性行动主义的范畴意味
+着拒绝针对与特定残障相关的特质进行干预，那么
+某种程度的选择性就更为合适。
+尽管将神经多样性定义为一种意识形态的两种方式
+都站得住脚，但后者更具说服力。通过将神经多样性简
+单地视为残疾权利在精神残障领域的应用，活动人士获
+得了一个精炼的口号，却失去了特指该运动最重要创新
+的能力：即拒绝研究和服务提供应以预防、治愈或康复至常态为目标。尽管这一理念在
+其他残疾语境中也有一定影响力，但通常并未被广
+泛运用——例如，尽管许多肢体残疾活动人士反对通
+过选择性堕胎和植入前遗传学诊断来将带有其残疾
+的人从基因库中移除（如Asch与Barlevy，2012年），
+但这种批评通常并不延伸至针对已存在个体的干预
+措施。或许未来会发展出一种通用的“万物理论”，
+使神经多样性对治愈的拒斥能够无缝融入所有精神
+与非精神残障中（我们将在下文讨论一种可能性），
+但在此类理念被阐明和接受之前，我们认为保留解
+释神经多样性独特贡献的语言至关重要。因此，目
+前来看，通过这第二种更狭义的方式来定义神经多
+样性更具吸引力。
+Dwyer(2022)在隐含地采纳这一定义的同时，
+讨论了如何界定“神经多样性路径的范围”的几个
+重要考量。他指出并驳斥了将神经多样性定义为包
+含那些“自然”出现的、与社会贡献相关的、先天
+性的（而非后天获得的）状况的论点，以及那些促
+使个体认同该运动拒绝治愈理念的状况。最后一点
+最接近一个可接受的标准，但Dwyer有理由地拒绝
+了它，因为它未能考虑到像厌食症这样的情况——被
+诊断者可能危险地拒绝任何改善症状的努力。我们
+同意这一点，并进一步批评了仅依赖个体自我认同
+的做法：政策制定者和研究者需要来自更广泛社区
+的指导。虽然服务提供可以在很大程度上以个体化
+为基础，但研究资金的分配以及公共政策的许多其
+他领域，通常需要与作为更广泛群体的社群进行接
+触，尽管它们内部存在显著的异质性。
+对于神经多样性最广泛可能应用的另一种更为
+激进的批评，可能存在于其他对传统精神病学实践
+的挑战中。例如，心理健康服务使用者/精神病学幸
+存者运动长期以来一直强调从精神疾病诊断中“康
+复”的价值，以此作为对那些否认康复可能性的精
+神病学家的抵抗。在这种语境下，康复远非代表一
+个简单的临床目标，而是具有激进的意涵，常被用
+作抵制非自愿治疗、机构化以及长期剥夺法律行为
+能力的依据（Morrison,2013）。相比之下，在孤
+独谱系语境中，“康复”一词被寻求迫使
+--- Page 6 ---
+Ne’eman/Pellicano Human Development 2022;66:149–157154
+DOI: 10.1159/000524277autistic persons into looking and acting normal (see Fein 
+et al., 2013). Associated with the behaviorist approach to 
+autism, neurodiversity activists have long seen the desire 
+to “recover” autistic persons as a tool of abusive forms of 
+intervention (Autistic Self Advocacy Network, 2013; 
+Ne’eman, 2021; Padawar, 2014). In fact, autistic activists 
+actively lobbied against the inclusion of “recovery crite-
+ria” in the DSM-5 definition of autism (Kapp & Ne’eman, 
+2020).
+In seeking maximum inclusion, there is a risk that neu-
+rodiversity activists may inadvertently practice a sort of 
+ideological imperialism: insisting on importing a specific 
+critique and worldview into communities with their own, 
+pre-existing and incompatible ideological commitments. 
+Of course, there are many persons with mental illness 
+who do seek to apply neurodiversity to their own condi-
+tions (Graby, 2015; Hart, 2020). Such differences of opin-
+ion exist in every community – insofar as they can be re-
+solved, they are best done so through internal debate and 
+disputation within the boundaries of that community it-
+self, rather than the imposition of an outside ideology by 
+well-meaning allies. As such, we suggest a consideration 
+of politics in addition to those ethical factors articulated 
+in Dwyer’s discussion of the boundaries of neurodiver-
+sity: the neurodiversity movement should seek to make 
+itself relevant in those disability communities where a 
+sufficient internal constituency exists for the application 
+of the ideas of neurodiversity to their condition. Such an 
+approach would not require uniform opinion (which 
+never exists) or even as much of a consensus as is found 
+in autistic community contexts. But it should insist on 
+some critical mass of internal support prior to demanding 
+from the outside the application of neurodiversity ideals.
+This too may be a further argument against the de-
+scriptive use of the term neurodiversity – as the use of it 
+descriptively to apply to a community that rejects the 
+term’s ideological implications may both prompt confu-
+sion and justifiable objection that the broadest possible 
+application of the term interferes with the self-determi-
+nation of other disability communities.
+Operationalizing Neurodiversity: What Are the 
+Practical Stakes?
+Whatever its definition and scope, the most important 
+practical question regarding neurodiversity is what it 
+means on the ground. This special issue includes a num-
+ber of important explorations of this concept. In docu-
+menting the #TakeTheMaskOff social media campaign, Radulski (2022) highlights the tremendous day-to-day 
+stakes autistic people face as a minority living in a world 
+that is often hostile to autistic ways of being, forcing onto 
+autistic persons passing demands akin to those experi-
+enced by racial and ethnic minorities and other oppressed 
+peoples. Zajic and Brown (2022) provide an interesting 
+exploration of the implications of neurodiversity ideas on 
+the teaching of writing, exploring what neurodiversity 
+might mean for the teaching of writing and research on 
+the development of autistic writing skills. Botha and Gil-
+lespie-Lynch (2022) explore the intersection of autism 
+and other disability communities to which the ideas of 
+neurodiversity have been applied with other forms of 
+marginalized identity. In doing so, they draw on a rich 
+literature on the intersectional impacts of marginaliza-
+tion to better understand autistic identity development 
+and community building, key building blocks for neuro-
+diversity movement activism.
+Dwyer (2022) provides a useful theoretical discussion 
+of various approaches neurodiversity could take in op-
+erationalizing its ideology for practical service-provision 
+purposes. Ultimately, he argues for an interactionist ap-
+proach to neurodiversity, which recognizes that challeng-
+es emerge from the combination of impairment and en-
+vironment. (Although he contrasts this with the British 
+“strong” social model of disability, we note that this ap-
+proach is consistent with the colloquial use of the social 
+model in the USA and how it was understood by many 
+early autistic activists who contributed to the develop-
+ment of neurodiversity ideas.) In the interactionist ap-
+proach advocated by Dwyer, interventions could target 
+either modifying society or modifying individual traits 
+(or both), but should do so based on which ultimately en-
+hances quality of life rather than based on what is deemed 
+to “cause” an underlying challenge. There is much merit 
+to this approach, which seems to have as a necessary im-
+plication an abandonment of the tendency – still so com-
+mon in traditional autism service-provision – to assume 
+that all autistic traits that diverge from the norm should 
+automatically be suppressed (see Pellicano & den Hout-
+ing, 2022, for a discussion).
+Many debates over the implications of neurodiversity 
+focus on which populations it should be applied to. Par-
+ticularly in the context of autism, this has often focused 
+on the appropriateness of applying neurodiversity ideas 
+(in particular the rejection of cure and prevention) to au-
+tistic persons with severe impairments in communication 
+and cognition. For example, Baron-Cohen (2019) argues 
+for “taking a fine-grained look at the heterogeneity with-
+in autism” with the goal of splitting the autism spectrum Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+Ne’eman/Pellicano 《人类发展》2022；66：149–157154
+DOI：10.1159/000524277孤独谱系群体看起来和行为正常的父母与提供者所使用
+（参见Fein等人,2013）。与自闭症行为主义方法相关，
+神经多样性活动家长期以来将“康复”孤独谱系群体的愿
+望视为一种虐待性干预形式的工具（孤独谱系自我倡导网
+络,2013;Ne’eman,2021;Padawar,2014）。事实上，
+孤独谱系活动者积极游说，反对在DSM‑5的孤独谱系定义
+中包含“康复标准”（Kapp&Ne’eman,2020）。
+在追求最大包容性的过程中，神经多样性运动
+者可能无意中实践一种意识形态帝国主义：坚持将
+特定的批判和世界观引入那些已有自身、且不相容
+的意识形态承诺的社群。当然，也有许多患有精神
+疾病的人士确实试图将神经多样性应用于自身状况
+（Graby,2015;Hart,2020）。这种意见分歧存在
+于每个社群中——如果能够解决，最好通过该社群边
+界内的内部辩论和争论来实现，而非由善意的盟友
+从外部强加一种意识形态。因此，我们建议在考虑
+Dwyer关于神经多样性边界的讨论中所阐述的伦理
+因素之外，还应考量政治因素：神经多样性运动应
+寻求在那些残障社群中变得相关，这些社群内部存
+在足够多的支持者，愿意将神经多样性的理念应用
+于其自身状况。这种方法不要求统一的意见（这从
+未存在过），甚至不需要达到孤独谱系社群背景中
+所见的那种共识程度。但它应坚持在从外部要求应
+用神经多样性理念之前，社群内部需具备一定的关
+键性支持基础。
+这也可能成为反对使用神经多样性一词进行描
+述性应用的另一个论据——将其描述性地应用于一个
+拒绝该术语意识形态内涵的社群，既可能引发混淆，
+也可能招致合理的反对，即该术语最广泛的应用会
+干涉其他残障社群的自我决定。
+神经多样性的操作化：实际利害关系是什么？
+无论其定义和范围如何，关于神经多样性最重要
+的实践问题在于其现实意义。本期特刊收录了若干关
+于这一概念的重要探讨。在记录#
+TakeTheMaskOff社交媒体运动时，Radulski(2022)强调了孤独谱系群体作为少数群体，
+生活在常对孤独谱系存在方式怀有敌意的世界中所
+面临的巨大日常风险，社会强加给孤独谱系群体的
+伪装要求，类似于种族和族裔少数群体及其他受压
+迫人群所经历的状况。Zajic与Brown(2022)对神
+经多样性理念在写作教学中的影响进行了有趣的探
+讨，研究了神经多样性可能对写作教学以及孤独谱
+系写作技能发展的研究意味着什么。Botha与
+Gillespie‑Lynch(2022)探讨了孤独谱系与其他残
+障社群的交集，神经多样性的理念已与其它形式的
+边缘化身份认同一起应用于这些社群。在此过程中，
+他们借鉴了关于边缘化交叉影响的丰富文献，以更
+好地理解孤独谱系身份发展和社群建设——这些是神
+经多样性运动行动主义的关键基石。
+Dwyer（2022年）就神经多样性如何将其理念
+操作化以用于实际服务提供目的的各种方法，提供
+了有益的理论探讨。最终，他主张一种互动主义的
+神经多样性方法，该方法承认挑战源自于损伤与环
+境的结合。（尽管他将此与英国“强”社会残障模
+型进行对比，但我们注意到，这种方法与美国社会
+模型的通俗用法以及许多早期孤独谱系活动者在推
+动神经多样性理念发展时对其的理解是一致的。）
+在Dwyer倡导的互动主义方法中，干预措施可以针
+对改变社会或改变个人特质（或两者兼而有之），
+但选择依据应是什么最终能提升生活质量，而非基
+于什么被认定为“导致”了根本性挑战。这种方法
+有很多优点，其一个必然的推论似乎是：必须摒弃
+那种在传统孤独谱系服务提供中仍非常普遍的倾向，
+即认为所有偏离常态的孤独谱系特质都应自动被压
+制（相关讨论参见Pellicano&denHouting，
+2022年）。
+许多关于神经多样性含义的争论，都聚焦于它
+应适用于哪些人群。特别是在孤独谱系的语境下，
+争论常常集中在将神经多样性理念（尤其是拒绝治
+愈和预防）应用于那些在沟通和认知方面有重度障
+碍的孤独谱系群体是否合适。例如，
+Baron‑Cohen（2019）主张“对孤独谱系内部的异
+质性进行细致入微的审视”，目的是将孤独谱系
+--- Page 7 ---
+Neurodiversity as Politics155
+Human Development 2022;66:149–157
+DOI: 10.1159/000524277into those components to which a neurodiversity ap-
+proach should be applied and those for which the tradi-
+tional medical model may be more appropriate. Similarly, 
+some critics of the neurodiversity movement have recent-
+ly called for the creation of a separate “profound” or “se-
+vere autism” diagnostic category in which to place those 
+with the most severe impairments, a position endorsed 
+often out of a desire to separate such individuals from the 
+service-provision changes argued for by neurodiversity 
+and disability rights activists (National Council on Severe 
+Autism, 2021). Others, including both autistic people and 
+parents of autistic persons with severe impairments, have 
+criticized such an approach, arguing that doing so creates 
+an artificial division and segregates higher-support need 
+autistic people from innovations and rights that they too 
+should have access to (Autistic Self Advocacy Network, 
+2021; Rosa, 2021).
+We agree with this latter perspective. There is no sci-
+entific basis for segmenting the autism spectrum in the 
+way that proponents of a separate “severe” autism label 
+suggest. Doing so poses grave risks, potentially segregat-
+ing those subject to such a severe label from the rights and 
+efforts at community integration won in the broader dis-
+ability context. Nonetheless, we do believe that it is im-
+portant for neurodiversity proponents to make the case 
+explicitly that their ideas have relevance to those with the 
+most severe impairment. Contrary to the movement’s 
+critics, many, if not all, neurodiversity advocacy organi-
+zations are actively concerned with severe disability, in-
+vesting considerable resources into advocating for more 
+resources for long-term services and supports, augmenta-
+tive and alternative communication, and other needs that 
+are most acute among autistic people with the most severe 
+impairments (Ne’eman & Bascom, 2020). Research on 
+the views of those who support neurodiversity docu-
+ments that most do not object to measures designed to 
+improve adaptive skills as opposed to suppressing autistic 
+traits (Kapp et al., 2013).
+We suggest a further contribution to help make the 
+case for neurodiversity’s broad applicability, accom-
+plished via a simple and long overdue paradigm shift. 
+Rather than debate which populations neurodiversity 
+should be applied to, we argue that neurodiversity is best 
+understood as applying to individual traits – what in the 
+medical context might be referred to as symptoms – rath-
+er than to whole people or populations. Efforts to suppress 
+hand flapping and other forms of “stimming” or to de-
+mand eye contact are unacceptable regardless of how se-
+verely impaired a person may be in cognition or commu-
+nication. This is because they are not intrinsically harm-ful. In contrast, self-injury, violence, or lack of a 
+functional communication system are appropriate tar-
+gets of service-provider intervention because they repre-
+sent intrinsic harms to the person who experiences them 
+or others. In such instances, the harms are not the result 
+of stigma but would emerge regardless of the prevailing 
+social norms. Such actions can be appropriate targets of 
+intervention.
+Such an approach recognizes that, rather than splitting 
+autistic people and other disability communities into 
+groups subject to the neurodiversity model and groups 
+subject to the traditional medical model, both models 
+might conceivably have application in the same person. 
+By taking a trait-oriented approach to operationalizing 
+neurodiversity, it is possible to address intrinsically harm-
+ful disability-related traits, such as self-injury, lack of 
+communication, or anorexia, while also rejecting and 
+fighting against the clinical passing demands embedded 
+within so much of autism service-provision and research 
+practice (Ne’eman, 2021). Such an approach is consistent 
+with Dwyer’s interactionist approach and the vast major-
+ity of high-level neurodiversity activism in practice. It 
+also represents a useful approach through which to com-
+bat the harms created by demands from clinicians, family 
+members, and the broader society that autistic people at-
+tempt to pass as non-autistic. As Botha and Gillespie-
+Lynch (2022) discuss in their exploration of the applica-
+bility of the minority stress model to autism and neuro-
+logical disability, there is a longstanding literature 
+showing the harms such passing demands cause in the 
+context of other forms of marginalized identity that has 
+considerable relevance.
+This innovation also has the potential to open up doors 
+for expanding neurodiversity’s critique of service-provi-
+sion practices beyond the realm of mental disability, as 
+many other disability categories experience harm from 
+clinical passing demands imposed by providers. Although 
+much work is needed to further articulate and operation-
+alize these ideas, we have hope that in doing so neurodi-
+versity activists can develop a set of conceptual and prac-
+tical tools that will yield benefit across the disability com-
+munity. The possibility exists that the neurodiversity 
+critique – though now distinct – may eventually serve its 
+purpose and be simply reabsorbed into the larger disabil-
+ity rights movement it is now layered on top of. Such a 
+long-term outcome for neurodiversity would set the stage 
+for a common front to transform research and service-
+provision in all areas of disability, not just those relating 
+to the brain.Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+神经多样性作为政治议题155
+《人类发展》2022;66:149–157DOI:
+10.1159/000524277拆分为两部分：一部分适用于神经多样性方法，另一部
+分则可能更适合传统的医学模型。同样地，神经多样性
+运动的一些批评者最近呼吁创建一个独立的“重度”或
+“重度孤独谱系”诊断类别，用于安置那些障碍最严重
+的个体；这一立场常出于一种愿望，即让这些个体免受
+神经多样性和残障权利活动者所倡导的服务供给变革的
+影响（NationalCouncilonSevereAutism,2021）。
+包括孤独谱系群体自身以及有重度障碍的孤独谱系人士
+的家长在内的其他人则批评了这种做法，认为这样做制
+造了人为的分裂，并将高支持需求的孤独谱系群体隔离
+在创新和权利之外，而这些创新和权利本应是他们同样
+有权享有的（孤独谱系自我倡导网络，2021；Rosa,
+2021）。
+我们赞同后一种观点。将孤独谱系按照主张单
+独“重度”孤独谱系标签的人士所建议的方式进行
+划分，是缺乏科学依据的。这样做会带来严重的风
+险，可能使被贴上此类重度标签的人与在更广泛的
+残障背景下赢得的权利及社区融合努力相隔离。尽
+管如此，我们确实认为，神经多样性的支持者明确
+阐述其理念对功能受损最严重的群体同样具有相关
+性，这一点至关重要。与批评该运动的人士相反，
+许多（即使不是全部）神经多样性倡导组织都积极
+关注重度残障问题，投入大量资源倡导为长期服务
+与支持、扩大与替代性沟通以及其他在功能受损最
+严重的孤独谱系群体中最为迫切的需求争取更多资
+源（Ne’eman&Bascom,2020）。关于神经多
+样性支持者观点的研究表明，他们大多并不反对旨
+在提高适应技能的措施，这与压制孤独谱系特质的
+行为截然不同（Kapp等,2013）。
+我们提出一个进一步的贡献，以帮助论证神经
+多样性的广泛适用性，这通过一个简单且早该实现
+的范式转变来完成。我们主张，与其争论神经多样
+性应适用于哪些人群，不如将其理解为适用于个体
+的特质——在医学语境中可能被称为症状——而非整
+个人或人群。无论一个人在认知或沟通方面受损多
+么严重，试图抑制手部拍打和其他形式的“刺激行
+为”或要求眼神接触都是不可接受的。这是因为它
+们本质上并非有害——相反，自伤、暴力或缺乏功能性沟通系统，则是服
+务提供者干预的适当目标，因为它们代表着对经历
+者本人或他人的内在伤害。在此类情况下，伤害并
+非源于污名，而是无论主流社会规范如何都会出现。
+这些行为可以成为干预的适当目标。
+这种方法认识到，与其将孤独谱系群体和其他残障
+社群划分为受神经多样性模型影响的群体和受传统医学
+模型影响的群体，不如承认这两种模型都可能适用于同
+一个人。通过采取以特质为导向的方法来操作化神经多
+样性，就有可能解决本质上具有伤害性的、与残障相关
+的特质，例如自伤、缺乏沟通或神经性厌食症，同时也
+拒绝并反抗根植于大量孤独谱系服务提供和研究实践中
+的临床伪装要求（Ne’eman，2021）。这种方法与
+Dwyer互动主义方法以及实践中绝大多数高层次的神
+经多样性行动主义是一致的。它也代表了一种有用的方
+法，可以用来对抗由临床医生、家庭成员和更广泛社会
+的要求所造成的伤害，这些要求迫使孤独谱系群体试图
+伪装成非孤独谱系者。正如Botha和
+Gillespie‑Lynch（2022）在他们探讨少数群体压力模
+型对孤独谱系和神经性残障的适用性时所讨论的，已有
+大量长期文献表明，这类伪装要求在其他形式的边缘化
+身份背景下所造成的伤害，具有相当大的相关性。
+这项创新也具备潜力，能将神经多样性对服务
+提供实践的批判拓展至精神残障领域之外，因为许
+多其他残障类别同样遭受着服务提供者强加的临床
+伪装要求所带来的伤害。尽管需要大量工作来进一
+步阐明并实践这些想法，但我们抱有希望：通过努
+力，神经多样性活动家能够开发出一套概念性与实
+践性的工具，为整个残障社群带来益处。存在这样
+一种可能性：神经多样性的批判——尽管目前是独立
+的——或许最终会完成其使命，并简单地被重新吸纳
+进它所依附的、更宏大的残障权利运动中。神经多
+样性的这一长远结局，将为建立一个共同阵线奠定
+基础，以变革所有残障领域（而不仅仅是与大脑相
+关的领域）的研究和服务提供。
+--- Page 8 ---
+Ne’eman/Pellicano Human Development 2022;66:149–157156
+DOI: 10.1159/000524277Acknowledgements
+The authors are grateful to Marc Stears and Amanda Vivian for 
+discussion of the ideas presented in this commentary.
+Statement of Ethics
+No ethical approval was required for the preparation of this 
+manuscript, as no human or animal subjects were used.
+Conflict of Interest Statement
+The authors have no conflicts of interest of which they are 
+aware.Funding Sources
+E.P. was supported by an Australian Research Council Future 
+Fellowship (FT190100077). The views expressed are the views of 
+the authors alone and do not necessarily represent the views of 
+their organizations or funding sources. A.N was supported by the 
+National Institute of Mental Health of the National Institutes of 
+Health under Award Number T32MH019733. The content is sole-
+ly the responsibility of the authors and does not necessarily repre-
+sent the official views of the National Institutes of Health.
+Author Contributions
+A.N. and E.P. discussed the ideas presented herein; A.N. wrote 
+the initial draft of the manuscript; E.P. reviewed and edited the 
+manuscript; both authors approved the final version of the manu-
+script prior to submission.
+References
+Asasumasu, K. (2016). PSA from the actual coiner 
+of “neurodivergent”.  Tumblr.https:  //sherlocks -
+flataffect.tumblr.com/post/121295972384/psa-
+from-the-actual-coiner-of-neurodivergent
+Asch, A., &   Barlevy, D. (2012). Disability and ge-
+netics:   A disability critique of pre-natal testing 
+and pre-implantation genetic diagnosis (PGD). 
+eLS.
+Autistic Self Advocacy Network. (2013, January 
+23). ASAN statement on Fein study on autism 
+and “recovery”. https:  //autisticadvocacy.
+org/2013/01/asan-statement-on-fein-study-
+on-autism-and-recovery/#_edn1
+Autistic Self Advocacy Network. (2021, Decem-
+ber 9). Functioning labels harm autistic people. 
+https:  //autisticadvocacy.org/2021/12/func-
+tioning-labels-harm-autistic-people/
+Bailin, A. (2019, June 6).Clearing up some miscon-
+ceptions about neurodiversity. Scientific 
+American. https:  //blogs.scientificamerican.
+com/observations/clearing-up-some-mis-
+conceptions-about-neurodiversity/
+Baron-Cohen, S. (2019, April 30). The concept of 
+neurodiversity is dividing the autism commu-
+nity. Scientific American. https:  //blogs.scien-
+tificamerican.com/observations/the-con-
+cept-of-neurodiversity-is-dividing-the-au-
+tism-community/
+Bertilsdotter Rosqvist, H., Chown, N., &   Sten-
+ning, A. (Eds.). (2020). Neurodiversity studies:   
+A new critical paradigm. Routledge.
+Botha, M., &   Gillespie-Lynch, K. (2022). Come as 
+you are:   Examining autistic identity develop-
+ment and the neurodiversity movement 
+through an intersectional lens. Human Devel-
+opment, 66(2).
+Buckle K. L. (2020). Autscape. In S. Kapp (Ed.), 
+Autistic community and the neurodiversity 
+movement (pp. 109–22). Palgrave Macmillan.Chapman, R. (2020). Defining neurodiversity for 
+research and practice. In H. Bertilsdotter 
+Rosqvist, N. Chown &   A. Stenning (Eds.), 
+Neurodiversity studies:   A new critical para-
+digm (pp. 218–20). Routledge.
+Chapman, R. (2021, August 18). Negotiating the 
+neurodiversity concept:   Towards epistemic 
+justice in conceptualising health. Psychology 
+Today. https:  //www.psychologytoday.com/
+us/blog/neurodiverse-age/202108/negotiat-
+ing-the-neurodiversity-concept
+Dekker, M. (1999). On our own terms:   Emerging 
+autistic culture. Autism99 Online Conference. 
+http:  //www.autscape.org/2015/programme/
+handouts/Autistic-Culture-07-Oct-1999.pdf
+den Houting, J. (2019). Neurodiversity:   An insid-
+er’s perspective. Autism, 23, 271–273.
+Durbin-Westby, P. C. (2012, April 1).From the 
+pro-neurodiversity trenches. https:  //autisti-
+cadvocacy.org/2012/04/from-the-pro-neuro-
+diversity-trenches/
+Dwyer, P. (2022). The neurodiversity approach(es):   
+What are they and what do they mean for re -
+searchers? Human Development, 66(2).
+Ernst &   Young (n.d.). Neurodiversity-powered 
+transformation. https:  //www.ey.com/en_us/
+innovation/neurodiversity-powered-trans-
+formation
+Fein, D, Barton, M, Eigsti, IM, Kelley, E, Naigles, 
+L, Schultz, RT, Stevens M, Helt M, Orinstein 
+A, Rosenthal M, Troyb E, &   Tyson K. (2013). 
+Optimal outcome in individuals with a his-
+tory of autism. Journal of Child Psychology 
+and Psychiatry, 54, 195–205.
+Gillespie-Lynch, K., Dwyer, P., Constantino, C., 
+Kapp, S. K., Hotez, E., Riccio, A., DeNigris, D., 
+Kofner, B., &   Endlich, E. (2020). Can we 
+broaden the neurodiversity movement with-
+out weakening it? Participatory approaches as 
+a framework for cross-disability alliance 
+building. In A. C. Carey, J. M. Ostrove &   T. 
+Fannon (Eds.), Disability alliances and allies:   
+Opportunities and challenges. Emerald.Graby, S. (2015). Neurodiversity:   Bridging the gap 
+between the disabled people’s movement and 
+the mental health system survivors’ move -
+ment. In J. Anderson, B. Sapey &   H. Spandler 
+(Eds.), Madness, distress and the politics of dis -
+ablement (pp. 231–244). Policy Press.
+Grandin, T., &   Scariano, M. M. (1986). Emer-
+gence:   Labeled autistic. Arena Press.
+Hart, A. (2020). A new alliance? The hearing voic-
+es movement and neurodiversity. In H. Ber-
+tilsdotter Rosqvist, N. Chown &   A. Stenning 
+(Eds.), Neurodiversity studies:   A new critical 
+paradigm (pp. 221–225). Routledge.
+Heilker, P., &   Yergeau, M. (2011). Autism and 
+rhetoric. College English, 73, 485–497.
+Jiujias, M., Kelley, E., &   Hall, L. (2017). Restricted, 
+repetitive behaviors in autism spectrum dis-
+order and obsessive-compulsive disorder:   A 
+comparative review. Child Psychiatry &   Hu-
+man Development, 48, 944–959.
+Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., 
+&   Hutman, T. (2013). Deficit, difference, or 
+both? Autism and neurodiversity. Develop-
+mental Psychology, 49, 59–71.
+Kapp, S. K., &   Ne’eman, A. (2020). Lobbying Au-
+tism’s Diagnostic Revision in the DSM-5. In 
+S. Kapp (Ed.), Autistic community and the 
+neurodiversity movement (pp. 167–94). Pal-
+grave Macmillan.
+King, B. H. (2019). Fluoxetine and repetitive be-
+haviors in children and adolescents with au-
+tism spectrum disorder. Journal of the Ameri-
+can Medical Association, 322(16), 1557–1558.
+Kras, J. F. (2010). The “ransom notes” affair:   
+When the neurodiversity movement came of 
+age. Disability Studies Quarterly, 30. https:  //
+dsq-sds.org/article/%C2%A0view/1065/1254
+Leadbitter, K., Buckle, K. L., Ellis, C., &   Dekker, 
+M. (2021). Autistic self-advocacy and the neu-
+rodiversity movement:   Implications for au-
+tism early intervention research and practice. 
+Frontiers in Psychology, 12, 635690.Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+Ne’eman/Pellicano 《人类发展》2022；66：149–157156
+DOI：10.1159/000524277致谢
+作者感谢MarcStears和AmandaVivian就本文评论中所提观
+点进行的讨论。
+伦理声明
+本文稿的撰写无需伦理批准，因其未使用任何人类或动物受试
+者。
+利益冲突声明
+作者没有已知的利益冲突。资金来源
+E.P.获得了澳大利亚研究委员会未来研究员基金（
+FT190100077）的支持。本文观点仅代表作者个人，不一定
+代表其所属机构或资助方的观点。A.N.获得了美国国立卫生
+研究院下属国家心理健康研究所的资助，资助编号为
+T32MH019733。文章内容仅由作者负责，不一定代表美国
+国立卫生研究院的官方观点。
+作者贡献
+A.N.与E.P.讨论了本文提出的观点；A.N.撰写了稿件
+初稿；E.P.审阅并编辑了稿件；两位作者均在提交前批准了
+稿件的最终版本。
+参考
+Asasumasu, K. (2016). PSA from the actual coiner 
+of “neurodivergent”. Tumblr.https:  //sherlocks-
+flataffect.tumblr.com/post/121295972384/psa-
+from-the-actual-coiner-of-neurodivergent
+Asch, A., &   Barlevy, D. (2012). Disability and ge-
+netics:   A disability critique of pre-natal testing 
+and pre-implantation genetic diagnosis (PGD). 
+eLS.
+Autistic Self Advocacy Network. (2013, January 
+23). ASAN statement on Fein study on autism 
+and “recovery”. https:  //autisticadvocacy.
+org/2013/01/asan-statement-on-fein-study-
+on-autism-and-recovery/#_edn1
+Autistic Self Advocacy Network. (2021, Decem-
+ber 9). Functioning labels harm autistic people. 
+https:  //autisticadvocacy.org/2021/12/func-
+tioning-labels-harm-autistic-people/
+Bailin, A. (2019, June 6).Clearing up some miscon-
+ceptions about neurodiversity. Scientific 
+American. https:  //blogs.scientificamerican.
+com/observations/clearing-up-some-mis-
+conceptions-about-neurodiversity/
+Baron-Cohen, S. (2019, April 30). The concept of 
+neurodiversity is dividing the autism commu-
+nity. Scientific American. https:  //blogs.scien-
+tificamerican.com/observations/the-con-
+cept-of-neurodiversity-is-dividing-the-au-
+tism-community/
+Bertilsdotter Rosqvist, H., Chown, N., &   Sten-
+ning, A. (Eds.). (2020). Neurodiversity studies:   
+A new critical paradigm. Routledge.
+Botha, M., &   Gillespie-Lynch, K. (2022). Come as 
+you are:   Examining autistic identity develop-
+ment and the neurodiversity movement 
+through an intersectional lens. Human Devel-
+opment, 66(2).
+Buckle K. L. (2020). Autscape. In S. Kapp (Ed.), 
+Autistic community and the neurodiversity 
+movement (pp. 109–22). Palgrave Macmillan.Chapman, R. (2020). Defining neurodiversity for 
+research and practice. In H. Bertilsdotter 
+Rosqvist, N. Chown &   A. Stenning (Eds.), 
+Neurodiversity studies:   A new critical para-
+digm (pp. 218–20). Routledge.
+Chapman, R. (2021, August 18). Negotiating the 
+neurodiversity concept:   Towards epistemic 
+justice in conceptualising health. Psychology 
+Today. https:  //www.psychologytoday.com/
+us/blog/neurodiverse-age/202108/negotiat-
+ing-the-neurodiversity-concept
+Dekker, M. (1999). On our own terms:   Emerging 
+autistic culture. Autism99 Online Conference. 
+http:  //www.autscape.org/2015/programme/
+handouts/Autistic-Culture-07-Oct-1999.pdf
+den Houting, J. (2019). Neurodiversity:   An insid-
+er’s perspective. Autism, 23, 271–273.
+Durbin-Westby, P. C. (2012, April 1).From the 
+pro-neurodiversity trenches. https:  //autisti-
+cadvocacy.org/2012/04/from-the-pro-neuro-
+diversity-trenches/
+Dwyer, P. (2022). The neurodiversity approach(es):   
+What are they and what do they mean for re-
+searchers? Human Development, 66(2).
+Ernst &   Young (n.d.). Neurodiversity-powered 
+transformation. https:  //www.ey.com/en_us/
+innovation/neurodiversity-powered-trans-
+formation
+Fein, D, Barton, M, Eigsti, IM, Kelley, E, Naigles, 
+L, Schultz, RT, Stevens M, Helt M, Orinstein 
+A, Rosenthal M, Troyb E, &   Tyson K. (2013). 
+Optimal outcome in individuals with a his-
+tory of autism. Journal of Child Psychology 
+and Psychiatry, 54, 195–205.
+Gillespie-Lynch, K., Dwyer, P., Constantino, C., 
+Kapp, S. K., Hotez, E., Riccio, A., DeNigris, D., 
+Kofner, B., &   Endlich, E. (2020). Can we 
+broaden the neurodiversity movement with-
+out weakening it? Participatory approaches as 
+a framework for cross-disability alliance 
+building. In A. C. Carey, J. M. Ostrove &   T. 
+Fannon (Eds.), Disability alliances and allies:   
+Opportunities and challenges. Emerald.Graby, S. (2015). Neurodiversity:   Bridging the gap 
+between the disabled people’s movement and 
+the mental health system survivors’ move-
+ment. In J. Anderson, B. Sapey &   H. Spandler 
+(Eds.), Madness, distress and the politics of dis-
+ablement (pp. 231–244). Policy Press.
+Grandin, T., &   Scariano, M. M. (1986). Emer-
+gence:   Labeled autistic. Arena Press.
+Hart, A. (2020). A new alliance? The hearing voic-
+es movement and neurodiversity. In H. Ber-
+tilsdotter Rosqvist, N. Chown &   A. Stenning 
+(Eds.), Neurodiversity studies:   A new critical 
+paradigm (pp. 221–225). Routledge.
+Heilker, P., &   Yergeau, M. (2011). Autism and 
+rhetoric. College English, 73, 485–497.
+Jiujias, M., Kelley, E., &   Hall, L. (2017). Restricted, 
+repetitive behaviors in autism spectrum dis-
+order and obsessive-compulsive disorder:   A 
+comparative review. Child Psychiatry &   Hu-
+man Development, 48, 944–959.
+Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., 
+&   Hutman, T. (2013). Deficit, difference, or 
+both? Autism and neurodiversity. Develop-
+mental Psychology, 49, 59–71.
+Kapp, S. K., &   Ne’eman, A. (2020). Lobbying Au-
+tism’s Diagnostic Revision in the DSM-5. In 
+S. Kapp (Ed.), Autistic community and the 
+neurodiversity movement (pp. 167–94). Pal-
+grave Macmillan.
+King, B. H. (2019). Fluoxetine and repetitive be-
+haviors in children and adolescents with au-
+tism spectrum disorder. Journal of the Ameri-
+can Medical Association, 322(16), 1557–1558.
+Kras, J. F. (2010). The “ransom notes” affair:   
+When the neurodiversity movement came of 
+age. Disability Studies Quarterly, 30. https:  //
+dsq-sds.org/article/%C2%A0view/1065/1254
+Leadbitter, K., Buckle, K. L., Ellis, C., &   Dekker, 
+M. (2021). Autistic self-advocacy and the neu-
+rodiversity movement:   Implications for au-
+tism early intervention research and practice. 
+Frontiers in Psychology, 12, 635690.
+--- Page 9 ---
+Neurodiversity as Politics157
+Human Development 2022;66:149–157
+DOI: 10.1159/000524277Microsoft (n.d.). Microsoft neurodiversity hiring 
+program &   FAQ. https:  //www.microsoft.
+com/en-us/diversity/inside-microsoft/cross-
+disability/neurodiversityhiring
+Morrison, L. J. (2013). Talking back to psychiatry:   
+The psychiatric consumer/survivor/ex-patient 
+movement. Routledge.
+National Council on Severe Autism (2021). Calls 
+for categorical recognition of severe autism in 
+the DSM. https:  //www.ncsautism.org/blog//
+dsmrevision
+Ne’eman, A. (2021). When disability is defined by 
+behavior, outcome measures should not pro-
+mote ‘passing’. AMA Journal of Ethics, 23, 
+E569–E575.
+Ne’eman, A., Albrecht, K., &   Kapp, S. K. (2020). 
+Obsessive-compulsive behaviors in autism. 
+Journal of the American Medical Association, 
+323, 790.
+Ne’eman, A., &   Bascom, J. (2020). Autistic self-
+advocacy in the developmental disability 
+movement. The American Journal of Bioeth-
+ics, 20, 25–27.
+Padawar, R. (2014). The kids who beat autism. The 
+New York Times. https:  //www.nytimes.
+com/2014/08/03/magazine/the-kids-who-
+beat-autism.htmlPellicano, E., &   den Houting, J. (2022). Annual 
+research review:   Shifting from “normal sci-
+ence” to neurodiversity in autism science. 
+Journal of Child Psychology and Psychiatry, 
+63(4), 381–396.
+Pripas-Kapit, S. (2020). Historicizing Jim Sin-
+clair’s “don’t mourn for us”:   A cultural and 
+intellectual history of neurodiversity’s first 
+manifesto. In S. K. Kapp (Ed.), Autistic com-
+munity and the neurodiversity movement:   Sto-
+ries from the frontline (pp. 23–39). Palgrave 
+Macmillan.
+Radulski, B. M. (2022). Conceptualising autistic 
+masking, camouflaging, and neurotypical 
+privilege:   Towards a minority group model of 
+neurodiversity. Human Development, 66(2).
+Robertson, S. M. (2010). Neurodiversity, quality 
+of life, and autistic adults:   Shifting research 
+and professional focuses onto real-life chal-
+lenges. Disability Studies Quarterly, 30. http:  //
+dsq-sds.org/article/view/1069/1234
+Rosa, S. (2021, December 8). Creating a ‘profound 
+autism’ category is segregation, not progress. 
+Thinking person’s guide to autism. http:  //
+www.thinkingautismguide.com/2021/12/
+creating-profound-autism-category-is.html
+Rottier, H., &   Gernsbacher, M. A. (2020). Autistic 
+adult and non-autistic parent advocates:   
+Bridging the divide. In A. Carey, J. Ostrove &   
+T. Fannon (Eds.), Disability alliances and al-
+lies (pp. 155–66). Emerald.Sinclair, J. (1993). Don’t mourn for us.http:  //
+www.autreat.com/dont_mourn.html
+Sinclair, J. (2005, January). Autism network inter-
+national:   The development of a community 
+and its culture. http:  //www.autreat.com/His-
+tory_of_ANI.html
+Sinclair, J. (2010). Cultural commentary:   Being 
+autistic together. Disability Studies Quarterly. 
+30. https:  //dsq-sds.org/article/view/1075/1248
+Solvang, P. K., &   Haualand, H. (2014). Accessibil-
+ity and diversity:   Deaf space in action. Scan-
+dinavian Journal of Disability Research, 16(1), 
+1–13.
+Thomas, T. (2021, April 2). Pilot increases neuro-
+diversity in government. Performance.gov.
+https:  //www.performance.gov/blog/mitre-
+neurodiversity-pilot/
+Walker, N. (2014). Neurodiversity:   Some basic 
+terms &   definitions. https:  //neuroqueer.com/
+neurodiversity-terms-and-definitions/
+Zajic, M. C., &   Brown, H. M. (2022). Measuring 
+autistic writing skills:   Combining perspec-
+tives from neurodiversity advocates, autism 
+researchers, and writing theories. Human De-
+velopment, 66(2).Downloaded from http://karger.com/hde/article-pdf/66/2/149/3750903/000524277.pdf by guest on 08 January 2026
+神经多样性作为政治议题157
+《人类发展》2022;66:149–157DOI:
+10.1159/000524277Microsoft (n.d.). Microsoft neurodiversity hiring 
+program &   FAQ. https:  //www.microsoft.
+com/en-us/diversity/inside-microsoft/cross-
+disability/neurodiversityhiring
+Morrison, L. J. (2013). Talking back to psychiatry:   
+The psychiatric consumer/survivor/ex-patient 
+movement. Routledge.
+National Council on Severe Autism (2021). Calls 
+for categorical recognition of severe autism in 
+the DSM. https:  //www.ncsautism.org/blog//
+dsmrevision
+Ne’eman, A. (2021). When disability is defined by 
+behavior, outcome measures should not pro-
+mote ‘passing’. AMA Journal of Ethics, 23, 
+E569–E575.
+Ne’eman, A., Albrecht, K., &   Kapp, S. K. (2020). 
+Obsessive-compulsive behaviors in autism. 
+Journal of the American Medical Association, 
+323, 790.
+Ne’eman, A., &   Bascom, J. (2020). Autistic self-
+advocacy in the developmental disability 
+movement. The American Journal of Bioeth-
+ics, 20, 25–27.
+Padawar, R. (2014). The kids who beat autism. The 
+New York Times. https:  //www.nytimes.
+com/2014/08/03/magazine/the-kids-who-
+beat-autism.htmlPellicano, E., &   den Houting, J. (2022). Annual 
+research review:   Shifting from “normal sci-
+ence” to neurodiversity in autism science. 
+Journal of Child Psychology and Psychiatry, 
+63(4), 381–396.
+Pripas-Kapit, S. (2020). Historicizing Jim Sin-
+clair’s “don’t mourn for us”:   A cultural and 
+intellectual history of neurodiversity’s first 
+manifesto. In S. K. Kapp (Ed.), Autistic com-
+munity and the neurodiversity movement:   Sto-
+ries from the frontline (pp. 23–39). Palgrave 
+Macmillan.
+Radulski, B. M. (2022). Conceptualising autistic 
+masking, camouflaging, and neurotypical 
+privilege:   Towards a minority group model of 
+neurodiversity. Human Development, 66(2).
+Robertson, S. M. (2010). Neurodiversity, quality 
+of life, and autistic adults:   Shifting research 
+and professional focuses onto real-life chal-
+lenges. Disability Studies Quarterly, 30. http:  //
+dsq-sds.org/article/view/1069/1234
+Rosa, S. (2021, December 8). Creating a ‘profound 
+autism’ category is segregation, not progress. 
+Thinking person’s guide to autism. http:  //
+www.thinkingautismguide.com/2021/12/
+creating-profound-autism-category-is.html
+Rottier, H., &   Gernsbacher, M. A. (2020). Autistic 
+adult and non-autistic parent advocates:   
+Bridging the divide. In A. Carey, J. Ostrove &   
+T. Fannon (Eds.), Disability alliances and al-
+lies (pp. 155–66). Emerald.Sinclair, J. (1993). Don’t mourn for us.http:  //
+www.autreat.com/dont_mourn.html
+Sinclair, J. (2005, January). Autism network inter-
+national:   The development of a community 
+and its culture. http:  //www.autreat.com/His-
+tory_of_ANI.html
+Sinclair, J. (2010). Cultural commentary:   Being 
+autistic together. Disability Studies Quarterly. 
+30. https:  //dsq-sds.org/article/view/1075/1248
+Solvang, P. K., &   Haualand, H. (2014). Accessibil-
+ity and diversity:   Deaf space in action. Scan-
+dinavian Journal of Disability Research, 16(1), 
+1–13.
+Thomas, T. (2021, April 2). Pilot increases neuro-
+diversity in government. Performance.gov.
+https:  //www.performance.gov/blog/mitre-
+neurodiversity-pilot/
+Walker, N. (2014). Neurodiversity:   Some basic 
+terms &   definitions. https:  //neuroqueer.com/
+neurodiversity-terms-and-definitions/
+Zajic, M. C., &   Brown, H. M. (2022). Measuring 
+autistic writing skills:   Combining perspec-
+tives from neurodiversity advocates, autism 
+researchers, and writing theories. Human De-
+velopment, 66(2).

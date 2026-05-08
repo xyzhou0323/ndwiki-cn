@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/xyzhou0323/ndwiki-cn.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
