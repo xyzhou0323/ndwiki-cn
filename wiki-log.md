@@ -12,6 +12,8 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-08] rename | works/ — 19 个作品页去掉中文名称，仅保留 AuthorYear（如 Dwyer2022-神经多样性方法 → Dwyer2022）
 
+## [2026-05-08] update | 全站 wikilink — 为 156 处作品引用添加可读显示文本（如 [[Dwyer2022\|Dwyer (2022)]]），修复 & 转义导致的链接损坏
+
 ## [2026-05-07] ingest | 三种来源首次摄取
 
 ### 来源
