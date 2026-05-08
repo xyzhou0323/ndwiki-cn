@@ -6,6 +6,12 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-08] update | 庸俗版神经多样性 — 更正术语起源为 Shain M. Neumeier (2018-02-09 Rewire News Group)，新建 [[Shain M. Neumeier]] 作者页；Chapman 定位为系统发展者
 
+## [2026-05-08] update | Botha-et-al-2024 — 更正"中文版"描述："神经多样性"的诞生并非译文而是 XyZ 基于 Botha et al. 2024 撰写的中文科普文章，补充原文链接
+
+## [2026-05-08] update | 神经多样性范式 — 基于 Dwyer (2022) 大幅扩展：三层含义区分、互动主义/生态模型、干预伦理边界、用语价值敏感性、适用范围争议
+
+## [2026-05-08] rename | works/ — 19 个作品页统一命名为 AuthorYear 格式（如 Dwyer-2022 → Dwyer2022，Botha-et-al-2024 → BothaEtAl2024），同步更新全部 wikilink 与 alias
+
 ## [2026-05-07] ingest | 三种来源首次摄取
 
 ### 来源
