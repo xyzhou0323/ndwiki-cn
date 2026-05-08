@@ -14,6 +14,8 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-08] update | BothaEtAl2024 — 为已有关联词条添加 wikilink：[[Silberman2015]]、[[Harvey-Blume]]、[[Jim-Sinclair]]、[[Sinclair1993]]、[[神经殊异]]；修复 4 处旧式断裂链接、修正"Singerman"笔误
 
+## [2026-05-08] create | Srinivasan2025 + Hari-Srinivasan 作者页 — 基于新来源 Srinivasan (2025) "Neurodiversity 2.0"：跨学科整合框架，拒绝三组虚假二元，主动系统设计；更新 5 个关联页面
+
 ## [2026-05-07] ingest | 三种来源首次摄取
 
 ### 来源
@@ -604,3 +606,4 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 - `works/Dwyer-2025-社区看法` — 作者行 wikilink 化（Patrick Dwyer + Steven Kapp），Related 新增 Patrick Dwyer 链接
 - `00-知识地图` — 五、关键人物新增 #6 Patrick Dwyer，总数 52→53
 [2026-05-08] update | 庸俗版神经多样性 — 更正术语起源（Chapman 独创于 Critical Neurodiversity 博客 2015-2023），补充术语起源章节，细化第一波/第二波框架的出处（2025-05-03 博客文章）
+[2026-05-08] ingest | 来源: May - 2025 - Neurodiversity with Nuance.pdf — 新建 `works/May2025.md`（人格特质模型、认知连续性、批判生物多样性与少数群体类比），新建 `authors/Joshua-May.md`，更新 `01-基础/神经多样性范式.md`、`02-批判/去病理化.md`、`02-批判/残障模型.md` 添加 May2025 引用
