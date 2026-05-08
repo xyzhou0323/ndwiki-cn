@@ -11,7 +11,7 @@ updated: 2026-05-08
 
 # Dwyer 等 (2025) 社区对神经多样性、残障模式与孤独症干预的看法
 
-**作者**：[[Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[Steven-Kapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同资深作者）
+**作者**：[[Patrick-Dwyer|Patrick Dwyer]] (UC Davis / La Trobe), Ava N Gurba*, [[Steven-Kapp|Steven K Kapp]]*, Elizabeth Kilgallon*, Lynnette H Hersh, David S Chang, Susan M Rivera†, Kristen Gillespie-Lynch†（*共同第二作者，†共同资深作者）
 **期刊**：*Autism*，第 29 卷，第 9 期，第 2297–2314 页
 **特刊**：The Social Model in Autism Research（孤独谱系研究中的社会模式）
 **DOI**：[10.1177/13623613241273029](https://doi.org/10.1177/13623613241273029)
@@ -164,7 +164,7 @@ NDM 支持与以下立场相关：
 
 ## Related
 
-- [[Patrick Dwyer]] — 第一作者
+- [[Patrick-Dwyer|Patrick Dwyer]] — 第一作者
 - [[Dwyer-2022-神经多样性方法]] — 本文的理论前身，提出了被本文实证检验的互动主义框架
 - [[残障的社会模式]] — 本文的核心考察对象：强 SM vs 弱 SM 在社群中的实际分布
 - [[残障模型]] — 本文的五维度干预态度量表为残障模型讨论提供了实证基础

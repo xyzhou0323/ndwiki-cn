@@ -2,6 +2,10 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-08] create | 10个缺失页面 — 作者页 (Harvey-Blume, Ari-Ne'eman, Sharon-daVanport, Lydia-XZ-Brown, Laura-Tisoncik, Kristen-Gillespie-Lynch, Susan-M-Rivera, Dinah-Murray) + 概念页 (03-历史/神经多样性运动史); 修复4个断链 (Patrick Dwyer, Shain M. Neumeier, 双重同理心问题, 神经多样性运动史)
+
+## [2026-05-08] update | 庸俗版神经多样性 — 更正术语起源为 Shain M. Neumeier (2018-02-09 Rewire News Group)，新建 [[Shain M. Neumeier]] 作者页；Chapman 定位为系统发展者
+
 ## [2026-05-07] ingest | 三种来源首次摄取
 
 ### 来源
@@ -591,3 +595,4 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 - `works/Dwyer-2022-神经多样性方法` — 作者行添加 wikilink，Related 新增 Patrick Dwyer 链接
 - `works/Dwyer-2025-社区看法` — 作者行 wikilink 化（Patrick Dwyer + Steven Kapp），Related 新增 Patrick Dwyer 链接
 - `00-知识地图` — 五、关键人物新增 #6 Patrick Dwyer，总数 52→53
+[2026-05-08] update | 庸俗版神经多样性 — 更正术语起源（Chapman 独创于 Critical Neurodiversity 博客 2015-2023），补充术语起源章节，细化第一波/第二波框架的出处（2025-05-03 博客文章）
