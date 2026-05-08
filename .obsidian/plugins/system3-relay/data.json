@@ -49,5 +49,11 @@
   "debugging": false,
   "login": {
     "provider": "microsoft"
-  }
+  },
+  "enableSyncMenu": true,
+  "enableAttachmentSync": true,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
+  "enableGitHubLogin": true,
+  "enableOIDCLogin": true
 }
