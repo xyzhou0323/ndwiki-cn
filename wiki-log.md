@@ -10,7 +10,7 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-08] update | 神经多样性范式 — 基于 Dwyer (2022) 大幅扩展：三层含义区分、互动主义/生态模型、干预伦理边界、用语价值敏感性、适用范围争议
 
-## [2026-05-08] rename | works/ — 19 个作品页统一命名为 AuthorYear 格式（如 Dwyer-2022 → Dwyer2022，Botha-et-al-2024 → BothaEtAl2024），同步更新全部 wikilink 与 alias
+## [2026-05-08] rename | works/ — 19 个作品页去掉中文名称，仅保留 AuthorYear（如 Dwyer2022-神经多样性方法 → Dwyer2022）
 
 ## [2026-05-07] ingest | 三种来源首次摄取
 
