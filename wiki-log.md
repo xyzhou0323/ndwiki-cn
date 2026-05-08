@@ -12,7 +12,7 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-08] rename | works/ — 19 个作品页去掉中文名称，仅保留 AuthorYear（如 Dwyer2022-神经多样性方法 → Dwyer2022）
 
-## [2026-05-08] update | 全站 wikilink — 为 156 处作品引用添加可读显示文本（如 [[Dwyer2022\|Dwyer (2022)]]），修复 & 转义导致的链接损坏
+## [2026-05-08] update | BothaEtAl2024 — 为已有关联词条添加 wikilink：[[Silberman2015]]、[[Harvey-Blume]]、[[Jim-Sinclair]]、[[Sinclair1993]]、[[神经殊异]]；修复 4 处旧式断裂链接、修正"Singerman"笔误
 
 ## [2026-05-07] ingest | 三种来源首次摄取
 
