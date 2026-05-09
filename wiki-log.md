@@ -2,6 +2,12 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-09] fix | 知识地图坏链修复 — 19 个核心著作条目从旧式连字符中文命名（如 `[[Chapman-Fletcher-Watson-2025-神经多样性简论]]`）更新为 CamelCase|Display 格式（如 `[[ChapmanFletcherWatson2025\|Chapman & Fletcher-Watson (2025)]]`）；旧文件名在重命名为 CamelCase 时未保留为 alias 导致全数断裂，现已全部修复
+
+## [2026-05-09] ingest | 来源: Ne'eman (2021) — 新建 `wiki/works/Neeman2021.md`（行为定义残障时结果测量的伦理批判：扮装的伤害证据包括自杀风险标志与 Autistic Passing Project 证词、举证责任反转——默认避免扮装例外仅在防害且最轻负担时、内在伤害标准区分自伤等本质有害行为与缺乏眼神接触/自我刺激/排列物品等仅被污名化的特质、对 CYBOCS-ASD 的具体批判——将手部拍打/画特殊兴趣等非有害行为作为"症状严重性"指标违反不伤害原则、神经多样性作为干预评估的伦理透镜只修正内在有害者、回应 Casanova 等批评者误解；本文的内在伤害标准是 Ne'eman & Pellicano (2022) "以特质为导向的操作化"的伦理基础）；更新 `wiki/authors/Ari-Ne'eman.md`（新增核心贡献大节：内在伤害标准与结果测量批判）、`wiki/04-实践/掩饰与伪装.md`（新增"扮装的伦理批判"大节——扮装=掩饰目标状态的内在伤害+举证责任反转+CYBOCS-ASD 案例+与 Arnold 方法论批判的伦理-方法论互补）、`wiki/02-批判/去病理化.md`（Related 新增 Ne'eman 2021——内在伤害标准将去病理化操作化为临床伦理框架）、`wiki/02-批判/神经多样性与残障.md`（特质导向的操作化节前置 2021 内在伤害标准为伦理基础）、`wiki/01-基础/神经多样性范式.md`（Related 新增——神经多样性作为干预评估透镜）、`wiki/01-基础/残障模型.md`（Related 新增——医学模型通过测量工具将正常化操作化为症状评分）、`wiki/works/NeemanPellicano2022.md`（Related 新增 2021 论文回链）、`wiki/00-知识地图.md`（著作 #29、页数 84→85）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
+
+## [2026-05-09] ingest | 来源: Runswick-Cole (2014) — 新建 `wiki/works/RunswickCole2014.md`（ND 身份政治在 neoliberal 语境下的限度与可能性：两条叙事对比——自闭症-as-障碍 vs 自闭症-as-差异；三个核心局限——身份政治悖论-neoliberal 社会同构性地利用"us vs them"二元、差异的商品化学术/期刊/干预产业、群体 homogenization 风险；替代路径——从 identity politics 到 politics of identity）；新建 `wiki/authors/Katherine-Runswick-Cole.md`（英国残障研究学者，Manchester Metropolitan University）；更新 `wiki/02-批判/新自由主义与精神健康.md`（Related 新增 Runswick-Cole wikilink）、`wiki/02-批判/神经多样性与资本主义.md`（Related 新增）、`wiki/01-基础/神经多样性运动.md`（Related 新增身份政治限度批判）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
+
 ## [2026-05-09] ingest | 来源: Arnold et al. (2026) — 新建 `wiki/works/ArnoldEtAl2026.md`（装扮概念化与方法论问题：389 篇研究批判性综述——4 类概念混乱包括术语-引用-使用-定义不一致、CAT-Q 效度争议包括因子结构跨文化不稳定-伪装维度覆盖面不足-融入与社交焦虑重叠、差异法效度问题、样本推广性危机）；大幅更新 `wiki/04-实践/掩饰与伪装.md`（新增"概念与测量批判"大节：概念混乱-术语不一致-CAT-Q效度争议-差异法问题-样本代表性危机-纠正方向；Related 新增 Arnold et al. wikilink）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
 
 ## [2026-05-09] normalize | 全站 works 页面 title 格式统一 — 29 个作品页的 frontmatter `title` 和正文 `# 标题` 统一为 `Author (Year) - Chinese Title` 格式，替换此前不一致的样式（作者名后置括号、emdash、无作者名等）
@@ -11,6 +17,8 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 ## [2026-05-09] citation | 作品页正文新增引用行 — 全部 29 个作品页的 `# 标题` 下方新增 `引用：` 行，显示完整 APA 格式引用，方便读者直接复制
 
 ## [2026-05-09] citation | 全站作品页新增 APA 引用 — 为全部 29 个作品页 frontmatter 新增 `citation_apa:` 字段，包含 APA 7th 格式的完整引用（期刊文章 21、书籍 4、编辑卷 2、自出版 1、在线文章 3）；引用信息提取自各页面正文内嵌引用及 DOI 元数据
+
+## [2026-05-09] ingest | 来源: Nair et al. (2024) — 新建 `wiki/works/NairEtAl2024.md`（ND 去殖民化批判：两条核心批判——地理维度揭露全球南方认识论的边缘化与知识灭绝、交叉性维度揭露种族化神经殊异者的排斥与 Whiteness 过度代表；DisCrit 连接；三步去殖民化路径；分配性实践作为南方替代框架）；新建 `wiki/02-批判/神经多样性的去殖民化.md`（概念页：ND 作为全球北方白人范式的系统阐述——知识生产的殖民性、被抹杀的知识传统、分配性实践、对黑人女性主义的亏欠与回避、物质暴力、与 DisCrit 的联系）；新建 `wiki/authors/Vishnu-KK-Nair.md`、`wiki/authors/Warda-Farah.md`、`wiki/authors/Mildred-Boveda.md`（三位作者页）；更新 `wiki/04-实践/神经多样性研究.md`（新增去殖民化批判小节和 Related 链接）、`wiki/02-批判/神经多样性与交叉性.md`（Related 新增去殖民化与 Nair et al. wikilink）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
 
 ## [2026-05-09] restructure | 双向同理心问题移入批判 + Rosqvist 命名规范 — [[双向同理心问题]] 从 `wiki/04-实践/` 移至 `wiki/02-批判/`（理论概念非应用）；`RosqvistEtAl2020-神经多样性研究.md` 重命名为 `RosqvistEtAl2020.md`（统一 AuthorYear 命名规范），全站 wikilink 批量更新；更新 `00-知识地图`（批判 9→10、实践 6→5）、`wiki-schema`（02-批判 10→11、04-实践 6→5）
 
@@ -660,3 +668,5 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 ## [2026-05-09] ingest | 来源: Rosqvist, Chown, & Stenning (2020) — 新建 `works/RosqvistEtAl2020-神经多样性研究.md`（首部提出"神经多样性研究"新学术领域的编辑卷：16 章跨 6 大主题——治愈/优生学、福祉、跨神经类型沟通、工作中的 ND、挑战脑限认知、向前迈进；含 Chapman 价值中立模型首次应用于认知残障、Bovell 治愈预防伦理、Huijg 能动性神经规范性批判、Hart HVM-ND 联盟、Chown Wittgenstein 语言游戏分析、Hillary 跨文化沟通类比、Hipólito 等生成主义替代心智理论）；新建 10 个作者页（`Hanna-Bertilsdotter-Rosqvist`、`Nick-Chown`、`Anna-Stenning`、`Virginia-Bovell`、`Dieuwertje-Dyi-Huijg`、`Akiko-Hart`、`Mitzi-Waltz`、`Alyssa-Hillary`、`Alan-Jurgens`、`Ines-Hipolito`）；更新 `Robert-Chapman`（新增 2 个章节）、`残障模型`（Related 新增）、`去病理化`（Related 新增 Bovell 治愈预防伦理）、`00-知识地图.md`（著作 #27、作者 #21-30、页数 71→82）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
 
 ## [2026-05-09] ingest | 来源: Sonuga-Barke & Thapar (2021) — 新建 `works/SonugaBarkeThapar2021.md`（主流临床界对 ND 概念的整合立场：拒绝"激进"ND 但主张纳入环境焦点、优势视角、参与式方法；"无矛盾"整合论——传统治疗与 ND 方法并行互补）、新建 `authors/Edmund-Sonuga-Barke.md`（JCPP 主编，ADHD 发育精神病理学权威）、新建 `authors/Anita-Thapar.md`（卡迪夫大学儿童青少年精神病学教授，ADHD Foundation 董事）；更新 `01-基础/神经多样性范式.md`（Related 新增）、`01-基础/神经多样性.md`（Related 新增）、`00-知识地图.md`（作者 #19-20、著作 #26、页数 68→71）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
+
+## [2026-05-09] ingest | 来源: Chapman (2021) Neurodiversity and the Social Ecology of Mental Functions — 新建 `wiki/works/Chapman2021.md`（心智功能的生态模型：借鉴生态学系统导向功能分析替代 Boorse 生物统计模型和 Wakefield 有害功能障碍分析——功能 = 促进系统持续繁荣与自我延续的倾向、功能障碍 = 阻碍该倾向的关系性冲突；关系性/情境性而非内在性；面向未来而非进化历史；群体层面涌现性功能的承认；孤独谱系案例——个体功能倾向与生态位贡献；实践意涵——干预方式灵活性、无知的倾向性假设；Singer 2020 引证作为文化持久性的结论）；更新 `wiki/authors/Robert-Chapman.md`（新增 Chapman (2021) 主要著作条目与 Related 链接）；更新 5 个页面的交叉引用 wikilink 化（`残障模型`、`神经多样性范式`、`神经多样性与残障`、`Dwyer2022` 共 5 处 `Chapman (2021b)` → `[[Chapman2021|Chapman (2021b)]]`，`神经多样性与残障` Related 新增 Chapman2021）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
