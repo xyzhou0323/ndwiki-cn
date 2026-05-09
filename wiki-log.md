@@ -2,6 +2,22 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-09] ingest | 来源: Pellicano & den Houting (2022) — 新建 `works/PellicanodenHouting2022.md`（库恩范式框架下孤独谱系科学从常规医学到神经多样性的转型论证：三大局限与三项回应）、新建 `authors/Elizabeth-Pellicano.md`（范式转型倡导者、参与式研究推动者）、新建 `authors/Jacquiline-den-Houting.md`（内部人视角方法论）；更新 `00-知识地图`（作者 #10-11、著作 #13、页数 53→56）、`05-诊断与现象/孤独谱系.md`（Related 新增）、`01-基础/神经多样性范式.md`（Related 新增）、`02-批判/去病理化.md`（Related 新增）、`02-批判/残障模型.md`（Related 新增）、`authors/Ari-Ne'eman.md`（新增 Pellicano 合作者链接）、`01-基础/神经多样性运动.md`（den Houting 引用 wikilink 化）、`02-批判/残障的社会模式.md`（den Houting 引用 wikilink 化）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
+
+## [2026-05-09] terminology | 术语修订 — 患病率→发生率、共病→共现/共现状况、disorder→病症（ADHD/ASD 页及关联作品页：Mandy2025、Hughes2021、Kapp2020、神经多样性运动）
+
+## [2026-05-09] update | 神经多样性与资本主义 — 基于 Chapman2026 新增"后自由主义时代的政治转向"大节：运动作为补偿机制的历史定位、自由主义秩序瓦解与极右翼抛弃权利框架、统治阶级反扑三种策略（过度诊断话语/攻击神经殊异性概念/破坏分类合法性）、中间路线不是替代方案、从自由派到激进左翼政治的双重必要性论证
+
+## [2026-05-09] update | Chapman2023 全本摄取 — 基于《正常帝国》全本（14 章），大幅重写 [[Chapman2023]] 工作页：完整历史脉络（希波克拉底→笛卡尔→Quetelet→Galton→Kraepelin→弗洛伊德→Szasz→DSM-III→神经多样性→神经撒切尔主义→神经殊异马克思主义）、核心概念（正常性帝国、神经规范性的双重束缚、神经殊异马克思主义）、全章概要；同步更新 [[Robert-Chapman]] 作者页、[[病理学范式]]（Galton 作为范式奠基人的完整论证）、[[神经多样性与资本主义]]（双重束缚、神经撒切尔主义、神经殊异马克思主义）、[[常态的发明]]（Quetelet/Galton 的历史细节）、[[新自由主义与精神健康]]（情感劳动/认知劳动/感官轰炸的新异化分析）
+
+## [2026-05-09] ingest | ADHD 和 ASD 诊断标准原文 — 基于 sources/papers/ 中 DSM-5-TR + ICD-11（ADHD）和 DSM-IV/DSM-5-TR + ICD-10/ICD-11（ASD）中文诊断标准原文汇编，大幅更新 [[ADHD]] 和 [[孤独谱系]] 页面：补充完整诊断标准、严重程度分级、标注体系、鉴别诊断、流行病学和共病信息；新增 ICD-10 与 DSM-5/ICD-11 诊断体系演变对照表
+
+## [2026-05-09] restructure | 新增诊断与现象分区 — 创建 `wiki/05-诊断与现象/`（孤独谱系、ADHD、述情障碍）；`wiki/05-测试/` 移至 `wiki/06-测试/`；更新 schema、purpose、agent、知识地图的分区和编号
+
+## [2026-05-09] fix | 全站坏链修复 — 修复 6 种旧命名规范链接（Chapman2023-正常帝国等→AuthorYear）；更正 1 处大小写（dwyer2022→Dwyer2022）；修正 2 处目录链接（01-基础/→知识地图）；修复 3 处断锚（神经殊异#术语区分、庸俗版神经多样性#主流收编、#与神经少数的关系）；修复 3 处转义管道符（\|→|）；移除 5 处不存在的页面链接（ISNT、Lai2017、"Don't Mourn for Us"引用、伪装、神经少数→锚点）；测试页面中 11 个不存在概念页面的链接转为纯文本；新建 [[孤独谱系]] 和 [[ADHD]] 最小存根页
+
+## [2026-05-09] config | 测试/理论隔离 — 新增 `wiki/05-测试/` 纳入 schema；创建 `sources/tests/` 用于测试文献独立归档；更新 wiki-purpose、wiki-agent、知识地图，明确测试与理论相对隔离的交叉引用原则
+
 ## [2026-05-08] create | 10个缺失页面 — 作者页 (Harvey-Blume, Ari-Ne'eman, Sharon-daVanport, Lydia-XZ-Brown, Laura-Tisoncik, Kristen-Gillespie-Lynch, Susan-M-Rivera, Dinah-Murray) + 概念页 (03-历史/神经多样性运动史); 修复4个断链 (Patrick Dwyer, Shain M. Neumeier, 双重同理心问题, 神经多样性运动史)
 
 ## [2026-05-08] update | 庸俗版神经多样性 — 更正术语起源为 Shain M. Neumeier (2018-02-09 Rewire News Group)，新建 [[Shain M. Neumeier]] 作者页；Chapman 定位为系统发展者
@@ -610,3 +626,5 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 [2026-05-08] create | 新建 `02-批判/神经多样性与残障.md` — ND-残障核心张力全面分析：社会模式基石与局限、互动主义中间道路、少数群体 vs 人格特质模型、去病理化三层、政治脱节风险、特质导向操作化、ND 2.0 超越虚假二元；更新 `残障模型`、`残障的社会模式`、`神经多样性范式`、`神经多样性运动` 添加反向链接
 [2026-05-08] update | 重写 `01-基础/神经殊异.md` — 系统区分"神经殊异/神经殊异者"（neurodivergent, 个体）与"神经殊异性"（neurodivergence, 状态/条件），新增术语对照表（词性/含义/示例）、重构为"个体的描述"与"状态的分析"两大板块，统一全文术语使用
 [2026-05-08] update | 术语审计：全wiki统一"神经殊异"(adj)/"神经殊异者"(n,人)/"神经殊异性"(n,状态)三分——修正 10 个文件中将"神经殊异"用于状态/条件语义的措辞（→ 神经殊异性），涉及"神经殊异形式""神经殊异特质""神经殊异视为/理解为X""神经殊异状况""神经殊异类比于X""神经殊异的积极面"等模式。受影响：病理学范式、神经多样性、残障模型、残障的社会模式、残障肯定模式、去病理化、神经多样性与残障、神经多样性与学习障碍、May2025、Hughes2021、Walker2014、ChapmanFletcherWatson2025、Patrick-Dwyer
+[2026-05-09] update | 神经多样性与资本主义 — 整合 ChapmanFletcherWatson2025：新增"知识民主化与协同共创"节（诊断分类民主化、协同共创方法论）、"与反精神病学的根本区分"节、增强"神经撒切尔主义"节（庸俗版神经多样性两波浪潮）、新增"职场：科学管理与神经规范性"节（科学管理作为神经规范性执行机制、合理调整局限与通用设计、UBI）、更新"神经殊异马克思主义的核心主张"节（反资本主义立场的直接表述：常态范式是资本主义本身产物、神经殊异者需作为工人在工会和革命行动中组织）；更新 sources 与 Related 链接
+[2026-05-09] update | Srinivasan2025 全景整合 — 5 个词条更新：① 神经多样性范式.md 新增"ND 2.0：拒绝虚假二元，从被动便利到主动系统设计"节（三组虚假二元、政策转向、整合理论资源、三个关键差距）；② 神经多样性与残障.md 扩展 ND 2.0 节（诊断遮蔽详解、可研究孤独谱系者区域、三个差距、主动系统设计）；③ 残障模型.md 新增 ND 2.0 对生物心理社会模型/ICF 的整合、关怀伦理学与关系性自主引入、关系表扩展两行；④ 庸俗版神经多样性.md 连接 Srinivasan 叙事/社会差距至撇脂效应分析；⑤ 去病理化.md 添加"优势 vs 缺陷"虚假二元引用
