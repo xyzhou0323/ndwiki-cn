@@ -2,6 +2,12 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-09] restructure | 双向同理心问题移入批判 + Rosqvist 命名规范 — [[双向同理心问题]] 从 `wiki/04-实践/` 移至 `wiki/02-批判/`（理论概念非应用）；`RosqvistEtAl2020-神经多样性研究.md` 重命名为 `RosqvistEtAl2020.md`（统一 AuthorYear 命名规范），全站 wikilink 批量更新；更新 `00-知识地图`（批判 9→10、实践 6→5）、`wiki-schema`（02-批判 10→11、04-实践 6→5）
+
+## [2026-05-09] restructure | 神经规范性移入批判 — [[神经规范性]] 从 `wiki/01-基础/` 移至 `wiki/02-批判/`，标签 `theory→concept`，增 `critique`；更新 `00-知识地图`（基础精简至 7 项，批判增至 9 项并以神经规范性为首）、`wiki-schema`（01-基础 8→7、02-批判 9→10）
+
+## [2026-05-09] restructure | 残障模型移入基础 — [[残障模型]] 从 `wiki/02-批判/` 移至 `wiki/01-基础/`；更新 `00-知识地图`（从批判移至基础并重新编号）、`wiki-schema`（01-基础 7→8、02-批判 10→9）
+
 ## [2026-05-09] ingest | 来源: den Houting (2019) — 新建 `works/denHouting2019.md`（内部人视角早期学术陈述：三大误解澄清、社会模式应用、"neurodiversity lite"首次学术引入、干预目标分水岭、预设能力原则）；更新 `authors/Jacquiline-den-Houting.md`（添加 sources、wikilink 化著作条目）、`works/PellicanodenHouting2022.md`（Related 新增回链）、`01-基础/神经多样性范式.md`（Related 新增）、`02-批判/去病理化.md`（Related 新增干预目标分水岭引用）、`02-批判/残障的社会模式.md`（wikilink 化 den Houting 引用）、`02-批判/庸俗版神经多样性.md`（术语起源新增 den Houting 首次学术引入）、`00-知识地图.md`（著作 #25、页数 67→68）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
 
 ## [2026-05-09] ingest | 来源: Cheng et al. (2023) — 新建 `works/ChengEtAl2023.md`（ND 运动西方中心性的审视：以埃塞俄比亚、印度、香港为例论证全球研究合作需避免不加批判地移植欧美 ND 框架；与去殖民化议程的四大重叠目标）、新建 `authors/Laura-Crane.md`（UCL CRAE 孤独谱系教育研究者）、新建 `authors/Yulin-Cheng.md`（孤独谱系自倡导者，香港大学研究者）；更新 `01-基础/神经多样性运动.md`（新增"西方中心性与全球适用性"大节：三地区对比表格 + 去殖民化重叠 + Related 新增）、`02-批判/神经多样性与交叉性.md`（Related 新增全球南方 + 白人特权引用）、`00-知识地图.md`（作者 #17-18、著作 #24、页数 64→67）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
