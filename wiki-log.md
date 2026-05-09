@@ -4,6 +4,48 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-10] audit | 交叉引用完整性审计 — 03-历史/、04-实践/、05-诊断与现象/、06-测试/、authors/、works/ 六个文件夹系统性审计，为缺失的 Related 条目补充 body wikilinks
+
+### 03-历史/ (1 页编辑)
+- 神经多样性运动史: +8 (Laura-Tisoncik, Sinclair1993, Ari-Ne'eman, Sharon-daVanport, Robert-Chapman, Steven-Kapp, Patrick-Dwyer, BothaEtAl2024)
+
+### 04-实践/ (3 页编辑)
+- 单一聚焦: +1 (Dinah-Murray)
+- 掩饰与伪装: +4 (孤独谱系, 神经典型, ADHD, 神经殊异)
+- 神经多样性研究: +2 (残障的社会模式, 残障肯定模式)
+
+### 05-诊断与现象/ (3 页编辑)
+- ADHD: +1 (病理学范式)
+- 孤独谱系: +2 (病理学范式, Francesca-Happe)
+- 述情障碍: +4 (ADHD, 神经多样性范式, 病理学范式, HappeFrith2020)
+
+### 06-测试/ (18 页编辑)
+- RAADS-R: +4, CATI: +2, CAT-Q: +4, AQ-EQ-SQ10: +3, ACOS: +2, 8Sen: +4, EDA-8: +1, ITQ-CA: +1, ITQ: +3, MAIA-2: +3, MAIA-Y: +1, NSAC-30: +2, PAQ: +4, PES: +1, 孤独谱系Bingo: +1, RIS: +2, RBQ-2A: +2, RBQ-3: +2
+- 4 页已完整: EDA-QA, GADC, ND-16type, 相关测试
+
+### authors/ (5 页编辑)
+- Patrick-Dwyer: +4 (Kristen-Gillespie-Lynch, Susan-M-Rivera, 残障模型, 双向同理心问题)
+- Jacquiline-den-Houting: +3 (denHouting2019, Steven-Kapp, Sue-Fletcher-Watson)
+- Nick-Walker: +2 (Chapman2023, Judy-Singer)
+- Elizabeth-Pellicano: +1 (Ari-Ne'eman)
+- Laura-Crane: +1 (Jacquiline-den-Houting)
+
+### works/ (8 页编辑)
+- ChapmanFletcherWatson2025: +8 (神经规范性, 神经典型, 去病理化, 残障肯定模式, 新自由主义与精神健康, 阿斯至上主义, Milton2012, Milton2022)
+- BothaEtAl2024: +5 (神经殊异, Sinclair1993, Jim-Sinclair, Harvey-Blume, Silberman2015)
+- RosqvistEtAl2020: +5 (David-Jackson-Perry, Matthew-K-Belmonte, Nicola-Martin, 单一聚焦, 双向同理心问题)
+- Hughes2021: +4 (病理学范式, 庸俗版神经多样性, 去病理化, ChapmanFletcherWatson2025)
+- Dwyer2022: +3 (Robert-Chapman, Chapman2021, Chapman2026)
+- Sinclair1993: +3 (神经多样性范式, 神经殊异, 神经规范性)
+- Dwyer2025: +2 (Steven-Kapp, 双向同理心问题)
+- ChapmanCarel2022: +1 (孤独谱系社群)
+- Mandy2025: +1 (Robert-Chapman)
+- Milton2012: +1 (残障的社会模式)
+- denHouting2019: +1 (Robert-Chapman)
+
+### 跳过 (仅含无对应 wiki 页面的 reference 格式链接)
+- HappeFrith2020, NairEtAl2024, Francesca-Happe, Sarah-Arnaud
+
 ## [2026-05-09] crossref | 神经多样性的马克思主义：ND-lite 交叉引用 — 三处 ND-lite 提及均添加 [[庸俗版神经多样性]] wikilink；庸俗版神经多样性页面 aliases 新增 "ND-lite"
 
 ## [2026-05-09] enrich | 常态范式与神经规范性的概念区分 — 更新 `病理学范式`（新增"常态范式的认识论结构"节：认识论层面概念界定、历史基础与相对自主性——范式一旦形成无需每次调用资本主义历史前提即可运作、相对自主性的政治意涵——解释为何仅改变所有制不足以终结常态范式）；更新 `神经规范性`（新增"与常态范式的区分"节：认识论 vs 政治/社会层面的四维对比表、常态范式→神经规范性的运作机制——应用到神经认知领域→"神经典型=好/非典型=有病"→学校/医疗/职场/司法系统性排斥、ND 运动三阶段回应轨迹——早期文化批判→政治化阶段→历史唯物主义深化）；两页 Related 双向链接更新
@@ -692,3 +734,7 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 ## [2026-05-09] ingest | 来源: Sonuga-Barke & Thapar (2021) — 新建 `works/SonugaBarkeThapar2021.md`（主流临床界对 ND 概念的整合立场：拒绝"激进"ND 但主张纳入环境焦点、优势视角、参与式方法；"无矛盾"整合论——传统治疗与 ND 方法并行互补）、新建 `authors/Edmund-Sonuga-Barke.md`（JCPP 主编，ADHD 发育精神病理学权威）、新建 `authors/Anita-Thapar.md`（卡迪夫大学儿童青少年精神病学教授，ADHD Foundation 董事）；更新 `01-基础/神经多样性范式.md`（Related 新增）、`01-基础/神经多样性.md`（Related 新增）、`00-知识地图.md`（作者 #19-20、著作 #26、页数 68→71）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
 
 ## [2026-05-09] ingest | 来源: Chapman (2021) Neurodiversity and the Social Ecology of Mental Functions — 新建 `wiki/works/Chapman2021.md`（心智功能的生态模型：借鉴生态学系统导向功能分析替代 Boorse 生物统计模型和 Wakefield 有害功能障碍分析——功能 = 促进系统持续繁荣与自我延续的倾向、功能障碍 = 阻碍该倾向的关系性冲突；关系性/情境性而非内在性；面向未来而非进化历史；群体层面涌现性功能的承认；孤独谱系案例——个体功能倾向与生态位贡献；实践意涵——干预方式灵活性、无知的倾向性假设；Singer 2020 引证作为文化持久性的结论）；更新 `wiki/authors/Robert-Chapman.md`（新增 Chapman (2021) 主要著作条目与 Related 链接）；更新 5 个页面的交叉引用 wikilink 化（`残障模型`、`神经多样性范式`、`神经多样性与残障`、`Dwyer2022` 共 5 处 `Chapman (2021b)` → `[[Chapman2021|Chapman (2021b)]]`，`神经多样性与残障` Related 新增 Chapman2021）；源 PDF 归档至 `sources/papers/` 和 `sources/2026-05-09/`
+
+## [2026-05-10] crossref | 03-历史文件夹交叉引用审计 — 神经多样性运动史.md 新增 8 个 Related 条目（Laura-Tisoncik、Sinclair1993、Ari-Ne'eman、Sharon-daVanport、Robert-Chapman、Steven-Kapp、Patrick-Dwyer、BothaEtAl2024）；优生学、常态的发明、反精神病学 3 页已完整无需修改
+
+## [2026-05-10] crossref | 04-实践、05-诊断与现象、06-测试文件夹交叉引用审计 — 04-实践 4页完整/3页补充（单一聚焦+1、掩饰与伪装+4、神经多样性研究+2）；05-诊断与现象 3页全部补充（ADHD+1、孤独谱系+2、述情障碍+4）；06-测试 4页完整/18页补充（ACOS+2、8Sen+4、CAT-Q+4、AQ-EQ-SQ10+3、EDA-8+1、ITQ-CA+1、ITQ+3、MAIA-2+3、MAIA-Y+1、NSAC-30+2、PAQ+4、PES+1、孤独谱系Bingo+1、RIS+2、RBQ-2A+2、RBQ-3+2、RAADS-R+4、CATI+2）；EDA-QA、GADC、ND-16type、相关测试 4页已完整
