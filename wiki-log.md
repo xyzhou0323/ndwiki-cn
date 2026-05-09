@@ -1,6 +1,16 @@
 # Change Log
 
+## [2026-05-09] rename | 神经多样性的马克思主义 → 神经殊异马克思主义 — 页面标题、文件名及所有 wikilink 引用统一更新，旧名保留为 alias
+
 Append-only record of wiki operations. Format: `[date] verb | subject`
+
+## [2026-05-09] crossref | 神经多样性的马克思主义：ND-lite 交叉引用 — 三处 ND-lite 提及均添加 [[庸俗版神经多样性]] wikilink；庸俗版神经多样性页面 aliases 新增 "ND-lite"
+
+## [2026-05-09] enrich | 常态范式与神经规范性的概念区分 — 更新 `病理学范式`（新增"常态范式的认识论结构"节：认识论层面概念界定、历史基础与相对自主性——范式一旦形成无需每次调用资本主义历史前提即可运作、相对自主性的政治意涵——解释为何仅改变所有制不足以终结常态范式）；更新 `神经规范性`（新增"与常态范式的区分"节：认识论 vs 政治/社会层面的四维对比表、常态范式→神经规范性的运作机制——应用到神经认知领域→"神经典型=好/非典型=有病"→学校/医疗/职场/司法系统性排斥、ND 运动三阶段回应轨迹——早期文化批判→政治化阶段→历史唯物主义深化）；两页 Related 双向链接更新
+
+## [2026-05-09] fix | 神经多样性范式：修复坏链与逻辑 — 5 类坏链修复：[[Dwyer-2022-神经多样性方法]]→[[Dwyer2022]] (5处)、[[Walker-2014-神经多样性术语定义]]→[[Walker2014]] (2处)、[[Chapman-Fletcher-Watson-2025-神经多样性简论]]→[[ChapmanFletcherWatson2025]]、[[Institute for the Study of the Neurologically Typical]]→[[Laura-Tisoncik]] (2处)、[[Chapman-2023-正常帝国]]→[[Chapman2023]]；标题"三种取向"→"四种取向"以匹配表格内容
+
+## [2026-05-09] crossref | 神经典型：添加交叉引用 — 开头段落 [[孤独谱系]]（Autism Spectrum）；ISNT 段 [[病理学范式|病理学语言]]（Pathology Paradigm）；实证证据段 [[双向同理心问题]]（Double Empathy Problem）；"相关概念"三条全加 wikilink 与英文术语；去病理化处加 [[去病理化]]（Depathologization）
 
 ## [2026-05-09] fix | 知识地图坏链修复 — 19 个核心著作条目从旧式连字符中文命名（如 `[[Chapman-Fletcher-Watson-2025-神经多样性简论]]`）更新为 CamelCase|Display 格式（如 `[[ChapmanFletcherWatson2025\|Chapman & Fletcher-Watson (2025)]]`）；旧文件名在重命名为 CamelCase 时未保留为 alias 导致全数断裂，现已全部修复
 
