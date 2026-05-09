@@ -2,6 +2,10 @@
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
 
+## [2026-05-09] citation | 作品页正文新增引用行 — 全部 29 个作品页的 `# 标题` 下方新增 `引用：` 行，显示完整 APA 格式引用，方便读者直接复制
+
+## [2026-05-09] citation | 全站作品页新增 APA 引用 — 为全部 29 个作品页 frontmatter 新增 `citation_apa:` 字段，包含 APA 7th 格式的完整引用（期刊文章 21、书籍 4、编辑卷 2、自出版 1、在线文章 3）；引用信息提取自各页面正文内嵌引用及 DOI 元数据
+
 ## [2026-05-09] restructure | 双向同理心问题移入批判 + Rosqvist 命名规范 — [[双向同理心问题]] 从 `wiki/04-实践/` 移至 `wiki/02-批判/`（理论概念非应用）；`RosqvistEtAl2020-神经多样性研究.md` 重命名为 `RosqvistEtAl2020.md`（统一 AuthorYear 命名规范），全站 wikilink 批量更新；更新 `00-知识地图`（批判 9→10、实践 6→5）、`wiki-schema`（02-批判 10→11、04-实践 6→5）
 
 ## [2026-05-09] restructure | 神经规范性移入批判 — [[神经规范性]] 从 `wiki/01-基础/` 移至 `wiki/02-批判/`，标签 `theory→concept`，增 `critique`；更新 `00-知识地图`（基础精简至 7 项，批判增至 9 项并以神经规范性为首）、`wiki-schema`（01-基础 8→7、02-批判 9→10）

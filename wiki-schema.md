@@ -68,6 +68,24 @@ updated: YYYY-MM-DD
 ---
 ```
 
+### 作品页（works/）额外要求
+
+所有 `works/` 目录下的页面必须额外包含：
+
+1. **Frontmatter `citation_apa`** — APA 7th 格式的完整引用：
+
+```yaml
+citation_apa: "Author, A. A. (Year). Title. Journal, Volume(Issue), Pages. https://doi.org/xx"
+```
+
+2. **正文引用行** — 标题下方紧跟 `引用：` 行，方便读者直接复制：
+
+```markdown
+# 标题
+
+引用：Author, A. A. (Year). Title. Journal, Volume(Issue), Pages. https://doi.org/xx
+```
+
 ## 标签体系
 
 标签采用扁平列表格式（Obsidian 兼容），按以下维度组织：
