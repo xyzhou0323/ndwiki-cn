@@ -1,5 +1,33 @@
 # Change Log
 
+## [2026-05-10] fix | 术语统一：神经特性→神经殊异性、自闭症→孤独谱系
+
+- 修复 [[神经特性]] → [[神经殊异性]]（掩饰与伪装.md、ND-16type.md 两处）
+- 批量修复"自闭症"→"孤独谱系"：Katherine-Runswick-Cole、RunswickCole2014、Jim-Sinclair、神经殊异马克思主义、Silberman2015
+- 批量修复"孤独症"→"孤独谱系"（泛指语境）：新自由主义与精神健康、神经多样性与资本主义、神经撒切尔主义、Robert-Chapman、Chapman2023、KappEtAl2012、Dwyer2025
+- 保留正确的"孤独症"：ICD/DSM 诊断标签（孤独谱系.md）、Broderick & Ne'eman 论文的特定话语分析语境（BroderickNeeman2008+ Alicia-Broderick）、医学语言引用（残障肯定模式）
+- 保留正确的"自闭症"：孤独谱系.md 别名和历史诊断标签、神经撒切尔主义中的流行话语引用
+
+## [2026-05-10] fix | 修复 Ari Ne'eman 重复作者页 + 命名不一致
+
+- 合并两个作者页 `Ari-Ne'eman.md`（带撇号）和 `Ari-Neeman.md`（不带撇号）为单一页面
+- 删除重复文件 `Ari-Neeman.md`
+- 修复 4 处 [[Ari-Neeman]] → [[Ari-Ne'eman]] 链接（00-知识地图、Alicia-Broderick、BroderickNeeman2008）
+- 修复 [[authors/Dinah-Murray]] → [[Dinah-Murray]]（路径格式错误）
+- 修复 [[神经规范]] → [[神经规范性]]（笔误）
+- 修复 [[Dwyer-2022-神经多样性方法]] → [[Dwyer2022]]（两个文件中的命名不一致）
+- 修复 [[Annamma et al. 2013]] → [[AnnammaEtAl2013]]（NairEtAl2024 中的不一致命名）
+
+## [2026-05-10] ingest | 入站两篇新文献 PDF + 创建 4 个新 wiki 页面
+
+- 创建 [[KappEtAl2012|Kapp et al. (2012)]] — 缺陷、差异，还是两者兼具？孤独症与神经多样性
+- 创建 [[BroderickNeeman2008|Broderick & Ne'eman (2008)]] — 孤独症作为隐喻：叙事与反叙事
+- 创建 [[Ari-Neeman]] — ASAN 联合创始人作者页
+- 创建 [[Alicia-Broderick]] — 哥伦比亚大学教育学者作者页
+- 更新 [[Steven-Kapp]] — 添加 Kapp et al. 2012 链接
+- 更新 [[00-知识地图]] — 添加两部新著作 + 两位新作者，页数 140→144
+- PDF 移入 sources/2026-05-09/
+
 ## [2026-05-09] rename | 神经多样性的马克思主义 → 神经殊异马克思主义 — 页面标题、文件名及所有 wikilink 引用统一更新，旧名保留为 alias
 
 Append-only record of wiki operations. Format: `[date] verb | subject`
