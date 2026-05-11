@@ -3,7 +3,11 @@
     "allow": [
       "Bash(python3 -c ' *)",
       "Bash(llm-wiki sync *)",
-      "Bash(python -c \"import os; files = [f for f in os.listdir\\('d:/llm-wiki-project/sources'\\) if 'Pellicano' in f or 'eman' in f.lower\\(\\)]; print\\('\\\\n'.join\\(files\\)\\)\")"
+      "Bash(python -c \"import os; files = [f for f in os.listdir\\('d:/llm-wiki-project/sources'\\) if 'Pellicano' in f or 'eman' in f.lower\\(\\)]; print\\('\\\\n'.join\\(files\\)\\)\")",
+      "Bash(which llm-wiki *)",
+      "Bash(type llm-wiki *)",
+      "Bash(ls .claude/skills/)",
+      "Bash(ls .claude/)"
     ]
   }
 }

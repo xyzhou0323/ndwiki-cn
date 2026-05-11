@@ -52,7 +52,7 @@ relatively isolated from core neurodiversity theory:
 
 - **Source separation**: Test-related literature goes into `sources/tests/`, never
   into `sources/papers/` or `sources/books/` (those are for theory)
-- **Wiki linking restraint**: Core theory pages (01-基础, 02-批判, 03-历史, 04-实践,
+- **Wiki linking restraint**: Core theory pages (01-基础, 02-批判分析, 03-历史脉络, 04-体验与实践,
   authors/, works/) should NOT heavily reference test pages. Test pages may
   briefly link to core theory concepts (e.g., [[神经多样性范式]], [[去病理化]])
   as interpretive context, but these should be minimal
