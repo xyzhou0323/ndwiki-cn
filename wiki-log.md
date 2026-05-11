@@ -926,3 +926,4 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 2026-05-11T00:00:00+08:00 | update | wiki/authors/Monique-Botha.md | Added Botha (2021) solo work and knowledge-production critique subsection
 2026-05-11T00:00:00+08:00 | update | wiki/authors/Monique-Botha.md, wiki/authors/Robert-Chapman.md | Renamed 主要著作→本wiki已引用著作 across both author pages; saved memory convention
 2026-05-11T16:06:58+08:00 | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份(Hull 2019)，添加五级评分定性描述体系(Baker 2024)、心理测量学属性、解读注意事项(5点)、MID阈值、临床效用等详细内容
+2026-05-11T00:00:00+08:00 | delete | wiki/06-测试/孤独谱系Bingo.md | 移除孤独谱系Bingo页面，清理相关测试中的引用
