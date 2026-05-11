@@ -1,5 +1,16 @@
 # Change Log
 
+## [2026-05-11] update | RAADS-R 心理测量学特性与临床应用
+
+- 新增"心理测量学特性"章节（单维因素结构、Cronbach's α = 0.97、反应模式分析、原始验证数据）
+- 新增"性别差异"章节（非二元性别群体得分最高，M = 144.79）
+- 新增"临床应用注意事项"章节（筛查、临床信息、讨论促进、条目审查）
+- 扩展维度阈值表：加入各子量表的题目编号
+- 扩展常模参考：补充 Andersen et al. (2011) 瑞典样本详情
+- 扩展总分分级：加入阈值更新背景（Jones, Folatti, Sizoo, Brugha 等研究的批评与修正）
+- 新增参考文献 7 条（Ritvo 2008, Sturm 2024, Jones 2021, Folatti 2024, Sizoo 2015, Brugha 2020, Andersen 2011）
+- Related 中新增 ASRS 交叉引用
+
 ## [2026-05-11] create | ASRS 成人 ADHD 自填筛查量表
 
 - 新建 wiki/06-测试/ASRS.md — 基于 Kessler et al. (2005) 的 ASRS v1.1
@@ -901,4 +912,17 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-11] enrich | 来源: NovoPsych CATI 产品页面（第一轮） — 丰富 `wiki/06-测试/CATI.md`：新增开发背景（神经多样性肯定式设计、孤独谱系人士咨询、团队内孤独谱系研究者）、六维度英文全称、开发优势（感官敏感性+社交掩饰 vs AQ、女性及性别多元群体适用性）、临床注意事项（不可单独用于诊断、共现状况鉴别）；补充文献 English et al. (2024)；更新适用年龄标注为16+、完成时间修订为约7分钟；新增 Related 链接至[[AQ]]、[[掩饰与伪装]]
 
+## [2026-05-11] update | AQ 新增批判章节
+
+- 新增 `wiki/06-测试/AQ.md` "## 批判" 章节，系统梳理四类批评：
+  - 理论基础批评（EMB 性别本质主义、DEP 挑战同理心缺陷前提、掩饰与述情障碍混淆）
+  - 心理测量学局限（Rasch 验证不足、因素结构不稳定、二分计分丧失信息、题目刻板印象）
+  - 性别偏差（男性中心开发、EMB 绑定加重女性诊断不足、遗漏感官/掩饰维度）
+  - 与神经多样性范式的张力（缺陷导向 vs CATI 的神经多样性肯定式设计）
+- 交叉引用 [[deHooge2019]]、[[阿斯至上主义]]、[[双向同理心问题]]、[[述情障碍]]、[[CATI]]、[[KappEtAl2012]]、[[神经多样性范式]] 等
+- 更新 frontmatter updated 字段
+
 ## [2026-05-11] ingest | 来源: Chapman & Botha (2023) Neurodivergence-informed therapy — 新建 `wiki/works/ChapmanBotha2023.md`（神经殊异知情治疗：首次将神经多样性范式形式化适配于心理治疗——功能障碍的关系性重构、神经殊异接纳与骄傲/社群文化、治疗师认识谦逊三条原则；抵制正常化/ABA批判；孤独谱系伪装与自杀/抑郁关联的实证基础；Walker 术语体系回顾；神经类型烦躁概念的临床意涵）；新建 `wiki/authors/Monique-Botha.md`（孤独谱系学者/少数压力模型应用于孤独谱系/神经殊异知情治疗合作者/身份优先语言辩护）；更新 `wiki/authors/Robert-Chapman.md`（新增 Chapman & Botha (2023) 主要著作条目与 Related 链接、新增 Monique Botha 合著者链接、新增源文件）；源 PDF 归档至 `sources/2026-05-11/`
+2026-05-11T00:00:00+08:00 | update | wiki/authors/Monique-Botha.md | Added Botha (2021) solo work and knowledge-production critique subsection
+2026-05-11T00:00:00+08:00 | update | wiki/authors/Monique-Botha.md, wiki/authors/Robert-Chapman.md | Renamed 主要著作→本wiki已引用著作 across both author pages; saved memory convention
+2026-05-11T16:06:58+08:00 | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份(Hull 2019)，添加五级评分定性描述体系(Baker 2024)、心理测量学属性、解读注意事项(5点)、MID阈值、临床效用等详细内容

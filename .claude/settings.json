@@ -7,7 +7,11 @@
       "Bash(which llm-wiki *)",
       "Bash(type llm-wiki *)",
       "Bash(ls .claude/skills/)",
-      "Bash(ls .claude/)"
+      "Bash(ls .claude/)",
+      "Bash(python .llm-wiki/scripts/sync.py)",
+      "Bash(ls .llm-wiki/)",
+      "Bash(date -Iseconds)",
+      "Bash(echo \"$\\(date -Iseconds\\) | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份\\(Hull 2019\\)，添加五级评分定性描述体系\\(Baker 2024\\)、心理测量学属性、解读注意事项\\(5点\\)、MID阈值、临床效用等详细内容\")"
     ]
   }
 }
