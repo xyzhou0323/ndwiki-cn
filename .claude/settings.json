@@ -11,7 +11,15 @@
       "Bash(python .llm-wiki/scripts/sync.py)",
       "Bash(ls .llm-wiki/)",
       "Bash(date -Iseconds)",
-      "Bash(echo \"$\\(date -Iseconds\\) | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份\\(Hull 2019\\)，添加五级评分定性描述体系\\(Baker 2024\\)、心理测量学属性、解读注意事项\\(5点\\)、MID阈值、临床效用等详细内容\")"
+      "Bash(echo \"$\\(date -Iseconds\\) | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份\\(Hull 2019\\)，添加五级评分定性描述体系\\(Baker 2024\\)、心理测量学属性、解读注意事项\\(5点\\)、MID阈值、临床效用等详细内容\")",
+      "Bash(pdftotext -layout \"d:/llm-wiki-project/sources/06.pdf\" -)",
+      "Bash(pdftotext -layout \"d:/llm-wiki-project/sources/Disability Justice  The Challenges of Inclusion in Everyday Life.pdf\" -)",
+      "Bash(llm-wiki graph *)",
+      "Bash(llm-wiki status *)",
+      "Bash(pdftotext \"sources/Kefallinou_Symeonidou_Meijer_2020.pdf\" -)",
+      "Bash(python3 -X utf8)",
+      "Bash(python3 _fix_map.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 _fix_map.py)"
     ]
   }
 }

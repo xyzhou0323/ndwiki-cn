@@ -1,5 +1,79 @@
 # Change Log
 
+## [2026-05-12] ingest | Carmel, Chapman & Wright (2026) — 残障正义：日常生活中的包容挑战
+
+- 源文件：Disability Justice  The Challenges of Inclusion in Everyday Life.pdf（*International Journal of Disability, Development and Education*, 73(4), 621-634）
+- 创建 [[CarmelChapmanWright2026|Carmel, Chapman & Wright (2026)]] 作品页（wiki/works/CarmelChapmanWright2026.md）
+- 创建作者页：[[Julie-Mary-Carmel]]、[[Sian-Chapman]]、[[Peter-Wright]]
+- 核心贡献：自传式民族志——以使用轮椅儿童 Taylor 的八个生活片段揭示残障正义/不正义的日常形态（第三方发言、他者化、规划性排除、通用设计的成功与失败）
+- 更新 [[CarmelChapmanWright2026]] Related 添加作者链接；[[融合教育]] 已先期引用本文
+
+## [2026-05-12] ingest | Kefallinou, Symeonidou & Meijer (2020) — 全纳教育文献综述
+
+- 源文件：Kefallinou, Symeonidou & Meijer (2020) "Understanding the value of inclusive education and its implementation: A review of the literature"（Prospects, UNESCO IBE）
+- 提取文本（pdftotext），创建 [[KefallinouSymeonidouMeijer2020|Kefallinou, Symeonidou & Meijer (2020)]] 作品页（wiki/works/KefallinouSymeonidouMeijer2020.md）
+- 论文贡献：文献综述——梳理全纳教育对学业成就（Oh-Young & Filler 2015 元分析；Hehir et al. 2016）和长期社会融合（挪威纵向研究 Myklebust & Båtevik 2005）的实证证据，以及学校变革-课堂实践-社区参与三层面实施策略
+- 与 ND 的关联：为 ND 框架下全纳教育（从"将残障学习者纳入主流"扩展为"重构教育环境以容纳神经认知多样性"）提供证据基础
+- 源文件从收件箱移至 `sources/papers/` 并复制到 `sources/2026-05-12/`
+
+## [2026-05-12] ingest | SEP 残障定义与模型 哲学百科全书条目
+
+- 源文件：Stanford Encyclopedia of Philosophy — "Disability: Definitions and Models" (2022 substantive revision)
+- 新建 `wiki/02-批判分析/残障的哲学定义.md` — 覆盖四种哲学定义进路（正常功能观、福祉主义、社会建构论、无能力观）及统一定义怀疑论
+- 更新 `wiki/01-基础/残障模型.md` — 以 SEP 的哲学精确性丰富社会模式（UPIAS 两个特征 + 两个内在分支）、肯定模式（改变解释对象而不仅是因果解释）、新增"模型与政策"小节（因果解释不直接等于政策处方）
+- 新建 `wiki/authors/Elizabeth-Barnes.md` — 残障哲学家，*The Minority Body* 作者
+- 新建 `wiki/works/Barnes2016.md` — Barnes (2016) *The Minority Body*
+- 新建 `wiki/authors/Shelley-Tremain.md` — 福柯式残障哲学家
+- 源文件已复制到 `sources/2026-05-12/` 并移至 `sources/articles/`
+
+## [2026-05-12] update | Crip 理论 → 酷残理论 统一更名
+
+- 7 个页面将"Crip 理论"/"crip 理论"/"残废理论"统一更名为"酷残理论"
+- 相关术语同步更新：Crip 未来性 → 酷残未来性、crip 策略 → 酷残策略、Cripping → 酷残化、变形的 crip → 酷残变体
+- 涉及文件：批判残障理论、神经多样性范式、Srinivasan2025、知识地图、阿斯至上主义、Anna-N-de-Hooge、deHooge2019
+- 同时修正了早期误译"残废理论"（贬义色彩不当，应译为"酷残"）
+
+## [2026-05-12] update | 跨页面连接增强
+
+- 6 个页面新增 9 条交叉引用，增强以下关键连接：
+  - **批判残障理论**：从 5 入链 → 在 残障的社会模式、神经规范性、去病理化 的 Related 中添加引用
+  - **神经多样性批判与回应**：从 3 入链 → 在 神经多样性运动、神经多样性范式 的 Related 中添加引用
+  - **常态的发明**：从 8 入链 → 在 病理学范式、神经典型 的 Related 中添加引用
+  - **神经多样性运动史**：从 6 入链 → 在 神经多样性运动 的 Related 中添加引用
+- 修复 RunswickCole2014.md 的 YAML 解析错误（别名中的单引号）
+
+## [2026-05-12] create | Carmel, Chapman & Wright (2026) — 残障正义：日常生活中的包容挑战
+
+- 基于 Carmel, Chapman & Wright (2026) "Disability Justice: The Challenges of Inclusion in Everyday Life" 摄入
+- 新建 [[CarmelChapmanWright2026|Carmel, Chapman & Wright (2026)]] 作品页（wiki/works/CarmelChapmanWright2026.md）
+- 论文贡献：8 个自传式民族志片段，以轮椅使用儿童 Taylor 的日常生活揭示残障正义/不正义
+- 核心概念：残障正义（Piepzna-Samarasinha 2018）、第三方发言（third-party speak）、他者化（othering）、通用设计、局内人/局外人视角
+- 更新 [[批判残障理论]] 页——新增"残障正义：从理论到日常实践"章节及 Related 链接
+- 来源归档至 sources/papers/ 和 sources/2026-05-12/
+
+## [2026-05-12] create | 批判残障理论
+
+- 基于 Stanford Encyclopedia of Philosophy "Critical Disability Theory" 条目摄入
+- 新建 [[批判残障理论]]（wiki/02-批判分析/批判残障理论.md）
+- 覆盖：CDT 方法论定义、法兰克福学派渊源、与传统残障研究的张力
+- 核心概念：能力主义（Campbell）、损伤的去自然化（Tremain）、身心一体（Price）、叙事假体（Snyder & Mitchell）
+- 跨学科路径：Crip 理论（McRuer, Kafer）、DisCrit 七项原则（Annamma 等）、原住民与后殖民
+- 哲学路径：福柯路径、现象学、德勒兹与瓜塔里
+- 行动主义：Thompson, Wong, Brown, Mingus, Tremain
+- 与神经多样性范式的关系表
+- 更新 [[残障模型]] 交叉引用
+- 来源归档至 sources/articles/ 和 sources/2026-05-12/
+
+## [2026-05-12] update | 残障模型扩展至 12 种 + Retief & Letsosa (2018) 摄入
+
+- 基于 Retief & Letsosa (2018) "Models of disability: A brief overview" 系统摄入
+- 新增 5 种模型章节：慈善模型、人权模型、文化模型、经济模型、极限模型
+- 更新比较表格——新增人权模型、文化模型、极限模型与 ND 范式的关系
+- 更新 Related 链接
+- 新建 [[RetiefLetsosa2018|Retief & Letsosa (2018)]] 作品页（wiki/works/RetiefLetsosa2018.md）
+- 更新 frontmatter description 反映 12 种模型
+- PDF 归档至 sources/papers/ 和 sources/2026-05-12/
+
 ## [2026-05-11] update | RAADS-R 心理测量学特性与临床应用
 
 - 新增"心理测量学特性"章节（单维因素结构、Cronbach's α = 0.97、反应模式分析、原始验证数据）
