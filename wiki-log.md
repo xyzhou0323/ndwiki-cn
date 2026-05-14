@@ -1,5 +1,14 @@
 # Change Log
 
+## [2026-05-14] edit | 更新 8Sen 判分逻辑——引入子维度极值条件，调整分级标签
+
+## [2026-05-12] edit | 去情绪化措辞：核心著作/代表作/核心学者 → 参考文献/中性表述
+
+- 涉及 10 个文件，20 处修改
+- 标题：核心著作、代表作品 → 参考文献
+- 内联标签：代表作、核心文献、最具影响力作品 → 移除或中性化
+- 人物标签：核心学者、核心理论家、最核心政治领导者、最重要理论家 → 移除最高级修饰
+
 ## [2026-05-12] ingest | Carmel, Chapman & Wright (2026) — 残障正义：日常生活中的包容挑战
 
 - 源文件：Disability Justice  The Challenges of Inclusion in Everyday Life.pdf（*International Journal of Disability, Development and Education*, 73(4), 621-634）
