@@ -1,10 +1,41 @@
 # Change Log
 
+## [2026-05-17] ingest | Sarr et al. (2024) — 归档收件箱：孤独谱系、依恋障碍、CPTSD与EUPD鉴别诊断Delphi共识
+
+- 收件箱 `sources/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf` → `sources/2026-05-17/`
+- 原始文件移至 `sources/papers/`
+- 创建 [[SarrEtAl2024|Sarr et al. (2024)]] 作品页：首项共制Delphi法鉴别诊断共识（106位专家，275条共识）
+- 创建 [[Rachel-Sarr]] 和 [[Debbie-Spain]] 作者页
+- 更新 [[孤独谱系障碍]] 共现与鉴别章节：新增四种状况区分特征对比表和评估最佳实践
+- 创建 [[孤独谱系鉴别诊断]] 专题页：从 [[孤独谱系障碍]] 中提取鉴别诊断内容独立成页
+- 更新 [[Francesca-Happe]] 添加合著引用
+
+## [2026-05-15] create | CastenEtAl2023 — 归档收件箱：孤独谱系高认知能力与自杀意念
+
+- 收件箱 `sources/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf` → `sources/2026-05-14/`
+- 创建 [[CastenEtAl2023|Casten et al. (2023)]] 作品页：高认知能力在孤独谱系中从保护因素逆转为自杀意念风险因素
+- 在 [[孤独谱系倦怠]] 和 [[掩饰与伪装]] 中添加交叉引用
+- 关键链接：2e 儿童自杀意念率 12.9% vs IQ 匹配对照 2.4%（OR=5.9）；掩饰作为可能中介机制；IQ × ASD 交互翻转认知能力的保护效应
+
+## [2026-05-15] create | RozenkrantzEtAl2021 — 归档收件箱：孤独谱系增强理性系统综述
+
+- 收件箱 `sources/Enhanced rationality in autism spectrum disorder.pdf` → `sources/2026-05-14/`
+- 创建 [[RozenkrantzEtAl2021|Rozenkrantz et al. (2021)]] 作品页：七类认知偏误证据、三种候选机制、社会判断延伸
+- 在 [[孤独谱系障碍]] 和 [[神经多样性]] 中添加交叉引用
+- 关键链接：明确以 ND 框架定位增强理性为认知优势；与 Dempsey et al. (2019) 在道德判断领域平行；将能力匹配就业机会的转化方向
+
+## [2026-05-14] create | YiEtAl2022 — 归档收件箱：社会信息加工的唤起机制综述
+
+- 收件箱 `sources/Child Dev Perspectives - 2022 - Yi - Hypo‑ or hyperarousal  The .pdf` → `sources/2026-05-14/`
+- 创建 [[YiEtAl2022|Yi et al. (2022)]] 作品页：低唤起（社会动机理论、社会脑理论）vs 高唤起（视线回避、共情失衡、强烈世界理论）——主张二者共存
+- 在 [[PDA]] 和 [[孤独谱系障碍]] 中添加交叉引用
+- 关键链接：高唤起假说直接解释 PDA 的焦虑驱动回避；当前基于低唤起假说的支持策略可能对高唤起个体适得其反；引用双向同理心问题为替代框架
+
 ## [2026-05-14] create | DempseyEtAl2019 — 归档收件箱：孤独谱系道德判断系统综述
 
 - 收件箱 `sources/Morality in autism spectrum disorder A systematic review.pdf` → `sources/2026-05-14/`
 - 创建 [[DempseyEtAl2019|Dempsey et al. (2019)]] 作品页：29 项研究综述，核心论证为理性主义道德发展理论需要替代框架
-- 在 [[述情障碍]] 和 [[孤独谱系]] 的 Related 中添加交叉引用
+- 在 [[述情障碍]] 和 [[孤独谱系障碍]] 的 Related 中添加交叉引用
 - 关键链接：述情障碍作为道德判断研究中的混淆变量（平行于 Bird & Cook 2013）、Haidt 道德基础理论、"孤独谱系作为文化"概念
 
 ## [2026-05-14] edit | 述情障碍 — 修复庸俗版 ND 倾向：重写范式解读
@@ -23,7 +54,7 @@
 ## [2026-05-14] edit | 孤独谱系 — 修复庸俗版 ND 倾向：重写范式解读
 
 - 开头段：不再仅说"ND 范式下被理解为自然变异"，加入互动主义中间道路的定位
-- 重写 [[孤独谱系#范式解读|范式解读]]：从两个子弹点扩展为四个小节——三种立场对比表、互动主义意味着什么、反对庸俗版神经多样性、哲学基础
+- 重写 [[孤独谱系障碍#范式解读|范式解读]]：从两个子弹点扩展为四个小节——三种立场对比表、互动主义意味着什么、反对庸俗版神经多样性、哲学基础
 - 核心修正：明确 ND 范式不否认困难、不反对一切干预、不等于强社会模型；将"无害的自然变异"叙事定性为[[庸俗版神经多样性]]
 - Related 新增：[[Dwyer2022]]、[[庸俗版神经多样性]]、[[残障的社会模式]]、[[神经规范性]]
 
@@ -33,7 +64,7 @@
 - 创建 [[广泛性要求回避|PDA]] 概念页（wiki/05-诊断与现象/PDA.md）——涵盖核心特征、需求类型分类、回避层级、第一人称体验、识别与诊断争议、PANDA 应对原则、与 ND 范式的关系
 - 更新 [[EDA-8]] — 添加 PDA 概念页链接
 - 更新 [[EDA-QA]] — 添加 PDA 概念页链接
-- 更新 [[孤独谱系]] — Related 添加 PDA 条目
+- 更新 [[孤独谱系障碍]] — Related 添加 PDA 条目
 - 更新 [[00-知识地图]] — 五 新增第 4 页 PDA，总页面数 168
 
 ## [2026-05-14] ingest | NICE (2021) — 成人孤独谱系障碍：诊断与管理（CG142）
@@ -42,7 +73,7 @@
 - 创建 [[NICE2021|NICE (2021)]] 作品页（wiki/works/NICE2021.md）
 - 核心内容：英国官方成人 ASD 临床指南——一般照护原则、筛查路径（AQ-10 ≥ 6）、综合评估工具（ADOS、ADI-R、RAADS-R）、心理社会干预、服务体系组织；2021 年术语改革（"people with autism" → "autistic people"、"symptoms" → "features"）反映 ND 运动对主流临床话语的影响
 - 更新 [[AQ]] — 添加 NICE CG142 推荐 AQ-10 作为筛查工具及 6 分阈值
-- 更新 [[孤独谱系]] — 添加 NICE CG142 作为临床路径参考
+- 更新 [[孤独谱系障碍]] — 添加 NICE CG142 作为临床路径参考
 - 更新 [[00-知识地图]] — 新增第 49 部参考文献，总页面数 167
 
 ## [2026-05-14] ingest | Raymaker et al. (2020) — 孤独谱系倦怠的学术定义
@@ -356,7 +387,7 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-09] fix | 神经多样性范式：修复坏链与逻辑 — 5 类坏链修复：[[Dwyer-2022-神经多样性方法]]→[[Dwyer2022]] (5处)、[[Walker-2014-神经多样性术语定义]]→[[Walker2014]] (2处)、[[Chapman-Fletcher-Watson-2025-神经多样性简论]]→[[ChapmanFletcherWatson2025]]、[[Institute for the Study of the Neurologically Typical]]→[[Laura-Tisoncik]] (2处)、[[Chapman-2023-正常帝国]]→[[Chapman2023]]；标题"三种取向"→"四种取向"以匹配表格内容
 
-## [2026-05-09] crossref | 神经典型：添加交叉引用 — 开头段落 [[孤独谱系]]（Autism Spectrum）；ISNT 段 [[病理学范式|病理学语言]]（Pathology Paradigm）；实证证据段 [[双向同理心问题]]（Double Empathy Problem）；"相关概念"三条全加 wikilink 与英文术语；去病理化处加 [[去病理化]]（Depathologization）
+## [2026-05-09] crossref | 神经典型：添加交叉引用 — 开头段落 [[孤独谱系障碍]]（Autism Spectrum）；ISNT 段 [[病理学范式|病理学语言]]（Pathology Paradigm）；实证证据段 [[双向同理心问题]]（Double Empathy Problem）；"相关概念"三条全加 wikilink 与英文术语；去病理化处加 [[去病理化]]（Depathologization）
 
 ## [2026-05-09] fix | 知识地图坏链修复 — 19 个核心著作条目从旧式连字符中文命名（如 `[[Chapman-Fletcher-Watson-2025-神经多样性简论]]`）更新为 CamelCase|Display 格式（如 `[[ChapmanFletcherWatson2025\|Chapman & Fletcher-Watson (2025)]]`）；旧文件名在重命名为 CamelCase 时未保留为 alias 导致全数断裂，现已全部修复
 
@@ -414,11 +445,11 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 
 ## [2026-05-09] update | Chapman2023 全本摄取 — 基于《正常帝国》全本（14 章），大幅重写 [[Chapman2023]] 工作页：完整历史脉络（希波克拉底→笛卡尔→Quetelet→Galton→Kraepelin→弗洛伊德→Szasz→DSM-III→神经多样性→神经撒切尔主义→神经殊异马克思主义）、核心概念（正常性帝国、神经规范性的双重束缚、神经殊异马克思主义）、全章概要；同步更新 [[Robert-Chapman]] 作者页、[[病理学范式]]（Galton 作为范式奠基人的完整论证）、[[神经多样性与资本主义]]（双重束缚、神经撒切尔主义、神经殊异马克思主义）、[[常态的发明]]（Quetelet/Galton 的历史细节）、[[新自由主义与精神健康]]（情感劳动/认知劳动/感官轰炸的新异化分析）
 
-## [2026-05-09] ingest | ADHD 和 ASD 诊断标准原文 — 基于 sources/papers/ 中 DSM-5-TR + ICD-11（ADHD）和 DSM-IV/DSM-5-TR + ICD-10/ICD-11（ASD）中文诊断标准原文汇编，大幅更新 [[ADHD]] 和 [[孤独谱系]] 页面：补充完整诊断标准、严重程度分级、标注体系、鉴别诊断、流行病学和共病信息；新增 ICD-10 与 DSM-5/ICD-11 诊断体系演变对照表
+## [2026-05-09] ingest | ADHD 和 ASD 诊断标准原文 — 基于 sources/papers/ 中 DSM-5-TR + ICD-11（ADHD）和 DSM-IV/DSM-5-TR + ICD-10/ICD-11（ASD）中文诊断标准原文汇编，大幅更新 [[ADHD]] 和 [[孤独谱系障碍]] 页面：补充完整诊断标准、严重程度分级、标注体系、鉴别诊断、流行病学和共病信息；新增 ICD-10 与 DSM-5/ICD-11 诊断体系演变对照表
 
 ## [2026-05-09] restructure | 新增诊断与现象分区 — 创建 `wiki/05-诊断与现象/`（孤独谱系、ADHD、述情障碍）；`wiki/05-测试/` 移至 `wiki/06-测试/`；更新 schema、purpose、agent、知识地图的分区和编号
 
-## [2026-05-09] fix | 全站坏链修复 — 修复 6 种旧命名规范链接（Chapman2023-正常帝国等→AuthorYear）；更正 1 处大小写（dwyer2022→Dwyer2022）；修正 2 处目录链接（01-基础/→知识地图）；修复 3 处断锚（神经殊异#术语区分、庸俗版神经多样性#主流收编、#与神经少数的关系）；修复 3 处转义管道符（\|→|）；移除 5 处不存在的页面链接（ISNT、Lai2017、"Don't Mourn for Us"引用、伪装、神经少数→锚点）；测试页面中 11 个不存在概念页面的链接转为纯文本；新建 [[孤独谱系]] 和 [[ADHD]] 最小存根页
+## [2026-05-09] fix | 全站坏链修复 — 修复 6 种旧命名规范链接（Chapman2023-正常帝国等→AuthorYear）；更正 1 处大小写（dwyer2022→Dwyer2022）；修正 2 处目录链接（01-基础/→知识地图）；修复 3 处断锚（神经殊异#术语区分、庸俗版神经多样性#主流收编、#与神经少数的关系）；修复 3 处转义管道符（\|→|）；移除 5 处不存在的页面链接（ISNT、Lai2017、"Don't Mourn for Us"引用、伪装、神经少数→锚点）；测试页面中 11 个不存在概念页面的链接转为纯文本；新建 [[孤独谱系障碍]] 和 [[ADHD]] 最小存根页
 
 ## [2026-05-09] config | 测试/理论隔离 — 新增 `wiki/05-测试/` 纳入 schema；创建 `sources/tests/` 用于测试文献独立归档；更新 wiki-purpose、wiki-agent、知识地图，明确测试与理论相对隔离的交叉引用原则
 
@@ -1064,3 +1095,30 @@ Append-only record of wiki operations. Format: `[date] verb | subject`
 2026-05-11T00:00:00+08:00 | update | wiki/authors/Monique-Botha.md, wiki/authors/Robert-Chapman.md | Renamed 主要著作→本wiki已引用著作 across both author pages; saved memory convention
 2026-05-11T16:06:58+08:00 | CAT-Q | update | 根据用户提供的材料全面更新：更正引用年份(Hull 2019)，添加五级评分定性描述体系(Baker 2024)、心理测量学属性、解读注意事项(5点)、MID阈值、临床效用等详细内容
 2026-05-11T00:00:00+08:00 | delete | wiki/06-测试/孤独谱系Bingo.md | 移除孤独谱系Bingo页面，清理相关测试中的引用
+2026-05-15T00:00:00+08:00 | create | wiki/works/MantzalasEtAl2024.md | 新建：首篇系统检验ABM与CBI心理测量特性的研究，ABM四因子结构，CBI-P情绪耗竭子量表作为替代筛查工具，69%曾经历倦怠/46%四次以上，63%当前倦怠者有自杀意念；源PDF归档至sources/2026-05-14/
+2026-05-15T00:00:00+08:00 | update | wiki/04-体验与实践/孤独谱系倦怠.md | Related新增MantzalasEtAl2024
+2026-05-15T00:00:00+08:00 | update | wiki/works/Raymaker2020.md | Related新增MantzalasEtAl2024
+
+2026-05-17T00:00:00+08:00 | ingest | 来源: UpToDate 两篇临床专题（术语/流行病学/发病机制 + 评估和诊断）— 丰富 `wiki/05-诊断与现象/孤独谱系.md` 流行病学（ADDM 2022 32.2/1000、NHIS 2019-2021 3.11%、同胞患病率详细分解、遗传度 81%、遗传综合征共现率表、帕金森 RR 4.43、诊断稳定性 85-89%）；丰富 `wiki/05-诊断与现象/孤独谱系鉴别诊断.md` 补充鉴别项（LKS、NVLD、抽动障碍/Tourette、智力天才、听力损失）及 UpToDate 三分类框架；源文件归档至 `sources/2026-05-17/`
+
+2026-05-17T00:00:00+08:00 | ingest | 来源: ICD-11 for Mortality and Morbidity Statistics (WHO, 2026-01) — 丰富 `wiki/05-诊断与现象/孤独谱系.md` ICD-11 章节（6A02 亚型编码表 6A02.0–6A02.5、既往技能丧失标注符、五阶段发育表现、文化与性别相关特征）；丰富 `wiki/05-诊断与现象/孤独谱系鉴别诊断.md` 新增 ICD-11 18 项鉴别边界章节（ODD/ARFID/DSED/继发性神经发育综合征等 7 项非重复边界）；源文件归档至 `sources/2026-05-17/`
+
+2026-05-17T00:00:00+08:00 | refactor | `wiki/05-诊断与现象/孤独谱系鉴别诊断.md` — 按鉴别状况类型（神经发育/遗传与躯体医学/精神与行为/创伤与依恋/其他发育变异）重组全部内容，融合 DSM-5-TR、ICD-11、UpToDate、Sarr et al. 四个来源于每个状况条目中；新增鉴别逻辑总论（两问题框架 + UpToDate 三分类筛查表）、22 状况 × 4 来源覆盖对照表
+2026-05-17T00:00:00+08:00 | refactor | 重命名 `wiki/05-诊断与现象/孤独谱系.md` → `wiki/05-诊断与现象/孤独谱系障碍.md` — 重组页面结构（诊断标准→诊断体系演变→临床特征与发育表现→流行病学→概念演变→范式解读→共现与鉴别→诊断工具）；更新全 wiki 45 个文件中的 [[孤独谱系]] → [[孤独谱系障碍]] 引用
+2026-05-17T00:00:00+08:00 | update | `wiki/05-诊断与现象/孤独谱系障碍.md` — 在诊断工具下方新增筛查工具小节（AQ、AQ-10、RAADS-R、GADC 四工具 + M-CHAT-R/F、SCQ、SRS-2 提及）
+2026-05-18T00:00:00+08:00 | ingest | 来源: UpToDate 儿童/成人 ADHD 三篇专题 — 归档至 `sources/2026-05-18/`：`儿童和青少年注意缺陷多动障碍的流行病学与发病机制.md`、`儿童和青少年注意缺陷多动障碍的临床特征和诊断.md`、`成人注意缺陷多动障碍的流行病学、临床特征、评估和诊断.md`
+2026-05-18T00:00:00+08:00 | refactor | `wiki/05-诊断与现象/ADHD.md` — 参照孤独谱系障碍页面结构重写
+2026-05-18T00:00:00+08:00 | update | `wiki/06-测试/ASRS.md` — 新增假阳性与阳性预测值小节
+2026-05-18T00:00:00+08:00 | create | `wiki/05-诊断与现象/广义孤独谱系表型.md` — 新建广义孤独谱系表型（BAP）页面：历史渊源（Kanner/Asperger 观察→Folstein & Rutter 双生子研究）→ 遗传基础（遗传度 >80%、家族研究、性别差异）→ 行为表现维度（语言沟通/社交互动/RRBIs）→ 认知特征 → 神经基础 → 测量工具（AFHI/PRS/BAPQ/AQ/SRS 五工具）→ 一般人群 BAP（Wheelwright 2010 数据）→ 维度性 vs 类别性 → 内表型概念 → 神经多样性范式解读；更新孤独谱系障碍.md 中的 BAP wikilink。来源：Sucksmith et al. 2011（综述）、Landry & Chouinard 2016（一般人群 BAP）。PDF 归档至 sources/2026-05-18/ 和 sources/papers/
+2026-05-18T00:00:00+08:00 | update | `wiki/05-诊断与现象/孤独谱系障碍.md` 筛查工具表格 — 基于 UpToDate 儿童青少年 ASD 筛查工具专题（Topic 590）全面更新：新增分阶段筛查模型（第 1 阶段/第 2 阶段）与 PPV 警示说明；按年龄分组（4 岁以下 7 工具/≥4 岁 5 工具/青少年成人 5 工具/智力障碍专用 2 工具）重构为 4 个表格；新增 9 工具（STAT/ITC/POSI/ADEC/RITA-T/ASSQ/AQ-Child/DBC-ASA/DBC-ES）；更新 M-CHAT-R/F（Aishworiya 2023 meta 分析：汇总敏感性 83% 特异性 46% PPV 58%）、SCQ、AQ 的心理测量学数据。源文件归档至 sources/2026-05-18/
+## 2026-05-18
+
+### 新增
+- **[[ND范式与补充替代疗法]]** — 新页面，描述ND范式如何通过拒绝"治愈"叙事、互动主义干预伦理和自主权原则，为ASD个体提供避免有害补充替代疗法的保护性框架。基于 [[Dwyer2022]] 的互动主义框架和 [[NICE2021]] 对辅助沟通的明确拒绝。放入 `wiki/04-体验与实践/`，定位为ND范式的关键实践价值之一。
+  - 更新 [[00-知识地图]]：四处新增条目，页数 168→169
+  - 更新 [[wiki-purpose.md]]：四处页数 8→9
+  - 新增交叉引用：[[Dwyer2022]]、[[NICE2021]]、[[神经多样性范式]]
+### 更新
+- **[[阅读路线]]** — 第四层新增 [[ND范式与补充替代疗法]] 条目（第6项），归入研究与实践模块的临床应用子类，位于 Chapman & Botha (2023) 与 Frith (2026) 之间
+### 更新
+- **[[ND范式与补充替代疗法]]** — 大幅丰富：新增"临床证据的分类框架"（UpToDate 2026）章节，按益处/风险五类系统整理数十种CAM疗法的临床证据状态及ND范式解读；新增"两种框架的趋同与根本差异"对比表；补充使用率数据（27%-88%）、驱动因素分析及流行病学细节。同步摄入 `儿童与青少年孤独症谱系障碍的补充和整合医学治疗.md`（UpToDate, 2026-05-12更新）至 sources/articles/ 和 sources/2026-05-18/

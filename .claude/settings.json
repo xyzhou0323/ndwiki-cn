@@ -31,7 +31,24 @@
       "Bash(python \"d:/llm-wiki-project/.llm-wiki/sync_temp.py\")",
       "Bash(pdftotext -l 3 \"sources/2026-05-14/autism-spectrum-disorder-in-adults-diagnosis-and-management-pdf-35109567475909.pdf\" -)",
       "Bash(pdftotext -l 3 \"sources/2026-05-14/What-is-PDA-booklet-website-v2.1.pdf\" -)",
-      "Bash(pdftotext \"sources/Morality in autism spectrum disorder A systematic review.pdf\" -)"
+      "Bash(pdftotext \"sources/Morality in autism spectrum disorder A systematic review.pdf\" -)",
+      "Bash(pdftotext \"sources/Child Dev Perspectives - 2022 - Yi - Hypo‐ or hyperarousal  The .pdf\" -)",
+      "Bash(pdftotext \"sources/Enhanced rationality in autism spectrum disorder.pdf\" -)",
+      "Bash(pdftotext \"sources/The combination of autism and exceptional cognitive ability is associated with suicidal ideation.pdf\" -)",
+      "Bash(pdftotext \"sources/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" -)",
+      "Bash(pdftotext \"sources/2026-05-15/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" -)",
+      "Bash(/mingw64/bin/pdftotext -layout \"d:/llm-wiki-project/sources/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" /dev/stdout)",
+      "Bash(/mingw64/bin/pdftotext -layout \"d:/llm-wiki-project/sources/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" -)",
+      "Bash(wc -l \"C:\\\\\\\\Users\\\\\\\\xyzho\\\\\\\\.claude\\\\\\\\projects\\\\\\\\d--llm-wiki-project\\\\\\\\6b9f52f1-9896-47e7-9a9b-f4b85a75dec2\\\\\\\\tool-results\\\\\\\\brmqluw98.txt\")",
+      "Bash(/mingw64/bin/pdftotext -layout -f 13 -l 18 \"d:/llm-wiki-project/sources/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" -)",
+      "Bash(/mingw64/bin/pdftotext -layout -f 20 -l 25 \"d:/llm-wiki-project/sources/Mantzalas 等 - 2024 - Measuring and validating autistic burnout.pdf\" -)",
+      "WebFetch(domain:bpspsychub.onlinelibrary.wiley.com)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:kclpure.kcl.ac.uk)",
+      "WebFetch(domain:discovery.researcher.life)",
+      "Bash(pdftotext \"d:/llm-wiki-project/sources/papers/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf\" \"d:/llm-wiki-project/sources/2026-05-17/SarrEtAl2024.txt\")",
+      "Bash(pdftotext \"d:/llm-wiki-project/sources/papers/ASD诊断标准原文汇编（DSM4-5TR ICD10-11）.pdf\" \"d:/llm-wiki-project/sources/2026-05-09/ASD诊断标准原文汇编.txt\")",
+      "Bash(python -c ' *)"
     ]
   }
 }
