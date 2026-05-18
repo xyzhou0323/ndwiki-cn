@@ -48,7 +48,16 @@
       "WebFetch(domain:discovery.researcher.life)",
       "Bash(pdftotext \"d:/llm-wiki-project/sources/papers/British J of Psychology - 2024 - Sarr - Differential diagnosis of autism  attachment disorders  complex post‐traumatic.pdf\" \"d:/llm-wiki-project/sources/2026-05-17/SarrEtAl2024.txt\")",
       "Bash(pdftotext \"d:/llm-wiki-project/sources/papers/ASD诊断标准原文汇编（DSM4-5TR ICD10-11）.pdf\" \"d:/llm-wiki-project/sources/2026-05-09/ASD诊断标准原文汇编.txt\")",
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(grep -c \"\\\\\\\\[\\\\\\\\[\" d:/llm-wiki-project/wiki/00-知识地图.md)",
+      "Bash(pdftotext -l 3 \"Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf\" -)",
+      "Bash(pdftotext -l 3 \"Sucksmith_et_al_BAP_review_Neuropsychology_Rev_In_press.pdf\" -)",
+      "Bash(pdftotext -l 3 \"Why We Should Study the Broader Autism Phenotype in Typically Developing Populations.pdf\" -)",
+      "Bash(pdftotext -l 10 \"Dwyer 等 - 2023 - Building Neurodiversity-Inclusive Postsecondary Campuses Recommendations for Leaders in Higher Educ.pdf\" -)",
+      "Bash(pdftotext -l 6 \"Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf\" -)",
+      "Bash(pdftotext -l 20 \"Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf\" -)",
+      "Bash(pdftotext -f 11 -l 20 \"Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf\" -)",
+      "Bash(pdftotext -f 18 -l 21 \"Schuck 等 - 2022 - Neurodiversity and Autism Intervention Reconciling Perspectives Through a Naturalistic Developmenta.pdf\" -)"
     ]
   }
 }
