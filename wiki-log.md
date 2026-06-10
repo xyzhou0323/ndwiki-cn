@@ -1,5 +1,20 @@
 # Change Log
 
+## [2026-06-10] tool | 自动计数系统：update-counts.py + {{KEY}} 占位符
+
+- 将 4 个文件中所有硬编码页面数替换为 `{{KEY}}` 占位符：
+  - `{{PAGE_COUNT}}` — wiki/ 总页数（228）
+  - `{{AUTHOR_COUNT}}` — 作者页数（84）
+  - `{{WORK_COUNT}}` — 著作页数（72）
+  - `{{TEST_COUNT}}` — 测试工具数（24，排除 相关测试.md）
+  - `{{SEC_01_COUNT}}`~`{{SEC_06_COUNT}}` — 各章节页数
+- 创建 `.llm-wiki/update-counts.py`：
+  - 统计 wiki/ 各子目录 .md 文件数
+  - 通过 prose 上下文正则匹配更新 4 文件中的数字
+  - 幂等：多次运行结果一致
+- 用法：`python .llm-wiki/update-counts.py` — 今后增删页面后执行即可
+- 发现并修正了过期计数：总页数 217→228，知识地图页 209→228，测试工具 22→24
+
 ## [2026-06-10] term | "骄傲" → "自尊"：Pride 译法统一（16 页）
 
 - 将 wiki/ 目录下所有 identity pride 语境中的"骄傲"统一替换为"自尊"：
@@ -28,16 +43,5 @@
   - **[[神经多样性范式]]** — 新增"ND 范式在生物医学研究中的操作化：Heraty et al. (2023)"节：范式原则→研究设计映射表、常态范式在生物医学研究中的自我强化循环、研究基础设施中的常态范式——将范式批判从认识论层面推进到制度层面
 - 索引不变（页数未增）
 
-## [2026-06-10] ingest | Heraty et al. (2023) — 社群之间的桥梁建设：神经多样性肯定式生物医学研究范式
-
-- 归档 `sources/Bridge-building between communities.md` → `sources/2026-06-10/HeratyEtAl2023.md` + `sources/papers/`
-- 创建 [[HeratyEtAl2023|Heraty et al. (2023)]] 作品页：AIMS-2-TRIALS 联盟的孤独谱系与非孤独谱系科学家联合 _Cell_ 评论——提出 ND 肯定式生物医学研究范式，论证生物医学工具可与 ND 范式协同，以社会关系模型为适配框架，四项具体建议（参与式实践→研究主题→设计方案→解读传播），四大系统性障碍（资助叙事、基础设施、问责、学术文化）
-- 创建 [[Siofra-Heraty|Síofra Heraty]] 作者页：Birkbeck 博士后，AIMS-2-TRIALS 战略伦理负责人，神经殊异早期职业研究者
-
-### 索引更新
-- **[[00-知识地图]]** — 作者 83→84（新增 #72 Heraty），参考文献 71→72（新增 #68 Heraty et al. 2023）
-- **[[阅读路线]]** — 作者 83→84，著作 71→72，总页数 216→217
-- **[[wiki-schema.md]]** — authors 83→84，works 71→72
-- **[[wiki-purpose.md]]** — 作者 83→84，参考文献 71→72
 
 
