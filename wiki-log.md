@@ -1,5 +1,69 @@
 # Change Log
 
+## [2026-06-10] ingest | Constantino (2018) — 口吃者能从神经多样性运动中学到什么？
+
+- 归档 `sources/MinerU_markdown_202606100856256_aab1f6d4.md` → `sources/2026-06-10/` + `sources/papers/`
+- 创建 [[Constantino2018|Constantino (2018)]] 作品页：将 ND 范式系统应用于口吃的里程碑论文——覆盖运动历史、残障模型三方对比、身份优先语言、"作为流利者通过"的扮装平行，附神经多样性肯定式口吃治疗的详细案例展示
+- 创建 [[Christopher-Constantino]] 作者页
+- 充实 [[掩饰与伪装]]：新增"口吃中的平行现象：作为流利者通过"节——Constantino 的"passing as fluent ↔ passing as straight"平行论证为扮装（passing）伦理批判提供跨神经类型实证支持
+
+### 索引更新
+- **[[00-知识地图]]** — 作者 75→76（新增 #71 Constantino），参考文献 66→67（新增 #67 Constantino 2018）
+- **[[阅读路线]]** — 作者 75→76，著作 66→67，总页数 213→216
+- **[[wiki-schema.md]]** — authors 75→76，works 66→67
+- **[[wiki-purpose.md]]** — 作者 75→76，参考文献 66→67
+
+### [2026-06-10] enrich | Constantino (2018) 跨页面充实
+
+- 将 Constantino (2018) 链接到 4 个已有页面：
+  - **[[神经多样性运动]]** — 新增"口吃社群与ND运动的交汇"节：口吃活动家最早推动 person-first 语言的专业倡导力量，identity-first 转向与孤独谱系社群平行
+  - **[[残障模型]]** — 关系/互动模型段：补充 Constantino 的"身体既非健康也非病理，而是多样且可变的"定义
+  - **[[神经多样性教育]]** — 新增"实践案例：肯定式口吃治疗"节：中学治疗案例——目标从流利度转向言语轻松度，Freire 解放教育的精确体现
+  - **[[ASD干预]]** — 新增"Constantino (2018)：口吃治疗的平行论证"段：福祉 vs 正常化的跨诊断普适性——常态范式固有伦理缺陷
+- 修复用语：[[掩饰与伪装]] 和 [[Constantino2018]] 中 "作为流利者通过" → "假装流利者"，"作为直人通过" → "假装直人"
+- 索引不变（页数未增）
+
+## [2026-06-10] ingest | Gourdon-Kanhukamwe et al. (2023) — 拓宽对神经多样性的理解
+
+- 创建 [[GourdonKanhukamweEtAl2023|Gourdon-Kanhukamwe et al. (2023)]] 作品页：FORRT 团队在 *The Cognitive Psychology Bulletin* 发表的短篇呼吁——参与式研究与开放科学结合以解决权力失衡，确保神经殊异者在研究全周期的实质性参与
+- 创建 [[Amelie-Gourdon-Kanhukamwe]] 作者页：伦敦国王学院神经科学与心理学教育高级讲师，ADHD 认同者，FORRT 成员
+- [[ZanevaEtAl2024]]：添加 wikilink（主题 9 精选文献 + Related）
+
+### 索引更新
+- **[[00-知识地图]]** — 作者 77→78（新增 #28 Gourdon-Kanhukamwe），参考文献 68→69（新增 #25 Gourdon-Kanhukamwe et al. 2023）
+- **[[阅读路线]]** — 作者 77→78，著作 68→69
+- **[[wiki-schema.md]]** — authors 77→78，works 68→69
+- **[[wiki-purpose.md]]** — 作者 77→78，参考文献 68→69
+
+## [2026-06-10] ingest | Natri et al. (2023) — 反健全主义语言与高质量孤独谱系研究完全兼容
+
+- 创建 [[NatriEtAl2023|Natri et al. (2023)]] 作品页：*Autism Research* 评论，68 位联名作者回应 Singer et al. (2023)——论证反健全主义语言（"likelihood"替代"risk"、"co-occurring"替代"co-morbid"）是更精确而非更模糊的科学传播；被 Zaneva et al. (2024) 收录为主题 8 精选文献
+- 创建 [[Heini-Natri]] 作者页：TGen 计算基因组学研究者，GATFAR 成员
+- 恢复 [[ZanevaEtAl2024]] 中 Natri et al. (2023) 的 wikilink
+
+### 索引更新
+- **[[00-知识地图]]** — 作者 76→77（新增 #42 Natri），参考文献 67→68（新增 #42 Natri et al. 2023）
+- **[[阅读路线]]** — 作者 76→77，著作 67→68
+- **[[wiki-schema.md]]** — authors 76→77，works 67→68
+- **[[wiki-purpose.md]]** — 作者 76→77，参考文献 67→68
+
+## [2026-06-10] ingest | Zaneva et al. (2024) — FORRT 神经多样性导论带注释阅读清单
+
+- 归档 `sources/MinerU_markdown_202606100845291_c2a2dcf3.md` → `sources/2026-06-10/` + `sources/papers/`
+- 创建 [[ZanevaEtAl2024|Zaneva et al. (2024)]] 作品页：PsyArXiv 预印本，22 位神经多元化研究者协作，9 主题/18 篇核心文献，涵盖 ND 历史、生活经验、孤独谱系、ADHD、超越 ASD+ADHD、反健全主义、稳健方法与参与式开放科学
+- 创建 2 位新作者页：[[Mirela-Zaneva]]（牛津大学，第一/通讯作者）、[[Mahmoud-M-Elsherif]]（伯明翰/莱斯特，共同资深作者，FORRT ND 团队领导者）
+- 更新 [[Alyssa-Hillary]]：添加 Zaneva et al. (2024) 共同资深作者身份
+
+### 充实已有页面
+- **[[神经殊异]]** — 术语创造者段：补充 Asasumasu 原始定义的完整涵盖范围（癫痫、PTSD、帕金森病、心盲症等），引用 Zaneva et al. 正式采纳此定义为核心框架
+- **[[神经多样性与民主研究]]** — 新增"参与式与开放科学：FORRT 神经多样性团队"节：开放征集→社群策展→全流程参与的民主研究实践
+
+### 索引更新
+- **[[00-知识地图]]** — 作者 73→75（新增 #69 Zaneva、#70 Elsherif），参考文献 65→66（新增 #66 Zaneva et al. 2024）
+- **[[阅读路线]]** — 作者 73→75，著作 65→66，总页数 208→213
+- **[[wiki-schema.md]]** — authors 73→75，works 65→66
+- **[[wiki-purpose.md]]** — 作者 73→75，参考文献 65→66
+
 ## [2026-05-20] edit | 全部 23 项测试页面添加中文版无常模提示
 
 - 在 22 个测试页面（除 AQ-Adol 已含）的"本站测试"链接下方统一添加中文版提示：英文原版常模、无中文版常模、缺少本土化验证、结果仅供参考
@@ -1381,3 +1445,23 @@ Pearson et al. (2026) 的核心贡献是将 IFL vs PFL 争论从孤独谱系拓�
 - **[[神经多样性批判与回应]] + [[StennerEtAl2025]]**（批评三新增第5条回应 + 汇总表更新）——Q 方法学以经验数据展示了运动内部多样性是**结构化且可公开讨论的**，直接驳斥"群体思维"指控。共识发现证明在多样性下存在共享判断基础——这正是非群体思维的标志。新增 StennerEtAl2025 和 PearsonEtAl2026 Related 链接
 - **[[神经多样性与民主研究]] + [[NicolaidisEtAl2011]]**（新增"先锋实践：AASPIRE的CBPR创新"节）——四策略对应四挑战的实践表：社群定义、地理分散、权力平衡（五项共识法等）、学习型组织。核心洞见：民主研究不是"把孤独谱系者纳入既有实践"，而是改变实践本身。新增 NicolaidisEtAl2011、Christina-Nicolaidis、Dora-Raymaker Related 链接
 - **[[神经多样性范式]] + [[Botha2025]] + [[StennerEtAl2025]]**（新增"科学哲学基础：批判实在论"和"三层含义的实证验证"两节）——CR 四概念（分层本体论/叠层因果/伦理自然主义/TMSA）与 ND 范式的对应表；Stenner et al. 共识发现为 Walker 三层区分提供独立实证验证。新增 Botha2025 和 StennerEtAl2025 Related 链接
+
+## [2026-06-06] ingest | Rea et al. (2024) — 归档收件箱：性别多样性与孤独谱系交叉更新范围综述
+
+- 收件箱 `sources/MinerU_markdown_202606061634313_61435e3d.md` → `sources/2026-06-06/` 并复制到 `sources/papers/`
+- 清理遗留文件：Pearson et al. (2026) PDF 从 sources/ 移入 sources/papers/
+- 创建 [[ReaEtAl2024|Rea et al. (2024)]] 作品页：性别多样性与孤独谱系交叉更新范围综述——99 项实证研究（2018–2024），2018 年后研究数量较此前 37 年增长约 1.5 倍，涵盖方法论趋势、测量工具改进建议、临床与政策影响
+- 创建 5 位新作者页：[[Hannah-Rea]]（第一作者，UW）、[[John-Strang]]（共同领导，Gender Self-Report 开发者，WPATH 培训推动者）、[[Anders-Nordahl-Hansen]]（共同领导/通讯作者，原 2018 综述共同领导者）、[[Roald-Øien]]（2018 首篇综述第一作者）、[[Sara-Jane-Webb]]（合著者，UW）
+### 更新
+- **[[00-知识地图]]** — 作者 68→73（新增 #43 Nordahl-Hansen、#44 Øien、#47 Rea、#56 Strang、#65 Webb），参考文献 64→65（新增 #47 Rea et al. 2024），总页数 202→208
+- **[[阅读路线]]** — 作者 63→73，著作 63→65，总页数 202→208
+- **[[wiki-schema.md]]** — authors 68→73，works 64→65
+- **[[wiki-purpose.md]]** — 作者 68→73，参考文献 64→65
+- **[[神经多样性与交叉性]]** — 性别/性取向交叉性维度新增 Rea et al. (2024) 实证文献基础
+- **[[掩饰与伪装]]** — Rea et al. 记录的性别与掩饰行为关联研究（Hull, McQuaid 等）纳入交叉引用
+
+## [2026-06-10] edit | 神经殊异 — 新增常态范式五类划分
+
+- 根据 [[ChapmanFletcherWatson2025|Chapman & Fletcher-Watson (2025)]][第1章] 原文，在 [[神经殊异]] 的"神经殊异性"分析区块新增"常态范式下的五类划分"子节
+- 五类：学习困难、学习障碍、神经发育障碍、精神障碍/精神疾病、神经退行性疾病——加上未被涵盖的癫痫
+- 标注英国/美国术语差异（learning disability vs intellectual disability）及文化相对性
