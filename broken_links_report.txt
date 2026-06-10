@@ -1,0 +1,361 @@
+Valid pages: 226
+Total wikilinks: 3318
+Same-page anchors (skipped): 18
+Valid wikilinks: 3244
+Broken wikilinks: 56
+
+================================================================================
+BROKEN WIKILINKS (sorted by file path and line number)
+================================================================================
+
+--- BY FILE ---
+
+  02-批判分析/神经多样性与交叉性.md:88
+    Raw: [[GiwaOnaiwu2020|Giwa Onaiwu (2020)]]
+    Target (NOT FOUND): GiwaOnaiwu2020
+
+  02-批判分析/神经撒切尔主义.md:29
+    Raw: [[神经规范性的双重束缚]]
+    Target (NOT FOUND): 神经规范性的双重束缚
+
+  02-批判分析/神经撒切尔主义.md:137
+    Raw: [[神经规范性的双重束缚]]
+    Target (NOT FOUND): 神经规范性的双重束缚
+
+  02-批判分析/神经殊异马克思主义.md:257
+    Raw: [[Red in the Spectrum]]
+    Target (NOT FOUND): Red in the Spectrum
+
+  04-体验与实践/ASD干预.md:256
+    Raw: [[ChapmanBovell2020|Chapman & Bovell (2020)]]
+    Target (NOT FOUND): ChapmanBovell2020
+
+  04-体验与实践/单一聚焦.md:57
+    Raw: [[刺激]]
+    Target (NOT FOUND): 刺激
+
+  04-体验与实践/单一聚焦.md:169
+    Raw: [[刺激]]
+    Target (NOT FOUND): 刺激
+
+  05-诊断与现象/孤独谱系障碍.md:239
+    Raw: [[Happé, Ronald & Plomin, 2006]]
+    Target (NOT FOUND): Happé, Ronald & Plomin, 2006
+
+  05-诊断与现象/广义孤独谱系表型.md:75
+    Raw: [[AQ孤独谱系商数（AQ）]]
+    Target (NOT FOUND): AQ孤独谱系商数（AQ）
+
+  authors/Akiko-Hart.md:16
+    Raw: [[听声运动]]
+    Target (NOT FOUND): 听声运动
+
+  authors/Akiko-Hart.md:31
+    Raw: [[听声运动]]
+    Target (NOT FOUND): 听声运动
+
+  authors/Amy-Pearson.md:30
+    Raw: [[Kieran-Rose]]
+    Target (NOT FOUND): Kieran-Rose
+
+  authors/Elizabeth-Barnes.md:23
+    Raw: [[Chapman (2020a)>RosqvistEtAl2020]]
+    Target (NOT FOUND): Chapman (2020a)>RosqvistEtAl2020
+
+  authors/Francesca-Happe.md:24
+    Raw: [[Happé, Ronald & Plomin, 2006]]
+    Target (NOT FOUND): Happé, Ronald & Plomin, 2006
+
+  authors/Hanna-Bertilsdotter-Rosqvist.md:35
+    Raw: [[David-Jackson-Perry]]
+    Target (NOT FOUND): David-Jackson-Perry
+
+  authors/Julie-Mary-Carmel.md:26
+    Raw: [[残障正义]]
+    Target (NOT FOUND): 残障正义
+
+  authors/Mildred-Boveda.md:30
+    Raw: [[AnnammaEtAl2013|Annamma et al. (2013)]]
+    Target (NOT FOUND): AnnammaEtAl2013
+
+  authors/Monique-Botha.md:57
+    Raw: [[少数压力模型]]
+    Target (NOT FOUND): 少数压力模型
+
+  authors/Monique-Botha.md:58
+    Raw: [[内在化污名]]
+    Target (NOT FOUND): 内在化污名
+
+  authors/Monique-Botha.md:59
+    Raw: [[神经殊异骄傲]]
+    Target (NOT FOUND): 神经殊异骄傲
+
+  authors/Peter-Wright.md:22
+    Raw: [[残障正义]]
+    Target (NOT FOUND): 残障正义
+
+  authors/Sarah-Arnaud.md:20
+    Raw: [[Rashed, 2020]]
+    Target (NOT FOUND): Rashed, 2020
+
+  authors/Sian-Chapman.md:22
+    Raw: [[残障正义]]
+    Target (NOT FOUND): 残障正义
+
+  works/ArnaudGibson2025.md:22
+    Raw: [[Rashed, 2020]]
+    Target (NOT FOUND): Rashed, 2020
+
+  works/Chapman2021.md:116
+    Raw: [[DussaultBouchard2017|Dussault & Bouchard (2017)]]
+    Target (NOT FOUND): DussaultBouchard2017
+
+  works/ChapmanBotha2023.md:44
+    Raw: [[神经类型烦躁]]
+    Target (NOT FOUND): 神经类型烦躁
+
+  works/ChapmanBotha2023.md:91
+    Raw: [[神经类型烦躁]]
+    Target (NOT FOUND): 神经类型烦躁
+
+  works/ChapmanBotha2023.md:96
+    Raw: [[Sonuga-BarkeThapar2021|Sonuga-Barke & Thapar (2021)]]
+    Target (NOT FOUND): Sonuga-BarkeThapar2021
+
+  works/ChengEtAl2023.md:89
+    Raw: [[GiwaOnaiwu2020|Giwa Onaiwu (2020)]]
+    Target (NOT FOUND): GiwaOnaiwu2020
+
+  works/ChengEtAl2023.md:90
+    Raw: [[BothaGillespieLynch2022|Botha & Gillespie-Lynch (2022)]]
+    Target (NOT FOUND): BothaGillespieLynch2022
+
+  works/DempseyEtAl2019.md:31
+    Raw: [[Blair1996|Blair 1996]]
+    Target (NOT FOUND): Blair1996
+
+  works/Frith2026.md:63
+    Raw: [[对神经多样性的批判与回应]]
+    Target (NOT FOUND): 对神经多样性的批判与回应
+
+  works/HappeFrith2020.md:53
+    Raw: [[Happé, Ronald & Plomin, 2006]]
+    Target (NOT FOUND): Happé, Ronald & Plomin, 2006
+
+  works/HappeFrith2020.md:59
+    Raw: [[Bird & Cook, 2013]]
+    Target (NOT FOUND): Bird & Cook, 2013
+
+  works/Lawson2025.md:68
+    Raw: [[刺激]]
+    Target (NOT FOUND): 刺激
+
+  works/NairEtAl2024.md:60
+    Raw: [[Canagarajah (2023)|Canagarajah2023]]
+    Target (NOT FOUND): Canagarajah (2023)
+
+  works/NairEtAl2024.md:68
+    Raw: [[AnnammaEtAl2013|Annamma et al. 2013]]
+    Target (NOT FOUND): AnnammaEtAl2013
+
+  works/NairEtAl2024.md:89
+    Raw: [[GiwaOnaiwu2020|Giwa Onaiwu (2020)]]
+    Target (NOT FOUND): GiwaOnaiwu2020
+
+  works/NairEtAl2024.md:90
+    Raw: [[BothaGillespieLynch2022|Botha & Gillespie-Lynch (2022)]]
+    Target (NOT FOUND): BothaGillespieLynch2022
+
+  works/NairEtAl2024.md:91
+    Raw: [[AnnammaEtAl2013|Annamma et al. (2013)]]
+    Target (NOT FOUND): AnnammaEtAl2013
+
+  works/NatriEtAl2023.md:19
+    Raw: [[Singer et al. (2023)]]
+    Target (NOT FOUND): Singer et al. (2023)
+
+  works/RosqvistEtAl2020.md:55
+    Raw: [[David-Jackson-Perry]]
+    Target (NOT FOUND): David-Jackson-Perry
+
+  works/RosqvistEtAl2020.md:59
+    Raw: [[Nicola-Martin]]
+    Target (NOT FOUND): Nicola-Martin
+
+  works/RosqvistEtAl2020.md:63
+    Raw: [[Matthew-K-Belmonte]]
+    Target (NOT FOUND): Matthew-K-Belmonte
+
+  works/RosqvistEtAl2020.md:75
+    Raw: [[听声运动]]
+    Target (NOT FOUND): 听声运动
+
+  works/RosqvistEtAl2020.md:91
+    Raw: [[David-Jackson-Perry]]
+    Target (NOT FOUND): David-Jackson-Perry
+
+  works/RosqvistEtAl2020.md:92
+    Raw: [[Matthew-K-Belmonte]]
+    Target (NOT FOUND): Matthew-K-Belmonte
+
+  works/RosqvistEtAl2020.md:93
+    Raw: [[Nicola-Martin]]
+    Target (NOT FOUND): Nicola-Martin
+
+  works/RosqvistEtAl2020.md:98
+    Raw: [[听声运动]]
+    Target (NOT FOUND): 听声运动
+
+  works/RozenkrantzEtAl2021.md:89
+    Raw: [[系统化]]
+    Target (NOT FOUND): 系统化
+
+  works/RozenkrantzEtAl2021.md:90
+    Raw: [[弱中央统合]]
+    Target (NOT FOUND): 弱中央统合
+
+  works/SchuckEtAl2022.md:87
+    Raw: [[ChapmanBovell2020|Chapman & Bovell (2020)]]
+    Target (NOT FOUND): ChapmanBovell2020
+
+  works/SchuckEtAl2022.md:90
+    Raw: [[FletcherWatson2018|Fletcher-Watson (2018)]]
+    Target (NOT FOUND): FletcherWatson2018
+
+  works/YiEtAl2022.md:47
+    Raw: [[JaswalAkhtar2019|Jaswal & Akhtar (2019)]]
+    Target (NOT FOUND): JaswalAkhtar2019
+
+  works/YiEtAl2022.md:97
+    Raw: [[感觉加工]]
+    Target (NOT FOUND): 感觉加工
+
+  works/YiEtAl2022.md:98
+    Raw: [[JaswalAkhtar2019|Jaswal & Akhtar (2019)]]
+    Target (NOT FOUND): JaswalAkhtar2019
+
+
+--- BY TARGET (for deduplication) ---
+
+  [[AQ孤独谱系商数（AQ）]] — 1 occurrence(s)
+    05-诊断与现象/广义孤独谱系表型.md:75
+
+  [[AnnammaEtAl2013]] — 3 occurrence(s)
+    authors/Mildred-Boveda.md:30
+    works/NairEtAl2024.md:68
+    works/NairEtAl2024.md:91
+
+  [[Bird & Cook, 2013]] — 1 occurrence(s)
+    works/HappeFrith2020.md:59
+
+  [[Blair1996]] — 1 occurrence(s)
+    works/DempseyEtAl2019.md:31
+
+  [[BothaGillespieLynch2022]] — 2 occurrence(s)
+    works/ChengEtAl2023.md:90
+    works/NairEtAl2024.md:90
+
+  [[Canagarajah (2023)]] — 1 occurrence(s)
+    works/NairEtAl2024.md:60
+
+  [[Chapman (2020a)>RosqvistEtAl2020]] — 1 occurrence(s)
+    authors/Elizabeth-Barnes.md:23
+
+  [[ChapmanBovell2020]] — 2 occurrence(s)
+    04-体验与实践/ASD干预.md:256
+    works/SchuckEtAl2022.md:87
+
+  [[David-Jackson-Perry]] — 3 occurrence(s)
+    authors/Hanna-Bertilsdotter-Rosqvist.md:35
+    works/RosqvistEtAl2020.md:55
+    works/RosqvistEtAl2020.md:91
+
+  [[DussaultBouchard2017]] — 1 occurrence(s)
+    works/Chapman2021.md:116
+
+  [[FletcherWatson2018]] — 1 occurrence(s)
+    works/SchuckEtAl2022.md:90
+
+  [[GiwaOnaiwu2020]] — 3 occurrence(s)
+    02-批判分析/神经多样性与交叉性.md:88
+    works/ChengEtAl2023.md:89
+    works/NairEtAl2024.md:89
+
+  [[Happé, Ronald & Plomin, 2006]] — 3 occurrence(s)
+    05-诊断与现象/孤独谱系障碍.md:239
+    authors/Francesca-Happe.md:24
+    works/HappeFrith2020.md:53
+
+  [[JaswalAkhtar2019]] — 2 occurrence(s)
+    works/YiEtAl2022.md:47
+    works/YiEtAl2022.md:98
+
+  [[Kieran-Rose]] — 1 occurrence(s)
+    authors/Amy-Pearson.md:30
+
+  [[Matthew-K-Belmonte]] — 2 occurrence(s)
+    works/RosqvistEtAl2020.md:63
+    works/RosqvistEtAl2020.md:92
+
+  [[Nicola-Martin]] — 2 occurrence(s)
+    works/RosqvistEtAl2020.md:59
+    works/RosqvistEtAl2020.md:93
+
+  [[Rashed, 2020]] — 2 occurrence(s)
+    authors/Sarah-Arnaud.md:20
+    works/ArnaudGibson2025.md:22
+
+  [[Red in the Spectrum]] — 1 occurrence(s)
+    02-批判分析/神经殊异马克思主义.md:257
+
+  [[Singer et al. (2023)]] — 1 occurrence(s)
+    works/NatriEtAl2023.md:19
+
+  [[Sonuga-BarkeThapar2021]] — 1 occurrence(s)
+    works/ChapmanBotha2023.md:96
+
+  [[内在化污名]] — 1 occurrence(s)
+    authors/Monique-Botha.md:58
+
+  [[刺激]] — 3 occurrence(s)
+    04-体验与实践/单一聚焦.md:57
+    04-体验与实践/单一聚焦.md:169
+    works/Lawson2025.md:68
+
+  [[听声运动]] — 4 occurrence(s)
+    authors/Akiko-Hart.md:16
+    authors/Akiko-Hart.md:31
+    works/RosqvistEtAl2020.md:75
+    works/RosqvistEtAl2020.md:98
+
+  [[对神经多样性的批判与回应]] — 1 occurrence(s)
+    works/Frith2026.md:63
+
+  [[少数压力模型]] — 1 occurrence(s)
+    authors/Monique-Botha.md:57
+
+  [[弱中央统合]] — 1 occurrence(s)
+    works/RozenkrantzEtAl2021.md:90
+
+  [[感觉加工]] — 1 occurrence(s)
+    works/YiEtAl2022.md:97
+
+  [[残障正义]] — 3 occurrence(s)
+    authors/Julie-Mary-Carmel.md:26
+    authors/Peter-Wright.md:22
+    authors/Sian-Chapman.md:22
+
+  [[神经殊异骄傲]] — 1 occurrence(s)
+    authors/Monique-Botha.md:59
+
+  [[神经类型烦躁]] — 2 occurrence(s)
+    works/ChapmanBotha2023.md:44
+    works/ChapmanBotha2023.md:91
+
+  [[神经规范性的双重束缚]] — 2 occurrence(s)
+    02-批判分析/神经撒切尔主义.md:29
+    02-批判分析/神经撒切尔主义.md:137
+
+  [[系统化]] — 1 occurrence(s)
+    works/RozenkrantzEtAl2021.md:89
+
