@@ -1,6 +1,6 @@
-# 贡献指南
+# 共建指南
 
-欢迎为神经多样性 Wiki 贡献内容。无需安装任何软件，全程在浏览器完成。
+欢迎参与神经多样性 Wiki 共建。无需安装任何软件，全程在浏览器完成。
 
 ## 目录
 
@@ -14,7 +14,7 @@
 
 ## 谁需要读这份指南
 
-- **内容贡献者**：新建或编辑 wiki 页面
+- **内容共建者**：新建或编辑 wiki 页面
 - **审校者**：修正错误、补充信息、改进表述
 - **繁体协作者**：请前往 [ndwiki-hant](https://github.com/xyzhou0323/ndwiki-hant) 阅读 [COLLABORATING.md](https://github.com/xyzhou0323/ndwiki-hant/blob/master/COLLABORATING.md)
 
@@ -166,7 +166,7 @@ A: 只要与神经多样性相关——概念解释、研究动态、人物介�
 
 A: 本 Wiki 以中文为主。英文概念和术语可在正文中保留原文，但页面正文应为中文。
 
-### Q: 我想贡献繁体中文页面？
+### Q: 我想共建繁体中文页面？
 
 A: 繁体内容请提交至 [ndwiki-hant](https://github.com/xyzhou0323/ndwiki-hant) 仓库，而非本仓库。详见 [COLLABORATING.md](https://github.com/xyzhou0323/ndwiki-hant/blob/master/COLLABORATING.md)。
 
