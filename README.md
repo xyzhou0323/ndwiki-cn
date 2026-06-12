@@ -4,6 +4,16 @@
 
 **228 个页面**，从[[阅读路线|入门]]到[[神经殊异马克思主义|批判]]递进组织。
 
+### 关联仓库
+
+| 仓库 | 说明 |
+|------|------|
+| [ndwiki-cn](https://github.com/xyzhou0323/ndwiki-cn)（本仓库） | 完整项目：wiki 页面 + 源文件 + 工具链 + 繁体子模块 |
+| [wiki](https://github.com/xyzhou0323/wiki) | 纯 wiki 页面（Obsidian vault），方便直接 clone 用 Obsidian 打开 |
+| [ndwiki-hant](https://github.com/xyzhou0323/ndwiki-hant) | 繁体中文版，ndwiki-cn 的 git submodule（`wiki-zh-hant/`） |
+
+简体页面更新后，`sync-zh-hant.py --push` 自动转换并推送至 ndwiki-hant。
+
 ## 快速开始
 
 **在线阅读**：[neuroxyz.cn/wiki](https://neuroxyz.cn/wiki/) 提供部署版本，无需安装任何软件。
