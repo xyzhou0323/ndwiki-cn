@@ -45,3 +45,6 @@
 
 
 
+2026-06-12T19:50:00 | ingest: Green et al. (2020) - Teaching and Researching with a Mental Health Diagnosis → wiki/works/GreenEtAl2020.md
+2026-06-12T19:50:00 | archive: Heraty et al. source → sources/papers/; Green et al. source → sources/papers/ + sources/2026-06-12/
+2026-06-12T19:50:00 | sync: zh-hant submodule updated (3 pages)

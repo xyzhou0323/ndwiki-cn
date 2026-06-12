@@ -1,0 +1,3 @@
+[submodule "wiki-zh-hant"]
+	path = wiki-zh-hant
+	url = https://github.com/xyzhou0323/ndwiki-hant.git
