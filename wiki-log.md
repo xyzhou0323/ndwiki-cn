@@ -4,13 +4,13 @@
 
 - 14 个 `wiki/06-测试/` 文件（简称）去除连字符，如 `AQ-Adol.md` → `AQAdol.md`
 - 简体 32 + 繁体 32 个文件的 wikilink 引用同步更新
-- `wiki-schema.md`、`wiki/CONTRIBUTING.md` 命名规范补充测试页规则
+- `wiki-schema.md`、`wiki/COLLABORATING.md` 命名规范补充测试页规则
 
 ## [2026-06-13] style | 统一 author 文件命名：去连字符，CamelCase
 
 - 82 个 `wiki/authors/` 文件从 `First-Last.md` 重命名为 `FirstLast.md`
 - 所有 wikilink 引用（94 个文件）同步更新
-- `wiki-schema.md`、`wiki/CONTRIBUTING.md` 命名规范相应调整
+- `wiki-schema.md`、`wiki/COLLABORATING.md` 命名规范相应调整
 
 ## [2026-06-10] tool | 自动计数系统：update-counts.py + {{KEY}} 占位符
 

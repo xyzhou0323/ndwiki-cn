@@ -44,7 +44,7 @@ wiki-log.md              # 操作日志
 
 ## 协作
 
-欢迎贡献！详细规范见 [CONTRIBUTING.md](CONTRIBUTING.md)。大致流程：
+欢迎贡献！详细规范见 [COLLABORATING.md](COLLABORATING.md)。大致流程：
 
 1. Fork 本仓库，在 `wiki/` 中新建或编辑页面
 2. 遵循 [[wiki-schema|Wiki Schema]] 的命名规范、Frontmatter 和标签体系
