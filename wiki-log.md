@@ -1,5 +1,19 @@
 # Change Log
 
+## [2026-06-13] sync | 繁体全量页面补 needs-review: true
+
+- 原因：`sync-zh-hant.py --full` 全量模式不添加标记，导致 229 页中仅 2 页有 `needs-review: true`
+- 操作：一次性脚本将 227 个缺失页面补上 `needs-review: true`（排除 COLLABORATING.md 和 README.md）
+- 现在所有繁体 wiki 页面均已标记待审校
+
+## [2026-06-13] docs | 署名引导 + 繁体线上地址更新
+
+- 6 个文件新增"署名"章节，引导合作者在贡献页面署入个人网站链接
+  - `COLLABORATING.md`（总库 + wiki 简体 + wiki-zh-hant 繁体）
+  - `README.md`（总库 + wiki 简体 + wiki-zh-hant 繁体）
+- 繁体版线上部署地址更新：`neuroxyz.cn/wiki/zh-hant/` → `neuroxyz.cn/wiki-hant/`
+  - `wiki-zh-hant/COLLABORATING.md`、`wiki-zh-hant/README.md`
+
 ## [2026-06-13] content | 批量补充 description frontmatter（zh-hans + zh-hant）
 
 - zh-hans：9 个 author 页新增 `description` 字段（DinahMurray, HarveyBlume, KristenGillespieLynch, LauraTisoncik, LydiaXZBrown, ShainMNeumeier, SharondaVanport, SusanMRivera, WennLawson）

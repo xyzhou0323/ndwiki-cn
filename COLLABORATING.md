@@ -60,6 +60,22 @@ updated: YYYY-MM-DD
 4. 提交前确保 wikilinks 指向的页面存在
 5. 提交 PR 到 `main` 分支，描述变更内容
 
+## 署名
+
+如果你新建或大幅编辑了某个页面，欢迎在页面底部署名，可链接到你的个人网站、GitHub 主页或社交媒体：
+
+```markdown
+> 贡献者：[你的名字](https://your-website.com)
+```
+
+多人贡献时用顿号分隔：
+
+```markdown
+> 贡献者：[张三](https://zhangsan.dev)、[李四](https://github.com/lisi)
+```
+
+署名行放在页面正文末尾、wikilinks 之前。此字段非强制——署名与否由贡献者自行决定。
+
 ## 繁体中文版本
 
 详见 README 协作章节。`zh-hant`（ISO 15924）涵盖所有繁体使用者（台湾、香港、澳门等），不预设地区。地区术语差异通过术语对照表处理。

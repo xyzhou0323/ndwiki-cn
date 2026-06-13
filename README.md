@@ -112,6 +112,10 @@ git clone https://github.com/xyzhou0323/ndwiki-hant.git
 - **状态同步**：`llm-wiki sync` 追踪变更状态
 - **日志**：每次操作追加至 `wiki-log.md`
 
+## 署名
+
+欢迎合作者在贡献的页面底部署名，可链接到个人网站。格式见 [COLLABORATING.md#署名](COLLABORATING.md#署名)。
+
 ## 学分
 
 初始内容由 NeuroXYZ 团队整理，后续由 AI 协助扩展与维护。
