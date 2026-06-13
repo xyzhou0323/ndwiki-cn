@@ -67,8 +67,9 @@ updated: YYYY-MM-DD
 | 页面类型 | 格式 | 示例 |
 |----------|------|------|
 | 概念页 | 中文，无分隔符 | `神经多样性教育.md` |
-| 作者页 | `FirstName-LastName.md` | `Robert-Chapman.md` |
+| 作者页 | `FirstNameLastName.md`（CamelCase，无连字符） | `RobertChapman.md` |
 | 著作页 | `AuthorYear.md` | `Chapman2023.md` |
+| 测试页 | 缩写（CamelCase，无连字符） | `AQChild.md`、`RAADSR.md` |
 
 - 文件名避免特殊符号 `# ? / \ : * " < > |`
 - 英文概念保留英文原名，中文译名放入 `aliases`
