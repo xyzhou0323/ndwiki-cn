@@ -50,9 +50,9 @@ updated: 2026-06-06
 
 - 中文内容使用连续中文作为文件名（如 `神经多样性教育.md`），不加分词符
 - 英文概念保留英文原名，中文译名作为别名
-- 作者页以 CamelCase 命名，不保留连字符（如 `RobertChapman.md`）
-- 著作页以"作者-年份-中文标题"格式命名
-- 测试页以缩写 CamelCase 命名，不保留连字符（如 `AQChild.md`）
+- 作者页以连字符命名（如 `Robert-Chapman.md`）
+- 著作页以 `AuthorYear.md` 格式命名（如 `Chapman2023.md`）
+- 测试页以连字符命名（如 `AQ-Child.md`、`RAADS-R.md`）
 
 ## 必需 Frontmatter
 
@@ -62,7 +62,7 @@ updated: 2026-06-06
 ---
 title: 页面标题
 description: 一句话摘要
-aliases: [别名列表]
+aliases: [英文/缩写, 中文别名, ...]  ← 首个为英文或缩写（决定部署 URL）
 tags: [类型标签, 领域标签, ...]
 sources: [YYYY-MM-DD/源文件名]
 created: YYYY-MM-DD

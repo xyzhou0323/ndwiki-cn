@@ -12,7 +12,7 @@
 ---
 title: 页面标题
 description: 一句话摘要
-aliases: [别名1, 别名2]
+aliases: [英文/缩写, 中文别名, ...]  ← 首个为英文或缩写（部署 URL）
 tags: [类型标签, 领域标签]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -22,7 +22,7 @@ updated: YYYY-MM-DD
 ### 命名规则
 
 - 概念页：中文 kebab-case（如 `神经多样性教育.md`）
-- 作者页：`FirstName-LastName.md`（如 `Robert-Chapman.md`）
+- 作者页：`FirstName-LastName.md`（连字符分隔，如 `Robert-Chapman.md`）
 - 著作页：`AuthorYear.md`（如 `Chapman2023.md`）
 
 ### 交叉引用

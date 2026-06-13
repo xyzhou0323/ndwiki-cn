@@ -1,5 +1,38 @@
 # Change Log
 
+## [2026-06-13] rename | 测试页恢复连字符命名（CamelCase → hyphenated）
+
+- 14 个测试文件从 `AQChild.md` → `AQ-Child.md`、`RAADSR.md` → `RAADS-R.md` 等
+- 全站 wikilink 引用更新：64 个文件
+- 文档同步：wiki/COLLABORATING.md、wiki-schema.md
+
+## [2026-06-13] rename | 作者页恢复连字符命名（CamelCase → hyphenated）
+
+- 84 个 author 文件从 `FirstNameLastName.md` → `FirstName-LastName.md`（zh-hans + zh-hant 共 168 文件）
+- 全站 wikilink 引用更新：264 个文件中的 `[[RobertChapman]]` → `[[Robert-Chapman]]`
+- zh-hant `zh-hans` 链接修复：227 个文件反斜杠 `\` → 正斜杠 `/`
+- 3 处文档同步更新：wiki/COLLABORATING.md、COLLABORATING.md、wiki-schema.md
+
+## [2026-06-13] rename | 残障模型术语统一：模式 → 模型（zh-hans + zh-hant）
+
+- `残障的社会模式` → `残障的社会模型`，`残障肯定模式` → `残障肯定模型`
+- 原因：伞页面"残障模型"下 12 个子模型 10 个用"模型"，仅社会/肯定用"模式"——不一致
+- 4 文件改名 + 全站 plain text + wikilink（zh-hans 50+ 页、zh-hant 同步）
+- 保留"社会模式"/"肯定模式"为各自 alias
+
+## [2026-06-13] rename | 病理学范式 → 常态范式（zh-hans + zh-hant）
+
+- 页面从 `病理学范式` / `病理學範式` 改名为 `常态范式` / `常態範式`
+- 原因：Chapman & Fletcher-Watson (2025) 将该范式重新概念化为"常态范式"，页内对比表已在用新名
+- 全站 wikilink `[[病理学范式]]` → `[[常态范式]]`（zh-hans 50+ 页、zh-hant 同步）
+- 保留"病理学范式"为 alias，用于术语辨析和历史引用
+- zh-hant `zh-hans` frontmatter 字段同步更新
+
+## [2026-06-13] fix | 作者页 title 连字符 + 命名规则统一
+
+- 三处 title 连字符修正（zh-hans + zh-hant 共 6 页）：`Judy-Singer` → `Judy Singer`、`Steve-Silberman` → `Steve Silberman`、`Nick-Walker` → `Nick Walker`
+- 总库 COLLABORATING.md 作者页命名规则修正：`FirstName-LastName.md` → `FirstNameLastName.md`（CamelCase），与 wiki/COLLABORATING.md 及实际文件一致
+
 ## [2026-06-13] sync | 繁体全量页面补 needs-review: true
 
 - 原因：`sync-zh-hant.py --full` 全量模式不添加标记，导致 229 页中仅 2 页有 `needs-review: true`
