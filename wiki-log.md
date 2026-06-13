@@ -1,5 +1,14 @@
 # Change Log
 
+## [2026-06-13] content | 批量补充 description frontmatter（zh-hans + zh-hant）
+
+- zh-hans：9 个 author 页新增 `description` 字段（DinahMurray, HarveyBlume, KristenGillespieLynch, LauraTisoncik, LydiaXZBrown, ShainMNeumeier, SharondaVanport, SusanMRivera, WennLawson）
+- zh-hant：同步补充 1 个概念页（神經多樣性運動史）+ 9 个 author 页的 `description` 字段
+
+## [2026-06-13] content | 神经多样性运动史：补充缺失的 description frontmatter
+
+- `wiki/03-历史脉络/神经多样性运动史.md` 新增 `description` 字段，与其余页面一致
+
 ## [2026-06-13] style | 统一测试文件命名：去连字符，CamelCase
 
 - 14 个 `wiki/06-测试/` 文件（简称）去除连字符，如 `AQ-Adol.md` → `AQAdol.md`
