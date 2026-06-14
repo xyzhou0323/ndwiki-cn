@@ -22,7 +22,14 @@ SRC_DIR = WIKI_ROOT / "wiki"
 DST_DIR = WIKI_ROOT / "wiki-zh-hant"
 STATE_FILE = WIKI_ROOT / ".llm-wiki" / "zh-hant-state.json"
 
-converter = opencc.OpenCC("s2t.json")  # Simplified → Traditional
+converter = opencc.OpenCC("s2t")  # Simplified → Traditional
+
+# Files in wiki-zh-hant/ with hant-original content — never overwrite by auto-conversion.
+# These exist in both repos but the hant version is manually authored, not s2t from zh-hans.
+HANT_ORIGINAL = {
+    "COLLABORATING.md",
+    "README.md",
+}
 
 
 def to_hant(path: str) -> str:
@@ -144,6 +151,11 @@ def get_current_commit() -> str:
 
 def sync_file(simplified_rel: str, mark_review: bool = False, dry_run: bool = False):
     """Convert one page and write to zh-hant."""
+    if simplified_rel in HANT_ORIGINAL:
+        if not dry_run:
+            print(f"  SKIP {simplified_rel} (hant-original, manually maintained)")
+        return
+
     src_path = SRC_DIR / simplified_rel
     if not src_path.exists():
         return
@@ -165,6 +177,9 @@ def sync_file(simplified_rel: str, mark_review: bool = False, dry_run: bool = Fa
 
 def remove_file(simplified_rel: str, dry_run: bool = False):
     """Remove the corresponding zh-hant page."""
+    if simplified_rel in HANT_ORIGINAL:
+        return  # never delete hant-original files
+
     dst_path = Path(hant_filename(simplified_rel))
     if dst_path.exists():
         if dry_run:

@@ -1,5 +1,20 @@
 # Change Log
 
+## [2026-06-14] sync | 全量重建繁体中文版 (zh-hant)
+
+- 从当前简中内容全量转换 232 页至 `wiki-zh-hant/`
+- 新增 `TEMPLATE.md` 和 `ChapmanFletcherWatson2026.md` 至 hant 版
+- 修复 `sync-zh-hant.py` 中 OpenCC 参数 (`s2t.json` → `s2t`)
+- 恢复被覆盖的 hant 原创文件：`COLLABORATING.md`（繁體中文協作者指南）、`README.md`
+- 添加 `HANT_ORIGINAL` 排除列表防止未来同步覆盖 hant 专属内容
+
+## [2026-06-14] polish | 擦亮 14 个作品页 description 字段
+
+- 移除 description 中机械重复的首行标题（如 "Botha et al. (2024) - 神经多样性的集体起源 是..."）
+- 改为自然中文陈述句，使 description 能独立作为 HTML meta description
+- 涉及文件：BothaEtAl2024, ChapmanCarel2022, Constantino2018, DempseyEtAl2019, HeasmanGillespie2019, MantzalasEtAl2024, PearsonEtAl2026, Raymaker2020, ReaEtAl2024, RosqvistEtAl2020, SarrEtAl2024, StenningRosqvist2021, ZanevaEtAl2024, Silberman2015
+- llm-wiki sync 已执行
+
 ## [2026-06-13] rename | 测试页恢复连字符命名（CamelCase → hyphenated）
 
 - 14 个测试文件从 `AQChild.md` → `AQ-Child.md`、`RAADSR.md` → `RAADS-R.md` 等

@@ -65,7 +65,13 @@
       "Bash(python -c \"import fitz; doc=fitz.open\\('d:/llm-wiki-project/sources/heasman-gillespie-2018-neurodivergent-intersubjectivity-distinctive-features-of-how-autistic-people-create-shared.pdf'\\); print\\(f'Pages: {len\\(doc\\)}'\\); f=open\\('d:/llm-wiki-project/_heasman_extract.txt','w',encoding='utf-8'\\); [f.write\\(f'--- PAGE {i+1} ---\\\\n{page.get_text\\(\\)}\\\\n\\\\n'\\) for i,page in enumerate\\(doc\\)]; f.close\\(\\); print\\('Done'\\)\")",
       "Bash(python -c \"import fitz; doc=fitz.open\\('d:/llm-wiki-project/sources/nihms359888.pdf'\\); print\\(f'Pages: {len\\(doc\\)}'\\); f=open\\('d:/llm-wiki-project/_npaper_extract.txt','w',encoding='utf-8'\\); [f.write\\(f'--- PAGE {i+1} ---\\\\n{page.get_text\\(\\)}\\\\n\\\\n'\\) for i,page in enumerate\\(doc\\)]; f.close\\(\\); print\\('Done'\\)\")",
       "Bash(python -c \"import fitz; doc=fitz.open\\('d:/llm-wiki-project/sources/stenner-et-al-2025-using-q-methodology-a-group-of-neurodivergent-neurodiversity-researchers-ask-what-is-the.pdf'\\); print\\(f'Pages: {len\\(doc\\)}'\\); f=open\\('d:/llm-wiki-project/_stenner_extract.txt','w',encoding='utf-8'\\); [f.write\\(f'--- PAGE {i+1} ---\\\\n{page.get_text\\(\\)}\\\\n\\\\n'\\) for i,page in enumerate\\(doc\\)]; f.close\\(\\); print\\('Done'\\)\")",
-      "Bash(python -c \"import fitz; doc=fitz.open\\('d:/llm-wiki-project/sources/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf'\\); print\\(f'Pages: {len\\(doc\\)}'\\); f=open\\('d:/llm-wiki-project/_pearson_extract.txt','w',encoding='utf-8'\\); [f.write\\(f'--- PAGE {i+1} ---\\\\n{page.get_text\\(\\)}\\\\n\\\\n'\\) for i,page in enumerate\\(doc\\)]; f.close\\(\\); print\\('Done'\\)\")"
+      "Bash(python -c \"import fitz; doc=fitz.open\\('d:/llm-wiki-project/sources/pearson-et-al-2026-it-s-like-calling-short-people-vertically-challenged-language-and-terminology-preferences-among.pdf'\\); print\\(f'Pages: {len\\(doc\\)}'\\); f=open\\('d:/llm-wiki-project/_pearson_extract.txt','w',encoding='utf-8'\\); [f.write\\(f'--- PAGE {i+1} ---\\\\n{page.get_text\\(\\)}\\\\n\\\\n'\\) for i,page in enumerate\\(doc\\)]; f.close\\(\\); print\\('Done'\\)\")",
+      "Bash(python3 \"d:/tmp/fix_links.py\")",
+      "Bash(python -X utf8 -c \"print\\(repr\\(open\\('wiki/01-基础/残障模型.md','rb'\\).read\\(\\)[:60]\\)\\)\")",
+      "Bash(python -X utf8 _add_subjects.py)",
+      "Bash(rm _add_subjects.py _dry_run_output.txt _dry_run2.txt _apply_output.txt _spotcheck.txt _quality_check.txt _works_check.txt _works_preview.txt _works_needs.txt _missed.txt _final_check.txt)",
+      "Bash(ls _*)",
+      "Bash(python -c \"import opencc; help\\(opencc.OpenCC.__init__\\)\")"
     ]
   }
 }
