@@ -258,7 +258,7 @@ def main():
 
     # Convert changed/new pages
     for rel in pages:
-        sync_file(rel, mark_review=(not full), dry_run=dry_run)
+        sync_file(rel, mark_review=True, dry_run=dry_run)
 
     # Remove deleted pages
     for rel in deleted:
