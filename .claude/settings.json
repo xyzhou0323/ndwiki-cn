@@ -71,7 +71,9 @@
       "Bash(python -X utf8 _add_subjects.py)",
       "Bash(rm _add_subjects.py _dry_run_output.txt _dry_run2.txt _apply_output.txt _spotcheck.txt _quality_check.txt _works_check.txt _works_preview.txt _works_needs.txt _missed.txt _final_check.txt)",
       "Bash(ls _*)",
-      "Bash(python -c \"import opencc; help\\(opencc.OpenCC.__init__\\)\")"
+      "Bash(python -c \"import opencc; help\\(opencc.OpenCC.__init__\\)\")",
+      "Bash(python .llm-wiki/sync-zh-hant.py)",
+      "Bash(python ../.llm-wiki/update-counts.py)"
     ]
   }
 }

@@ -1,5 +1,31 @@
 # Change Log
 
+## [2026-06-16] fix | 修正 ZanevaEtAl2024 主题分类错漏
+
+- 原页面将论文前置引言"什么是神经多样性？"误列为"主题 1"——该节在原文中无精选文献，不属 9 个编号主题
+- 原文最后两个主题（8: 稳健理论与方法的需求 / 9: 开放与参与式工作的融合）被错误合并为一个"主题 9"并塞入 4 篇文献——已拆分为独立主题
+- 补充原文的两个分组标题：当前议题、改善领域
+- 主题重新编号（1–9），Related 节中主题引用同步修正
+
+## [2026-06-16] ingest | Gernsbacher & Yergeau (2019) 论文摄入 + 2 位新作者 + 知识扩充
+
+- 新建 [[GernsbacherYergeau2019|Gernsbacher & Yergeau (2019)]]：系统性驳斥 ToM 缺陷假说（五重实证失败框架），明确引用 DEP 为理论框架
+- 新建 [[Morton-Ann-Gernsbacher]]：威斯康星大学心理学教授，ToM 方法论批判者，为 DEP 提供实证支持
+- 新建 [[Melanie-Yergeau]]：密歇根大学孤独谱系修辞学者，《Authoring Autism》(2018) 作者，neuroqueer 理论共振者
+- 充实 [[双向同理心问题]]：新增"对传统 ToM 缺陷假说的系统性实证否定"小节，补充 GernsbacherYergeau2019 的三层论证
+- 充实 [[Harvey-Blume]]：修正生卒年
+- 更新知识地图：作者 84→86，作品 73→74，总数 233→235
+- 更新 [[知识地图]]、[[双向同理心问题]]、[[Morton-Ann-Gernsbacher]]、[[Melanie-Yergeau]]、[[GernsbacherYergeau2019]] frontmatter updated 字段
+
+## [2026-06-16] enrich | 基于"神经多样性诞生"社群历史源文档充实 5 个页面
+
+- 充实 [[Harvey-Blume]]：补充两次关键出版（1997/1998）、对概念起源的诚实归属（从未归于个人）、与Singer叙事的关键矛盾、"社群桥梁"角色重定位
+- 充实 [[Laura-Tisoncik]]：补充ISNT作为颠倒凝视的创造性抗争、在运动多元实践谱系中的定位、与Harvey Blume 1998报道的关联
+- 充实 [[神经多样性运动史]]：扩展前史段（1992 ANI创立）、详细化概念集体诞生段（Tony Langdon 1996帖子原文、Blume 1997/1998出版）、新增"术语创造者叙事的形成与修正"小节
+- 充实 [[Shain-M-Neumeier]]：补充ND-lite概念详情、JRC废除运动贡献、概念学术化路径
+- 充实 [[Sharon-daVanport]]：补充AWN交叉性女权主义组织原则、运动内部多样性发展定位
+- llm-wiki sync 已执行
+
 ## [2026-06-14] sync | 全量重建繁体中文版 (zh-hant)
 
 - 从当前简中内容全量转换 232 页至 `wiki-zh-hant/`
