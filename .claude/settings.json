@@ -76,7 +76,11 @@
       "Bash(python ../.llm-wiki/update-counts.py)",
       "Bash(python .llm-wiki/renumber-moc.py)",
       "Bash(git -C d:/llm-wiki-project diff --name-only HEAD -- wiki/)",
-      "Bash(git -C d:/llm-wiki-project ls-files --others --exclude-standard -- wiki/)"
+      "Bash(git -C d:/llm-wiki-project ls-files --others --exclude-standard -- wiki/)",
+      "Read(//c/Users/xyzho/**)",
+      "Bash(find /d -maxdepth 2 -name \"wiki-hant\" -type d)",
+      "Bash(find . -maxdepth 3 -name \"*hant*\" -type d)",
+      "Bash(find . -maxdepth 3 -name \"*繁*\" -type d)"
     ]
   }
 }
