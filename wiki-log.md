@@ -1,5 +1,13 @@
 # Change Log
 
+## [2026-06-17] enrich | 信息大放送词源补充：1978 工程 → 科幻文学 → 孤独谱系社群
+
+- 新增"词源"小节：info-dump 最早记录于 1978 年 Southeastcon Region 3 Conference
+- 补充科幻/奇幻文学圈采纳脉络：Prucher (2007) *Brave New Words: The Oxford Dictionary of Science Fiction* 定义 + Waldrop (1990) / Interzone (1996) 引用原文
+- 突出孤独谱系社群的重新语义化：从需要避免的"写作缺陷"到正面的沟通实践
+- 原有学术脉络独立成节："在孤独谱系社群中的学术脉络"
+- 简繁双版已同步，frontmatter updated → 2026-06-17
+
 ## [2026-06-16] ingest | Aiston et al. (2025) 论文摄入 + 3 位新作者 + 信息大放送概念页
 
 - 新建 [[信息大放送]]（04-实践应用）：孤独谱系社群的兴趣驱动沟通实践——围绕专注兴趣分享大量详细信息，在亲和空间中被视为知识贡献而非"话题固着"
