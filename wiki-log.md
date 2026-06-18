@@ -7,6 +7,14 @@
 - Sharon-daVanport.md：AWN 外部链接
 - Kapp2020.md：第11章 AWN 外部链接
 
+## [2026-06-18] enrich | 信息大放送词源补充：OED 权威来源验证
+
+- 以 OED（2009年首次收录）替代 Wikipedia 作为 1978 年首次记录的验证来源
+- 新增 OED 正式词源（info- + dump n.4, cf. data dump）与定义
+- 补充 1978 年引用的完整原文
+- 新增两条 OED 引用文献：Iain Banks *The Crow Road* (1992) 与 *The Guardian* (2004)
+- 移除"转引自Wikipedia, 未查证原文"声明
+
 ## [2026-06-17] refactor | 运动史页面去冗余重排
 
 - 删除"前史：在线社群的诞生（1992—1996）"独立章节——ANI/InLv 内容并入第一阶段对应小节
