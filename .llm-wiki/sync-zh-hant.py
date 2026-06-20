@@ -50,7 +50,7 @@ def convert_content(text: str, simplified_rel: str) -> str:
     text = converter.convert(text)
 
     # Add/update zh-hans in frontmatter
-    rel_no_ext = str(Path(simplified_rel).with_suffix(""))
+    rel_no_ext = str(Path(simplified_rel).with_suffix("")).replace("\\", "/")
     zh_link = f"[[wiki/{rel_no_ext}]]"
 
     if "zh-hans:" in text:

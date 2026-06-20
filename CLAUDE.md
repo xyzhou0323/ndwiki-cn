@@ -54,7 +54,7 @@ detailed behavioral rules specific to this vault.
 
 ## Rules
 
-1. Always read `wiki-purpose.md` and `wiki-schema.md` before any operation
+1. Always read `wiki-purpose.md` and `wiki-schema.md` before any operation; consult `wiki/术语翻译对照表.md` for terminology choices when writing or editing pages
 2. Never modify files in `sources/` — they are immutable raw inputs
 3. Use `[[wikilinks]]` for cross-references between wiki pages
 4. After every operation, append an entry to `wiki-log.md` **and** run `llm-wiki sync`
