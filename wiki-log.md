@@ -1,5 +1,39 @@
 # Change Log
 
+## [2026-06-23] rename | 全局替换：孤独谱系倦怠 → 孤独谱系耗竭
+
+- 22 个文件跨全库替换（不含 alias 保留）
+- 繁体版同步 + 旧繁体文件名移除
+- 单独出现的"倦怠"未改动（保留"职业倦怠"等独立概念）
+
+## [2026-06-23] update | 更新 Robert Chapman 作者页
+
+- 根据 IASH 资料页更新：现任 Sheffield Hallam 大学高级讲师（原误为杜伦大学）、新增此前任职（Bristol、KCL、Essex）
+- 新增 IASH 2023 提名研究员身份，与 Fletcher-Watson 合著 VS Intro 的项目背景
+- 新增 Critical Neurodiversity 博客
+
+## [2026-06-23] update | 扩充 Sue Fletcher-Watson 作者页
+
+- 根据爱丁堡大学官方资料页扩充：职位（发展心理学教授、包容与社群平等学院院长）、所属中心（Salvesen Mindroom、EdInMIND 实验室）
+- 新增研究方向与项目：LEANS、NEST、TEBC、双语研究、AMBER、MHDSS、CoMorMent、重复行为试验
+- 更新核心贡献：参与式研究方法论在其实证研究中的应用
+- 更新 Related 链接
+
+## [2026-06-23] update | 同步繁体版术语翻译对照表
+
+- 术语翻译对照表（简体）更新 → 繁体版自动同步
+- 变更项：Disability 别名补"残废"、新增 Bipolar Disorder 行、新增 Crip Theory 行、Ableism/Impairment 改 wikilink、新增"描述人时"考虑要点、移除实践与体验中重复的 Autistic Burnout、批判分析别名补全
+
+## [2026-06-21] update | 更新 README 页面统计与目录名
+
+- 页面总数 228→241，各分区计数同步更新
+- 修正目录名：04-体验与实践 → 04-实践应用
+
+## [2026-06-21] update | 补全双相障碍术语条目
+
+- 术语翻译对照表：补全 Bipolar Disorder 的定义、其他中文译名（躁郁症、双相情感障碍）及同义英文（BD, Manic-Depressive Illness）
+- 添加页面 wikilink
+
 ## [2026-06-20] audit | 术语一致性审计完成
 
 - 全库 11 组术语对照审核完成：健全主义/参与式研究/刻板行为/病理学范式/神经发散(保留)；自我刺激/能力主义/病理范式(用户手动修)；社交伪装/双重共情问题(agent 修)
