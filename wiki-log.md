@@ -1,5 +1,203 @@
 # Change Log
 
+## [2026-06-24] fix | Damian-Milton zh-hant wikilink 目标修正
+
+- [[Damian-Milton]] zh-hant：6 处 wikilink 目标从简中页面名改为实际存在的 zh-hant 页面名
+  - `[[双向同理心问题|雙向同理心問題]]` → `[[雙向同理心問題]]`（2处）
+  - `[[参与式行动研究|參與式行動研究]]` → `[[參與式行動研究]]`（2处）
+  - `[[神经多样性范式|神經多樣性範式]]` → `[[神經多樣性範式]]`
+  - `[[常态范式|常態範式]]` → `[[常態範式]]`
+
+## [2026-06-24] convert | Damian-Milton 作者页 opencc 繁简转换
+
+- [[Damian-Milton]]：使用 opencc s2twp 转换为 `wiki-zh-hant/authors/Damian-Milton.md`
+- 保留 wikilink 目标为简中页面名，显示文本转为繁体
+- 修正 opencc 错误：高階講師→高級講師、正規化→範式（3处）
+- 添加 `zh-hans` 和 `needs-review` frontmatter
+
+## [2026-06-24] simplify | DEP 认识论基础与范式冲突精简
+
+- [[双向同理心问题]]：`认识论基础与范式冲突` 从 5 个子标题约 40 行压缩为 2 段约 7 行，删去 Livingston 批判细节、定性-定量互补列表，保留建构主义根源、范式冲突/不可通约性、认知不公等核心论点的简要提及
+- zh-hant 同步
+
+## [2026-06-24] sync | 同步用户手动编辑到 zh-hant
+
+- [[双向同理心问题]] zh-hant 同步用户措辞修改：`核心定義`→`定義`、`本人明確指出`→`指出`、`重要澄清`→`澄清`、`理論洞见指导`→`理論指导`、`知情洞见在`→`知情在`、Milton2022 段落改写（`重新框架`→`重新定義`、`認可`→`識别`）、`核心貢獻`→`貢獻`
+- Damian-Milton 简中+zh-hant 术语已在之前同步中处理
+
+## [2026-06-24] enrich | DEP页面实质性引用Milton2012和Milton2022
+
+- [[双向同理心问题]] 新增四处 Milton2012/2022 内容引用：
+  - **核心定义**：Milton2012 的三个关键点（双向性、非孤独谱系者的"自然态度"违背、孤独谱系者的日常创伤）、NT"同理心"很不准确（wildly inaccurate）
+  - **夺回"同理心"**：DEP 并非首创双向沟通观念——Sinclair (1993) 和 Hacking (2009) 已被 Milton2012 引用为先驱，DEP 的贡献在于正式理论化并命名
+  - **实证证据**：Milton2022 十年回顾的多学科关键发现（薄片感知偏见、误解经历与心理健康、友谊期待差异）及四项研究空白
+  - **理论意义**：Milton2022 的重新框架（从"社交沟通病症"到"发育差异与具身体验"）、BPS 系列研讨会（15 位研究者、500 名参与者）
+- zh-hant 同步更新
+
+## [2026-06-24] edit | DEP页面引用Milton原初论文；Milton作者页统一术语
+
+- [[双向同理心问题]]：正文中 "Milton (2012)" 和 "Milton et al., 2022" 改为 wikilink 格式
+- [[Damian-Milton]]（简中+zh-hant）："双 empathy 问题" → "双向同理心问题"，全术语统一
+- zh-hant 同步更新
+
+## [2026-06-24] sync | zh-hant 同步：知识地图更新
+
+- 在 zh-hant `00-知識地圖.md` 和简中 `00-知识地图.md` 中：
+  - 新增作者条目 93 ([[Elizabeth-Kilgallon]]) 和 94 ([[Noah-Sasson]])
+  - 在参考文献中新增 [[KilgallonEtAl2026|Kilgallon et al. (2026)]]
+  - 作者计数从 89 更新为 94
+  - 更新 updated 日期为 2026-06-24
+- zh-hant 作者页（Kristen-Bottema-Beutel, Catherine-Crompton, Damian-Milton）已与简中版本同步
+- 运行 `llm-wiki sync`
+
+## [2026-06-24] enrich | 双向同理心问题页面大幅扩充
+
+- 基于 [[KilgallonEtAl2026|Kilgallon et al. (2026)]] 细读，新增/扩充 8 个板块：
+  - **名称的政治与修辞功能**（新）：DEP 的反讽命名、社会-认知理论的具体去人化主张、对 Livingston 等"误用同理心"批判的回应
+  - **核心主张：概率性框架**（新）：两条概率性主张、"神经文化学习的连续体"、跨神经类型互动可能性的实证
+  - **权力不对称**（新）：社交权力的情境性与关系性、孤独谱系者的结构性无权、社会心理学机制（权力越大→越少理解他人）、交叉性
+  - **"神经类型"的社会建构性**（新）：神经类型 ≠ 生物学同质类别、孤独谱系神经异质性可能更大、共享社会位置而非共享生物标记
+  - **认识论基础与范式冲突**（新）：建构主义根源（社会建构论/符号互动论/现象学/常人方法学）、Kuhn 范式冲突与不可通约性、认知不公与认知暴力、定性-定量互补
+  - **理论建构的迭代性**（新）：多样性构念 = 生产性丰富性、与"执行功能""自我效能"的类比、理论建构的迭代动态
+  - **研究方向与最佳实践**（新）：四条最佳实践、新研究方向
+  - **实践应用**（扩充）：四项具体 DEP 知情干预、对"过早转化"批判的系统回应
+- 扩充 **与传统视角的对比**：对比表（6 维度）、DEP 源于社群内部
+- 扩充 **关键证据**：不一致研究发现的替代解释（4 项）、社会-认知理论预测效度的系统性失败
+- 新增 Related：神经规范性、批判残障理论、参与式行动研究、Damian-Milton
+
+## [2026-06-24] ingest | Kilgallon et al. (2026) — What the Double Empathy Problem Is (and Is Not)
+
+- 摄入 sources/papers/2026-KilgallonEtAl-WhatTheDEPIsAndIsNot.md
+- 新建作品页：[[KilgallonEtAl2026|wiki/works/KilgallonEtAl2026.md]]
+- 新建 5 个作者页：[[Elizabeth-Kilgallon]]、[[Kristen-Bottema-Beutel]]、[[Damian-Milton]]、[[Noah-Sasson]]、[[Catherine-Crompton]]
+- 更新已有作者页：[[Monique-Botha]]（新增著作、更新 sources）、[[Patrick-Dwyer]]（新增贡献节"DEP 概念澄清"、新增著作链接、新增 sources）
+- 扩充 [[双向同理心问题]] 概念页：新增"概念澄清"节（五条核心澄清）、新增 KilgallonEtAl2026 至 Related
+- 知识地图未变（页数：+6 works, +5 authors）
+
+## [2026-06-24] enrich | Kristen Bottema-Beutel 页面大幅扩充
+
+- 新增完整机构路径（Lynch 教育学院 TCS 系）、教育背景（PhD UC Berkeley + MA SFSU + BS Michigan）
+- 新增编辑角色：Autism in Adulthood 副主编、Autism 副编辑
+- 新增学术管理：孤独谱系硕士证书项目主任、课程与教学博士咨询委员会主席
+- 新增 Project AIM 活系统综述/元分析详细描述（4 篇：BMJ 2023, Perspectives 2023, Autism 2024, JCPP in press）
+- 新增反健全中心主义研究（3 篇：Frontiers 2023, LSHSS 2024, Autism 2024）
+- 新增语言概念重构研究（Autism 2025 社论"超越口语/微口语/非口语"）
+- 新增资助表格（5 项：PCORI $13.7M, NIH $3.16M 等）
+- 新增荣誉：ASAN 盟友奖 2023、UC Berkeley 奖学金
+- 新增教学课程列表
+- 新增 zh-hant 作者页（此前不存在）
+- 知识地图条目新增 #92（zh + zh-hant）
+
+## [2026-06-24] enrich | Catherine Crompton 页面大幅扩充
+
+- 职称从"研究者"更正为**高级研究员**（Senior Research Fellow），完整机构路径：Usher 研究所→生物医学、自我与社会中心
+- 新增隶属：Edinburgh Neuroscience、爱丁堡心理健康网络
+- 新增教育背景表格（PhD 2017 + MA 2011，均涉及协作学习与老化认知）
+- 新增研究方向：身体共病（EDS/HSD 2026 BMC Medicine）、开放科学工具（duet R 包 2025）、全球卫生
+- 新增项目（Templeton PI、Co-I 3 项）、数据集（4 个开放数据集）
+- 新增荣誉：Autistica 公众参与奖（2018）
+- 新增合作者：Sue-Fletcher-Watson
+- 新增 zh-hant 作者页（此前不存在）
+- 知识地图条目新增 #91（zh + zh-hant）
+
+## [2026-06-24] enrich | Damian Milton 页面大幅扩充
+
+- 新增完整职称：肯特大学 Tizard 中心智力与发展残障高级讲师，NAS 顾问
+- 新增学术管理角色：PARC 主席
+- 新增研究贡献：双 empathy 问题（DEP）、孤独谱系流动理论（与 Heasman 等）、孤独谱系认知批判三篇
+- 新增编辑贡献：Routledge Handbook 联合主编、Neurodiversity Reader 联合主编
+- 新增学术参与表格（9 项）：4 个期刊编委、3 个学会会员/会士、2 个顾问
+- 新增教学与指导概况
+- 新增 Brett-Heasman、Sara-Ryan 至 Related
+- 新增 zh-hant 作者页（此前不存在）
+- 同步更新知识地图条目（zh + zh-hant，新增 #90）
+
+## [2026-06-24] enrich | Rachel Sarr 页面大幅扩充
+
+- 新增 DClinPsy 学位与博士论文详情（导师：F. Rumball & D. Spain）
+- 新增三篇论文详细描述：Delphi 鉴别诊断共识（BJP, 14 引用, altmetric 27）、ICD-11 CPTSD 评估系统综述（CPP, 11 引用）、少数族裔青年 CAMHS 体验（CCPP）
+- 新增 KCL Pure 主页链接
+- 新增 Debbie-Spain 至 Related
+- 知识地图条目同步更新（zh + zh-hant）
+- zh-hant 作者页同步更新
+
+## [2026-06-24] enrich | Monique Botha 页面大幅扩充
+
+- 机构从 Stirling 更新为**杜伦大学**，职称从研究员更正为**副教授**（Associate Professor）
+- 新增完整资历（Ph.D., MSc, BA(hons)）
+- 新增"社区心理学家"身份定位与"Nothing About Us Without Us"研究理念
+- 新增职业生涯时间线（6 阶段：社会照护从业者→BA→MSc→PhD→PostDoc→副教授）
+- 新增当前 Leverhulme 项目"Fragile Knowledge: Dehumanisation and Interpretation Bias in Autism Research"
+- 新增研究领域：社群连结、去人化与知识生产批判、双 empathy 问题、交叉性与全球 ND
+- 新增"其他代表性发表"表格（7 项）
+- 新增合作者链接：Amy-Pearson, Steven-Kapp, Rosqvist, Heini-Natri
+- 知识地图条目同步更新（zh + zh-hant）
+- zh-hant 作者页同步更新
+
+## [2026-06-24] enrich | Anita Thapar 页面大幅扩充
+
+- 职称更正为**荣誉教授**（Honorary Professor），新增完整资历（MBBCh PhD, FMedSci, FLSW, CBE）
+- 新增"临床科学家"身份定位
+- 新增 Rutter's Child and Adolescent Psychiatry 联合主编（第 6、7 版）——领域权威教材
+- 新增政策角色表格（6 项）：NHS England ADHD 工作组主席、威尔士 ND 部长咨询组联合主席等
+- 知识地图条目同步更新（zh + zh-hant）
+- zh-hant 作者页同步更新
+
+## [2026-06-24] enrich | Anders Nordahl-Hansen 页面大幅扩充
+
+- 新增全名 Anders Johan Nordahl-Hansen
+- 新增学术管理角色：DeveLeP 研究组组长、特殊教育学科负责人
+- 新增研究兴趣（10 项）：VR 干预、替代沟通（ASK/AAC）、婴幼儿发展、孤独谱系与媒体、智力障碍、定量方法、开放科学、数字社会
+- 新增编辑角色表格（8 项期刊编委/副主编/特刊编辑）
+- 新增教学概况（含 6 名在读 PhD + 4 名已毕业 PhD）
+- 新增学术背景时间线（6 阶段）
+- 新增国际合作（10 所机构）
+- 新增荣誉与学术服务
+- 新增 Hannah-Rea 至 Related
+- 同步更新知识地图条目（zh + zh-hant）
+- 同步更新 zh-hant 作者页
+
+## [2026-06-24] enrich | Amy Pearson 页面大幅扩充
+
+- 职称从"研究员"更正为**助理教授**（Assistant Professor in Psychology）
+- 新增四大研究方向：孤独谱系掩蔽（含《Autistic Masking》专著 2023）、人际暴力与受害（5 篇论文）、神经多样性与术语（Q 方法研究 2025）、社会模式（2025 Autism 社论 + 2024 Routledge 章节）
+- 新增"其他代表性发表"表格（6 项）
+- 更新 Related 链接：Kieran-Rose, Steven-Kapp, Rosqvist
+- 移除 ORCID
+- 同步更新知识地图条目（zh + zh-hant）
+- 同步更新 zh-hant 作者页
+
+## [2026-06-24] sync | CarmelChapmanWright2026 措辞同步至 hant
+
+- "但其核心洞见完全适用于" → "实际上也适用于"（与神经多样性的关联段）
+
+## [2026-06-24] sync | 残障正义简中手动措辞同步至 hant
+
+- 开场段精简：移除 hant 版多余的扩展句（"人具有多元性..."），与简中一致
+- 自我功课 → 自我课题（2 处，含循环箭头图示）
+- ND 运动中的"Nothing About Us Without Us" → 代表性争论
+
+## [2026-06-24] create | 新建 残障正义 页面 → 移至 02-批判分析
+
+- 根据 Disability Activist Collective (2009/2012) 框架笔记和 Patty Berne 等人十大原则创建
+- 包含 DJ 模型（三项核心基础 + 十一项组成元素）、权利/正义区分、十大原则、与其他残障模型和 ND 范式的关系
+- 与批判残障理论、残障模型、CarmelChapmanWright2026 等已有页面建立双向链接
+- 经讨论移至 02-批判分析（与批判残障理论并列的批判框架），知识地图二新增第 16 项，总页面数更新为 242
+- 新增"两种含义"章节（运动框架 vs Piepzna-Samarasinha 分析概念），添加 DJ 博客链接
+- 根据 Berne (2018) WSQ 原文大幅扩充十大原则内容，新增"愿景"引用段，归档来源至 sources/2026-06-24/
+- 同步措辞修订至 zh-hant（含十一项元素简化、多处措辞优化）
+- 新增"在神经多样性研究中的实践"小节：AASPIRE 认同 DJ 框架、Srinivasan (2025) 将 DJ 列为 ND 2.0 核心理论资源
+- AASPIRE、Srinivasan2025 页面添加[[残障正义]]双向链接（双语）
+- 批判残障理论页面 DJ 章节：补充运动框架层面的介绍（Berne 十大原则、DJ 模型），添加[[残障正义]]双向链接（双语）
+- 全库链接补全：9 个页面（神经多样性范式、融合教育、CarmelChapmanWright2026、ND-16type、Nick-Walker、Julie-Mary-Carmel、Sian-Chapman、Peter-Wright、残障正义）添加 [[残障正义]] 双向链接，双语同步
+
+## [2026-06-24] create | 新建 AASPIRE 页面（04-实践应用）
+
+- 根据 AASPIRE 官网内容创建组织页面：背景、使命、合作伙伴关系、核心研究领域、方法论贡献
+- 链接至 Christina-Nicolaidis、Dora-Raymaker、参与式行动研究、NicolaidisEtAl2011、Raymaker2020 等已有页面
+- 更新知识地图：四、实践应用 新增第 12 项，总页面数更新为 241
+- 同步至 zh-hant（含 AASPIRE 和残障正义两个新页面），清理 hant 中多余的简中命名目录（04-实践应用/、05-诊断与现象/）
+
 ## [2026-06-23] rename | 全局替换：孤独谱系倦怠 → 孤独谱系耗竭
 
 - 22 个文件跨全库替换（不含 alias 保留）
@@ -278,3 +476,11 @@
 2026-06-12T19:50:00 | ingest: Green et al. (2020) - Teaching and Researching with a Mental Health Diagnosis → wiki/works/GreenEtAl2020.md
 2026-06-12T19:50:00 | archive: Heraty et al. source → sources/papers/; Green et al. source → sources/papers/ + sources/2026-06-12/
 2026-06-12T19:50:00 | sync: zh-hant submodule updated (3 pages)
+2026-06-24T12:00:00 | update: Dora Raymaker author page enriched — corrected institution (RRI/School of Social Work, not School of Public Health), added PhD Complex Systems, pronouns, office hours, academic service (Autism in Adulthood editor, INSAR ARC founding member, OAR board, SDHI), teaching courses, science fiction writing (Hoshi and the Red City Circuit), research interests (systems thinking, CBPR, measurement), homepage link
+2026-06-24T12:15:00 | update: Christina Nicolaidis author page enriched — added MD/MPH/BA education, PSU appointment 2013, SDHI directorship, office/contact, health equity/IPV/chronic pain/substance use research, NIMH R01 project, AASPIRE Healthcare Toolkit, Autism in Adulthood founding Editor-in-Chief, 100+ publications, research interests (disability justice, deployment-focused intervention, psychometrics), updated knowledge map entry, homepage link
+2026-06-24T12:30:00 | update: Steven Kapp author page enriched — added Senior Lecturer title, ORCID, full address, centres (CIHW/CIDD), BSc Public Policy USC, MA/PhD dates, ASAN director of science role, DSM-5 influence clarified, CA state disability employment policy (2010-2016), Exeter postdoc details (2016-2019), Portsmouth appointment 2019, editorial boards (Autism in Adulthood/Autism/Neurodiversity), INSAR Scientific Programming Committee, Research Seminar Series co-coordinator, teaching (Neurodiversity Studies module, Social Construction of Disability), PhD supervision availability, recent pubs (Ahuvia et al. 2026, Kapp 2026 World Psychiatry), research interests (stimming/eye contact as coping, QoL, identity), SDG 10 & 16, updated knowledge map entry, homepage link
+2026-06-24T12:45:00 | update: Ari Ne'eman author page enriched — added Harvard appointment (Assistant Professor of Health Policy and Management), PhD Harvard Health Policy 2024 (Political Analysis track), research interests (long-term services, disability employment/benefits, public opinion, bioethics policy), HHS Office of Civil Rights consultant role (COVID-19 crisis standards of care, 2024 Section 1557/504 regulations), NCD member 2010-2015, ASAN executive director 2006-2016 dates clarified, recent publications (NEJM 2026 autism epidemic critique, JAMA Health Forum 2025-2026 series, Health Affairs Scholar 2025 ML foster care), journal placements (Health Affairs/HSR/NEJM), updated knowledge map entry, homepage link
+2026-06-24T13:00:00 | update: Uta Frith author page enriched — added Dame title (DBE), ORCID, email, full UCL address, personal website (frithmind.org), degrees (PhD Institute of Psychiatry 1968, Vordiplom Saarlandes 1964), Slow Science advocacy, Royal Society Diversity Committee chair (unconscious bias materials, group decision-making), dyslexia research, Frith 2026 "autism has broken" statement, SDG 3, still active publishing on social cognition, updated knowledge map entry, homepage link
+2026-06-24T13:15:00 | update: Li Yi author page enriched — added full name 易莉, researcher/PhD supervisor titles, PKU McGovern Institute affiliation, BA PKU/MA Duke/PhD Duke education, Sun Yat-sen University career (2009-2015), PKU appointment 2015, three research directions (social info processing mechanisms, early screening/biomarkers, heterogeneity/precision diagnosis), hypo/hyper-arousal framework elaborated, six NSFC/key projects table, Autism Research associate editor, 心理科学/应用心理学 editorial boards, 教育部优秀成果奖, representative publications (2026-2019), lab philosophy quote, updated knowledge map entry, homepage link
+2026-06-24T13:30:00 | update: Steve Silberman author page enriched — added full name Stephen Louis, birth/death dates and locations, parents (English professors), Oberlin/Berkeley education, Ginsberg mentorship, San Francisco Zen Center connection, David Crosby friendship/podcast, husband Keith Karraker, Wired tenure 20+ years, "The Placebo Problem" Kavli award (2010), UN World Autism Awareness Day keynote (2016), comprehensive awards table (7 awards), other works (Skeleton Key, The Taste of Salt unfinished), film appearances, critical reception (Hall/Happé/Senior positive, Harris/Fellowes critical), Time best Twitter 2011, personal website, updated knowledge map entry
+2026-06-24T14:00:00 | sync: zh-hant submodule updated — 7 author pages (Dora-Raymaker, Christina-Nicolaidis, Steven-Kapp, Ari-Ne'eman, Uta-Frith, Li-Yi, Steve-Silberman) and knowledge map synced with enriched 简体 content
