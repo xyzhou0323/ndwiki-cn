@@ -1,5 +1,10 @@
 # Change Log
 
+## [2026-06-24] fix | 统一术语："双 empathy 问题"→"双向同理心问题"
+
+- `wiki/00-知识地图.md`、`wiki/authors/Catherine-Crompton.md`：共 5 处替换
+- `wiki-zh-hant/00-知識地圖.md`、`wiki-zh-hant/authors/Catherine-Crompton.md`：共 5 处替换
+
 ## [2026-06-24] sync | zh-hant 全量同步（252 页，opencc s2t）
 
 - 使用 `.llm-wiki/sync-zh-hant.py --full` 全量转换为繁体中文
@@ -526,3 +531,10 @@
 2026-06-24T13:15:00 | update: Li Yi author page enriched — added full name 易莉, researcher/PhD supervisor titles, PKU McGovern Institute affiliation, BA PKU/MA Duke/PhD Duke education, Sun Yat-sen University career (2009-2015), PKU appointment 2015, three research directions (social info processing mechanisms, early screening/biomarkers, heterogeneity/precision diagnosis), hypo/hyper-arousal framework elaborated, six NSFC/key projects table, Autism Research associate editor, 心理科学/应用心理学 editorial boards, 教育部优秀成果奖, representative publications (2026-2019), lab philosophy quote, updated knowledge map entry, homepage link
 2026-06-24T13:30:00 | update: Steve Silberman author page enriched — added full name Stephen Louis, birth/death dates and locations, parents (English professors), Oberlin/Berkeley education, Ginsberg mentorship, San Francisco Zen Center connection, David Crosby friendship/podcast, husband Keith Karraker, Wired tenure 20+ years, "The Placebo Problem" Kavli award (2010), UN World Autism Awareness Day keynote (2016), comprehensive awards table (7 awards), other works (Skeleton Key, The Taste of Salt unfinished), film appearances, critical reception (Hall/Happé/Senior positive, Harris/Fellowes critical), Time best Twitter 2011, personal website, updated knowledge map entry
 2026-06-24T14:00:00 | sync: zh-hant submodule updated — 7 author pages (Dora-Raymaker, Christina-Nicolaidis, Steven-Kapp, Ari-Ne'eman, Uta-Frith, Li-Yi, Steve-Silberman) and knowledge map synced with enriched 简体 content
+2026-06-24T22:57:00 | archive: two Crompton source files moved from sources root to sources/2026-06-24/ — CromptonEtAl2020-AutisticPeerToPeerInformationTransfer.md (diffusion chain experiment, Autism 2020, DOI:10.1177/1362361320919286) and CromptonEtAl2025-InformationTransferWithinAndBetween.md (Registered Report replication, N=311, published 2025-05-14)
+2026-06-24T23:00:00 | create: wiki/works/CromptonEtAl2020.md — first DEP empirical test work page, diffusion chain (N=72), info transfer + rapport findings
+2026-06-24T23:00:00 | create: wiki/works/CromptonEtAl2025.md — large-scale replication work page, 3-site Registered Report (N=311), diagnostic disclosure + content type extensions
+2026-06-24T23:00:00 | update: Catherine-Crompton author page — added CromptonEtAl2020 and CromptonEtAl2025 to 本wiki已引用著作 and Related sections, both 简体 and 繁體 synced
+2026-06-24T23:00:00 | create: wiki-zh-hant/works/CromptonEtAl2020.md and CromptonEtAl2025.md — 繁體 work pages with zh-hans back-links
+2026-06-24T23:15:00 | update: page counts refreshed — wiki/00-知识地图 (240→254), wiki-zh-hant/00-知識地圖 (240→255), README (228→254), wiki/README (241→254, authors 89→96, works 75→79, 批判分析 16→17, 实践应用 11→12)
+2026-06-24T23:30:00 | update: Crompton work wikilinks added across 6 pages — 双向同理心问题 (3 links + fixed journal name Nature Human Behaviour→Autism), KilgallonEtAl2026, Milton2022, Milton2012, Elizabeth-Kilgallon, ChapmanFletcherWatson2026, both 简体 and 繁體 synced
