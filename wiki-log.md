@@ -536,5 +536,15 @@
 2026-06-24T23:00:00 | create: wiki/works/CromptonEtAl2025.md — large-scale replication work page, 3-site Registered Report (N=311), diagnostic disclosure + content type extensions
 2026-06-24T23:00:00 | update: Catherine-Crompton author page — added CromptonEtAl2020 and CromptonEtAl2025 to 本wiki已引用著作 and Related sections, both 简体 and 繁體 synced
 2026-06-24T23:00:00 | create: wiki-zh-hant/works/CromptonEtAl2020.md and CromptonEtAl2025.md — 繁體 work pages with zh-hans back-links
-2026-06-24T23:15:00 | update: page counts refreshed — wiki/00-知识地图 (240→254), wiki-zh-hant/00-知識地圖 (240→255), README (228→254), wiki/README (241→254, authors 89→96, works 75→79, 批判分析 16→17, 实践应用 11→12)
+2026-06-24T23:15:00 | update: page counts refreshed
+2026-06-26T00:00:00 | update: 6 wiki pages updated with CromptonEtAl2020/CromptonEtAl2025 wikilinks — 双向同理心问题, KilgallonEtAl2026, Milton2022, Milton2012, Elizabeth-Kilgallon, ChapmanFletcherWatson2026 (简体+繁體)
+2026-06-26T00:00:00 | sync: Huilin-Zhu and Uchong-Lao author pages synced to zh-hant via sync-zh-hant.py (64 files incremental)
+2026-06-26T00:30:00 | unify: "批判残障理论" → "批判性残障理论" across all pages — renamed page file, updated 34 files (17 简体 + 17 繁體), all wikilinks, cross-references, and terminology table entries — wiki/00-知识地图 (240→254), wiki-zh-hant/00-知識地圖 (240→255), README (228→254), wiki/README (241→254, authors 89→96, works 75→79, 批判分析 16→17, 实践应用 11→12)
 2026-06-24T23:30:00 | update: Crompton work wikilinks added across 6 pages — 双向同理心问题 (3 links + fixed journal name Nature Human Behaviour→Autism), KilgallonEtAl2026, Milton2022, Milton2012, Elizabeth-Kilgallon, ChapmanFletcherWatson2026, both 简体 and 繁體 synced
+2026-06-26T13:15:46+08:00 — restructure: [[庸俗版神经多样性]] — 按新大纲重组为九节（定义→Lite含义→术语提出→典型表现→成因→两波演化→政治经济学解释→实证研究→相关概念），保留全部现有引用和维基链接
+2026-06-26T13:17:55+08:00 — restructure: [[庸俗版神经多样性]] — 按新大纲重组章节顺序与层级（定义→Lite含义→术语提出→典型表现→成因→两波演化→政治经济学→实证研究→相关概念），保留原文措辞，仅调整结构与标题
+2026-06-26T13:19:24+08:00 — [[庸俗版神经多样性]] 章节重组：定义前置，标题改名（术语起源→术语的提出与发展，两种形式→典型表现，演化→Chapman两波演化，主流收编→政治经济学解释，Related→相关概念），段落文字未改动
+2026-06-26T13:21:51+08:00 — [[庸俗版神经多样性]] 按树形结构重组：术语起源→概念特征（含典型表现+为何盛行）→理论发展（两波模型+神经撒切尔主义）→相关理论（Jones&Orchard+Srinivasan+Dwyer）→与阿斯关联→相关概念→参考文献，段落文字未改动
+2026-06-26T15:30:34+08:00 — [[庸俗版神经多样性]] 修复：broken Neumeier link、悬空 wikilink、description 更新、Dwyer 移至独立实证研究节、Chapman bullet 添加一波二波标注、typo
+2026-06-26T15:38:42+08:00 — [[庸俗版神经多样性]] 为何盛行新增第3小节：ND 2.0 人力资本理论批评（Srinivasan 2025），分析经济叙事如何收编神经多样性为可市场化超能力
+2026-06-26T15:41:06+08:00 — [[庸俗版神经多样性]] ND 2.0 合并入制度激励小节，移除独立标题
