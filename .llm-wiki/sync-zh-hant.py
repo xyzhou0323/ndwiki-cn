@@ -44,6 +44,19 @@ def hant_filename(simplified_rel: str) -> str:
     return str(DST_DIR / to_hant(simplified_rel))
 
 
+def _find_fm_close(text: str) -> int:
+    """Find position of closing --- in YAML frontmatter.
+
+    Uses regex to match --- on a line by itself, avoiding false matches on
+    --- embedded in field values (e.g. filenames like 'Foo --- Bar.md').
+    """
+    matches = list(re.finditer(r"^---[ \t]*$", text, re.MULTILINE))
+    if len(matches) >= 2:
+        return matches[1].start()
+    # Fallback for malformed frontmatter
+    return text.index("---", 4)
+
+
 def convert_content(text: str, simplified_rel: str) -> str:
     """Convert page content to Traditional, add zh-hans frontmatter link."""
     # Convert body
@@ -56,8 +69,7 @@ def convert_content(text: str, simplified_rel: str) -> str:
     if "zh-hans:" in text:
         text = re.sub(r"zh-hans:.*", f"zh-hans: {zh_link}", text)
     else:
-        # Insert after the first frontmatter field (after '---' line)
-        fm_end = text.index("---", 4)  # second ---
+        fm_end = _find_fm_close(text)
         insertion = f"zh-hans: {zh_link}\n"
         text = text[:fm_end] + insertion + text[fm_end:]
 
@@ -69,7 +81,7 @@ def mark_needs_review(text: str) -> str:
     if "needs-review:" in text:
         text = re.sub(r"needs-review:.*", "needs-review: true", text)
     else:
-        fm_end = text.index("---", 4)
+        fm_end = _find_fm_close(text)
         text = text[:fm_end] + "needs-review: true\n" + text[fm_end:]
     return text
 

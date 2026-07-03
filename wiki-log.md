@@ -548,3 +548,31 @@
 2026-06-26T15:30:34+08:00 — [[庸俗版神经多样性]] 修复：broken Neumeier link、悬空 wikilink、description 更新、Dwyer 移至独立实证研究节、Chapman bullet 添加一波二波标注、typo
 2026-06-26T15:38:42+08:00 — [[庸俗版神经多样性]] 为何盛行新增第3小节：ND 2.0 人力资本理论批评（Srinivasan 2025），分析经济叙事如何收编神经多样性为可市场化超能力
 2026-06-26T15:41:06+08:00 — [[庸俗版神经多样性]] ND 2.0 合并入制度激励小节，移除独立标题
+## [2026-07-03] ingest | Lao et al. (2024) - Unveiling the Perceptions of Autism-Related Chinese Language
+- created `wiki/works/LaoEtAl2024` — 新英文实证论文页面，1016人调查中文孤独症术语偏好/冒犯度/熟悉度
+- created `wiki/authors/Xiaobing-Zou` — 邹小兵作者页（通讯作者）
+- created `wiki/authors/Jiamin-Dai` — 戴嘉敏作者页
+- created `wiki/authors/Fengjing-Liang` — 梁凤晶作者页
+- created `wiki/authors/Qian-Chen` — 陈倩作者页
+- created `wiki/authors/Wei-Cao` — 曹伟作者页
+- created `wiki/authors/Yueran-Pan` — 潘悦然作者页
+- updated `wiki/authors/Uchong-Lao` — 增加 Lao et al. (2024) 著作条目与说明
+- updated `wiki/authors/Huilin-Zhu` — 增加 Lao et al. (2024) 通讯作者条目与说明
+
+## [2026-07-03] ingest | Lao et al. (2026) — 中文自闭症话语解构与叙事能动性重建
+
+**来源**：`sources/papers/2026-LaoEtAl-DialoguingWithAutism.md`（原始文件已从收件箱移除）
+**类型**：期刊论文（混合方法研究），*Humanities and Social Sciences Communications*，DOI: 10.1057/s41599-026-07772-1
+
+**操作**：
+- created `wiki/works/LaoEtAl2026` — 作品页（8 位作者）
+- created `wiki/authors/Min-Wang` — 王敏作者页（人文地理学背景）
+- updated `wiki/authors/Uchong-Lao` — 增加 Lao et al. (2026) 第一作者条目与说明
+- updated `wiki/authors/Fengjing-Liang` — 增加 Lao et al. (2026) 合著条目，补充精神病学教育背景
+- updated `wiki/authors/Jiamin-Dai` — 增加 Lao et al. (2026) 合著条目，补充精神病学教育背景
+- updated `wiki/authors/Qian-Chen` — 增加 Lao et al. (2026) 合著条目，补充海外留学背景
+- updated `wiki/authors/Wei-Cao` — 增加 Lao et al. (2026) 合著条目，补充心理学背景
+- updated `wiki/authors/Xiaobing-Zou` — 增加 Lao et al. (2026) 合著条目，补充"率先引入发育行为儿科学模式"信息
+- updated `wiki/authors/Huilin-Zhu` — 增加 Lao et al. (2026) 合著条目与说明
+
+**差异说明**：本文与 Lao et al. (2024) 是同一团队的姊妹篇。Lao et al. (2024) 侧重定量调查（术语偏好度/冒犯度/熟悉度），本文侧重定性深度分析（术语的社会建构 + 个体叙事重建），新增了 11 位孤独症人士的深度访谈和反思性主题分析，并引入中国传统哲学（天人合一、众生平等、中庸和谐）作为本土化理论框架。
