@@ -576,3 +576,33 @@
 - updated `wiki/authors/Huilin-Zhu` — 增加 Lao et al. (2026) 合著条目与说明
 
 **差异说明**：本文与 Lao et al. (2024) 是同一团队的姊妹篇。Lao et al. (2024) 侧重定量调查（术语偏好度/冒犯度/熟悉度），本文侧重定性深度分析（术语的社会建构 + 个体叙事重建），新增了 11 位孤独症人士的深度访谈和反思性主题分析，并引入中国传统哲学（天人合一、众生平等、中庸和谐）作为本土化理论框架。
+
+### 2026-07-03 (afternoon): 知识地图全面重建
+
+- **rebuilt `wiki/00-知识地图.md`** — 将作者和参考文献部分从精选版扩展为完整版（总览），从 89→103 位作者、75→81 部作品
+- 新增 9 位作者条目：Fengjing-Liang, Huilin-Zhu, Jiamin-Dai, Min-Wang, Qian-Chen, Uchong-Lao, Wei-Cao, Xiaobing-Zou, Yueran-Pan
+- 新增 6 部作品条目：CromptonEtAl2020, CromptonEtAl2025, GreenEtAl2020, LaoEtAl2024, LaoEtAl2026, LaoZhu2024
+- 全部条目按字母顺序重新排序、重新编号
+- 同步 `00-知识地图.md` 至 zh-hant
+- **原则确认**：知识地图 = 总览（全量），阅读路线 = 精选（策展）
+
+### 2026-07-03 (afternoon): 根据论文原文修正作者单位
+
+- **updated `wiki/authors/Jiamin-Dai`** — 补充单位：广东省医学科学院、广东省人民医院心身医学科，南方医科大学
+- **updated `wiki/authors/Wei-Cao`** — 补充单位：广东培正学院人文学院（广州），精简专业背景描述
+- **updated `wiki/authors/Yueran-Pan`** — 补充单位：武汉大学计算机学院 + 昆山杜克大学数据科学研究中心；新增 Lao et al. (2026) 合著条目
+- **updated `wiki/authors/Xiaobing-Zou`** — 修正 Lao et al. (2026) 角色：合著者 → 共同通讯作者
+- 以上 4 页同步至 zh-hant
+- **数据来源**：Lao et al. (2024) 论文作者单位标注
+
+### 2026-07-03 (afternoon): 修正 Yueran Pan 作者页——Pan 不在 Lao et al. (2026) 作者列表中
+
+- **removed** `wiki/authors/Yueran-Pan` 中 Lao et al. (2026) 条目——Pan 是 Lao et al. (2024) 的合著者，但不在 Lao et al. (2026) 的 8 位作者之列
+- 同步更新 zh-hant 版 + 知识地图描述
+
+### 2026-07-03 (afternoon): 中文术语讨论页面补引用 Lao et al. (2024) 和 Lao et al. (2026)
+
+- **updated `wiki/05-诊断与现象/孤独谱系障碍`** — "中文术语争议与感知"段首补引用：Lao et al. (2024) 大规模调查 + Lao et al. (2026) 定性深度分析
+- **updated `wiki/01-基础/神经多样性`** — Related 节新增 Lao et al. (2024) 和 Lao et al. (2026) 两条引用
+- 已确认以下页面在此前编辑中已包含完整引用：术语翻译对照表、去病理化、神经规范性
+- 以上 2 页同步至 zh-hant
