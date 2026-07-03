@@ -1,5 +1,12 @@
 # Change Log
 
+## [2026-07-03] ingest | UNICEF Innocenti LiFE 全球融合教育报告摄入
+
+- `sources/full.md` → `sources/articles/UNICEF-Innocenti-2026-Learning-is-For-Everyone.md`（重命名 + 归档）
+- 创建 `sources/2026-07-03/UNICEF-Innocenti-2026-Learning-is-For-Everyone.md`（归档副本）
+- 新建 [[UNICEF2026|UNICEF (2026)]] 工作页
+- 更新 [[融合教育]]：添加 LiFE 七国证据小节 + 来源引用
+
 ## [2026-06-24] fix | 统一术语："双 empathy 问题"→"双向同理心问题"
 
 - `wiki/00-知识地图.md`、`wiki/authors/Catherine-Crompton.md`：共 5 处替换
