@@ -1,5 +1,17 @@
 # Change Log
 
+## [2026-07-06] new | 认识论不正义
+
+- 双向链接：10 个核心概念页添加链接，认识论不正义页面同步扩充
+- 新增"在神经多样性研究中的应用"小节，综述 Chapman & Carel (2022)、Müller-Kosmarov & Chapman (2026)、Kilgallon et al. (2026)、Botha, Hanlon & Williams (2023) 等文献对认识论不正义框架的具体应用
+
+- `wiki/02-批判分析/认识论不正义` — 基于 Fricker (2017) *Evolving Concepts of Epistemic Injustice* 新建：两类核心形式（证言不正义/诠释不正义）、概念细化（歧视性 vs 分配性）、非故意性作为定义特征、与蓄意操纵的区别、方法论基础（Harding 立场论）、与神经多样性的关系（见证/诠释/结构性三层分析）
+- `wiki/authors/Miranda-Fricker.md` — 新建作者页
+- `wiki/works/Fricker2017.md` — 新建作品页
+- `sources/papers/Fricker2017-EvolvingConceptsEpistemicInjustice.md` — 源文件归档
+- `sources/2026-07-06/Fricker2017-EvolvingConceptsEpistemicInjustice.md` — 日期归档副本
+- 更新索引：总页数 270→273，02-批判分析 17→18，authors 104→105，works 84→85
+
 ## [2026-07-06] update | 页面数量与索引同步
 
 - 更新 wiki/README.md：总页数 263→270，03-历史脉络 4→6，04-实践应用 12→13，authors 103→104，works 82→84
