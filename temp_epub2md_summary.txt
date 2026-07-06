@@ -1,0 +1,4 @@
+Title: DSM A History of Psychiatry’s Bible (Allan V. Horwitz)
+Authors: Allan V. Horwitz
+Chapters: 13
+Output: sources/DSM A History of Psychiatry’s Bible (Allan V. Horwitz) (z-library.sk, 1lib.sk, z-lib.sk).md

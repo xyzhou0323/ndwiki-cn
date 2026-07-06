@@ -1,5 +1,50 @@
 # Change Log
 
+## [2026-07-06] new | 残障权利运动史
+
+- `wiki/03-历史脉络/残障权利运动史` — 基于 Scotch & Sutton (2023) Oxford Handbook Ch.38 新建：起源与背景、社会模型 vs 医学模型、五大早期构成群体（聋人/盲人/退伍军人/精神病幸存者/智力障碍者）、跨残障组织（ILC、ACCD、UPIAS、BCODP、DPI）、三大运动策略（法律倡导/立法倡导/抗议）、意义与 ND 关联七条
+- `sources/2026-07-06/ScotchSutton2023-DisabilityRightsMovement.md` — 全文存档
+
+## [2026-07-06] rewrite | 优生学 — 基于斯坦福哲学百科重写
+
+- `wiki/03-历史脉络/优生学` — 基于 SEP Eugenics 条目全面重写，新增：核心区分（积极/消极、权威主义/自由主义）、当代生殖遗传技术、自由主义优生学的哲学论证、五大批评方向、与神经多样性范式的六条关联
+- `sources/2026-07-06/SEP-Eugenics.md` — SEP 条目摘要存档
+
+## [2026-07-05] rewrite | Müller-Kosmarov & Chapman (2026) 阅读原文献并重写
+
+- `wiki/works/MullerKosmarovChapman2026` — 基于源文献通读后重写：
+  - 修正学科定位章节，新增与残障哲学、精神医学哲学、神经多样性研究的对比表格
+  - 新增"残障模型"独立章节（医学模型/BSM/Tremain 装置论/模型多元主义）
+  - 新增"神经规范性"独立章节（Catala 定义、教育/人际/哲学场域、与资本主义关联）
+  - 扩充认识论章节：细化 Fricker/Dotson/Catala 的元认识论不正义、Chapman & Carel 的双重锁定、交叉性与全球南方缺口
+  - 新增现象学章节双子领域划分（现象学精神病理学 + 批判现象学），补充 Ratcliffe/Krueger/Trigg 的具体贡献
+  - 扩充神经酷儿章节：三重用法（动词/形容词/身份标签）、Butler 性别展演根基、Yergeau 的 demi-rhetor 概念
+  - 扩充政治伦理章节：Simplican 能力契约、de Vries 神经中立国家、Manning & Massumi、福柯式 biopolitics、Flowers 算法 ableism
+  - 新增资助信息（Wellcome Trust 226798/Z/22/Z）、关键词、出版日期（2026-06-15）
+  - 修正原文引用表述，新增三段关键引文
+  - Related 新增 6 条交叉链接（ChapmanCarel2022、ChapmanBovell2022、BothaEtAl2024、Dwyer2022、残障模型、去病理化等）
+
+## [2026-07-05] enrich | ABA 页面跨库丰富
+
+- `wiki/04-实践应用/应用行为分析` — 大幅扩充：
+  - 新增"历史根源"节（Lovaas 双重角色——Feminine Boy Project × Young Autism Project，de Hooge 2019）
+  - 新增"ND 范式的伦理评估框架"节（Ne'eman 2021 内在伤害标准 + 举证责任反转；Dwyer 2022 刻意/无意正常化区分）
+  - 扩充"四重伦理争议"节（Broderick & Ne'eman 2008 Foucault 框架、Botha 2021 ABA 作为非人化理论的实践延伸）
+  - 扩充"改革的可能"节（Schuck et al. 2022 NDBI 5 特征 + 8 条建议）
+  - Related 新增 6 条链接（Ne'eman 2021, Broderick & Ne'eman 2008, de Hooge 2019, Dwyer 2022, Schuck et al. 2022, Botha 2021）
+
+## [2026-07-05] ingest | Chapman & Bovell (2022) — Neurodiversity, Advocacy, Anti-Therapy
+
+- `sources/full.md` → `sources/books/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md`（重命名 + 归档）
+- 创建 `sources/2026-07-05/ChapmanBovell2022-NeurodiversityAdvocacyAntiTherapy.md`（归档副本）
+- created `wiki/works/ChapmanBovell2022` — 作品页（ABA 四重伦理分析）
+- created `wiki/04-实践应用/应用行为分析` — ABA 概念页（四重伦理争议、改革可能、在 ASD 干预中的定位）
+- updated `wiki/authors/Robert-Chapman` — 新增著作条目 + sources + Related
+- updated `wiki/authors/Virginia-Bovell` — 新增著作条目 + 重构为三段式结构
+- updated `wiki/04-实践应用/ASD干预` — Related 中 Chapman & Bovell (2020) → [[ChapmanBovell2022]]
+- updated `wiki/01-基础/神经多样性运动` — 新增 Related 链接 + sources
+- updated `wiki/02-批判分析/残障的社会模型` — 新增 Related 链接 + sources
+
 ## [2026-07-03] ingest | UNICEF Innocenti LiFE 全球融合教育报告摄入
 
 - `sources/full.md` → `sources/articles/UNICEF-Innocenti-2026-Learning-is-For-Everyone.md`（重命名 + 归档）
@@ -613,3 +658,9 @@
 - **updated `wiki/01-基础/神经多样性`** — Related 节新增 Lao et al. (2024) 和 Lao et al. (2026) 两条引用
 - 已确认以下页面在此前编辑中已包含完整引用：术语翻译对照表、去病理化、神经规范性
 - 以上 2 页同步至 zh-hant
+2026-07-05T12:11:57+08:00 丰富 ABA 页面内部链接：添加神经典型、神经殊异、孤独谱系障碍、神经多样性、Alicia-Broderick、Ari-Ne'eman、Monique-Botha、Patrick-Dwyer、Rachel-Schuck 等页面链接
+2026-07-06T00:00:00+08:00 重写 ChapmanBovell2022 作品页——基于原始文献全文重构：按照源文献结构（概述→医学与社会模型→知识生产批判→ABA四重伦理分析→ABA可否改革→对所有治疗的意涵）重新组织内容，细化各节论述，补充方法与术语区分，校正引用细节
+2026-07-06T00:00:00+08:00 重写 MullerKosmarovChapman2026 作品页——基于原始文献全文重构
+2026-07-06T00:00:00+08:00 新增 DSM 史页面（wiki/03-历史脉络/DSM史.md）——基于 Horwitz (2021) DSM: A History of Psychiatry's Bible，涵盖 DSM-I 至 DSM-5 的历史演变、专业政治与社会建构分析
+2026-07-06T00:00:00+08:00 补充 DSM-5-TR（2022）章节及开篇事实——据 APA (2022) "From Planning to Publication" 补充：DSM 不涉及治疗、影响领域（科研/公共卫生/教育/保险/法医）、TR 修订流程与人员构成
+2026-07-06T00:00:00+08:00 补充"DSM 的未来（2024 年起）"章节——据 APA (2026-01-28) 新闻稿，新增未来 DSM 战略委员会及其四篇配套评论（结构与维度、功能与生活质量、SCE-DoH 与交叉性、生物标志物）及"Diagnostic and Scientific Manual"更名提议：按照源文献结构（定位→学科定位→哲学史背景→神经多样性简史→概念内涵→范式→核心概念→残障模型→神经规范性→认识论→现象学→神经酷儿→政治伦理）重新组织，补充关键论证细节、研究缺口分析、方法论考量和交叉性批判
