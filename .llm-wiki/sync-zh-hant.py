@@ -24,6 +24,21 @@ STATE_FILE = WIKI_ROOT / ".llm-wiki" / "zh-hant-state.json"
 
 converter = opencc.OpenCC("s2t")  # Simplified → Traditional
 
+# OpenCC s2t commonly mis-converts 发 to 髮 (hair) when it should be 發 (develop/emit/invent).
+# These word-level corrections run after the converter.
+_S2T_FIXES = [
+    ("髮明", "發明"),
+    ("髮現", "發現"),
+    ("髮育", "發育"),
+    ("髮起", "發起"),
+    ("髮展", "發展"),
+    ("髮生", "發生"),
+    ("揮髮", "揮發"),  # 挥发 (volatile/evaporate), not 挥髮
+    ("開髮", "開發"),  # 开发 (develop), not 开髮
+    ("遲髮型", "遲發型"),  # 迟发型 (late-onset, medical)
+    ("齣", "出"),      # OpenCC over-converts 出 to 齣 in some contexts
+]
+
 # Files in wiki-zh-hant/ with hant-original content — never overwrite by auto-conversion.
 # These exist in both repos but the hant version is manually authored, not s2t from zh-hans.
 HANT_ORIGINAL = {
@@ -61,6 +76,10 @@ def convert_content(text: str, simplified_rel: str) -> str:
     """Convert page content to Traditional, add zh-hans frontmatter link."""
     # Convert body
     text = converter.convert(text)
+
+    # Fix common OpenCC s2t errors (e.g. 发→髮 instead of 發)
+    for wrong, correct in _S2T_FIXES:
+        text = text.replace(wrong, correct)
 
     # Add/update zh-hans in frontmatter
     rel_no_ext = str(Path(simplified_rel).with_suffix("")).replace("\\", "/")
