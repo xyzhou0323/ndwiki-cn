@@ -1,5 +1,33 @@
 # Change Log
 
+## [2026-07-12] ingest | Dwyer et al. (2026) — 跨诊断听觉过度反应与注意力研究
+
+- `sources/papers/DwyerEtAl2026.md` — 源文件归档（原 sources/full.md 重命名）
+- 创建 `sources/2026-07-12/DwyerEtAl2026.md`（归档副本）
+- created `wiki/works/DwyerEtAl2026.md` — Patrick Dwyer、Zachary J. Williams、Wenn Lawson 和 Susan M. Rivera 发表于 Journal of Attention Disorders 的横截面实证研究，492 名成人四组（仅 ADHD / 仅孤独谱系 / 孤独谱系+ADHD / 对照），探讨过度专注、注意力不集中和过度警觉与听觉过度反应之间的关联，以及听觉过度反应→焦虑→过度警觉的循环路径
+- created `wiki/authors/Zachary-J-Williams.md` — MIST-A 和 VADQ 开发者，声音耐受下降测量与分类研究者
+- updated `wiki/authors/Patrick-Dwyer.md` — Related 补入 DwyerEtAl2026
+- updated `wiki/authors/Wenn-Lawson.md` — 本wiki已引用著作补入 DwyerEtAl2026
+- updated `wiki/authors/Susan-M-Rivera.md` — 本wiki已引用著作补入 DwyerEtAl2026
+
+## [2026-07-12] ingest | Dekker (2023) — 神经多样性术语起源更正
+
+- `sources/blog-posts/Dekker2023-NeurodiversityOrigin.md` — 源文件归档
+- 创建 `sources/2026-07-12/Dekker2023-NeurodiversityOrigin.md`（归档副本）
+- created `wiki/works/Dekker2023.md` — InLv 创始人 Martijn Dekker 的博客文章，公布 Tony Langdon 1996 年 10 月 29 日 InLv 帖子全文（已知最早的"neurological diversity"完整表述），披露 Singer 1998 年写给 Jane Meyerding 的私信（"I'm not sure if I coined this word"），撤回此前对 Singer 为术语创造者的认可
+- created `wiki/authors/Martijn-Dekker.md` — InLv 创始人，神经多样性概念集体诞生的关键平台运营者
+- created `wiki/authors/Tony-Langdon.md` — 1996 年在 InLv 上首次完整使用"neurological diversity of people"的社群成员
+- updated `wiki/works/Singer2017.md` — Langdon 沉默节补入 Dekker 2023 作为一手来源 + 新增 Singer 1998 年 Meyerding 私信引文 + Related 新增三个新页面
+- updated `wiki/authors/Judy-Singer.md` — sources 补入 Dekker2023 + Botha 节补入 Dekker 首次公布 Langdon 帖子全文 + 自我理解节补入 Meyerding 私信 + Related 新增三个新页面
+- 更新索引：总页数 278→281，authors 106→108，works 86→87
+
+## [2026-07-12] rewrite | Singer (2017) 基于全文重写 + 源文件整理
+
+- `sources/full.md` → `sources/books/Singer2017-NeuroDiversityTheBirthOfAnIdea.md`（重命名 + 归档）
+- 创建 `sources/2026-07-12/Singer2017-NeuroDiversityTheBirthOfAnIdea.md`（归档副本）
+- `wiki/works/Singer2017.md` — 基于全书全文重写：(1) 新增结构描述（2017 引言 + 1998 论文两部分）；(2) 大幅扩充 2017 引言内容——三代女性家族史、Holocaust 幸存者母亲、计算机编程职业、9/11 后退场；(3) 新增对社会模型的系统批判（"创世论复兴布道会"、Ehrenreich & McIntosh 引用、Wendell 平衡立场）；(4) 新增方法论框架（女性主义 + 后现代 + 解放式研究）；(5) 新增 ISNT 颠倒凝视、互联网假肢装置、计算机隐喻与赛博格等概念；(6) 新增对身份政治局限和反家长暗流的批评；(7) 补充 Singer 自身承认概念"漂浮在时代精神中"与其创造者叙事的张力；(8) 保留并细化学术批判（Botha 2024 修正、Jones & Orchard 2024 奠基性排斥、Langdon 1996 沉默）
+- `wiki/authors/Judy-Singer.md` — 更新 sources frontmatter + 新增生平段落（Holocaust 幸存者母亲、计算机编程职业、社群组织、9/11 后退场）、新增"社群组织"节（ASpar/OzAutism/InLv）
+
 ## [2026-07-07] 修正 | 神经殊异马克思主义理论表述精细化
 
 - `wiki/02-批判分析/神经殊异马克思主义.md` — 第二轮理论审读修正：(1) "作为上层建筑"→"作为社会关系再生产"，补充意识形态+制度实践双重面向；(2) "资本主义本质上是X"→"发展趋势不断强化"，去本质主义；(3) "灵魂"→认知能力/注意力/情感能力，去文学化；(4) 删"唯一"连贯治疗学；(5) 生态模型标注为生态功能主义，区分于马克思主义；(6) 新矛盾形式明确"不取代资本-劳动基本矛盾"；(7) 矛盾场所补充葛兰西霸权分析呼应的说明；(8) 国家资本主义标注"并非马克思主义内部共识"；(9) UBI 标注"并非马克思主义经典主张"；(10) 共产主义远景增引《共产党宣言》"每个人的自由发展"
