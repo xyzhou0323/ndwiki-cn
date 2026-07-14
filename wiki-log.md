@@ -1,5 +1,25 @@
 # Change Log
 
+## [2026-07-14] expand | Maskit & Fultner (2026) — 摒弃应用行为分析（详细阅读）
+
+- updated `wiki/works/MaskitFultner2026.md` — 从简单页面扩展为完整详细页面，涵盖：临床层面（ABA 成功测量的虚假性、三类目标行为——眼神接触/调节行为/伪装）、理论层面（神经认知主义批判、中心连贯性颠倒、孤独谱系阅读方法论）、双向同理心问题、孤独谱系作为生活形式、生物社会替代方案（生态心理学与具身认知）、神经殊异肯定疗法
+
+## [2026-07-14] ingest | Anderson & Cushing Eds. (2026) — 当代孤独谱系哲学（全卷 11 章）
+
+- `sources/full.md` — 源文件（完整书籍）
+- created `wiki/works/AndersonCushingEds2026.md` — 编辑论文集主页，Routledge 出版
+- created `wiki/works/Maxwell2026.md` — Ch1: 孤独谱系智力傲慢脆弱性
+- created `wiki/works/Whittle2026.md` — Ch2: 道德责任与孤独谱系
+- created `wiki/works/Fellowes2026.md` — Ch3: 孤独谱系、双向同理心问题与感受他人情绪
+- created `wiki/works/Garcia2026.md` — Ch4: 第二人称视角下的孤独谱系
+- created `wiki/works/HakeHughes2026.md` — Ch5: 孤独谱系与性别
+- created `wiki/works/GibsonArnaud2026.md` — Ch6: 孤独谱系、照护与去污名化的边界
+- created `wiki/works/Anderson2026.md` — Ch7: 大象与犰狳：反孤独谱系意识形态形成反孤独谱系世界
+- created `wiki/works/MaskitFultner2026.md` — Ch8: 摒弃应用行为分析
+- created `wiki/works/RosinaMcCready2026.md` — Ch9: 伪装作为人格灵活性
+- created `wiki/works/KraemerKraemer2026.md` — Ch10: 重新审视知识：孤独谱系社群中的感官与社会挑战
+- created `wiki/works/Cushing2026.md` — Ch11: 事情的本质并非如此：为孤独谱系消除主义辩护
+
 ## [2026-07-12] ingest | Dwyer et al. (2026) — 跨诊断听觉过度反应与注意力研究
 
 - `sources/papers/DwyerEtAl2026.md` — 源文件归档（原 sources/full.md 重命名）
@@ -793,3 +813,19 @@
 
 - **操作**: 更新页面数量统计（276→278），新增阅读障碍和数学障碍条目至知识地图
 - **变更**: wiki/00-知识地图.md（页面数更新、section 五新增条目 10-11）
+- 2026-07-14T15:31:28+08:00: Maxwell2026 expanded (Ch1 – Autistic Vulnerability to Intellectual Arrogance)
+- 2026-07-14T15:37:19+08:00: Whittle2026 expanded (Ch2 – Moral Responsibility and Autism)
+- 2026-07-14T16:03:30+08:00: Fellowes2026 expanded (Ch3 – Autism, the Double Empathy Problem and Feeling the Emotions of Another Person)
+- 2026-07-14T16:09:21+08:00: Garcia2026 expanded (Ch4 – Autism from the Second Person Perspective)
+2026-07-14 22:00 CST — expanded wiki/works/HakeHughes2026.md (Ch5: Autism and Gender) with full chapter content
+2026-07-14 22:30 CST — expanded wiki/works/GibsonArnaud2026.md (Ch6: Autism, Care, and the Limits of Destigmatization) with full chapter content
+2026-07-14 23:00 CST — expanded wiki/works/RosinaMcCready2026.md (Ch9: Masking as Persona Flexibility) with full chapter content
+2026-07-14 23:30 CST — expanded wiki/works/KraemerKraemer2026.md (Ch10: Re-examining What We Think We Know About the Sensory and Epistemic Features of Autism) with full chapter content
+2026-07-15 00:15 CST — expanded wiki/works/Cushing2026.md (Ch11: The Thing of It Isn't: Defending Eliminativism About Autism) with full chapter content
+2026-07-15 00:30 CST — created 14 author pages for Anderson & Cushing Eds. (2026) contributors
+2026-07-15 00:40 CST — moved sources/full.md → sources/books/AndersonCushingEds2026-ContemporaryPhilosophyOfAutism.md; updated sources frontmatter in 26 wiki pages
+2026-07-15 01:00 CST — created wiki/works/Chapman2019.md (Autism as a Form of Life: Wittgenstein and the Psychological Coherence of Autism); moved sources/full.md → sources/papers/Chapman2019-AutismAsAFormOfLife.md: Jami-L-Anderson, Simon-Cushing, Sydney-Maxwell, Ann-Whittle, Sam-Fellowes, Francisco-Garcia, Ruby-Hake, Emily-Hughes, Dani-Maskit, Barbara-Fultner, Emil-Eva-Rosina, Elin-McCready, Ira-Kraemer, Eric-Kraemer
+2026-07-15 01:30 CST — cross-reference additions: added [[Chapman2019]] to 3 author pages (Robert-Chapman, Damian-Milton, Nick-Walker), converted plain Chapman references to wikilinks in 5 work pages (Milton2022, ChapmanBovell2022, ChapmanCarel2022, Fellowes2026, MaskitFultner2026), added wikilinks to 7 topic pages (双向同理心问题, 知识不正义, 应用行为分析, 掩饰与伪装, 神经多样性与交叉性, ASD干预, 信息大放送, 神经殊异马克思主义) for today's 15 new pages
+2026-07-15 02:00 CST — ran full zh-hant sync (310 pages, 27 new, 31 updated, committed to ndwiki-hant)
+2026-07-15 02:10 CST — ran update-counts.py: total=310, authors=123, works=101, tests=24
+2026-07-15 02:20 CST — updated wiki/00-知识地图.md: inserted 18 missing authors (→123) and 16 missing works (→101) with full descriptions
