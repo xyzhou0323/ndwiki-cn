@@ -3,7 +3,7 @@ title: Wiki Schema
 description: 页面类型、目录结构和标签体系
 tags: [meta]
 created: 2026-05-07
-updated: 2026-07-03
+updated: 2026-07-18
 ---
 
 # Schema
@@ -53,6 +53,11 @@ updated: 2026-07-03
 - 作者页以连字符命名（如 `Robert-Chapman.md`）
 - 著作页以 `AuthorYear.md` 格式命名（如 `Chapman2023.md`）
 - 测试页以连字符命名（如 `AQ-Child.md`、`RAADS-R.md`）
+
+## 写作风格
+
+- 避免用“核心判断”“核心原则”“核心逻辑”“核心贡献”等泛化标签替代具体表述；标题应直接说明该节讨论的问题、关系或论点。
+- 只有在确实需要区分主次且依据明确时才使用“核心”，不要把它作为摘要、标题或评价性句式的默认修饰语。
 
 ## 必需 Frontmatter
 

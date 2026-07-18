@@ -1,5 +1,6 @@
 # Change Log
 
+- 为全部 102 个作品页添加 Author(Year) 格式别名（第一作者姓氏+年份），建立别名规则
 - 重写 `wiki/01-基础/神经多样性.md`：按总结→定义（含三层概念区分）→术语体系→历史→误解与争议重新组织，保留全部原有内容与引用
 - 将 `wiki/works/ArnoldEtAl2026.md` 的「与本 Wiki 的相关性」改为标准 Related 四组结构，增加孤独谱系耗竭、孤独谱系障碍、Botha2021 及 DOI 外部链接
 - 为 `wiki/03-历史脉络/DSM史.md` 添加 Related 节（7 个相关概念、2 个相关文献、1 个外部链接）
@@ -853,3 +854,15 @@
 2026-07-15 02:00 CST — ran full zh-hant sync (310 pages, 27 new, 31 updated, committed to ndwiki-hant)
 2026-07-15 02:10 CST — ran update-counts.py: total=310, authors=123, works=101, tests=24
 2026-07-15 02:20 CST — updated wiki/00-知识地图.md: inserted 18 missing authors (→123) and 16 missing works (→101) with full descriptions
+## [2026-07-18] maintenance | 导航结构澄清
+- updated `wiki-purpose.md` — 明确知识地图为全量目录、阅读路线为可探索导航的双层分工
+## [2026-07-18] lint | 来源元数据修复
+- fixed `DSM史` — 修复无效 YAML，并将来源改为可验证的日期归档路径
+- fixed `works/` metadata — 引用含冒号的别名并迁移 4 个旧版 `source` 字段至 `sources`
+- updated 32 author pages — 从正文已链接且已归档的文献中补齐可验证来源
+- corrected `DSM史` — 恢复原有四项来源，仅修正 YAML 字符串引用以保证可解析
+## [2026-07-18] maintenance | 神经多样性范式内容优化
+- updated `神经多样性范式` — 重构定义、术语边界、常见误解与范式比较，消除社会决定论表述和互动主义立场之间的张力
+- updated `神经多样性范式` and `wiki-schema.md` — 移除泛化的“核心××”措辞，并记录标题应具体说明问题或论点的写作偏好
+- updated `神经多样性范式` — 以 Dwyer (2022) 和 Chapman & Fletcher-Watson (2026) 为主要理论线索，压缩 ND 2.0 与生物医学研究扩展
+- updated `神经多样性范式` — 参考 Müller-Kosmarov & Chapman (2026) 补充“范式/框架”争论、概念与规范层面，并明确与神经多样性哲学的页面边界
