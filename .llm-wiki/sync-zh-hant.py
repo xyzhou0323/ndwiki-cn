@@ -143,7 +143,11 @@ def get_changed_pages() -> list[str]:
             ["git", "diff", "--name-only", f"{last_commit}..HEAD", "--", "wiki/"],
             capture_output=True, text=True, cwd=WIKI_ROOT,
         )
-        files = [f for f in result.stdout.strip().split("\n") if f.endswith(".md")]
+        # Git on Windows quotes paths containing non-ASCII chars; strip quotes
+        files = [
+            f.strip('"') for f in result.stdout.strip().split("\n")
+            if f.strip('"').endswith(".md")
+        ]
         # Convert to relative paths from wiki/
         return [f.replace("wiki/", "", 1) for f in files]
     except Exception:
@@ -164,7 +168,10 @@ def get_deleted_pages() -> list[str]:
              f"{last_commit}..HEAD", "--", "wiki/"],
             capture_output=True, text=True, cwd=WIKI_ROOT,
         )
-        return [f for f in result.stdout.strip().split("\n") if f.endswith(".md")]
+        return [
+            f.strip('"') for f in result.stdout.strip().split("\n")
+            if f.strip('"').endswith(".md")
+        ]
     except Exception:
         return []
 

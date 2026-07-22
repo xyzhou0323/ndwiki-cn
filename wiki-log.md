@@ -1,4 +1,23 @@
-# Change Log
+- 更新相关测试.md：补充 ITQ-CG（创伤-照护者版）和 AABS-R14（耗竭量表），同步到 zh-hant
+
+- 更新知识地图（00-知识地图.md）：补充 7 个缺失页面（残障的哲学定义、ITQ-CG、AABS-R14、Luodi-Yu、BougoureEtAl2025、LinEtAl2026、RaymakerEtAl2026），修正作者数 123→124、参考文献数 101→104、页面数 310→316，重排所有编号
+- 同步知识地图到 zh-hant（00-知識地圖.md）
+
+- 全量同步 zh-hant（OpenCC s2t 转换，316 页）以覆盖未提交的会话修改
+- 运行 llm-wiki sync 更新状态
+
+- 新建 BougoureEtAl2025 作品页：AASPIRE 孤独谱系耗竭量表（ABM）大规模独立验证（N=379, CFA+EFA+BEFA, ω=0.98, 12月重测 ICC=0.59, ROC AUC=0.92 显著优于 PHQ-9）
+- 归档 full.md → sources/2026-07-22/Bougoure et al 2025 - Measuring Autistic Burnout psychometric validation of ABM (bilingual).md（中英双语全文）
+
+- 增补 MantzalasEtAl2024 作品页：样本招募与排除流程（451→238）、AQ-Short 筛查、共病状况分布（Top 10）、全部测量工具 ω 系数、博士项目背景
+- 归档 full.md → sources/2026-07-22/Mantzalas et al 2024 - Measuring and Validating Autistic Burnout (bilingual).md（中英双语全文）
+
+- 增补 AABS-R14 页面：原始版 27 题量表的六类条目构建框架、试点测试详细心理测量数据（N=80, α=0.95, ROC AUC=0.85, 抑郁/压力/掩饰各维度建构效度 r 值）、掩饰行为（CAT-Q）与耗竭无显著相关（r=.04）及团队解读
+- 增补孤独谱系耗竭页面：掩饰行为（CAT-Q）与耗竭的复杂非线性关系及其时间维度动态
+- 新建 Raymaker et al. (2026) 作品页 — AASPIRE 孤独谱系耗竭量表原始版创建与试点验证（27题, N=80）
+- 归档 abo_survey-preprint.docx → sources/2026-07-22/
+
+- 新建 AABS-R14（AASPIRE 孤独谱系耗竭量表修订版）wiki 页面，含完整 14 道症状条目（中英双语）、评分与截断值、心理测量学特性、照护者报告版本、原始版与修订版对比，经 AASPIRE 授权发布
 
 - 为 ITQ 页面增加 ITQ-CC（ITQ with Clinical Checks）章节，含临床核实机制、评分差异说明及测试链接
 - 基于 Shevlin et al. (2025) 验证论文扩充 ITQ-CC 章节：开发过程（三阶段）、全部 13 条临床核实追问及依据、验证结果（条目/症状群/诊断三级数据）、与临床访谈的对比、局限性
