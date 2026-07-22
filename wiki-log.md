@@ -1,5 +1,11 @@
 # Change Log
 
+- 为 ITQ 页面增加 ITQ-CC（ITQ with Clinical Checks）章节，含临床核实机制、评分差异说明及测试链接
+- 基于 Shevlin et al. (2025) 验证论文扩充 ITQ-CC 章节：开发过程（三阶段）、全部 13 条临床核实追问及依据、验证结果（条目/症状群/诊断三级数据）、与临床访谈的对比、局限性
+- 将 ITQ-CC 临床核实追问表同步至网站实际译文版本
+- 新建 ITQ-CG（国际创伤问卷照护者版），在 ITQ、ITQ-CA 页添加交叉链接
+- ITQ 系列三页面（ITQ、ITQ-CA、ITQ-CG）添加 [[孤独谱系鉴别诊断]] CPTSD 章节链接及 Sarr et al. (2025) 鉴别诊断 Delphi 共识文献，Related 节重排为四组结构
+
 - 为全部 102 个作品页添加 Author(Year) 格式别名（第一作者姓氏+年份），建立别名规则
 - 重写 `wiki/01-基础/神经多样性.md`：按总结→定义（含三层概念区分）→术语体系→历史→误解与争议重新组织，保留全部原有内容与引用
 - 将 `wiki/works/ArnoldEtAl2026.md` 的「与本 Wiki 的相关性」改为标准 Related 四组结构，增加孤独谱系耗竭、孤独谱系障碍、Botha2021 及 DOI 外部链接
