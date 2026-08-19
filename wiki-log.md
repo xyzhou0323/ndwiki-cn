@@ -1,8 +1,55 @@
+## [2026-08-19] maintenance | zh-hant 全量同步（317 页）
+- ran `python .llm-wiki/sync-zh-hant.py --full` — 因 HEAD == last_commit（43947d5）而工作区大量未提交改动，增量模式（git diff 基）检测 0 文件，故采用全量同步；317 页全部 OpenCC s2t 转换 + 添加/更新 `zh-hans:` frontmatter 链接 + 标记 `needs-review: true`（全量同步预期副作用，待人工审阅）；README.md/COLLABORATING.md 为 hant-original 跳过
+- fixed `.llm-wiki/sync-zh-hant.py` — `_S2T_FIXES` 补两条 OpenCC 误转：髮表→發表（SonugaBarke2023 主編髮表）、髮音→發音（閱讀障礙 開頭髮音/髮音）；重跑全量同步后残留误转 0
+- verified 全站 zh-hans 链接完整（除 hant-original README 外全部存在）、页面数 317 = 317 无陈旧页
+
+## [2026-08-12] maintenance | 导语段审计（清晰性 + 中立性）
+- created `.llm-wiki/audit-leads.py` — 检查 H1 后第一段导语：缺失/过短/未以句号结尾/主观情绪化用词/弱主语开头；提取逻辑按 schema「导语段 = H1 后第一段」处理 infobox、引用行、blockquote 与 `---` 分隔
+- fixed `03-历史脉络/神经多样性运动史.md` — H1 后原为 blockquote 导航行（`> 本文聚焦…`），改为普通导语段（按历史分期梳理运动关键事件）
+- fixed `04-实践应用/AASPIRE.md` — 导语 URL 后补句号
+- fixed `authors/Mildred-Boveda.md` — 导语"有重要贡献"改为中性表述（"研究领域涵盖 DisCrit、交叉性与教师教育"）
+- reviewed 5 个主观词导语：阿斯至上主义"非凡"/Chapman2019"非常"为转述立场或论点，PDA"极度"为 EDA 术语直译，优生学"可怕"为史实描述 — 均保留
+- reviewed 39 个"本文是"开头作品页导语：有主语、完整句、与 description 一致，符合 schema，保留
+- ran `audit-leads.py` — 42 页为可接受类别（39 本文是 + 4 转述/术语）；ran `audit-consistency.py` — 规范偏差 12 页（预存在缺 sources，无新增）
+
+## [2026-08-12] maintenance | 全站导语审阅（works 之外页面的主语与一致性）
+- fixed 12 个作者页名词短语导语 → 补主语（Alyssa-Hillary/Anna-Stenning/Dieuwertje-Dyi-Huijg/Dinah-Murray/Hanna-Bertilsdotter-Rosqvist/Ines-Hipolito/Kathy-Leadbitter/Kristen-Gillespie-Lynch/Laura-Tisoncik/Lydia-XZ-Brown/Sharon-daVanport/Susan-M-Rivera/Wenn-Lawson），如"孤独谱系心理学家、研究者、讲师、倡导者。"→"Wenn Lawson 是孤独谱系心理学家、研究者、讲师和倡导者，1952 年出生于英国…"
+- fixed `06-测试/相关测试.md` — 导语"本站的一系列自填式探索工具"补谓语动词"提供"
+- fixed 3 个章节页导语（`04-实践应用/神经多样性与民主研究.md`、`神经多样性与学习障碍.md`、`神经多样性教育.md`）— "在 [[ChapmanFletcherWatson2026|…]] 第X章中，Chapman 和 Fletcher-Watson…"改为以"Chapman & Fletcher-Watson (2026) 第X章"为主语开头
+- fixed `works/KefallinouSymeonidouMeijer2020.md` — "本篇综述梳理"改为"Kefallinou et al. (2020) 综述梳理"（与作品页 Author (Year) 风格统一）
+- fixed `02-批判分析/神经多样性与交叉性.md` — 导语末"详见…第4章中"删冗余"中"字
+- verified 全站专项扫描 — 无主语开头 0 残留、"在 [[…]] 第X章中"开头 0 残留、"本篇/该文"弱主语 0 残留；ran `audit-consistency.py` — 规范偏差 12 页（预存在缺 sources，无新增）
+
+## [2026-08-12] maintenance | 作品页导语逐页优化（本文 → 作者-年份主语）
+- rewrote 39 个作品页导语 — "本文…"开头统一改为以 Author (Year) 为主语的开头（如 "本文是 Nick Walker 的奠基性术语定义" → "Walker (2014) 的奠基性术语定义对…作出权威界定"）；15 页冗余结构重构（作者全名/期刊/年份重复信息去重），其余 24 页前缀替换；全部保持原内容与引号风格
+- created `.llm-wiki/fix-leads-works.py` — 导语重写脚本（含逐页映射，可复用）
+- fixed `03-历史脉络/优生学.md` — 导语原为长段哲学修辞（"我们无疑有义务""骇人听闻的政策"等第一人称表述），重写为中立导语段（"…成为具有深刻残障歧视与种族主义根源的伪科学。当代生殖遗传技术的发展重新开启了…"），原文内容已由正文「历史」「当代生殖遗传技术」节覆盖
+- verified `audit-leads.py` — 仅剩 3 页主观词均为转述立场或术语直译（阿斯至上主义"非凡"/PDA"极度"/Chapman2019"非常"）；ran `audit-consistency.py` — 规范偏差 12 页（预存在缺 sources，无新增）
+
+## [2026-08-12] maintenance | 小作品标记简化 + TEMPLATE 恢复列表展示
+- removed 全部正文 `> [!note] 小作品` callout（31 页）— stub 标记仅保留 frontmatter `tags: stub`；wiki-schema.md「小作品标记」改为仅标签、不在正文添加提示
+- updated `wiki/TEMPLATE.md` — 恢复 #### 四级标题、有序列表（1. 2.）、无序列表（点状/不分序号）展示；移除小作品 note 示例
+- fixed `.llm-wiki/audit-consistency.py` — stub 检测改为解析 tags 块状列表（此前仅支持行内值，11 页已带 stub 标签却被误报）
+- ran `audit-consistency.py` — 规范偏差 12 页（全部为预存在缺 sources，无新增问题）
+
+## [2026-08-12] maintenance | 顶部结构规范化（概览移除 + 粗体行并入 infobox）
+- removed 全部概览 callout（152 页）— 概念介绍由导语段承担、导航由部署端目录承担；wiki-schema.md 删除"概览 callout（长页）"要求并新增注意（导语段是唯一顶部概述、顶部禁粗体键值行），TEMPLATE.md 同步，audit-consistency.py 删除对应检查（LONG_PAGE_SECTIONS/check #4）
+- 作者页 46 页粗体键值行并入 infobox + 补导语段（A1 记录前 23 页；本条目补记后 23 页：Kristen-Bottema-Beutel/Laura-Crane/Li-Yi/Liron-Rozenkrantz/Lucas-Casten/Luodi-Yu/Min-Wang/Monique-Botha/Noah-Sasson/Patrick-Dwyer/Qian-Chen/Quinn-Hiroshi-Gibson/Rachel-Sarr/Rachel-Schuck/Sarah-Arnaud/Steve-Silberman/Steven-Kapp/Uchong-Lao/Uta-Frith/Wei-Cao/Xiaobing-Zou/Yueran-Pan/Yulin-Cheng）— 独有字段入框（职称/学位/主页/中文名/代词/生卒等），删除全部元信息行，infobox 后补写含主语导语
+- 作品页 95 页粗体键值行删除/并入 infobox + 补导语段（四个批次日志见下）— 冗余行删除，独有信息以 备注/许可/翻译/DOI/方法/样本/收录于 等字段并入 infobox
+- fixed 双向同理心问题.md — 顶部粗体键值行改为导语段（无 infobox 的概念页）
+- fixed 4 个作品页 **引用** 粗体行 → 标准 `引用：`（DwyerEtAl2023/Lawson2025/LloydEvans2023/SchuckEtAl2022）
+- fixed 9 个作品页补导语段（AistonEtAl2025/ArnaudGibson2025/ChapmanBovell2022/deHooge2019/Fricker2017/HeratyEtAl2023/Johnson2023/PearsonEtAl2026/ReaEtAl2024 — 有 infobox 但原本无导语）
+- created `.llm-wiki/find-bold-meta.py` — 检测 H1 与首个 ## 之间残留粗体键值行（当前 0 残留）
+- ran `audit-consistency.py` — 规范偏差 12 页（全部为预存在缺 sources，无新增问题）；ran `update-counts.py`；zh-hant 待 git 提交后同步
+
+- 重构 23 个作者页顶部结构（Akiko-Hart 至 Kathryn-Szechy）：将 H1 与首个 ## 之间的粗体键值行并入 `[!infobox]`（新增/合并职称、学位、主页、中文名、代词、核心角色、研究组、学术角色等字段），删除全部元信息行，并在 infobox 之后补写导语段（与 frontmatter description 一致），统一 updated: 2026-08-12
+
 - 更新相关测试.md：补充 ITQ-CG（创伤-照护者版）和 AABS-R14（耗竭量表），同步到 zh-hant
 
 - 更新知识地图（00-知识地图.md）：补充 7 个缺失页面（残障的哲学定义、ITQ-CG、AABS-R14、Luodi-Yu、BougoureEtAl2025、LinEtAl2026、RaymakerEtAl2026），修正作者数 123→124、参考文献数 101→104、页面数 310→316，重排所有编号
 - 同步知识地图到 zh-hant（00-知識地圖.md）
 - 更新 AABS-R14.md：扩充"时间框架说明"为完整的"前言说明"节，加入 AASPIRE 认知访谈研究的核心发现（部分使用者不读说明则无法准确作答）、逐条 FAQ（"持续至少三个月"/"与常态比较"）、三个回答示例（Maria/Sam/Jamal）
+- 更新 AABS-R14.md：新增 14 题中文翻译对照表、补充"无反向计分"说明、添加 NeuroXYZ 在线测试链接、修正完成时间为"核心14题约4分钟，含前言约10分钟"、统一"概率"→"可能性"
 
 - 全量同步 zh-hant（OpenCC s2t 转换，316 页）以覆盖未提交的会话修改
 - 运行 llm-wiki sync 更新状态
@@ -892,3 +939,50 @@
 - updated `神经多样性范式` and `wiki-schema.md` — 移除泛化的“核心××”措辞，并记录标题应具体说明问题或论点的写作偏好
 - updated `神经多样性范式` — 以 Dwyer (2022) 和 Chapman & Fletcher-Watson (2026) 为主要理论线索，压缩 ND 2.0 与生物医学研究扩展
 - updated `神经多样性范式` — 参考 Müller-Kosmarov & Chapman (2026) 补充“范式/框架”争论、概念与规范层面，并明确与神经多样性哲学的页面边界
+## [2026-08-12] ingest | Shaw et al. (2025) When I say … neurodiversity paradigm
+- created `ShawEtAl2025` — 新作品页：《Medical Education》"When I say..."系列，神经多样性范式的本体论/认识论表述（不同而非缺陷、错置具体性谬误、考试失败后筛查政策）
+- updated `神经多样性范式` — 相关文献添加 Shaw et al. (2025)
+- updated `神经多样性教育` — 相关文献添加 Shaw et al. (2025)
+- updated `知识不正义` — 相关文献添加 Shaw et al. (2025)
+## [2026-08-12] maintenance | 知识地图与计数更新
+- updated `00-知识地图` — 参考文献节新增 [[ShawEtAl2025]]（第90条）并重排编号 1-105，节标题计数 104→105
+- ran `.llm-wiki/update-counts.py` — total 316→317, works 104→105（schema/阅读路线/知识地图页数自动更新）
+- fixed `wiki-purpose.md` — 08-参考文献计数 102→105、06-测试计数 25→27（脚本未覆盖）
+- updated 4 meta 页 `updated` 日期至 2026-08-12
+## [2026-08-12] maintenance | 全站一致性工程
+- created `.llm-wiki/audit-consistency.py` — 全站一致性审计（frontmatter 必需字段/导语/概览 callout/核心标题/行内数组/stub），阈值对齐 schema（概览 ≥6 节、stub <500 字符），Meta 页豁免
+- updated `wiki-schema.md` — 新增页面结构规范（导语段、Infobox 格式、概览 callout、小作品标记、Meta 页豁免）、块状 frontmatter 要求、禁写 `[!toc]`（部署端自动生成）、标题禁"核心××"泛化标签
+- updated `wiki/TEMPLATE.md` — 按新规范重写
+- 机械修复 294 页 — aliases/tags/sources 行内数组→块状列表；短页补 stub 标记；`updated` 统一 2026-08-12
+- removed `[!toc]`（约 150 页）— Obsidian 中显示空框且部署端会自动生成目录
+- created `.llm-wiki/add-works-infobox.py` — 从 citation_apa 推断生成，105 个作品页全部添加 infobox（幂等）
+- 8 个并行子代理 — 核心标题改写约 150 处；概览 callout 补齐约 150 页（≥6 节）；作者页 infobox 123 页；测试页 infobox 26 页；缺失 sources 按 sources/ 实际归档补齐
+- fixed 23 处 sources 断链 — 折行文件名合并、双空格/弯引号文件名匹配、papers/ 前缀、指向不存在的日期副本（Monique-Botha、Amy-Pearson、PearsonEtAl2026 等）
+- updated meta 页 — 00-知识地图/术语翻译对照表/阅读路线行内数组→块状；"核心术语"→"常用术语"等标题规范化
+- 遗留 12 页缺 sources（源文件尚未摄入）：述情障碍、8Sen、NSAC-30、相关测试、Amelie-Gourdon-Kanhukamwe、Fengjing-Liang、Joshua-May、GourdonKanhukamweEtAl2023、LaoEtAl2024、May2025、NatriEtAl2023、Srinivasan2025
+- ran `audit-consistency.py` — 规范偏差 255→12 页（仅缺 sources）；ran `update-counts.py` — total=317, authors=124, works=105, tests=26；ran `llm-wiki sync` — 312 变更
+- zh-hant 同步待 git 提交后执行（状态按 commit 追踪）
+## [2026-08-12] maintenance | 清理作品页冗余元信息行并补导语
+- updated 17 个作品页（Anderson2026/AndersonCushingEds2026/ArnoldEtAl2026/Botha2021/Botha2025/BothaEtAl2024/BothaHanlonWilliams2023/BougoureEtAl2025/BroderickNeeman2008/CarmelChapmanWright2026/CastenEtAl2023/Chapman2019/Chapman2021/Chapman2023/Chapman2025/Chapman2026/Chapman2026b）— 删除 H1 与首个 ## 之间被 infobox/引用行覆盖的粗体键值行；独有信息并入 infobox（收录于/中文版/中文科普/许可/方法/样本/性质/立场声明/备注/关键词/语言选择/社区参与）；17 页均补写含主语的导语段；引用行保持原样
+- ran `llm-wiki sync` — 失败：GreenEtAl2020/ZanevaEtAl2024 frontmatter 重复映射键（预存在问题，超出本任务范围，未改动）
+## [2026-08-12] maintenance | 作品页顶部元信息规范化
+- 清理 14 个作品页 H1 与首个 ## 之间的粗体键值行 — Sinclair1993、Singer2017、SonugaBarke2023、SonugaBarkeThapar2021、Srinivasan2025、StennerEtAl2025、StenningRosqvist2021、SzechyEtAl2024、UNICEF2026、Walker2014、Walker2021、Whittle2026、YiEtAl2022、ZanevaEtAl2024（ChenEtAl2025 不存在，跳过）
+- 引用行均保留不动；重复的"完整引用"行（SonugaBarkeThapar2021、StenningRosqvist2021、SzechyEtAl2024）删除
+- 14 页全部补齐导语段（与 frontmatter description 一致，位于引用行后）
+- infobox 新增字段：Sinclair1993（原始场合/原文/主要受众）、Srinivasan2025（发表/DOI/开放获取）、StennerEtAl2025（发表/DOI/许可）、UNICEF2026（类型/研究项目/国家）、Walker2014（发表/中文版）、Walker2021（类型/中译）、Whittle2026（收录于）、YiEtAl2022（DOI/方法）、ZanevaEtAl2024（来源/FORRT）；SonugaBarke2023/SonugaBarkeThapar2021/Singer2017/SzechyEtAl2024/UNICEF2026/Walker2014/Walker2021/YiEtAl2022/ZanevaEtAl2024 等页作者/类型字段并入机构与更精确类型信息
+## [2026-08-12] maintenance | 作品页顶部元信息规范化（第二批）
+- 清理 16 个作品页 H1 与首个 ## 之间的粗体键值行 — Frith2026、Garcia2026、GernsbacherYergeau2019、GibsonArnaud2026、GourdonKanhukamweEtAl2023、GreenEtAl2020、HakeHughes2026、HappeFrith2020、HeasmanGillespie2019、Hughes2021、JonesOrchard2024、Kapp2020、KappEtAl2012、KefallinouSymeonidouMeijer2020、KilgallonEtAl2026、KraemerKraemer2026（无跳过；16 页均有引用行且均保留不动）
+- 16 页全部补齐导语段（与 frontmatter description 一致，位于引用行后、首个 ## 前）
+- infobox 新增/并入字段：作者机构（Garcia/Gibson/Gernsbacher/Hake/Kraemer/Heasman/Hughes/Jones/Kefallinou/KappEtAl2012/Green/Gourdon）、收录于（Garcia/Gibson/Hake/Kraemer 章号）、采访者/发表/篇幅/学科/被引/原文/资助/作者数/中译/样本/关键词/发表时间（Frith2026、HeasmanGillespie2019、GourdonKanhukamweEtAl2023、GreenEtAl2020、GernsbacherYergeau2019、Kapp2020、KappEtAl2012、KefallinouSymeonidouMeijer2020）；类型字段并入更精确信息（Hughes2021/JonesOrchard2024/Kapp2020/KappEtAl2012）；删除重复的"完整引用"行（HappeFrith2020）与被引用行覆盖的发表/期刊/DOI/年份/类型行
+## [2026-08-12] maintenance | 作品页顶部元信息规范化（第三批）
+- 清理 16 个作品页 H1 与首个 ## 之间的粗体键值行 — Neeman2021、NeemanPellicano2022、NICE2021、NicolaidisEtAl2011、PellicanodenHouting2022、Raymaker2020、RaymakerEtAl2026、RetiefLetsosa2018、RosinaMcCready2026、RosqvistEtAl2020、RozenkrantzEtAl2021、RunswickCole2014、SarrEtAl2024、SchuckEtAl2022、ShawEtAl2025、Silberman2015（无跳过；引用行均保留不动；SchuckEtAl2022 无标准"引用："行，其 **引用** 粗体行即引用行，保留原样）
+- 16 页全部补齐导语段（与 frontmatter description 一致，位于引用行后、首个 ## 前）
+- infobox 新增/并入字段：机构（Neeman2021/NeemanPellicano2022/Nicolaidis/Retief/RosinaMcCready/Rozenkrantz/RunswickCole/Sarr/Shaw/Silberman/NICE）、首次发布/最近更新/页数/ISBN/适用范围（NICE）、发表（Raymaker2020/Retief）、方法/样本（Raymaker2020/RaymakerEtAl2026/Rozenkrantz/Sarr）、预印本（RaymakerEtAl2026）、许可（Retief/Schuck）、翻译（Silberman）、丛书（RosqvistEtAl2020）、收录于（RosinaMcCready2026）、PMID/资金/备注（Sarr）；类型字段并入更精确信息（NeemanPellicano2022/PellicanodenHouting2022）；RosinaMcCready2026 删除了孤立的分隔线
+## [2026-08-12] maintenance | 作品页顶部元信息规范化（第四批）
+- 清理 16 个作品页 H1 与首个 ## 之间的粗体键值行 — LaoEtAl2024、LaoEtAl2026、LaoZhu2024、Lawson2025、LinEtAl2026、LloydEvans2023、Mandy2025、MantzalasEtAl2024、MaskitFultner2026、Maxwell2026、May2025、Milton2012、Milton2022、MullerKosmarovChapman2026、NairEtAl2024、NatriEtAl2023（无跳过；引用行均保留不动，Lawson2025/LloydEvans2023 的 **引用** 粗体引用行原样保留）
+- 16 页全部补齐导语段（与 frontmatter description 一致，位于引用行后、首个 ## 前）
+- infobox 新增/并入字段：发表（LaoEtAl2024/LaoEtAl2026）、预注册（LaoEtAl2024）、备注（LaoEtAl2024 通讯作者/LaoZhu2024 通讯作者与邮箱/LinEtAl2026 收稿录用发表/MaskitFultner2026 Maskit 身份/MantzalasEtAl2024 项目背景）、类型（LaoEtAl2024/LaoEtAl2026/Lawson2025/LloydEvans2023 工具包、并入更精确信息：Milton2012 Current Issues 短论/Milton2022 编辑部文章/NairEtAl2024 Commentary/NatriEtAl2023 Letter/Commentary/MullerKosmarovChapman2026 百科全书条目）、机构（LaoZhu2024/Mantzalas/MaskitFultner/Maxwell/May/Milton2012/Milton2022/Nair）、系列/页数（Lawson2025/LloydEvans2023）、许可（LloydEvans2023）、DOI（LinEtAl2026/Mantzalas/May/Milton2012/Muller/Natri）、翻译（Mandy2025）、方法/样本/伦理（MantzalasEtAl2024）、收录于（MaskitFultner2026/Maxwell2026）、作者立场（NairEtAl2024）、出版日期/学科归属（MullerKosmarovChapman2026）、相关链接（LloydEvans2023）
+- 删除被引用行覆盖的发表/期刊/年份/原文行（LaoZhu2024/Mandy2025/Mantzalas/Natri 等）与被 infobox 覆盖的类型/作者行（Milton2012/Milton2022/MaskitFultner/Maxwell/Muller/Nair/Natri/LaoZhu）
+## [2026-08-19] maintenance | 明确跨仓库协作与专题摄入流程
+- updated `README.md`、`wiki/README.md`、`wiki-zh-hant/README.md` — 轻量页面贡献分别进入简体镜像或繁体审校仓库；批量页面、来源、结构和高风险内容从 `ndwiki-cn` 主仓库完成摄入、审计、索引与多语言同步
+- updated `COLLABORATING.md`、`wiki/COLLABORATING.md`、`wiki-zh-hant/COLLABORATING.md` — 增加仓库选择、专题级摄入判定、镜像 PR 迁移步骤和繁体原创内容入口；同步修正 frontmatter 来源要求及与新分工冲突的旧说明

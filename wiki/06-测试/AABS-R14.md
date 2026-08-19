@@ -1,21 +1,44 @@
 ---
 title: AABS-R14
 description: AASPIRE 孤独谱系耗竭量表修订版（AABS-R14, AASPIRE Autistic Burnout Scale – Revised）是一份经 CBPR 方法开发的标准化工具，用于识别和测量慢性孤独谱系耗竭，含 14 道症状题及附加项目，经 AASPIRE 授权在本站发布
-aliases: [AABS-R14, 孤独谱系耗竭量表修订版, AASPIRE Autistic Burnout Scale – Revised, Autistic Burnout Scale, AASPIRE 耗竭量表]
-tags: [test, burnout, autism, neurodiversity, AASPIRE]
+aliases:
+  - AABS-R14
+  - 孤独谱系耗竭量表修订版
+  - AASPIRE Autistic Burnout Scale – Revised
+  - Autistic Burnout Scale
+  - AASPIRE 耗竭量表
+tags:
+  - test
+  - burnout
+  - autism
+  - neurodiversity
+  - AASPIRE
+sources:
+  - Nicolaidis et al. 2025
+  - Raymaker et al. 2026
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-08-12
 ---
 
 # AASPIRE 孤独谱系耗竭量表修订版 (AABS-R14)
 
-**AABS-R14**（AASPIRE Autistic Burnout Scale – Revised，14 项）是由 AASPIRE 成果项目团队采用社区参与式研究（CBPR）方法开发的标准化量表，用于识别和测量慢性[[孤独谱系耗竭]]。该量表有直接报告版本（自评）和照护者报告版本（他评）两种形式，适用于伴有或不伴有智力残障的孤独谱系成年人，也可用于其他需要认知无障碍调查工具的人群。
+> [!infobox] AASPIRE 孤独谱系耗竭量表修订版 (AABS-R14)
+> **测量对象**：慢性孤独谱系耗竭
+> **题数**：14 道症状题（另有附加项目不计入总分）
+> **适用年龄**：孤独谱系成年人（伴或不伴智力障碍）
+> **开发者**：AASPIRE 成果项目团队（CBPR 方法）
 
-> **版权声明**：AASPIRE 孤独谱系耗竭量表修订版可在非商业、临床和研究场合免费使用，使用时需注明出处。修改、改编或盈利性使用需经 AASPIRE 授权。许可咨询请联系 Christina Nicolaidis 和 AASPIRE：info@aaspire.org。本站已取得 AASPIRE 授权发布完整量表内容。
+**AABS-R14**（AASPIRE Autistic Burnout Scale – Revised，14 项）是由 [[AASPIRE]] 成果项目团队采用社区参与式研究（CBPR）方法开发的标准化量表，用于识别和测量慢性[[孤独谱系耗竭]]。该量表有直接报告版本（自评）和照护者报告版本（他评）两种形式，适用于伴有或不伴有智力障碍的孤独谱系成年人，也可用于其他需要认知无障碍调查工具的人群。
+
+> **本站测试**：[AABS-R14 中文免费测试](https://neuroxyz.cn/tests/aabsr14.html)
+> 
+> **版权声明**：[AASPIRE](https://aaspire.org/) 孤独谱系耗竭量表修订版可在非商业、临床和研究场合免费使用，使用时需注明出处。修改、改编或盈利性使用需经 AASPIRE 授权。许可咨询请联系 [[Christina-Nicolaidis]] 和 AASPIRE：info@aaspire.org。本站已取得 AASPIRE 授权翻译和发布完整量表内容。
+> 
+>  **中文版提示**：页面中文由XyZ依据2025年AASPIRE文件翻译，尚未经过独立信效度验证。本站不保存您的数据，因此未纳入不计分的研究附加题，若您愿意参加研究，请访问微信小程序“NeuroXYZ”。
 
 ## 开发背景
 
-AASPIRE 孤独谱系耗竭项目团队于 2019 年创建了原始版孤独谱系耗竭量表，条目基于关于孤独谱系耗竭的定性研究结果（[[Raymaker2020|Raymaker et al., 2020]]）。原始版共 27 题，条目围绕定性研究中识别的六类特征构建（[[RaymakerEtAl2026|Raymaker et al., 2026]]）：
+[[AASPIRE]] 孤独谱系耗竭项目团队于 2019 年创建了原始版孤独谱系耗竭量表，条目基于关于孤独谱系耗竭的定性研究结果（[[Raymaker2020|Raymaker et al., 2020]]）。原始版共 27 题，条目围绕定性研究中识别的六类特征构建（[[RaymakerEtAl2026|Raymaker et al., 2026]]）：
 
 | 特征类别 | 涵盖内容 |
 |----------|----------|
@@ -42,7 +65,7 @@ AASPIRE Measurement Toolkit 中的每个工具均有自评和照护者报告版�
 - **14 道症状严重程度题**，每题采用 5 点李克特量表
 - **附加项目**（初始发生 2 题、自我反思 3 题、感知变化 1 题、参与支持 1 题）不计入总分
 - **直接报告版本**（自评）和**照护者报告版本**（他评）两种形式
-- 约 10 分钟完成
+- 核心 14 题约 4 分钟，含前言及附加项目约 10 分钟
 
 ### 症状严重程度量表
 
@@ -58,28 +81,30 @@ AASPIRE Measurement Toolkit 中的每个工具均有自评和照护者报告版�
 | 1 | 不同意 (Disagree) |
 | 0 | 非常不同意 (Strongly Disagree) |
 
-### 原文条目（Symptom Severity Items 1–14）
+### 条目（Symptom Severity Items 1–14）
 
-| # | Item |
-|---|------|
-| 1 | For at least the past three months, I've been having more trouble thinking than I usually do. For example, more trouble understanding things, making decisions, or solving problems. |
-| 2 | For at least the past three months, I've been having more trouble than usual controlling my emotions. For example, I have been moodier or more irritable than usual. |
-| 3 | For at least the past three months, I've been having more problems than usual with sensory sensitivities. For example, more trouble with sounds, lights, textures, colors, or smells. Trouble could be feeling bothered, not being able to ignore, or getting easily overstimulated. |
-| 4 | For at least the past three months, I've been having more extreme reactions to stress than I usually do. For example, more meltdowns or shutdowns. |
-| 5 | For at least the past three months, I've been having a harder time than usual controlling my actions. For example, talking out of turn, screaming, pulling my hair, or throwing things more often. |
-| 6 | For at least the past three months, I've been having a harder time than usual getting along with people. |
-| 7 | For at least the past three months, I've been having a harder time than usual communicating. For example, more trouble finding the right words, speaking to people, or getting my point across. |
-| 8 | For at least the past three months, I've been having a harder time than usual taking care of myself. For example, more trouble eating, showering, cleaning, or shopping. |
-| 9 | For at least the past three months, I've been having a harder time than usual handling work, school, volunteering, or other regular activities. |
-| 10 | For at least the past three months, I've been having a harder time than usual completing tasks. For example, more trouble getting started, figuring out the right steps, or doing the steps. |
-| 11 | For at least the past three months, I have wanted to stay away from other people more often than I usually do. For example, by avoiding social situations or staying home alone more than usual. |
-| 12 | For at least the past three months, I've been avoiding activities that require effort, even if I like them, more often than I usually do. |
-| 13 | For at least the past three months, I've been having a harder time than usual remembering things. |
-| 14 | For at least the past three months, I've felt more exhausted than I usually do. For example, feeling extremely tired. |
+| # | 英文原文 | 中文翻译 |
+|---|----------|----------|
+| 1 | For at least the past three months, I've been having more trouble thinking than I usually do. For example, more trouble understanding things, making decisions, or solving problems. | 在过去至少三个月里，我在思考方面比平时遇到了更多困难。例如，更难理解事物、作出决定或解决问题。 |
+| 2 | For at least the past three months, I've been having more trouble than usual controlling my emotions. For example, I have been moodier or more irritable than usual. | 在过去至少三个月里，我比平时更难控制自己的情绪。例如，我比平常更容易情绪波动或烦躁。 |
+| 3 | For at least the past three months, I've been having more problems than usual with sensory sensitivities. For example, more trouble with sounds, lights, textures, colors, or smells. Trouble could be feeling bothered, not being able to ignore, or getting easily overstimulated. | 在过去至少三个月里，我的感官敏感性问题比平时更多。例如，更容易受声音、灯光、质地、颜色或气味困扰。困扰的方式可能是感觉很烦，无法忽视刺激，或更容易感官过载。 |
+| 4 | For at least the past three months, I've been having more extreme reactions to stress than I usually do. For example, more meltdowns or shutdowns. | 在过去至少三个月里，我对压力的极端反应比平时更多。例如，更容易崩溃（meltdowns）或"宕机"（进入停摆状态，shutdowns）。 |
+| 5 | For at least the past three months, I've been having a harder time than usual controlling my actions. For example, talking out of turn, screaming, pulling my hair, or throwing things more often. | 在过去至少三个月里，我比平时更难控制自己的行为。例如，更容易在不恰当的时候说话、尖叫、扯自己的头发或扔东西。 |
+| 6 | For at least the past three months, I've been having a harder time than usual getting along with people. | 在过去至少三个月里，我比平时更难与人相处。 |
+| 7 | For at least the past three months, I've been having a harder time than usual communicating. For example, more trouble finding the right words, speaking to people, or getting my point across. | 在过去至少三个月里，我比平时更难沟通。例如，更难找到合适的词、与人交谈或把观点表达清楚。 |
+| 8 | For at least the past three months, I've been having a harder time than usual taking care of myself. For example, more trouble eating, showering, cleaning, or shopping. | 在过去至少三个月里，我比平时更难照顾自己。例如，更难进食、洗澡、打扫或购物。 |
+| 9 | For at least the past three months, I've been having a harder time than usual handling work, school, volunteering, or other regular activities. | 在过去至少三个月里，我比平时更难应对工作、学校、志愿活动或其他日常活动。 |
+| 10 | For at least the past three months, I've been having a harder time than usual completing tasks. For example, more trouble getting started, figuring out the right steps, or doing the steps. | 在过去至少三个月里，我比平时更难完成任务。例如，更难开始行动、理清正确步骤或执行这些步骤。 |
+| 11 | For at least the past three months, I have wanted to stay away from other people more often than I usually do. For example, by avoiding social situations or staying home alone more than usual. | 在过去至少三个月里，我比平时更常想要远离他人。例如，更经常回避社交场合，或更多地独自待在家里。 |
+| 12 | For at least the past three months, I've been avoiding activities that require effort, even if I like them, more often than I usually do. | 在过去至少三个月里，我比平时更常回避需要付出努力的活动，即使我喜欢这些活动。 |
+| 13 | For at least the past three months, I've been having a harder time than usual remembering things. | 在过去至少三个月里，我比平时更难记住事情。 |
+| 14 | For at least the past three months, I've felt more exhausted than I usually do. For example, feeling extremely tired. | 在过去至少三个月里，我感到比平时更加疲惫。例如，感觉极度疲倦。 |
+
+> 照护者报告版本的条目以第三人称（"我认为对方……"）重新措辞，结构相同。
 
 ### 前言说明（量表填写前的必要说明）
 
-AASPIRE 强调，量表主体问题之前的说明信息**对准确作答至关重要**。其认知访谈研究发现，**部分使用者在不阅读以下说明的情况下无法准确作答**。量表的使用者应逐条阅读以下说明，再进入症状题目的作答。
+AASPIRE 强调，量表主体问题之前的说明信息**对准确作答至关重要**。其认知访谈研究发现，**部分使用者在不阅读以下说明的情况下无法准确作答**。量表的使用者应逐条阅读以下说明，再进入题目的作答。
 
 #### "持续至少三个月"是什么意思？
 
@@ -106,18 +131,18 @@ AASPIRE 强调，量表主体问题之前的说明信息**对准确作答至关�
    - 响亮的声音一直困扰着 Maria，但过去通常能够应对
    - 现在情况糟糕多了，几乎任何声音都让她感到非常痛苦
    - 她不记得更难忍受声音具体是从什么时候开始的，但认为从大约一年前找到那份有压力的新工作开始，情况一直在逐渐恶化
-   - 对于"感官敏感性比平时更多"的题目，Maria 应选**"非常同意"**
+   - 对于"感官敏感性比平时更多"的题目，Maria 应选“**非常同意**”
 
 2. **Sam — 情绪控制**
    - Sam 一直很难控制自己的情绪
    - Sam 控制情绪的能力没有任何变化
-   - 对于"比平时更难控制情绪"的题目，Sam 应选**"非常不同意"**，因为困扰程度没有变化
+   - 对于"比平时更难控制情绪"的题目，Sam 应选**非常不同意**”，因为困扰程度没有变化
 
 3. **Jamal — 注意力**
    - Jamal 平时在集中注意力方面有些困扰
    - Jamal 刚刚收到了一些坏消息，他今天集中注意力比平时困难得多
    - 在收到坏消息之前，Jamal 集中注意力的情况和平时差不多
-   - 对于"比平时更难集中注意力"的题目，Jamal 应选**"非常不同意"**，因为这种变化还没有持续至少三个月
+   - 对于"比平时更难集中注意力"的题目，Jamal 应选“**非常不同意**”，因为这种变化还没有持续至少三个月
 
 ### 附加项目
 
@@ -143,17 +168,17 @@ AASPIRE 强调，量表主体问题之前的说明信息**对准确作答至关�
 
 ### 症状严重程度
 
-每道症状题（题 1–14）采用 5 点李克特量表，从 0（非常不同意）到 4（非常同意）。**总分为题 1–14 之和**，范围 0–56 分，分数越高表示耗竭越严重。附加项目（题 15–19 及感知变化、参与支持）不计入总分。
+每道症状题（题 1–14）采用 5 点李克特量表，从 0（非常不同意）到 4（非常同意），无反向计分。**总分为题 1–14 之和**，范围 0–56 分，分数越高表示耗竭越严重。附加项目（题 15–19 及感知变化、参与支持）不计入总分。
 
 ### 截断值（暂定）
 
 以下截断值用于判断临床显著性孤独谱系耗竭，应始终结合临床判断使用：
 
-| 总分范围 | 临床显著性概率 |
+| 总分范围 | 临床显著性可能性 |
 |----------|--------------|
-| 0–22 | 低概率 |
-| 23–32 | 中等概率 |
-| 33–56 | 高概率 |
+| 0–22 | 低可能性 |
+| 23–32 | 中等可能性 |
+| 33–56 | 高可能性 |
 
 ### 维度
 
@@ -183,7 +208,7 @@ AASPIRE 强调，量表主体问题之前的说明信息**对准确作答至关�
 ### 使用条件
 
 AASPIRE 孤独谱系耗竭量表修订版可用于非商业、临床和研究场合，使用时需注明出处。进行工具改编、修改及盈利性使用需获得许可。
-如需许可咨询，请联系 Christina Nicolaidis 和 AASPIRE：info@aaspire.org。
+如需许可咨询，请联系 Dr. Nicolaidis 和 AASPIRE：info@aaspire.org。
 
 ## 照护者报告版本
 
@@ -237,7 +262,8 @@ AASPIRE 孤独谱系耗竭量表修订版可用于非商业、临床和研究场
 - [[AASPIRE]] — 开发机构与成果项目
 
 ### 相关工具
-- [韦师ND耗竭筛查问卷与工具包](https://neuroxyz.cn/tests/ndburnout.html)（韦亦然, 2025）
+- [AABS-R14 中文在线测试](https://neuroxyz.cn/tests/aabsr14.html) — NeuroXYZ 本站，提供本人与照护者两个版本
+- [韦师ND耗竭筛查问卷与工具包](https://neuroxyz.cn/tests/ndburnout.html)（[韦亦然, 2025](https://mp.weixin.qq.com/s/3CjflttsQOmg34Qa_VQNaA)）
 
 ### 相关文献
 

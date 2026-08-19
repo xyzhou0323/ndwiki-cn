@@ -54,9 +54,13 @@ Process new source material into the wiki.
    ---
    title: Page Title
    description: One-line summary
-   aliases: [alternate names, abbreviations, translations]
-   tags: [domain-specific tags from wiki-schema.md]
-   sources: [YYYY-MM-DD/source-filename.md]
+   aliases:  # block style only — never inline [a, b]
+     - alternate names, abbreviations
+     - translations
+   tags:
+     - domain-specific tags from wiki-schema.md
+   sources:
+     - YYYY-MM-DD/source-filename.md
    status: open | resolved | wontfix  # required for issue/bug pages
    created: YYYY-MM-DD
    updated: YYYY-MM-DD

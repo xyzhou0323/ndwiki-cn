@@ -33,6 +33,8 @@ _S2T_FIXES = [
     ("髮起", "發起"),
     ("髮展", "發展"),
     ("髮生", "發生"),
+    ("髮表", "發表"),  # 发表 (publish), not 发髮
+    ("髮音", "發音"),  # 发音 (pronounce), not 发髮
     ("揮髮", "揮發"),  # 挥发 (volatile/evaporate), not 挥髮
     ("開髮", "開發"),  # 开发 (develop), not 开髮
     ("遲髮型", "遲發型"),  # 迟发型 (late-onset, medical)
